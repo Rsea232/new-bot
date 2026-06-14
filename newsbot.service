@@ -1,0 +1,23 @@
+[Unit]
+Description=WhatsApp News-Bot
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+# Pfad und Benutzer anpassen:
+WorkingDirectory=/home/ubuntu/news-bot
+ExecStart=/usr/bin/python3 /home/ubuntu/news-bot/news_bot.py --daemon
+Restart=always
+RestartSec=10
+
+# Zugangsdaten hier eintragen (oder per EnvironmentFile=/home/ubuntu/news-bot/.env):
+Environment=BOT_TZ=Europe/Berlin
+Environment=TELEGRAM_BOT_TOKEN=123456:ABC-DEF...
+Environment=TELEGRAM_CHAT_ID=123456789
+# Optional:
+# Environment=USE_LLM_SUMMARY=1
+# Environment=ANTHROPIC_API_KEY=sk-ant-...
+
+[Install]
+WantedBy=multi-user.target

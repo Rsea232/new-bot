@@ -1,0 +1,47 @@
+name: news-bot
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"      # alle 5 Min (UTC). Das Skript prüft die Berliner Uhrzeit selbst.
+  workflow_dispatch: {}         # erlaubt manuelles Starten im Actions-Tab
+
+permissions:
+  contents: write               # nötig, um state.json zurückzuspeichern
+
+concurrency:                    # nie zwei Läufe gleichzeitig
+  group: news-bot
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    env:
+      BOT_TZ: Europe/Berlin
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      # Optionale KI-Zusammenfassung: USE_LLM_SUMMARY als Repository-Variable auf "1" setzen
+      USE_LLM_SUMMARY: ${{ vars.USE_LLM_SUMMARY }}
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Abhängigkeiten installieren
+        run: pip install -r requirements.txt
+
+      - name: Bot ausführen
+        run: python news_bot.py --check
+
+      - name: Zustand zurückspeichern
+        run: |
+          if [[ -n "$(git status --porcelain state.json)" ]]; then
+            git config user.name  "news-bot"
+            git config user.email "actions@users.noreply.github.com"
+            git pull --rebase --autostash
+            git add state.json
+            git commit -m "state update [skip ci]"
+            git push
+          fi
