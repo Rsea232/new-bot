@@ -223,7 +223,7 @@ def fetch_items():
                 "id":      entry_id(e),
                 "title":   title,
                 "ntitle":  norm_title(title),
-                "summary": clean(e.get("summary", ""))[:220],
+                "summary": clean(e.get("summary", ""))[:400],
                 "link":    e.get("link", ""),
             })
             count += 1
@@ -273,6 +273,24 @@ def in_quiet_hours(now=None):
 # ----------------------------------------------------------------------------
 # Nachricht zusammenbauen
 # ----------------------------------------------------------------------------
+def use_html():
+    """Telegram -> hübsches HTML-Format; sonst einfacher Text."""
+    return bool(TELEGRAM_BOT_TOKEN and TELEGRAM_CHAT_ID)
+
+
+def esc(s):
+    """Für HTML-Versand: nur die drei Sonderzeichen maskieren."""
+    return s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+
+
+def short_summary(text, limit=300):
+    """Kurzbeschreibung sauber am Wortende kürzen."""
+    text = (text or "").strip()
+    if len(text) <= limit:
+        return text
+    return text[:limit].rsplit(" ", 1)[0].rstrip(" ,.;:") + "…"
+
+
 def header_line(title):
     return f"{title} ({dt.datetime.now():%d.%m.%Y})"
 
@@ -280,14 +298,32 @@ def header_line(title):
 def build_list(items, title, show_links=True, max_items=None):
     if max_items:
         items = items[:max_items]
-    lines = [header_line(title), ""]
     by_source = {}
     for it in items:
         by_source.setdefault(it["source"], []).append(it)
+
+    if use_html():
+        parts = [f"<b>{esc(header_line(title))}</b>"]
+        for source, group in by_source.items():
+            parts.append(f"\n<b>━━ {esc(source)} ━━</b>")
+            for it in group:
+                parts.append(f"\n<b>{esc(it['title'])}</b>")
+                summ = short_summary(it.get("summary", ""))
+                if summ:
+                    parts.append(esc(summ))
+                if show_links and it.get("link"):
+                    parts.append(f'<a href="{esc(it["link"])}">→ Weiterlesen</a>')
+        return "\n".join(parts).strip()
+
+    # einfacher Text (Fallback, z. B. CallMeBot)
+    lines = [header_line(title), ""]
     for source, group in by_source.items():
         lines.append(f"*{source}*")
         for it in group:
             lines.append(f"• {it['title']}")
+            summ = short_summary(it.get("summary", ""))
+            if summ:
+                lines.append(f"  {summ}")
             if show_links and it.get("link"):
                 lines.append(f"  {it['link']}")
         lines.append("")
@@ -337,6 +373,8 @@ def llm_summary(items, kind):
 def compose(items, title, kind, show_links):
     body = llm_summary(items, kind)
     if body:
+        if use_html():
+            return f"<b>{esc(header_line(title))}</b>\n\n{esc(body)}"
         return f"{header_line(title)}\n\n{body}"
     return build_list(items, title, show_links=show_links, max_items=RECAP_LIST_MAX)
 
@@ -357,16 +395,25 @@ def chunk_text(text, limit):
 
 
 def _send_telegram_one(text):
-    # Klartext ohne Markdown -> keine Parser-Fehler bei Sonderzeichen in Titeln.
-    # Die *Fett*-Sternchen aus dem Aufbau entfernen wir für die Anzeige.
-    text = text.replace("*", "")
-    r = requests.post(
-        f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage",
-        json={"chat_id": TELEGRAM_CHAT_ID, "text": text, "disable_web_page_preview": True},
-        timeout=30,
-    )
+    url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
+    payload = {"chat_id": TELEGRAM_CHAT_ID, "text": text, "disable_web_page_preview": True}
+    if use_html():
+        payload["parse_mode"] = "HTML"
+    r = requests.post(url, json=payload, timeout=30)
     if r.status_code == 200:
         return True
+    # Falls die HTML-Formatierung mal stört: ohne Formatierung erneut senden,
+    # damit die Nachricht trotzdem ankommt.
+    if use_html() and r.status_code == 400:
+        plain = html.unescape(re.sub(r"<[^>]+>", "", text))
+        r2 = requests.post(
+            url,
+            json={"chat_id": TELEGRAM_CHAT_ID, "text": plain, "disable_web_page_preview": True},
+            timeout=30,
+        )
+        if r2.status_code == 200:
+            return True
+        r = r2
     log(f"Telegram-Versand fehlgeschlagen: HTTP {r.status_code} – {r.text[:200]}")
     return False
 
@@ -427,11 +474,19 @@ def task_breaking(state):
     new = new[:MAX_BREAKING_PER_RUN]
     ok = True
     for it in new:
-        msg = f"🚨 *EILMELDUNG* · {it['source']}\n\n{it['title']}"
-        if it.get("summary"):
-            msg += f"\n\n{it['summary']}"
-        if INCLUDE_LINKS and it.get("link"):
-            msg += f"\n{it['link']}"
+        summ = short_summary(it.get("summary", ""))
+        if use_html():
+            msg = f"🚨 <b>EILMELDUNG</b> · {esc(it['source'])}\n\n<b>{esc(it['title'])}</b>"
+            if summ:
+                msg += f"\n{esc(summ)}"
+            if INCLUDE_LINKS and it.get("link"):
+                msg += f'\n<a href="{esc(it["link"])}">→ Weiterlesen</a>'
+        else:
+            msg = f"🚨 *EILMELDUNG* · {it['source']}\n\n{it['title']}"
+            if summ:
+                msg += f"\n\n{summ}"
+            if INCLUDE_LINKS and it.get("link"):
+                msg += f"\n{it['link']}"
         if send_message(msg):
             add_to_history(state, it)
             seen.add(it["id"])
