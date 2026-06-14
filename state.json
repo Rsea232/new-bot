@@ -293,6 +293,8 @@
   "last_run": {
     "digest_morning": "2026-06-14",
     "digest_noon": "2026-06-14",
-    "digest_evening": "2026-06-14"
+    "digest_evening": "2026-06-14",
+    "daily": "2026-06-14",
+    "weekly": "2026-W24"
   }
 }
