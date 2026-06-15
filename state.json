@@ -287,13 +287,157 @@
       "summary": "US president has said he expects Washington and Tehran to seal a deal to reopen the Strait of Hormuz on Sunday",
       "source": "Financial Times",
       "ts": "2026-06-14T20:52:39"
+    },
+    {
+      "id": "a22eccaf-0971-4ac5-bd01-1dd713462bb0",
+      "ntitle": "bericht der bundesregierung die bildungsschere öffnet sich schon vor der schule",
+      "title": "Bericht der Bundesregierung: Die Bildungsschere öffnet sich schon vor der Schule",
+      "summary": "Die Bildungschancen sind in Deutschland sehr ungleich verteilt. Doch meist entsteht das Problem schon vor der Schule. Lösungen gibt es, doch knappe Kassen und der Föderalismus erschweren diese. Von P. Kuntschner und S. Beham.",
+      "source": "Tagesschau",
+      "ts": "2026-06-15T20:01:48"
+    },
+    {
+      "id": "2fd2a1fd-dad9-48d7-84f8-deb95d1d40f1",
+      "ntitle": "wie der lehrermangel schulen in brandenburg zusetzt",
+      "title": "Wie der Lehrermangel Schulen in Brandenburg zusetzt",
+      "summary": "Brandenburgs Bildungsminister schlägt Alarm: Zu viele Lehrer fehlen. Einige Fächer können nach den Sommerferien möglicherweise nicht mehr unterrichtet werden. Könnte das Folgen für die bundesweite Anerkennung von Abschlüssen haben? Von M. Reher.",
+      "source": "Tagesschau",
+      "ts": "2026-06-15T20:01:48"
+    },
+    {
+      "id": "002f56c6-312b-46e7-9387-1bce03e7e859",
+      "ntitle": "livestream die nachrichten bei tagesschau24",
+      "title": "Livestream: Die Nachrichten bei tagesschau24",
+      "summary": "Aktuelle Meldungen, vertiefende Analysen und Interviews: Verfolgen Sie das Programm des ARD-Nachrichtenkanals tagesschau24 hier.",
+      "source": "Tagesschau",
+      "ts": "2026-06-15T20:01:48"
+    },
+    {
+      "id": "7376bdb9-dca6-459b-afe1-93d16053056a",
+      "ntitle": "kerstin klein ard washington zur einigung zwischen usa und iran",
+      "title": "Kerstin Klein, ARD Washington, zur Einigung zwischen USA und Iran",
+      "summary": "Kerstin Klein, ARD Washington, zur Einigung auf Abkommen zwischen USA und Iran",
+      "source": "Tagesschau",
+      "ts": "2026-06-15T20:01:48"
+    },
+    {
+      "id": "823868d6-16a3-45a3-b4f2-8c5eedff1b00",
+      "ntitle": "michael strempel ard paris zzt publier mit details zum g7gipfel in vian",
+      "title": "Michael Strempel, ARD Paris zzt. Publier, mit Details zum G7-Gipfel in Évian",
+      "summary": "Michael Strempel, ARD Paris zzt. Publier, mit Details zum G7-Gipfel in Evian",
+      "source": "Tagesschau",
+      "ts": "2026-06-15T20:01:48"
+    },
+    {
+      "id": "d5a425ef-f2a0-45b6-9824-5fb209d9db3c",
+      "ntitle": "großbritannien kündigt socialmediaverbot für unter 16jährige an",
+      "title": "Großbritannien kündigt Social-Media-Verbot für unter 16-Jährige an",
+      "summary": "Großbritannien kündigt Social-Media-Verbot für unter 16-Jährige an",
+      "source": "Tagesschau",
+      "ts": "2026-06-15T20:01:48"
+    },
+    {
+      "id": "2d1a9fea-d396-4074-acf7-95769050f65a",
+      "ntitle": "eu eröffnet in luxemburg beitrittsverhandlungen mit der ukraine und moldau",
+      "title": "EU eröffnet in Luxemburg Beitrittsverhandlungen mit der Ukraine und Moldau",
+      "summary": "EU eröffnet in Luxemburg Beitrittsverhandlungen mit der Ukraine und Moldau",
+      "source": "Tagesschau",
+      "ts": "2026-06-15T20:01:48"
+    },
+    {
+      "id": "76568919-2545-43e6-b144-92e239f0e838",
+      "ntitle": "josefine lühe leibnizinstitut für bildungsforschung zum nationalen bildungsbericht",
+      "title": "Josefine Lühe, Leibniz-Institut für Bildungsforschung, zum nationalen Bildungsbericht",
+      "summary": "Josefine Lühe, Leibniz-Institut für Bildungsforschung, zum nationalen Bildungsbericht",
+      "source": "Tagesschau",
+      "ts": "2026-06-15T20:01:48"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Es-geht-darum-einen-Keil-in-die-besetzten-Gebiete-zu-treiben-id30968681.html",
+      "ntitle": "reisners blick auf die front es geht darum einen keil in die besetzten gebiete zu treiben",
+      "title": "Reisners Blick auf die Front: \"Es geht darum, einen Keil in die besetzten Gebiete zu treiben\"",
+      "summary": "Erneut wird Kiew massiv aus der Luft angegriffen. Oberst Reisner erklärt das auch mit Russlands ungebrochenen Produktionssteigerungen. Dennoch gerate Putins Armee gerade unter Druck.",
+      "source": "ntv",
+      "ts": "2026-06-15T20:01:48"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Russischer-Bomber-stuerzt-bei-Routineflug-ueber-Sibirien-ab-id30969943.html",
+      "ntitle": "rettung per schleudersitz russischer bomber stürzt bei routineflug über sibirien ab",
+      "title": "Rettung per Schleudersitz: Russischer Bomber stürzt bei Routineflug über Sibirien ab",
+      "summary": "Die Tupolew Tu-22M3 kann Raketen mit Atomsprengköpfen abfeuern. Im Krieg gegen die Ukraine setzt Russland Flugzeuge dieser Art für Angriffe mit Marschflugkörpern ein. Einer der seltenen Bomber ist nun abgestürzt - der Verlust dürfte schwer wiegen.",
+      "source": "ntv",
+      "ts": "2026-06-15T20:01:48"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Es-ist-Zeit-fuer-die-Muetterrenten-Notbremse-id30969298.html",
+      "ntitle": "aus der zeit gefallen es ist zeit für die mütterrentennotbremse",
+      "title": "Aus der Zeit gefallen: Es ist Zeit für die Mütterrenten-Notbremse",
+      "summary": "In den vergangenen Tagen zeigt sich: Auch in der Union, selbst in der CSU, hat die nochmalige Ausweitung der Mütterrente nicht nur glühende Anhänger. Die Kritik ist berechtigt. Es wäre an der Zeit, die Notbremse zu ziehen.",
+      "source": "ntv",
+      "ts": "2026-06-15T20:01:48"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Trump-hat-weniger-als-nichts-erreicht-id30969050.html",
+      "ntitle": "frieden ist längst nicht sicher trump hat weniger als nichts erreicht",
+      "title": "Frieden ist längst nicht sicher: Trump hat weniger als nichts erreicht",
+      "summary": "In knapp vier Monaten Krieg sind die USA Trumps Zielen im Konflikt mit dem Iran nicht einen Meter nähergekommen. Die nächsten 60 Tage werden es in sich haben. Sie könnten ein Ergebnis bringen, das schlechter ist als die Lage vor dem Krieg.",
+      "source": "ntv",
+      "ts": "2026-06-15T20:01:48"
+    },
+    {
+      "id": "https://www.n-tv.de/wirtschaft/Wie-schnell-normalisiert-sich-die-Lage-in-der-Strasse-von-Hormus-id30969238.html",
+      "ntitle": "erste schiffe verlassen meerenge wie schnell normalisiert sich die lage in der straße von hormus",
+      "title": "Erste Schiffe verlassen Meerenge: Wie schnell normalisiert sich die Lage in der Straße von Hormus?",
+      "summary": "Hunderte Schiffe stecken noch in der Golfregion fest. Auch wenn die Straße von Hormus durch die Vereinbarung im Iran-Krieg geöffnet wird: Bis der Verkehr wieder normal läuft, könnten Monate vergehen.",
+      "source": "ntv",
+      "ts": "2026-06-15T20:01:48"
+    },
+    {
+      "id": "https://www.n-tv.de/wirtschaft/Arbeitsmarkt-steuert-auf-Millionen-Luecke-zu-id30969055.html",
+      "ntitle": "wenn babyboomer in rente gehen arbeitsmarkt steuert auf millionenlücke zu",
+      "title": "Wenn Babyboomer in Rente gehen: Arbeitsmarkt steuert auf Millionen-Lücke zu",
+      "summary": "Der Renteneintritt der Babyboomer verschärft den Druck auf den Arbeitsmarkt deutlich. Laut IW fehlen bis 2036 rund 4,3 Millionen Arbeitskräfte. Die Lücke wächst damit schneller als bisher erwartet. Gründe sind der demografische Wandel und sinkende Zuwanderung.",
+      "source": "ntv",
+      "ts": "2026-06-15T20:01:48"
+    },
+    {
+      "id": "https://www.n-tv.de/wirtschaft/SpaceX-verdient-mit-IPO-deutlich-mehr-als-erwartet-id30969850.html",
+      "ntitle": "86 statt 75 milliarden dollar spacex verdient mit ipo deutlich mehr als erwartet",
+      "title": "86 statt 75 Milliarden Dollar: SpaceX verdient mit IPO deutlich mehr als erwartet",
+      "summary": "Der US-Raumfahrtkonzern SpaceX stellt mit seinem Börsengang alle bisherigen in den Schatten. Das Unternehmen von Elon Musk nimmt rund 86 Milliarden Dollar ein und übertrifft damit die Erwartungen deutlich. Der erfolgreiche Start treibt auch den Tech-Boss in neue finanzielle Höhen.",
+      "source": "ntv",
+      "ts": "2026-06-15T20:01:48"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Chinas-Handelspolitik-kostet-Deutschland-Hunderttausende-Arbeitsplaetze-id30969623.html",
+      "ntitle": "kursänderung gegenüber peking chinas handelspolitik kostet deutschland hunderttausende arbeitsplätze",
+      "title": "Kursänderung gegenüber Peking?: Chinas Handelspolitik kostet Deutschland Hunderttausende Arbeitsplätze",
+      "summary": "In Deutschland wächst die Furcht vor einer Deindustrialisierung, jedes Jahr gehen Zehntausende Arbeitsplätze verloren. Neue Zahlen zeigen, in welchem Umfang einer der wichtigsten Handelspartner dafür verantwortlich ist. Einem Bericht zufolge erwägt Berlin nun schärfere Gegenmaßnahmen.",
+      "source": "ntv",
+      "ts": "2026-06-15T20:01:48"
+    },
+    {
+      "id": "6a3033bf6bb5c7fe2e1c82e1",
+      "ntitle": "dieses eine gegentor darf man jetzt nicht so hoch hängen",
+      "title": "„Dieses eine Gegentor darf man jetzt nicht so hoch hängen“",
+      "summary": "WELT-WM-Expertin Valentina Maceri analysiert den Auftaktsieg der deutschen Mannschaft bei der WM und warnt vor Unterschätzung kommender Gegner. „Konzentration muss hoch sein, sonst wird es gegen Teams wie die Elfenbeinküste gefährlich.“",
+      "source": "WELT",
+      "ts": "2026-06-15T20:01:48"
+    },
+    {
+      "id": "6a3036bc0611b9299a1566f5",
+      "ntitle": "hier zeigt der australische videoschiedsrichter die diskutierte geste",
+      "title": "Hier zeigt der australische Videoschiedsrichter die diskutierte Geste",
+      "summary": "Ein australischer Video-Schiedsrichter steht bei der WM im Mittelpunkt einer Kontroverse. Das Antirassismus-Netzwerk Fare fordert seine Absetzung. Es geht um eine Handgeste vor dem Spiel Deutschland-Curaçao.",
+      "source": "WELT",
+      "ts": "2026-06-15T20:01:48"
     }
   ],
   "breaking_seen": [],
   "last_run": {
-    "digest_morning": "2026-06-14",
-    "digest_noon": "2026-06-14",
-    "digest_evening": "2026-06-14",
+    "digest_morning": "2026-06-15",
+    "digest_noon": "2026-06-15",
+    "digest_evening": "2026-06-15",
     "daily": "2026-06-14",
     "weekly": "2026-W24"
   }
