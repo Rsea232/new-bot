@@ -225,6 +225,8 @@ def fetch_items():
                 "ntitle":  norm_title(title),
                 "summary": clean(e.get("summary", ""))[:400],
                 "link":    e.get("link", ""),
+                "tags":    [(t.get("term", "") if hasattr(t, "get") else str(t))
+                            for t in e.get("tags", [])],
             })
             count += 1
     return items
@@ -291,6 +293,40 @@ def short_summary(text, limit=300):
     return text[:limit].rsplit(" ", 1)[0].rstrip(" ,.;:") + "…"
 
 
+# Kategorien: Reihenfolge, Symbole und Erkennungs-Stichwörter (in Link/Tags)
+CATEGORY_ORDER = ["Politik", "Ausland", "Wirtschaft", "Sport",
+                  "Wissen & Technik", "Kultur", "Panorama", "Sonstiges"]
+CATEGORY_EMOJI = {
+    "Politik": "🏛", "Ausland": "🌍", "Wirtschaft": "💶", "Sport": "⚽",
+    "Wissen & Technik": "🔬", "Kultur": "🎭", "Panorama": "📋", "Sonstiges": "🗞",
+}
+CATEGORY_RULES = [
+    ("Sport", ["sport", "fussball", "fußball", "bundesliga", "olympia", "wm-",
+               "formel", "tennis", "/nba", "/nfl", "champions-league"]),
+    ("Wirtschaft", ["wirtschaft", "boerse", "börse", "finanz", "economy", "markets",
+                    "companies", "business", "dax", "aktie", "konjunktur"]),
+    ("Ausland", ["ausland", "international", "/world", "ukraine", "nahost", "/usa",
+                 "us-", "china", "russland", "gaza", "israel"]),
+    ("Politik", ["politik", "inland", "innenpolitik", "bundestag", "wahl",
+                 "regierung", "kanzler", "minister"]),
+    ("Wissen & Technik", ["wissen", "wissenschaft", "technik", "digital", "netzwelt",
+                          "science", "tech", "forschung", "klima", "gesundheit"]),
+    ("Kultur", ["kultur", "culture", "film", "musik", "literatur", "kunst", "kino"]),
+    ("Panorama", ["panorama", "gesellschaft", "vermischtes", "leben", "regional",
+                  "promi", "boulevard"]),
+]
+
+
+def categorize(it):
+    hay = (it.get("link", "") + " " + " ".join(it.get("tags", []))).lower()
+    for cat, kws in CATEGORY_RULES:
+        if any(k in hay for k in kws):
+            return cat
+    if it.get("source") == "Financial Times":
+        return "Wirtschaft"
+    return "Sonstiges"
+
+
 def header_line(title):
     return f"{title} ({dt.datetime.now():%d.%m.%Y})"
 
@@ -298,35 +334,44 @@ def header_line(title):
 def build_list(items, title, show_links=True, max_items=None):
     if max_items:
         items = items[:max_items]
-    by_source = {}
+    by_cat = {}
     for it in items:
-        by_source.setdefault(it["source"], []).append(it)
+        by_cat.setdefault(categorize(it), []).append(it)
+    ordered = [c for c in CATEGORY_ORDER if c in by_cat]
 
     if use_html():
         parts = [f"<b>{esc(header_line(title))}</b>"]
-        for source, group in by_source.items():
-            parts.append(f"\n<b>━━ {esc(source)} ━━</b>")
-            for it in group:
-                parts.append(f"\n<b>{esc(it['title'])}</b>")
+        for cat in ordered:
+            emoji = CATEGORY_EMOJI.get(cat, "🗞")
+            parts.append(f"\n<b>{emoji} {esc(cat).upper()}</b>")
+            for i, it in enumerate(by_cat[cat], 1):
+                parts.append("")  # Leerzeile -> jede News klar abgesetzt
+                parts.append(f"<b>{i}. {esc(it['title'])}</b>")
                 summ = short_summary(it.get("summary", ""))
                 if summ:
                     parts.append(esc(summ))
+                tail = []
                 if show_links and it.get("link"):
-                    parts.append(f'<a href="{esc(it["link"])}">→ Weiterlesen</a>')
+                    tail.append(f'<a href="{esc(it["link"])}">→ Weiterlesen</a>')
+                tail.append(f"<i>{esc(it['source'])}</i>")
+                parts.append(" · ".join(tail))
         return "\n".join(parts).strip()
 
     # einfacher Text (Fallback, z. B. CallMeBot)
     lines = [header_line(title), ""]
-    for source, group in by_source.items():
-        lines.append(f"*{source}*")
-        for it in group:
-            lines.append(f"• {it['title']}")
+    for cat in ordered:
+        lines.append(f"{CATEGORY_EMOJI.get(cat, '🗞')} {cat.upper()}")
+        for i, it in enumerate(by_cat[cat], 1):
+            lines.append(f"{i}. {it['title']}")
             summ = short_summary(it.get("summary", ""))
             if summ:
-                lines.append(f"  {summ}")
+                lines.append(f"   {summ}")
+            tail = []
             if show_links and it.get("link"):
-                lines.append(f"  {it['link']}")
-        lines.append("")
+                tail.append(it["link"])
+            tail.append(it["source"])
+            lines.append("   " + " · ".join(tail))
+            lines.append("")
     return "\n".join(lines).strip()
 
 
@@ -526,7 +571,7 @@ def task_daily(state):
     if not items:
         log("Tagesübersicht: heute keine Meldungen erfasst.")
         return True
-    msg = compose(items, "🌙 Tagesübersicht", "tag", show_links=False)
+    msg = compose(items, "🌙 Tagesübersicht", "tag", show_links=True)
     return send_message(msg)
 
 
@@ -536,7 +581,7 @@ def task_weekly(state):
         log("Wochenübersicht: keine Meldungen erfasst.")
         return True
     title = f"📅 Wochenübersicht (KW {dt.datetime.now():%V})"
-    msg = compose(items, title, "woche", show_links=False)
+    msg = compose(items, title, "woche", show_links=True)
     return send_message(msg)
 
 
