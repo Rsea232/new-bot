@@ -3311,9 +3311,18 @@
       "summary": "Die Deutsche Bahn bekommt Konkurrenz: Im April 2028 steigt der italienische Betreiber Italo in den deutschen Fernverkehr ein. Um den Markteintritt zu erleichtern, sichert die Bundesnetzagentur dem Unternehmen mehr Nutzungsrechte.",
       "source": "WELT",
       "ts": "2026-06-30T15:24:53"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Supreme-Court-stoppt-Trump-Plan-fuer-eingeschraenkte-Staatsbuergerschaft-id31032428.html",
+      "ntitle": "wegweisendes urteil supreme court stoppt trumpplan für eingeschränkte staatsbürgerschaft",
+      "title": "Wegweisendes Urteil: Supreme Court stoppt Trump-Plan für eingeschränkte Staatsbürgerschaft",
+      "summary": "Kurz nach seiner Amtseinführung will Trump per Dekret die automatische Staatsbürgerschaft durch Geburt in den USA beschränken. Damit zielt der US-Präsident auf Kinder von illegalen Migranten. Doch vor dem Obersten US-Gericht erleidet er eine krachende Niederlage.",
+      "source": "ntv",
+      "ts": "2026-06-30T18:07:28"
     }
   ],
   "breaking_seen": [
+    "https://www.n-tv.de/politik/Supreme-Court-stoppt-Trump-Plan-fuer-eingeschraenkte-Staatsbuergerschaft-id31032428.html",
     "39e743d3-98f8-4575-86aa-55ef943b00e8"
   ],
   "last_run": {
