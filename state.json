@@ -3463,10 +3463,19 @@
       "summary": "Das Bundesinnenministerium meldet knapp 40.000 Erstanträge auf Asyl im ersten Halbjahr 2026. Das sind mehr als 20.000 weniger als im gleichen Zeitraum im Vorjahr.",
       "source": "WELT",
       "ts": "2026-07-03T16:21:20"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Nato-einigt-sich-auf-80-Milliarden-Euro-Hilfe-fuer-die-Ukraine-id31045527.html",
+      "ntitle": "deutschland trägt löwenanteil nato einigt sich auf 80 milliarden euro hilfe für die ukraine",
+      "title": "Deutschland trägt Löwenanteil: Nato einigt sich auf 80 Milliarden Euro Hilfe für die Ukraine",
+      "summary": "In ihrem Abwehrkampf gegen Russland ist die Ukraine auf Unterstützung von westlichen Partnern angewiesen. Beim Nato-Gipfel in Ankara soll sie ein neues milliardenschweres Versprechen bekommen. Da die USA unter Trump die Finanzierung weitgehend gestoppt haben, wird Deutschland den größten Anteil schultern.",
+      "source": "ntv",
+      "ts": "2026-07-03T18:05:43"
     }
   ],
   "breaking_seen": [
     "https://www.n-tv.de/politik/Supreme-Court-stoppt-Trump-Plan-fuer-eingeschraenkte-Staatsbuergerschaft-id31032428.html",
+    "https://www.n-tv.de/politik/Nato-einigt-sich-auf-80-Milliarden-Euro-Hilfe-fuer-die-Ukraine-id31045527.html",
     "39e743d3-98f8-4575-86aa-55ef943b00e8"
   ],
   "last_run": {
