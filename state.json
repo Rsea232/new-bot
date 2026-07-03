@@ -1,150 +1,6 @@
 {
   "history": [
     {
-      "id": "c810d41e-946f-459e-aa0b-0f67e267bd3c",
-      "ntitle": "hitzeliveblog  nachttemperatur erreicht rekordwert",
-      "title": "Hitze-Liveblog: ++ Nacht-Temperatur erreicht Rekordwert ++",
-      "summary": "Die vergangene Nacht zieht mit der wärmsten Nacht in Deutschland seit Beginn der Messungen gleich. Wegen vielerorts extremer Wärmebelastung werden zahlreiche Veranstaltungen vorsorglich abgesagt. Die Entwicklungen im Liveblog.",
-      "source": "Tagesschau",
-      "ts": "2026-06-25T14:07:45"
-    },
-    {
-      "id": "33fd9b39-6b41-45de-9359-0821166d506f",
-      "ntitle": "klimadesinformation  fakes relativieren hitzewelle",
-      "title": "Klimadesinformation - Fakes relativieren Hitzewelle",
-      "summary": "Die aktuelle Hitzewelle ruft Leugner des menschengemachten Klimawandels hervor. Mit alten Zeitungsschlagzeilen und anderen irreführenden Behauptungen versuchen sie, die anhaltend hohen Temperaturen zu relativieren. Von C. Reveland und P. Siggelkow.",
-      "source": "Tagesschau",
-      "ts": "2026-06-25T14:07:45"
-    },
-    {
-      "id": "c88721de-2ce7-4494-abae-3ed6e38ea93e",
-      "ntitle": "ist sonnencreme wirklich schädlich",
-      "title": "Ist Sonnencreme wirklich schädlich?",
-      "summary": "In sozialen Medien kursieren viele Mythen zu Sonnencreme. Immer wieder heißt es, sie sei gesundheitsschädlich oder sogar krebserregend. Natürliche Mittel seien ein besserer Sonnenschutz. Was ist da dran? Von Franziska Ehrenfeld.",
-      "source": "Tagesschau",
-      "ts": "2026-06-25T14:07:45"
-    },
-    {
-      "id": "c182573c-9ead-4976-afb3-c71fdbd3ec6f",
-      "ntitle": "bahn bietet wegen hitze kostenlose stornierung an",
-      "title": "Bahn bietet wegen Hitze kostenlose Stornierung an",
-      "summary": "Wer angesichts der Hitze eine geplante Bahnreise nicht antreten will, kann diese nun kostenfrei stornieren. Die Bahn bietet erstmals diese sogenannte Hitze-Sonderkulanz an. Die hohen Temperaturen sind auch für die Bahn eine Belastung.",
-      "source": "Tagesschau",
-      "ts": "2026-06-25T14:07:45"
-    },
-    {
-      "id": "8d9c98d3-7a00-41a4-9889-9e4372eddcdf",
-      "ntitle": "für die jahreszeit eine beispiellose hitzewelle",
-      "title": "\"Für die Jahreszeit eine beispiellose Hitzewelle\"",
-      "summary": "\"Für die Jahreszeit eine beispiellose Hitzewelle\"",
-      "source": "Tagesschau",
-      "ts": "2026-06-25T14:07:45"
-    },
-    {
-      "id": "57a1a406-6e9b-4081-b759-3f6203875b26",
-      "ntitle": "aktuelle warnungen des deutschen wetterdienstes",
-      "title": "Aktuelle Warnungen des Deutschen Wetterdienstes",
-      "summary": "Der Deutsche Wetterdienst warnt vor Hitze und sogar extremer Hitze in fast allen Regionen des Landes. Nur die Ostseeküste ist nicht betroffen. Alle Warnungen im Überblick.",
-      "source": "Tagesschau",
-      "ts": "2026-06-25T14:07:45"
-    },
-    {
-      "id": "48b3998c-6036-46af-937d-9cf4ea1829cf",
-      "ntitle": "wetter deutschland wolken temperaturen wind und aussichten",
-      "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
-      "summary": "Am Freitag ist es vielfach sonnig, es gibt allenfalls ein paar lockere Wolken. Gegen Nachmittag sind im Westen und Südwesten einzelne kräftige Hitzegewitter möglich, oft bleibt es aber trocken. Die Höchstwerte liegen zwischen 26 Grad auf Rügen und 41 Grad am Oberrhein. Es besteht eine extreme Hitzebelastung!",
-      "source": "Tagesschau",
-      "ts": "2026-06-25T14:07:45"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Merz-fordert-Russland-zu-Friedensverhandlungen-auf-id31011972.html",
-      "ntitle": "die zeit ist da merz fordert russland zu friedensverhandlungen auf",
-      "title": "\"Die Zeit ist da\": Merz fordert Russland zu Friedensverhandlungen auf",
-      "summary": "Auf der Wiederaufbau-Konferenz für die Ukraine in Polen suchen die Teilnehmer nach Lösungen. Die Europäer wollen sich an Friedensgesprächen beteiligen. Bundeskanzler Merz wendet sich mit der deutlichen Botschaft in Richtung Moskau, endlich an den Verhandlungstisch zu kommen.",
-      "source": "ntv",
-      "ts": "2026-06-25T14:07:45"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Der-Grundfehler-bleibt-nur-die-Bestellung-wird-gedrueckt-id31011803.html",
-      "ntitle": "wer bestellt bezahlt der grundfehler bleibt  nur die bestellung wird gedrückt",
-      "title": "\"Wer bestellt, bezahlt\": Der Grundfehler bleibt - nur die Bestellung wird gedrückt",
-      "summary": "Trotz Rekordschulden quietscht es an allen Ecken und Enden im deutschen Staat. Das ist beim Bund nicht anders als bei den Ländern. Trotzdem wollen die Länder nun mehr Geld - und sie haben ein Argument, das eigentlich unschlagbar ist.",
-      "source": "ntv",
-      "ts": "2026-06-25T14:07:45"
-    },
-    {
-      "id": "https://www.n-tv.de/wirtschaft/Die-Bahn-erlebt-eine-Woche-zum-Vergessen-id31012326.html",
-      "ntitle": "probleme über probleme  die bahn erlebt eine woche zum vergessen",
-      "title": "Probleme über Probleme : Die Bahn erlebt eine Woche zum Vergessen",
-      "summary": "Im Alltag oder im Beruf stellt sich gelegentlich die Frage, ob Probleme nur Pech sind – oder Ausdruck tieferliegender Ursachen. Bei der Bahn ist die Antwort offensichtlich.",
-      "source": "ntv",
-      "ts": "2026-06-25T14:07:45"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Angebruellter-US-Senator-stimmt-wieder-fuer-Trump-ab-id31011762.html",
-      "ntitle": "kehrtwende bei iranbefugnissen angebrüllter ussenator stimmt wieder für trump ab",
-      "title": "Kehrtwende bei Iran-Befugnissen: Angebrüllter US-Senator stimmt wieder für Trump ab",
-      "summary": "Zwischen US-Präsident Trump und einigen republikanischen Senatoren herrschte schlechte Stimmung. Nach einer gemeinsamen Abstimmung mit den Demokraten im Kongress verliert Trump die Fassung. Die angeprangerten Senatoren entscheiden nun wieder in seinem Sinne.",
-      "source": "ntv",
-      "ts": "2026-06-25T14:07:45"
-    },
-    {
-      "id": "https://www.n-tv.de/panorama/Grossrazzia-in-Fluechtlingsunterkunft-in-Hamburg-id31011018.html",
-      "ntitle": "betrug bei sozialleistungen großrazzia in flüchtlingsunterkunft in hamburg",
-      "title": "Betrug bei Sozialleistungen?: Großrazzia in Flüchtlingsunterkunft in Hamburg",
-      "summary": "In Hamburg kontrolliert die Polizei am Morgen mit einem Großaufgebot eine Flüchtlingsunterkunft. Sie unterstützt einen Einsatz der Agentur für Arbeit. Die Behörde geht dem Verdacht auf Betrug und vorgetäuschte Identitäten in mehr als hundert Fällen nach.",
-      "source": "ntv",
-      "ts": "2026-06-25T14:07:45"
-    },
-    {
-      "id": "https://www.n-tv.de/panorama/Warum-ein-Tattoo-keine-Zustimmung-zur-Organspende-ist-id31012072.html",
-      "ntitle": "widerspruchslösung im bundestag warum ein tattoo keine zustimmung zur organspende ist",
-      "title": "Widerspruchslösung im Bundestag: Warum ein Tattoo keine Zustimmung zur Organspende ist",
-      "summary": "Täglich sterben Menschen auf der Warteliste für ein Spenderorgan - während Tausende nicht entscheiden. Das soll die Widerspruchslösung ändern. Doch die wird hochemotional debattiert. Auch weil viele Fragen haben.",
-      "source": "ntv",
-      "ts": "2026-06-25T14:07:45"
-    },
-    {
-      "id": "https://www.n-tv.de/sport/fussball-wm/Auf-wen-trifft-das-DFB-Team-Da-waren-es-nur-noch-acht-id31010099.html",
-      "ntitle": "das große wmrechnen auf wen trifft das dfbteam da waren es nur noch acht",
-      "title": "Das große WM-Rechnen: Auf wen trifft das DFB-Team? Da waren es \"nur\" noch acht",
-      "summary": "Die XXL-WM in Amerika ist ein Traum für Statistik- und Was-wenn-Szenarien-Freaks. Daher einmal ganz simpel: Nachdem die ersten Gruppen durch sind, kann Deutschland im Sechzehntelfinale noch auf acht mögliche Gegner treffen.",
-      "source": "ntv",
-      "ts": "2026-06-25T14:07:45"
-    },
-    {
-      "id": "6a3d1318113e90346dc4c644",
-      "ntitle": "blitzeinschlag von 1750  warum der michelturm jetzt dringend stabilisiert werden muss",
-      "title": "Blitzeinschlag von 1750 – warum der Michel-Turm jetzt dringend stabilisiert werden muss",
-      "summary": "Jahrhundertealte Brandschäden setzen dem Hamburger Wahrzeichen zu. Risse ziehen sich durch den Michel-Turm, Regen dringt ein. Nun greift ein „himmlischer Bautrupp“ zu Spezialankern und Harz – finanziert von 1.700 Spendern für ein „nicht ganz so sexy Projekt“",
-      "source": "WELT",
-      "ts": "2026-06-25T14:07:45"
-    },
-    {
-      "id": "6a3d0e43afe845031b3add86",
-      "ntitle": "russland zerstört sich im moment selbst  wir müssen alles tun dass die ukraine eine chance hat",
-      "title": "„Russland zerstört sich im Moment selbst – Wir müssen alles tun, dass die Ukraine eine Chance hat“",
-      "summary": "Roderich Kiesewetter (CDU), Mitglied im Auswärtigen Ausschuss, sieht die Ukraine im Vorteil und fordert eine konsequente Unterstützung durch Europa. Zugleich plädiert er für mehr sicherheitspolitische Unabhängigkeit von den USA und eine Perspektive für die Ukraine in EU und Nato.",
-      "source": "WELT",
-      "ts": "2026-06-25T14:07:45"
-    },
-    {
-      "id": "6a3ce3a40720f035db42ccc6",
-      "ntitle": "die welt braucht juristen wie ihn die nicht nur akten fressen",
-      "title": "Die Welt braucht Juristen wie ihn, die nicht nur Akten fressen",
-      "summary": "Philippe Sands hat die Gabe, Unrecht nie nur moralisch oder abstrakt zu schildern. Sondern in Fallgeschichten zu erzählen, die auf Größeres verweisen. Warum er der richtige Preisträger zum richtigen Zeitpunkt ist.",
-      "source": "WELT",
-      "ts": "2026-06-25T14:07:45"
-    },
-    {
-      "id": "6a3ce070afe845031b3ad83a",
-      "ntitle": "verschwieg schäfergümbel seinem aufsichtsrat details der betrugsaffäre",
-      "title": "Verschwieg Schäfer-Gümbel seinem Aufsichtsrat Details der Betrugsaffäre?",
-      "summary": "Millionen sollen in GIZ-Projekten im Jemen veruntreut worden sein. Nun gerät Vorstandssprecher Thorsten Schäfer-Gümbel unter Druck: Was wusste die Spitze der bundeseigenen Organisation? Das Entwicklungsministerium zieht erste Konsequenzen.",
-      "source": "WELT",
-      "ts": "2026-06-25T14:07:45"
-    },
-    {
       "id": "1a7ba7c2-771a-4f77-a30e-012038bcc022",
       "ntitle": "livestream  fifa wm 2026 ecuador gegen deutschland",
       "title": "Livestream - FIFA WM 2026: Ecuador gegen Deutschland",
@@ -3463,6 +3319,150 @@
       "summary": "Ausgelassener Jubel am frühen Freitagmorgen (MESZ): Die Schweiz ist bei der Fußball-WM eine Runde weiter. In einem spannenden Spiel setzten sich Ronaldos Portugiesen durch. Tapfere Österreicher waren chancenlos gegen Spanien. Alle Tore der Nacht hier im Video.",
       "source": "WELT",
       "ts": "2026-07-03T08:09:57"
+    },
+    {
+      "id": "d6555709-a754-4864-909b-e430389ec113",
+      "ntitle": "ökonom heinemann zu reformbeschlüssen dieses paket hilft",
+      "title": "Ökonom Heinemann zu Reform-Beschlüssen: \"Dieses Paket hilft\"",
+      "summary": "Bringen die angekündigten Reformen der schwarz-roten Koalition tatsächlich die Wirtschaft wieder in Schwung? Der Ökonom Friedrich Heinemann erwartet einen positiven Effekt - sieht aber auch problematische Punkte.",
+      "source": "Tagesschau",
+      "ts": "2026-07-03T16:21:20"
+    },
+    {
+      "id": "fb155008-2ab6-46e0-a60c-3ff64818f81f",
+      "ntitle": "vernünftige lösungen bei krankschreibungen",
+      "title": "\"Vernünftige\" Lösungen bei Krankschreibungen?",
+      "summary": "Einen Tag nach dem Beschluss zur Attestpflicht ab dem ersten Krankheitstag versucht die Koalition die Aufregung etwas einzufangen. SPD-Chef Klingbeil will eine \"vernünftige\" Umsetzung. Gesundheitsministerin Warken setzt auf Digitalisierung.",
+      "source": "Tagesschau",
+      "ts": "2026-07-03T16:21:20"
+    },
+    {
+      "id": "ab217f34-ad3d-4876-b98b-8da75ef89098",
+      "ntitle": "schwarzrote reformen das soll sich bei der krankschreibung ändern",
+      "title": "Schwarz-rote Reformen: Das soll sich bei der Krankschreibung ändern",
+      "summary": "CDU, CSU und SPD haben sich auf ein großes Reformpaket geeinigt. Ein Teil davon: schärfere Regeln bei der Krankschreibung. Was das für Arbeitnehmer bedeutet und warum der Schritt für Kritik sorgt.",
+      "source": "Tagesschau",
+      "ts": "2026-07-03T16:21:20"
+    },
+    {
+      "id": "96c3fba9-e0de-4cdb-9443-f5fab93a9631",
+      "ntitle": "auf welche reformen sich schwarzrot geeinigt hat",
+      "title": "Auf welche Reformen sich Schwarz-Rot geeinigt hat",
+      "summary": "Von der Steuerentlastung bis zur Krankschreibung: Die schwarz-rote Koalition hat sich auf ein großes Reformpaket geeinigt. Die wichtigsten Vorgaben im Überblick.",
+      "source": "Tagesschau",
+      "ts": "2026-07-03T16:21:20"
+    },
+    {
+      "id": "81881d35-430e-4496-83e3-d57d705e745f",
+      "ntitle": "dfb löst vertrag mit nagelsmann auf heiko neumann hr",
+      "title": "DFB löst Vertrag mit Nagelsmann auf, Heiko Neumann, HR",
+      "summary": "DFB löst Vertrag mit Nagelsmann auf, Heiko Neumann, HR",
+      "source": "Tagesschau",
+      "ts": "2026-07-03T16:21:20"
+    },
+    {
+      "id": "de3659af-dd56-44e4-8791-12a3f2ae0e59",
+      "ntitle": "großaufgebot der polizei bei afdbundesparteitag in erfurt",
+      "title": "Großaufgebot der Polizei bei AfD-Bundesparteitag in Erfurt",
+      "summary": "Großaufgebot der Polizei bei AfD-Bundesparteitag in Erfurt",
+      "source": "Tagesschau",
+      "ts": "2026-07-03T16:21:20"
+    },
+    {
+      "id": "ea6828d3-45b4-46d1-b83e-1ffbf7e1b985",
+      "ntitle": "heftig umstritten c mestmacher ard berlin zur reform der krankschreibung",
+      "title": "\"Heftig umstritten\", C. Mestmacher, ARD Berlin, zur Reform der Krankschreibung",
+      "summary": "\"Heftig umstritten\", C. Mestmacher, ARD Berlin, zur Reform der Krankschreibung",
+      "source": "Tagesschau",
+      "ts": "2026-07-03T16:21:20"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/politik_kommentare/Die-Attestpflicht-ist-ein-tiefer-Griff-ins-Klo-id31044473.html",
+      "ntitle": "koalition verzockt kommunikation die attestpflicht ist ein tiefer griff ins klo",
+      "title": "Koalition verzockt Kommunikation: Die Attestpflicht ist ein tiefer Griff ins Klo",
+      "summary": "Vom großen Aufbruch der Koalition bleibt bei vielen Beschäftigten nur eine Botschaft hängen: Bei Krankheit braucht man künftig bereits am ersten Tag ein Attest. Dabei stimmt das für die meisten Beschäftigten gar nicht. Umso größer ist der kommunikative Schaden.",
+      "source": "ntv",
+      "ts": "2026-07-03T16:21:20"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Punkt-32-der-Koalitionsbeschluesse-hat-es-in-sich-id31044592.html",
+      "ntitle": "auskunftsrechte fokussieren punkt 32 der koalitionsbeschlüsse hat es in sich",
+      "title": "\"Auskunftsrechte fokussieren\": Punkt 32 der Koalitionsbeschlüsse hat es in sich",
+      "summary": "Die Union hat sich doch noch durchgesetzt: Das Informationsfreiheitsgesetz soll faktisch abgeschafft werden. Medien und Organisationen sollen keinen Anspruch mehr auf Auskünfte haben, und teuer könnten Fragen an den Staat zudem werden. Grüne und Linke sind entsetzt.",
+      "source": "ntv",
+      "ts": "2026-07-03T16:21:20"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Bericht-USA-warnten-Iran-vor-israelischen-Attentatsplaenen-id31045367.html",
+      "ntitle": "verhandlungsführer im visier bericht usa warnten iran vor israelischen attentatsplänen",
+      "title": "Verhandlungsführer im Visier: Bericht: USA warnten Iran vor israelischen Attentatsplänen",
+      "summary": "Einem Bericht zufolge vermuten US-Beamte im Frühjahr, dass Israel die obersten iranischen Verhandlungsführer töten will. Die Attentate hätten die Gespräche über ein Abkommen mit Teheran erheblich erschwert.",
+      "source": "ntv",
+      "ts": "2026-07-03T16:21:20"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Krim-unter-Dauerfeuer-mehrere-Kampfflugzeuge-zerstoert-id31044731.html",
+      "ntitle": "teil von großer krimoperation ukraine meldet treffer auf sieben russische kampfflugzeuge",
+      "title": "Teil von großer Krim-Operation: Ukraine meldet Treffer auf sieben russische Kampfflugzeuge",
+      "summary": "In einer 40-tägigen Operation will die Ukraine Russland mit schweren Angriffen auf die Krim zum Frieden drängen. Bereits nach einer Woche soll es mehrere erfolgreiche Attacken auf Kampfflugzeuge gegeben haben. Auch die Infrastruktur ist verstärkt im Visier von Drohnen.",
+      "source": "ntv",
+      "ts": "2026-07-03T16:21:20"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Erste-russische-Grossstadt-meldet-vollstaendiges-Benzin-Aus-id31044579.html",
+      "ntitle": "krise nach ukraineangriffen erste russische großstadt meldet vollständiges benzinaus",
+      "title": "Krise nach Ukraine-Angriffen: Erste russische Großstadt meldet vollständiges Benzin-Aus",
+      "summary": "Seit Wochen nimmt die Ukraine russische Ölraffinerien massenhaft ins Visier - mit spürbaren Folgen. Im ganzen Land bilden sich lange Schlangen an den Tankstellen, die Spritabgabe ist vielerorts auf wenige Dutzend Liter begrenzt. Nun meldet eine Stadt mit 240.000 Einwohnern: Es gibt gar kein Benzin mehr.",
+      "source": "ntv",
+      "ts": "2026-07-03T16:21:20"
+    },
+    {
+      "id": "https://www.n-tv.de/panorama/Moerder-von-Stade-soll-eigene-Tochter-sexuell-missbraucht-haben-id31044126.html",
+      "ntitle": "flucht aus türkischem gefängnis mörder von stade soll eigene tochter sexuell missbraucht haben",
+      "title": "Flucht aus türkischem Gefängnis: Mörder von Stade soll eigene Tochter sexuell missbraucht haben",
+      "summary": "In Stade tötet ein Mann sechs Menschen durch Schüsse. In Deutschland ist er zuvor nicht mit Gewalttaten aufgefallen. Ganz anders jedoch seine Vergangenheit in der Türkei, wie ein Bericht jetzt offenbart.",
+      "source": "ntv",
+      "ts": "2026-07-03T16:21:20"
+    },
+    {
+      "id": "https://www.n-tv.de/panorama/Warum-die-Warnsignale-in-Stade-nicht-reichten-id31044571.html",
+      "ntitle": "tödliche eskalation warum die warnsignale in stade nicht reichten",
+      "title": "Tödliche Eskalation: Warum die Warnsignale in Stade nicht reichten",
+      "summary": "Sechs Tote in einer Jugendhilfeeinrichtung - eine Tat, die selbst erfahrene Ermittler fassungslos macht. Drohungen gab es zuvor, doch niemand rechnete mit dieser Eskalation. Wie konnte es so weit kommen?",
+      "source": "ntv",
+      "ts": "2026-07-03T16:21:20"
+    },
+    {
+      "id": "https://www.n-tv.de/sport/fussball-wm/Diese-Baustellen-gibt-es-vor-der-DFB-Einigung-mit-Klopp-id31045375.html",
+      "ntitle": "werbeverträge abfindung diese baustellen gibt es vor der dfbeinigung mit klopp",
+      "title": "Werbeverträge, Abfindung: Diese Baustellen gibt es vor der DFB-Einigung mit Klopp",
+      "summary": "Nach drei Jahren braucht die deutsche Fußball-Nationalmannschaft wieder einen neuen Bundestrainer. Der Top-Kandidat ist Jürgen Klopp. Und der hat auch Lust - es gibt aber noch einiges zu klären.",
+      "source": "ntv",
+      "ts": "2026-07-03T16:21:20"
+    },
+    {
+      "id": "6a47b7e9ad32e994f875a36d",
+      "ntitle": "steuerpolitisch ist es weit hinter den erwartungen zurückgeblieben",
+      "title": "„Steuerpolitisch ist es weit hinter den Erwartungen zurückgeblieben“",
+      "summary": "WELT-Kolumnist Robin Alexander analysiert das beschlossene Reformpaket. Während die steuerlichen Maßnahmen weit hinter den Erwartungen zurückblieben, sieht er im Arbeitsmarktbereich deutliche Veränderungen. „Interessant, dass in dem Bereich von Bas mehr ging als in dem von Klingbeil.“",
+      "source": "WELT",
+      "ts": "2026-07-03T16:21:20"
+    },
+    {
+      "id": "6a47b49cad32e994f875a33c",
+      "ntitle": "jetzt droht der grünenspitze klage vor ordentlichen gerichten",
+      "title": "Jetzt droht der Grünen-Spitze „Klage vor ordentlichen Gerichten“",
+      "summary": "Die Grünen beschließen per Urabstimmung eine großangelegte Parteireform, die eine Stärkung der Führung darstellt – zulasten der Basis. Nun bahnt sich in den eigenen Reihen eine Klage an.",
+      "source": "WELT",
+      "ts": "2026-07-03T16:21:20"
+    },
+    {
+      "id": "6a47b6fe0b14ed961bb50bc4",
+      "ntitle": "innenministerium registriert rund 40000 asylerstanträge im ersten halbjahr",
+      "title": "Innenministerium registriert rund 40.000 Asylerstanträge im ersten Halbjahr",
+      "summary": "Das Bundesinnenministerium meldet knapp 40.000 Erstanträge auf Asyl im ersten Halbjahr 2026. Das sind mehr als 20.000 weniger als im gleichen Zeitraum im Vorjahr.",
+      "source": "WELT",
+      "ts": "2026-07-03T16:21:20"
     }
   ],
   "breaking_seen": [
@@ -3471,7 +3471,7 @@
   ],
   "last_run": {
     "digest_morning": "2026-07-03",
-    "digest_noon": "2026-07-02",
+    "digest_noon": "2026-07-03",
     "digest_evening": "2026-07-02",
     "daily": "2026-07-02",
     "weekly": "2026-W26"
