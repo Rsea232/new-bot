@@ -1,150 +1,6 @@
 {
   "history": [
     {
-      "id": "ea2ba43b-ce83-4a2b-a968-1c03924343f1",
-      "ntitle": "gefahren durch rekordtemperaturen",
-      "title": "Gefahren durch Rekordtemperaturen",
-      "summary": "Gefahren durch Rekordtemperaturen",
-      "source": "Tagesschau",
-      "ts": "2026-06-27T21:04:31"
-    },
-    {
-      "id": "9b4cf99b-fae0-4449-b5c7-4cd6e3bf1b32",
-      "ntitle": "prideparade in budapest nach regierungswechsel in ungarn",
-      "title": "Pride-Parade in Budapest nach Regierungswechsel in Ungarn",
-      "summary": "Pride-Parade in Budapest nach Regierungswechsel in Ungarn",
-      "source": "Tagesschau",
-      "ts": "2026-06-27T21:04:31"
-    },
-    {
-      "id": "https://www.n-tv.de/panorama/Hitzerekord-in-Deutschland-erneut-gebrochen-id31021662.html",
-      "ntitle": "höchstwert in sachsenanhalt hitzerekord in deutschland erneut gebrochen",
-      "title": "Höchstwert in Sachsen-Anhalt: Hitzerekord in Deutschland erneut gebrochen",
-      "summary": "Nur einen Tag hat er Bestand: der neue Hitzerekord in Deutschland. Nach 41,3 Grad am Freitagnachmittag im Saarland, wird die Marke tags darauf erneut gebrochen, vermutlich gleich mehrfach. Der Deutsche Wetterdienst hält gar 42 Grad für nicht ausgeschlossen.",
-      "source": "ntv",
-      "ts": "2026-06-27T21:04:31"
-    },
-    {
-      "id": "https://www.n-tv.de/panorama/In-Europa-fallen-zahlreiche-Hitzerekorde-id31021818.html",
-      "ntitle": "zentraleuropa glüht im juni in europa fallen zahlreiche hitzerekorde",
-      "title": "Zentraleuropa glüht im Juni: In Europa fallen zahlreiche Hitzerekorde",
-      "summary": "Europa erlebt aktuell die erste große Hitzewelle des Jahres. Nachdem in den vergangenen Tagen vor allem Spanien und Frankreich ächzen, messen nun auch andere Staaten extrem hohe Temperaturen. Es fallen einige Rekorde - teils sogar gleich mehrfach.",
-      "source": "ntv",
-      "ts": "2026-06-27T21:04:31"
-    },
-    {
-      "id": "https://www.n-tv.de/panorama/Zahl-der-Toten-steigt-nach-Erdbeben-in-Venezuela-auf-mehr-als-1400-id31021851.html",
-      "ntitle": "ein wettlauf gegen die zeit zahl der toten steigt nach erdbeben in venezuela auf mehr als 1400",
-      "title": "\"Ein Wettlauf gegen die Zeit\": Zahl der Toten steigt nach Erdbeben in Venezuela auf mehr als 1400",
-      "summary": "Am Mittwoch kommt es westlich von Caracas zu zwei Erdstößen. Zunächst können nur wenige Opfer geborgen werden. Nun steigt die Zahl dramatisch an, zahlreiche Menschen werden immer noch vermisst. Hilfe aus der ganzen Welt ist unterwegs - auch aus Deutschland.",
-      "source": "ntv",
-      "ts": "2026-06-27T21:04:31"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Lasst-uns-Lehrkraefte-nicht-allein-mit-der-Angst-id30999820.html",
-      "ntitle": "rechtsruck an schulen lasst uns lehrkräfte nicht allein mit der angst",
-      "title": "Rechtsruck an Schulen: \"Lasst uns Lehrkräfte nicht allein mit der Angst!\"",
-      "summary": "In Stendal wird ein Lehrer, der im Unterricht vor der AfD gewarnt hat, abgemahnt. Der jüngste in einer Reihe von Vorfällen bestätigt unsere Warnungen, dass der Druck von rechts auf Schulen und Lehrkräfte zunimmt - mit gefährlichen Folgen.",
-      "source": "ntv",
-      "ts": "2026-06-27T21:04:31"
-    },
-    {
-      "id": "https://www.n-tv.de/wirtschaft/Bericht-Porsche-holt-Cayenne-Produktion-wieder-nach-Deutschland-id31021392.html",
-      "ntitle": "bestandteil des sparprogramms bericht porsche holt cayenneproduktion wieder nach deutschland",
-      "title": "Bestandteil des Sparprogramms: Bericht: Porsche holt Cayenne-Produktion wieder nach Deutschland",
-      "summary": "Auch Volkswagen-Konzern-Tochter Porsche geht es nicht gut. Es soll gespart werden. Gleichzeitig sollen die nicht ausgelasteten Werke effizienter genutzt werden. Aus diesem Grund soll der Cayenne wieder in Deutschland gebaut werden. Doch dafür muss sich etwas ändern.",
-      "source": "ntv",
-      "ts": "2026-06-27T21:04:31"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Hisbollah-Chef-nennt-neues-Abkommen-null-und-nichtig-id31021533.html",
-      "ntitle": "brüchiger friedensprozess hisbollahchef nennt neues abkommen null und nichtig",
-      "title": "Brüchiger Friedensprozess: Hisbollah-Chef nennt neues Abkommen \"null und nichtig\"",
-      "summary": "Libanon und Israel einigen sich auf ein Rahmenabkommen, um den seit Jahrzehnten andauernden Kriegszustand zwischen den beiden Nachbarländern zu beenden. Doch die radikalislamische Hisbollah-Miliz akzeptiert die Vereinbarung nicht. Und Israel fliegt einen neuen Luftangriff im Süden des Libanon.",
-      "source": "ntv",
-      "ts": "2026-06-27T21:04:31"
-    },
-    {
-      "id": "6a401825113e90346dc4f385",
-      "ntitle": "kampflos weltmeister  erster deutscher schwergewichtschampion seit 1932",
-      "title": "Kampflos Weltmeister – erster deutscher Schwergewichts-Champion seit 1932",
-      "summary": "Nach dem Rückzug von Oleksandr Usyk hat der Boxverband WBC Agit Kabayel zum Weltmeister im Schwergewicht erklärt. Der Bochumer tritt damit das Erbe von Max Schmeling an. Er war 1932 der letzte Deutsche Champion in der Gewichtsklasse.",
-      "source": "WELT",
-      "ts": "2026-06-27T21:04:31"
-    },
-    {
-      "id": "6a40137d113e90346dc4f326",
-      "ntitle": "haben das messer am hals",
-      "title": "„Haben das Messer am Hals“",
-      "summary": "Nach der Niederlage gegen Ecuador wartet Paraguay als nächster Gegner auf die deutsche Fußballnationalmannschaft. DFB-Geschäftsführer Sport Andreas Rettig gibt einen Ausblick auf das nächste Spiel.",
-      "source": "WELT",
-      "ts": "2026-06-27T21:04:31"
-    },
-    {
-      "id": "6a4008ddafe845031b3b08a0",
-      "ntitle": "zahl der toten steigt auf über 1400  baby nach 32 stunden lebend aus trümmern gerettet",
-      "title": "Zahl der Toten steigt auf über 1400 – Baby nach 32 Stunden lebend aus Trümmern gerettet",
-      "summary": "Nach den verheerenden Erdbeben in Venezuela ist die Opferzahl auf mehr als 1400 gestiegen. Dank internationaler Rettungsteams hat sich die Suche nach Überlebenden im Schutt beschleunigt. Ein Baby konnte lebend aus den Trümmern gerettet werden.",
-      "source": "WELT",
-      "ts": "2026-06-27T21:04:31"
-    },
-    {
-      "id": "6a4002bcf655881a56707195",
-      "ntitle": "razzien bei lehrern und journalisten  178 menschen in der türkei in untersuchungshaft",
-      "title": "Razzien bei Lehrern und Journalisten – 178 Menschen in der Türkei in Untersuchungshaft",
-      "summary": "Am 7. und 8. Juli findet der Nato-Gipfel in Ankara statt. Im Vorfeld ist es nun zu hunderten Festnahmen gekommen. Die Razzien betrafen Lehrer, Gewerkschafter oder Journalisten – wegen Terrorismusvorwürfen.",
-      "source": "WELT",
-      "ts": "2026-06-27T21:04:31"
-    },
-    {
-      "id": "6a40011aafe845031b3b0830",
-      "ntitle": "230000 menschen feiern csd in münchen  söder beschwört weltoffenheit bayerns",
-      "title": "230.000 Menschen feiern CSD in München – Söder beschwört Weltoffenheit Bayerns",
-      "summary": "Eine knappe Viertelmillion Besucher feiert den diesjährigen CSD in München. „Im Freistaat kann jeder leben und lieben, wie er möchte – das ist die Liberalitas Bavariae“, beschwört der bayerische Ministerpräsident Söder.",
-      "source": "WELT",
-      "ts": "2026-06-27T21:04:31"
-    },
-    {
-      "id": "6a3f829e113e90346dc4ebb0",
-      "ntitle": "das ist deren ganz große schwäche",
-      "title": "„Das ist deren ganz große Schwäche“",
-      "summary": "Nach der Niederlage im letzten Gruppenspiel gegen Ecuador trifft die deutsche Mannschaft auf Paraguay. „Die werden über Biss kommen, die werden über defensive Stabilität kommen“, sagt Valentina Maceri.",
-      "source": "WELT",
-      "ts": "2026-06-27T21:04:31"
-    },
-    {
-      "id": "6a3f8363fe0ffc3b4df8f4e0",
-      "ntitle": "man hat das gefühl die spielen noch mit angezogener handbremse",
-      "title": "„Man hat das Gefühl, die spielen noch mit angezogener Handbremse“",
-      "summary": "Im letzten Gruppenspiel schlägt Frankreich Norwegen souverän. Allerdings saß Norwegens Topstürmer Erling Haaland diesmal nur auf der Bank. Mit Blick auf die Franzosen sagt Valentina Maceri: „Man hat das Gefühl, die spielen noch mit angezogener Handbremse.“",
-      "source": "WELT",
-      "ts": "2026-06-27T21:04:31"
-    },
-    {
-      "id": "d72a25e2-7bde-4aa9-bd8d-0c4f3d6cb2cb",
-      "ntitle": "apple seeks to buy memory chips from blacklisted chinese company",
-      "title": "Apple seeks to buy memory chips from blacklisted Chinese company",
-      "summary": "iPhone maker wants Trump administration to sign off on purchases to ease pressure from rising semiconductor prices",
-      "source": "Financial Times",
-      "ts": "2026-06-27T21:04:31"
-    },
-    {
-      "id": "4b578b5c-258a-48f5-a5e9-15eef5659573",
-      "ntitle": "trump administration allows some access to anthropics mythos",
-      "title": "Trump administration allows some access to Anthropic’s Mythos",
-      "summary": "Move eases tension with AI lab but unease over Washington’s ad hoc regulatory approach remains",
-      "source": "Financial Times",
-      "ts": "2026-06-27T21:04:31"
-    },
-    {
-      "id": "831d18c4-7272-4543-bcfc-d134df238dd7",
-      "ntitle": "new yorks socialist insurgency raises alarm among anxious democrats",
-      "title": "New York’s socialist insurgency raises alarm among anxious Democrats",
-      "summary": "Sweeping victories by progressives expose divisions over how party takes on Trump in November’s elections",
-      "source": "Financial Times",
-      "ts": "2026-06-27T21:04:31"
-    },
-    {
       "id": "d578f4a9-3e4a-4126-a568-b35f34223aa0",
       "ntitle": "erneut gegenseitige angriffe zwischen usa und iran",
       "title": "Erneut gegenseitige Angriffe zwischen USA und Iran",
@@ -3471,18 +3327,180 @@
       "summary": "Nach einer Massenschlägerei bei einer Feier in Essen-Rüttenscheid starb ein unbeteiligter Türsteher offenbar an Herzversagen. Drei weitere Männer wurden durch Messerstiche schwer verletzt. Die Hintergründe der Tat sind noch unklar.",
       "source": "WELT",
       "ts": "2026-07-05T14:10:07"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Jahrhunderturteil-Supreme-Court-weitet-Trumps-Macht-enorm-aus-id31050734.html",
+      "ntitle": "gleichschaltung von behörden jahrhunderturteil supreme court weitet trumps macht enorm aus",
+      "title": "Gleichschaltung von Behörden: Jahrhunderturteil: Supreme Court weitet Trumps Macht enorm aus",
+      "summary": "Unter den Grundsatzurteilen des Obersten Gerichts dieser Woche ist eine epochale Entscheidung: Der Präsident darf in der Exekutive machen, was er will. Die jahrzehntelange Kampagne reaktionärer Kräfte gegen eigenständig agierende Behörden hat Erfolg. Mit weitreichenden Folgen.",
+      "source": "ntv",
+      "ts": "2026-07-05T21:08:55"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Klingbeil-Krankschreibung-ab-erstem-Tag-pragmatisch-loesen-id31050775.html",
+      "ntitle": "nicht krank zum arzt schleppen klingbeil krankschreibung ab erstem tag pragmatisch lösen",
+      "title": "\"Nicht krank zum Arzt schleppen\": Klingbeil: Krankschreibung ab erstem Tag pragmatisch lösen",
+      "summary": "Die beschlossene Pflicht zum Krankenschein sorgt für Unruhe bei vielen Arbeitnehmern. Der SPD-Vorsitzende stellt nun eine unbürokratische Handhabung in Aussicht. Er begründet auch, warum die Reformen trotz der Belastungen für alle notwendig seien.",
+      "source": "ntv",
+      "ts": "2026-07-05T21:08:56"
+    },
+    {
+      "id": "42bbc0b9-cf7f-46d7-82d3-f57b406cea22",
+      "ntitle": "analyse zum afdparteitag wie weidel und höcke ihre macht ausbauen",
+      "title": "Analyse zum AfD-Parteitag: Wie Weidel und Höcke ihre Macht ausbauen",
+      "summary": "Der Parteitag der AfD sollte vor den Landtagswahlen vor allem Geschlossenheit ausstrahlen. Doch hinter den Kulissen knirscht es. Sowohl Weidel als auch Höcke nutzten ihre Netzwerke, um noch mächtiger zu werden, analysiert Kilian Pfeffer.",
+      "source": "Tagesschau",
+      "ts": "2026-07-05T21:09:01"
+    },
+    {
+      "id": "30c35ad3-b453-468b-8386-efe3a95af0c9",
+      "ntitle": "kommentar zum afdparteitag keine zeit für streit",
+      "title": "Kommentar zum AfD-Parteitag: Keine Zeit für Streit",
+      "summary": "Die AfD hat sich beim Parteitag in Erfurt um einen professionellen Auftritt bemüht, meint Gabor Halasz. Dafür wurden Konflikte ignoriert - etwa zwischen Weidel und Chrupalla. Streit und Machtkampf sind vor den Wahlen nicht erwünscht.",
+      "source": "Tagesschau",
+      "ts": "2026-07-05T21:09:01"
+    },
+    {
+      "id": "c6067b3f-cbfb-4d4e-be3b-7e90da3408d3",
+      "ntitle": "demos gegen afdparteitag thüringer polizei zieht positive bilanz",
+      "title": "Demos gegen AfD-Parteitag: Thüringer Polizei zieht positive Bilanz",
+      "summary": "Zehntausende Menschen haben in Erfurt am Wochenende weitgehend friedlich gegen den AfD-Bundesparteitag demonstriert. Die Thüringer Polizei zieht eine positive Bilanz. Es gibt aber auch Kritik am Vorgehen der Einsatzkräfte.",
+      "source": "Tagesschau",
+      "ts": "2026-07-05T21:09:01"
+    },
+    {
+      "id": "c3eaaa50-c53e-42a4-9f5a-f06a51ce3a3d",
+      "ntitle": "abschluss des afdparteitags endlich aus der opposition in die regierung",
+      "title": "Abschluss des AfD-Parteitags: \"Endlich aus der Opposition in die Regierung\"",
+      "summary": "Zum Ende ihres Parteitags haben die AfD-Chefs nochmal klargestellt, dass sie regieren wollen - in den Ländern und nach 2029 auch auf Bundesebene. Kritik an einem Landesverband gab es von Co-Chefin Weidel - für dessen Aussagen zum Familienbild.",
+      "source": "Tagesschau",
+      "ts": "2026-07-05T21:09:01"
+    },
+    {
+      "id": "fb21a361-b3e0-4757-b432-118ec17863b6",
+      "ntitle": "verkauf von alkohol jetzt auch am sonntag in finnland",
+      "title": "Verkauf von Alkohol jetzt auch am Sonntag in Finnland",
+      "summary": "Verkauf von Alkohol jetzt auch am Sonntag in Finnland",
+      "source": "Tagesschau",
+      "ts": "2026-07-05T21:09:01"
+    },
+    {
+      "id": "7d5722c9-4002-46fb-9d8b-92974ffc1d92",
+      "ntitle": "torben lehning mdr mit details zum afdparteitag in erfurt",
+      "title": "Torben Lehning, MDR, mit Details zum AfD-Parteitag in Erfurt",
+      "summary": "Torben Lehning, MDR, mit Details zum AfD-Parteitag in Erfurt",
+      "source": "Tagesschau",
+      "ts": "2026-07-05T21:09:01"
+    },
+    {
+      "id": "8d095b24-4e10-4481-98a2-7c9551450f22",
+      "ntitle": "usa feiern 250 jahrestag ihrer unabhängigkeit uspräsident trump hält rede",
+      "title": "USA feiern 250. Jahrestag ihrer Unabhängigkeit: US-Präsident Trump hält Rede",
+      "summary": "USA feiern 250. Jahrestag ihrer Unabhängigkeit: US-Präsident Trump hält Rede",
+      "source": "Tagesschau",
+      "ts": "2026-07-05T21:09:01"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Weidel-kritisiert-Abwertung-homosexueller-Partnerschaften-in-AfD-id31050163.html",
+      "ntitle": "ich lebe es weidel kritisiert abwertung homosexueller partnerschaften in afd",
+      "title": "\"Ich lebe es!\": Weidel kritisiert Abwertung homosexueller Partnerschaften in AfD",
+      "summary": "Die AfD in Sachsen-Anhalt stellt sich in ihrem Wahlprogramm gegen \"sexuelle Abweichungen\". Die homosexuelle Parteichefin Alice Weidel kritisiert das - und sagt etwas Bemerkenswertes über ihre Lebenspartnerin.",
+      "source": "ntv",
+      "ts": "2026-07-05T21:09:01"
+    },
+    {
+      "id": "https://www.n-tv.de/sport/fussball-wm/Trump-bedankt-sich-bei-FIFA-fuer-Begnadigung-von-Torjaeger-Balogun-id31050785.html",
+      "ntitle": "rote karte aufgehoben trump bedankt sich bei fifa für begnadigung von torjäger balogun",
+      "title": "Rote Karte aufgehoben: Trump bedankt sich bei FIFA für Begnadigung von Torjäger Balogun",
+      "summary": "Wegen einer Roten Karte nach grobem Foulspiel muss US-Torjäger Folarin Balogun eigentlich im Achtelfinale der WM 2026 passen. Doch nun hat die FIFA die Sperre offenbar aufgehoben. US-Präsident Donald Trump freut sich.",
+      "source": "ntv",
+      "ts": "2026-07-05T21:09:01"
+    },
+    {
+      "id": "https://www.n-tv.de/wirtschaft/Diese-Frau-ist-Musks-Erfolgsgeheimnis-id31044960.html",
+      "ntitle": "elon ist kein arschloch diese frau ist musks erfolgsgeheimnis",
+      "title": "\"Elon ist kein Arschloch\": Diese Frau ist Musks Erfolgsgeheimnis",
+      "summary": "Als SpaceX-Betriebsleiterin hält Gwynne Shotwell dem reichsten Mann der Welt seit 24 Jahren den Rücken frei. Sie ist für ihn so wichtig, dass er sie selbst zur Milliardärin gemacht hat. Denn sie versteht ihn wie nur wenige Menschen. Und schafft etwas, das Elon Musk nicht kann.",
+      "source": "ntv",
+      "ts": "2026-07-05T21:09:01"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Ich-hole-mir-ukrainische-Ausbilder-nach-Deutschland-id31048494.html",
+      "ntitle": "oberst diehl im interview ich hole mir ukrainische ausbilder nach deutschland",
+      "title": "Oberst Diehl im Interview: \"Ich hole mir ukrainische Ausbilder nach Deutschland\"",
+      "summary": "Für die Panzerbrigade 45, die 2027 fest in Litauen stationiert werden soll, geht ihre erste Großübung vor Ort zu Ende. Geübt wird im \"gläsernen Gefechtsfeld\" mit 350 Drohnen. \"Neue Produkte erproben wir 'im laufenden Gefecht'\", sagt Oberst Diehl ntv.de.",
+      "source": "ntv",
+      "ts": "2026-07-05T21:09:01"
+    },
+    {
+      "id": "https://www.n-tv.de/sport/fussball-wm/Warum-bei-Erling-Haaland-Braut-auf-dem-Trikot-steht-id31049679.html",
+      "ntitle": "es war nicht immer so warum bei erling haaland braut auf dem trikot steht",
+      "title": "Es war nicht immer so: Warum bei Erling Haaland \"Braut\" auf dem Trikot steht",
+      "summary": "Erling Haaland ist einer der erfolgreichsten Torjäger dieser Fußball-WM. Auf dem Trikot des norwegischen Stars steht vor seinem Nachnamen \"Braut\". Wie kommt es dazu?",
+      "source": "ntv",
+      "ts": "2026-07-05T21:09:01"
+    },
+    {
+      "id": "https://www.n-tv.de/sport/fussball-wm/Diese-vergessene-WM-Szene-koennte-noch-eine-Rolle-spielen-id31049645.html",
+      "ntitle": "völler rüffelt klopp diese vergessene wmszene könnte noch eine rolle spielen",
+      "title": "Völler rüffelt Klopp: Diese vergessene WM-Szene könnte noch eine Rolle spielen",
+      "summary": "Julian Nagelsmann ist DFB-Geschichte. Jürgen Klopp demnächst wahrscheinlich neuer Bundestrainer. Doch was wird aus Rudi Völler? Die Zukunft des DFB-Sportdirektors ist offen.",
+      "source": "ntv",
+      "ts": "2026-07-05T21:09:01"
+    },
+    {
+      "id": "6a4aa247ad32e994f875c8aa",
+      "ntitle": "übernahme von grönland ist derzeit die einzige lösung sagt ein usregierungsbeamter",
+      "title": "Übernahme von Grönland ist derzeit die „einzige Lösung“, sagt ein US-Regierungsbeamter",
+      "summary": "Die US-Regierung beschreibt „rege Marineaktivitäten“ rund um Grönland und reklamiert den Kauf der Insel als „einzige Lösung“ für den Nato-Schutz. Dänemark und die Regierung Grönlands wehren sich und suchen einen Kompromiss mit Washington.",
+      "source": "WELT",
+      "ts": "2026-07-05T21:09:01"
+    },
+    {
+      "id": "6a4a99edac819a6f6bcb03ab",
+      "ntitle": "fragwürdige begnadigung  fifa setzt rotsperre von usstar zur bewährung aus",
+      "title": "Fragwürdige Begnadigung – Fifa setzt Rot-Sperre von US-Star zur Bewährung aus",
+      "summary": "WM-Gastgeber USA darf in seinem Achtelfinale gegen Belgien überraschend auf Folarin Balogun zurückgreifen. Der Top-Stürmer wurde nach seiner Roten Karte von der Fifa begnadigt. Die Entscheidung bedeutet ein Novum. Donald Trump spricht von Wiedergutmachung.",
+      "source": "WELT",
+      "ts": "2026-07-05T21:09:01"
+    },
+    {
+      "id": "6a4a921edb7d41396347ca47",
+      "ntitle": "die usa haben keinerlei recht anderen ihren willen aufzuzwingen insistiert medwedew",
+      "title": "„Die USA haben keinerlei Recht, anderen ihren Willen aufzuzwingen“, insistiert Medwedew",
+      "summary": "Einst Hoffnungsträger für Reformen, heute Lautsprecher des Kreml: Dmitri Medwedew beschimpft die USA zum Unabhängigkeitsjubiläum als übergriffige Macht. „Sie sollen erst einmal das Chaos in ihrem eigenen Haus in den Griff bekommen“, fordert er in einem Kommentar.",
+      "source": "WELT",
+      "ts": "2026-07-05T21:09:01"
+    },
+    {
+      "id": "6a32a5fde495aff7b5846c5d",
+      "ntitle": "das tun wir jeden tag um unser krebsrisiko zu senken",
+      "title": "„Das tun wir jeden Tag, um unser Krebsrisiko zu senken“",
+      "summary": "Sie behandeln Krebs, erforschen Tumore und erleben die Angst der Patienten nach der Diagnose. Fünf Onkologen und Krebsforscher erklären, welche Präventionsregeln das Risiko senken – und an welche sie sich privat halten.",
+      "source": "WELT",
+      "ts": "2026-07-05T21:09:01"
+    },
+    {
+      "id": "6a4a8e430b14ed961bb52edd",
+      "ntitle": "grünenchefin verurteilt gewalt gegen journalisten bei protesten gegen afdparteitag",
+      "title": "Grünen-Chefin verurteilt Gewalt gegen Journalisten bei Protesten gegen AfD-Parteitag",
+      "summary": "Angriffe auf Reporter überschatten die Massenproteste gegen den AfD-Parteitag. Die Grünen-Vorsitzende Franziska Brantner spricht von einem „unverhandelbaren Grundrecht“ Pressefreiheit – und lobt zugleich zehntausende friedliche Demonstranten gegen Rechtsradikalismus.",
+      "source": "WELT",
+      "ts": "2026-07-05T21:09:01"
     }
   ],
   "breaking_seen": [
-    "https://www.n-tv.de/politik/Supreme-Court-stoppt-Trump-Plan-fuer-eingeschraenkte-Staatsbuergerschaft-id31032428.html",
+    "https://www.n-tv.de/politik/Klingbeil-Krankschreibung-ab-erstem-Tag-pragmatisch-loesen-id31050775.html",
+    "https://www.n-tv.de/politik/Jahrhunderturteil-Supreme-Court-weitet-Trumps-Macht-enorm-aus-id31050734.html",
+    "39e743d3-98f8-4575-86aa-55ef943b00e8",
     "https://www.n-tv.de/politik/Nato-einigt-sich-auf-80-Milliarden-Euro-Hilfe-fuer-die-Ukraine-id31045527.html",
-    "39e743d3-98f8-4575-86aa-55ef943b00e8"
+    "https://www.n-tv.de/politik/Supreme-Court-stoppt-Trump-Plan-fuer-eingeschraenkte-Staatsbuergerschaft-id31032428.html"
   ],
   "last_run": {
     "digest_morning": "2026-07-05",
     "digest_noon": "2026-07-05",
-    "digest_evening": "2026-07-04",
-    "daily": "2026-07-04",
-    "weekly": "2026-W26"
+    "digest_evening": "2026-07-05",
+    "daily": "2026-07-05",
+    "weekly": "2026-W27"
   }
 }
