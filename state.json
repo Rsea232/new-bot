@@ -3343,14 +3343,23 @@
       "summary": "Beim Nato-Gipfel der Staats- und Regierungschefs in Ankara wollen die Europäer zeigen, dass sie den Teilrückzug der USA kompensieren können. Nach WELT-Informationen gelingt das auch – und Deutschland leistet einen nennenswerten Beitrag.",
       "source": "WELT",
       "ts": "2026-07-07T14:07:51"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Urteil-Le-Pen-muss-fuer-ein-Jahr-eine-Fussfessel-tragen-id31057794.html",
+      "ntitle": "kandidatur vor dem aus urteil le pen muss für ein jahr eine fußfessel tragen",
+      "title": "Kandidatur vor dem Aus?: Urteil: Le Pen muss für ein Jahr eine Fußfessel tragen",
+      "summary": "Das Pariser Berufungsgericht verurteilt die rechtsnationale Marine Le Pen unter anderem zu einer einjährigen Haftstrafe mit Fußfessel. Damit könnte sie theoretisch kommendes Jahr bei der Präsidentschaftswahl in Frankreich antreten - praktisch wird das allerdings schwierig.",
+      "source": "ntv",
+      "ts": "2026-07-07T17:14:29"
     }
   ],
   "breaking_seen": [
-    "https://www.n-tv.de/politik/Klingbeil-Krankschreibung-ab-erstem-Tag-pragmatisch-loesen-id31050775.html",
-    "https://www.n-tv.de/politik/Jahrhunderturteil-Supreme-Court-weitet-Trumps-Macht-enorm-aus-id31050734.html",
     "39e743d3-98f8-4575-86aa-55ef943b00e8",
+    "https://www.n-tv.de/politik/Supreme-Court-stoppt-Trump-Plan-fuer-eingeschraenkte-Staatsbuergerschaft-id31032428.html",
+    "https://www.n-tv.de/politik/Jahrhunderturteil-Supreme-Court-weitet-Trumps-Macht-enorm-aus-id31050734.html",
     "https://www.n-tv.de/politik/Nato-einigt-sich-auf-80-Milliarden-Euro-Hilfe-fuer-die-Ukraine-id31045527.html",
-    "https://www.n-tv.de/politik/Supreme-Court-stoppt-Trump-Plan-fuer-eingeschraenkte-Staatsbuergerschaft-id31032428.html"
+    "https://www.n-tv.de/politik/Urteil-Le-Pen-muss-fuer-ein-Jahr-eine-Fussfessel-tragen-id31057794.html",
+    "https://www.n-tv.de/politik/Klingbeil-Krankschreibung-ab-erstem-Tag-pragmatisch-loesen-id31050775.html"
   ],
   "last_run": {
     "digest_morning": "2026-07-07",
