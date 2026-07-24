@@ -3455,14 +3455,23 @@
       "summary": "Dein News-Update für Stendal und die Altmark am 24. Juli 2026",
       "source": "WELT",
       "ts": "2026-07-24T09:18:01"
+    },
+    {
+      "id": "https://www.n-tv.de/sport/fussball/Jetzt-live-DFB-stellt-Bundestrainer-Juergen-Klopp-vor-id31120826.html",
+      "ntitle": "neustart nach wmdebakel jetzt live dfb stellt bundestrainer jürgen klopp vor",
+      "title": "Neustart nach WM-Debakel: Jetzt live: DFB stellt Bundestrainer Jürgen Klopp vor",
+      "summary": "Nach dem erneuten WM-Desaster ist vor dem neuen Bundestrainer: Jürgen Klopp übernimmt die Fußball-Nationalmannschaft. Der Deutsche Fußball-Bund präsentiert den Fanliebling nach Wochen der Verhandlungen.",
+      "source": "ntv",
+      "ts": "2026-07-24T11:39:58"
     }
   ],
   "breaking_seen": [
-    "39e743d3-98f8-4575-86aa-55ef943b00e8",
     "https://www.n-tv.de/politik/Supreme-Court-stoppt-Trump-Plan-fuer-eingeschraenkte-Staatsbuergerschaft-id31032428.html",
     "https://www.n-tv.de/politik/Jahrhunderturteil-Supreme-Court-weitet-Trumps-Macht-enorm-aus-id31050734.html",
-    "https://www.n-tv.de/politik/Nato-einigt-sich-auf-80-Milliarden-Euro-Hilfe-fuer-die-Ukraine-id31045527.html",
+    "39e743d3-98f8-4575-86aa-55ef943b00e8",
     "https://www.n-tv.de/politik/Urteil-Le-Pen-muss-fuer-ein-Jahr-eine-Fussfessel-tragen-id31057794.html",
+    "https://www.n-tv.de/sport/fussball/Jetzt-live-DFB-stellt-Bundestrainer-Juergen-Klopp-vor-id31120826.html",
+    "https://www.n-tv.de/politik/Nato-einigt-sich-auf-80-Milliarden-Euro-Hilfe-fuer-die-Ukraine-id31045527.html",
     "https://www.n-tv.de/politik/Klingbeil-Krankschreibung-ab-erstem-Tag-pragmatisch-loesen-id31050775.html"
   ],
   "last_run": {
