@@ -1,150 +1,6 @@
 {
   "history": [
     {
-      "id": "e222bda2-b79c-4147-b464-e00ecdcd618f",
-      "ntitle": "usa und saudiarabien atomabkommen in washington unterzeichnet",
-      "title": "USA und Saudi-Arabien: Atomabkommen in Washington unterzeichnet",
-      "summary": "Inmitten des Iran-Kriegs haben die USA ein Abkommen zum Aufbau eines zivilen Atomprogramms in Saudi-Arabien geschlossen. Der US-Kongress muss die Vereinbarung jedoch noch prüfen - und dort gibt es große Bedenken.",
-      "source": "Tagesschau",
-      "ts": "2026-07-23T08:19:00"
-    },
-    {
-      "id": "002f56c6-312b-46e7-9387-1bce03e7e859",
-      "ntitle": "livestream die nachrichten auf tagesschau24",
-      "title": "Livestream: Die Nachrichten auf tagesschau24",
-      "summary": "Aktuelle Meldungen, vertiefende Analysen und Interviews: Verfolgen Sie das Programm des ARD-Nachrichtenkanals tagesschau24 hier.",
-      "source": "Tagesschau",
-      "ts": "2026-07-23T08:19:00"
-    },
-    {
-      "id": "0d8ae588-0d60-4d22-ac70-f0487caec6d9",
-      "ntitle": "kihackerangriff  eine neue gefahr  22 juli",
-      "title": "KI-Hackerangriff · Eine neue Gefahr? | 22. Juli",
-      "summary": "Erstmals ist ein KI-Modell eigenständig aus einer Testumgebung ausgebrochen und hat ein anderes Unternehmen angegriffen. Der verantwortliche Entwickler OpenAI räumt einen „beispiellosen Cybervorfall“ ein.",
-      "source": "Tagesschau",
-      "ts": "2026-07-23T08:19:00"
-    },
-    {
-      "id": "069532b3-d6a0-4748-9a1f-0d89a8189cd2",
-      "ntitle": "kisoftware führt eigenständig hackerangriff durch",
-      "title": "KI-Software führt eigenständig Hackerangriff durch",
-      "summary": "KI-Software führt eigenständig Hackerangriff durch",
-      "source": "Tagesschau",
-      "ts": "2026-07-23T08:19:00"
-    },
-    {
-      "id": "64ebc554-8df5-478c-8db2-b53e3f7a8703",
-      "ntitle": "pressekonferenz der unionsfraktion frei soll neuer vorsitzender werden",
-      "title": "Pressekonferenz der Unionsfraktion: Frei soll neuer Vorsitzender werden",
-      "summary": "Pressekonferenz der Unionsfraktion: Frei soll neuer Vorsitzender werden",
-      "source": "Tagesschau",
-      "ts": "2026-07-23T08:19:00"
-    },
-    {
-      "id": "f1533c5e-5954-4974-9795-6410bcedef8d",
-      "ntitle": "erinnerung an opfer von anschlag am oez münchen",
-      "title": "Erinnerung an Opfer von Anschlag am OEZ München",
-      "summary": "Erinnerung an Opfer von Anschlag am OEZ München",
-      "source": "Tagesschau",
-      "ts": "2026-07-23T08:19:00"
-    },
-    {
-      "id": "0472afc9-d9a6-4907-915b-377cea8a3ac3",
-      "ntitle": "usa greifen iranische hauptstadt teheran an",
-      "title": "USA greifen iranische Hauptstadt Teheran an",
-      "summary": "USA greifen iranische Hauptstadt Teheran an",
-      "source": "Tagesschau",
-      "ts": "2026-07-23T08:19:00"
-    },
-    {
-      "id": "d2583ab5-14ed-4129-8115-126ee52fe9cc",
-      "ntitle": "kanzleramtschef frei soll nach spahn unionsfraktionsvorsitzender werden",
-      "title": "Kanzleramtschef Frei soll nach Spahn Unionsfraktionsvorsitzender werden",
-      "summary": "Kanzleramtschef Frei soll nach Spahn Unionsfraktionsvorsitzender werden",
-      "source": "Tagesschau",
-      "ts": "2026-07-23T08:19:00"
-    },
-    {
-      "id": "https://www.n-tv.de/wirtschaft/Mercedes-Verkaufsverbot-in-den-USA-koennte-naeherruecken-id31115355.html",
-      "ntitle": "wegen chinesischer beteiligung mercedesverkaufsverbot in den usa könnte näherrücken",
-      "title": "Wegen chinesischer Beteiligung: Mercedes-Verkaufsverbot in den USA könnte näherrücken",
-      "summary": "Die Vereinigten Staaten wollen gegen Autohersteller vorgehen, die chinesische Anteilseigner haben. Unter anderem Mercedes-Benz droht dadurch ein Verkaufsverbot. Unterstützung erhalten die Stuttgarter von zwei Senatoren.",
-      "source": "ntv",
-      "ts": "2026-07-23T08:19:00"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Trump-Iran-wird-sehr-bald-bereit-fuer-Deal-sein-id31115027.html",
-      "ntitle": "neue angriffswelle trump iran wird sehr bald bereit für deal sein",
-      "title": "Neue Angriffswelle: Trump: Iran wird \"sehr bald bereit\" für Deal sein",
-      "summary": "Schon die zwölfte Nacht in Folge attackieren die USA Ziele im Iran. US-Präsident Trump will Teheran damit in die Situation zwingen, einen Deal einzugehen. Derweil nehmen die mit dem Iran verbündeten Huthi im Jemen wieder Schiffe im Roten Meer ins Visier.",
-      "source": "ntv",
-      "ts": "2026-07-23T08:19:00"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Irans-Antwort-auf-Trumps-neue-Drohung-Auge-um-Auge-id31114945.html",
-      "ntitle": "ausweitung des kriegs irans antwort auf trumps neue drohung auge um auge",
-      "title": "\"Ausweitung des Kriegs\": Irans Antwort auf Trumps neue Drohung: \"Auge um Auge\"",
-      "summary": "Attackiert der Iran ein Schiff in der Straße von Hormus, zerstören die USA eine Brücke oder ein Kraftwerk - nach dieser Logik droht US-Präsident Trump fortan vorzugehen. Die Antwort aus Teheran ist ebenso martialisch. Außenminister Araghtschi kündigt \"kraftvolle und entschlossene\" Gegenwehr an.",
-      "source": "ntv",
-      "ts": "2026-07-23T08:19:00"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Huthi-greifen-saudi-arabische-Oeltanker-im-Roten-Meer-an-id31115440.html",
-      "ntitle": "mit raketen und drohnen huthi greifen saudiarabische öltanker im roten meer an",
-      "title": "\"Mit Raketen und Drohnen\": Huthi greifen saudi-arabische Öltanker im Roten Meer an",
-      "summary": "Die Huthi-Miliz tritt wenige Tage nach der Androhung einer Seeblockade im Roten Meer in den Iran-Krieg ein. Mindestens ein saudi-arabischer Öltanker gerät unter Beschuss. Damit ist eine weitere wichtige Handelsroute in Gefahr - mit möglichen Folgen für den Welthandel.",
-      "source": "ntv",
-      "ts": "2026-07-23T08:19:00"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/USA-und-Saudi-Arabien-besiegeln-zivilen-Atom-Deal-id31115001.html",
-      "ntitle": "hilfe beim aufbau usa und saudiarabien besiegeln zivilen atomdeal",
-      "title": "Hilfe beim Aufbau: USA und Saudi-Arabien besiegeln zivilen Atom-Deal",
-      "summary": "Im Konflikt mit dem Iran stärken die USA den Feind ihres Feindes: Die Trump-Regierung sichert Saudi-Arabien mit einem Abkommen Hilfe beim Aufbau eines zivilen Atomprogramms zu. Energieminister Wright betont, dass der Deal Riad nicht erlaube, sich atomar zu bewaffnen.",
-      "source": "ntv",
-      "ts": "2026-07-23T08:19:00"
-    },
-    {
-      "id": "https://www.n-tv.de/wirtschaft/Zerstoerung-russischer-Raffinerien-treibt-europaeische-Spritpreise-in-die-Hoehe-id31114108.html",
-      "ntitle": "warnung vor dieselengpass zerstörung russischer raffinerien treibt europäische spritpreise in die höhe",
-      "title": "Warnung vor Diesel-Engpass: Zerstörung russischer Raffinerien treibt europäische Spritpreise in die Höhe",
-      "summary": "Das größte Risiko der Kraftstoffversorgung geht trotz der jüngsten Eskalation in Nahost nicht von fehlendem Rohöl aus, sondern von einem Mangel an Raffineriekapazitäten. Obwohl Europa keinen Treibstoff mehr aus Russland importiert, ist der Rückgang der russischen Dieselproduktion hier deutlich spürbar.",
-      "source": "ntv",
-      "ts": "2026-07-23T08:19:00"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/US-Abgeordnete-winken-Rekordbudget-fuer-Pentagon-durch-id31115046.html",
-      "ntitle": "rund 30 prozent mehr usabgeordnete winken rekordbudget für pentagon durch",
-      "title": "Rund 30 Prozent mehr: US-Abgeordnete winken Rekordbudget für Pentagon durch",
-      "summary": "Die US-Armee soll im kommenden Jahr mit deutlich mehr Geld ausgestattet werden. Ein Gesetz, das die Verteidigungsausgaben der USA massiv steigert, passiert das US-Repräsentantenhaus. Doch im Senat machen die Demokraten Front gegen die Pläne.",
-      "source": "ntv",
-      "ts": "2026-07-23T08:19:00"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Kanada-will-gemeinsame-Bruecke-ohne-USA-einweihen-id31115362.html",
-      "ntitle": "konflikt um neue uszölle kanada will gemeinsame brücke ohne usa einweihen",
-      "title": "Konflikt um neue US-Zölle: Kanada will gemeinsame Brücke ohne USA einweihen",
-      "summary": "Die USA haben den Bau der neuen Brücke, die Windsor in Ontario mit Detroit verbindet, nicht finanziert. Dennoch fordert US-Präsident Trump, sie solle \"mindestens zur Hälfte\" den Vereinigten Staaten gehören. Der Konflikt zwischen den Nachbarländern erreicht vor der Eröffnung einen neuen Höhepunkt.",
-      "source": "ntv",
-      "ts": "2026-07-23T08:19:00"
-    },
-    {
-      "id": "6a61aa5a26ebb8e13e2edf56",
-      "ntitle": "mutmaßlicher mädchenjäger von ussexualstraftäter epstein tot aufgefunden",
-      "title": "Mutmaßlicher „Mädchenjäger“ von US-Sexualstraftäter Epstein tot aufgefunden",
-      "summary": "Er pries junge Mädchen und Frauen für Jeffrey Epstein an – jetzt ist der Franzose Daniel Siad tot. Die Ermittler in dem Todesfall richten den Blick auch auf das internationale Netzwerk hinter dem US-Sexualstraftäter.",
-      "source": "WELT",
-      "ts": "2026-07-23T08:19:00"
-    },
-    {
-      "id": "6a61a69cefccf0c0d55363c2",
-      "ntitle": "pulverfabrik in aschau soll produktion mehr als verdoppeln",
-      "title": "Pulverfabrik in Aschau soll Produktion mehr als verdoppeln",
-      "summary": "Die Munitionsbestände des Westens sind auf einem Tiefstand. Rheinmetall baut in Aschau eine moderne Pulverfabrik, um die Produktion zu steigern und die Abhängigkeit von China zu verringern.",
-      "source": "WELT",
-      "ts": "2026-07-23T08:19:00"
-    },
-    {
       "id": "93fcd2cf-269d-4a84-8dd5-106ff2276b13",
       "ntitle": "wie gerecht ist das reformpaket der koalition",
       "title": "Wie gerecht ist das Reformpaket der Koalition?",
@@ -3463,6 +3319,150 @@
       "summary": "Im Interview bewertet Welt-Kolumnist Henryk M. Broder die Diskussion über eine mögliche Absenkung der Fünf-Prozent-Hürde als parteipolitisch motiviert. Er sieht den Vorstoß vor allem durch die schwierige Lage der SPD begründet.",
       "source": "WELT",
       "ts": "2026-07-30T20:42:10"
+    },
+    {
+      "id": "ce999713-bd3e-4310-bc51-5617b68855a7",
+      "ntitle": "nach ankunft vieler migranten snchez reist nach ceuta",
+      "title": "Nach Ankunft vieler Migranten: Sánchez reist nach Ceuta",
+      "summary": "In den vergangenen Tagen erreichten viele Migranten das spanische Ceuta in Nordafrika. Die örtlichen Behörden sind beunruhigt, die Aufnahmezentren überfüllt. Heute reist Premierminister Sánchez in die Exklave. Die EU bot Hilfe durch Frontex an.",
+      "source": "Tagesschau",
+      "ts": "2026-07-31T09:43:31"
+    },
+    {
+      "id": "002f56c6-312b-46e7-9387-1bce03e7e859",
+      "ntitle": "livestream die nachrichten auf tagesschau24",
+      "title": "Livestream: Die Nachrichten auf tagesschau24",
+      "summary": "Aktuelle Meldungen, vertiefende Analysen und Interviews: Verfolgen Sie das Programm des ARD-Nachrichtenkanals tagesschau24 hier.",
+      "source": "Tagesschau",
+      "ts": "2026-07-31T09:43:31"
+    },
+    {
+      "id": "4de4a0f2-a15d-4775-be32-58b28cefc0bf",
+      "ntitle": "hamburg ersetzt eisenbahnbrücke",
+      "title": "Hamburg ersetzt Eisenbahnbrücke",
+      "summary": "Hamburg ersetzt Eisenbahnbrücke",
+      "source": "Tagesschau",
+      "ts": "2026-07-31T09:43:31"
+    },
+    {
+      "id": "ed787b9c-7e0d-4605-9fd2-bf9a66be3ac9",
+      "ntitle": "martin klingst hertie business school zum vertrauensverlust in den staat",
+      "title": "Martin Klingst, Hertie Business School, zum Vertrauensverlust in den Staat",
+      "summary": "Martin Klingst, Hertie Business School, zum Vertrauensverlust in den Staat",
+      "source": "Tagesschau",
+      "ts": "2026-07-31T09:43:31"
+    },
+    {
+      "id": "8a06f4db-4423-40e5-b1b3-15a5601307d2",
+      "ntitle": "waldbrände in südeuropa und der türkei",
+      "title": "Waldbrände in Südeuropa und der Türkei",
+      "summary": "Waldbrände in Südeuropa und der Türkei",
+      "source": "Tagesschau",
+      "ts": "2026-07-31T09:43:31"
+    },
+    {
+      "id": "2b11144b-72a9-40e7-9191-3a59a40ee534",
+      "ntitle": "hitzewelle in deutschland ist eine belastung für gesundheit und umwelt",
+      "title": "Hitzewelle in Deutschland ist eine Belastung für Gesundheit und Umwelt",
+      "summary": "Hitzewelle in Deutschland ist eine Belastung für Gesundheit und Umwelt",
+      "source": "Tagesschau",
+      "ts": "2026-07-31T09:43:31"
+    },
+    {
+      "id": "67b7b113-3dd6-4cf6-98ac-ac401164e0b1",
+      "ntitle": "nach stühlerücken im kabinett unmut in der cdu bei fraktion und an der basis",
+      "title": "Nach Stühlerücken im Kabinett: Unmut in der CDU bei Fraktion und an der Basis",
+      "summary": "Nach Stühlerücken im Kabinett: Unmut in der CDU bei Fraktion und an der Basis",
+      "source": "Tagesschau",
+      "ts": "2026-07-31T09:43:31"
+    },
+    {
+      "id": "75a01c31-741e-4c86-93fd-2f7362ae09a5",
+      "ntitle": "nach der wahl von frei als unionsfraktionsvorsitzenden christoph mestmacher ard berlin",
+      "title": "Nach der Wahl von Frei als Unions-Fraktionsvorsitzenden: Christoph Mestmacher, ARD Berlin",
+      "summary": "Nach der Wahl von Frei als Unions-Fraktionsvorsitzenden: Christoph Mestmacher, ARD Berlin",
+      "source": "Tagesschau",
+      "ts": "2026-07-31T09:43:31"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Italien-fordert-Ausschluss-Spaniens-aus-dem-Schengen-Raum-id31144445.html",
+      "ntitle": "migrantenansturm auf ceuta italien fordert ausschluss spaniens aus dem schengenraum",
+      "title": "Migranten-Ansturm auf Ceuta: Italien fordert Ausschluss Spaniens aus dem Schengen-Raum",
+      "summary": "Die Regierung in Rom bezeichnet den Andrang von Migranten auf die spanische Exklave Ceuta als Gefahr für die nationale Sicherheit. Ministerpräsidentin Meloni spricht von schockierenden Bildern und bringt den Ausschluss Spaniens aus dem Schengen-Raum ins Spiel. \"Italien wird nicht tatenlos zusehen\", so die Regierungschefin.",
+      "source": "ntv",
+      "ts": "2026-07-31T09:43:31"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Trump-Friedensrat-erzielt-Vereinbarung-zur-Entwaffnung-der-Hamas-id31144017.html",
+      "ntitle": "hamas bestätigt abkommen trump friedensrat erzielt vereinbarung zur entwaffnung der hamas",
+      "title": "Hamas bestätigt Abkommen: Trump: Friedensrat erzielt Vereinbarung zur Entwaffnung der Hamas",
+      "summary": "Der von den USA initiierte sogenannte Friedensrat erzielt laut US-Präsident Trump eine Vereinbarung zur \"vollständigen Entwaffnung\" der islamistischen Hamas im Gazastreifen. Das sei \"ein monumentaler Schritt\" hin zu dauerhaftem Frieden und Sicherheit, schreibt Trump auf seiner Plattform Truth Social.",
+      "source": "ntv",
+      "ts": "2026-07-31T09:43:31"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Trump-tritt-bei-Patriot-Lizenz-fuer-Kiew-auf-die-Bremse-id31144124.html",
+      "ntitle": "uspräsident ist nicht sicher trump tritt bei patriotlizenz für kiew auf die bremse",
+      "title": "US-Präsident ist \"nicht sicher\": Trump tritt bei Patriot-Lizenz für Kiew auf die Bremse",
+      "summary": "Ein großes Problem der Ukraine ist seit Beginn der russischen Vollinvasion der Mangel an Flugabwehrraketen. Daher ist die Freude über die Erlaubnis der USA, Patriotraketen selbst bauen zu dürfen, umso größer. Doch die währt womöglich nicht lange.",
+      "source": "ntv",
+      "ts": "2026-07-31T09:43:31"
+    },
+    {
+      "id": "https://www.n-tv.de/sport/fussball-wm/Gianni-Infantino-fliegt-der-eigene-Groessenwahn-boese-um-die-Ohren-id31144289.html",
+      "ntitle": "endlich eskaliert der fußball gianni infantino fliegt der eigene größenwahn böse um die ohren",
+      "title": "Endlich eskaliert der Fußball: Gianni Infantino fliegt der eigene Größenwahn böse um die Ohren",
+      "summary": "Die UEFA bietet Gianni Infantino die Stirn. Der FIFA-Präsident soll seinen Investorendeal beerdigen - oder er muss mit einem WM-Boykott rechnen. Es ist eine wohltuende Eskalation.",
+      "source": "ntv",
+      "ts": "2026-07-31T09:43:31"
+    },
+    {
+      "id": "https://www.n-tv.de/sport/fussball/Der-Erzfeind-bringt-Gianni-Infantino-maechtig-ins-Wanken-id31144482.html",
+      "ntitle": "ceferin liefert meisterstück der erzfeind bringt gianni infantino mächtig ins wanken",
+      "title": "Ceferin liefert Meisterstück: Der Erzfeind bringt Gianni Infantino mächtig ins Wanken",
+      "summary": "Mehr Geld für alle, mehr Einfluss für die USA und Infantino als künftiger Geschäftsführer: Die FIFA hat ihren WM-Deal gut durchdacht. Doch in Europa organisiert ein Slowene massiven Widerstand.",
+      "source": "ntv",
+      "ts": "2026-07-31T09:43:31"
+    },
+    {
+      "id": "https://www.n-tv.de/sport/fussball-wm/FIFA-reagiert-harsch-und-ueberraschend-auf-Kritik-an-Investorenplaenen-id31144386.html",
+      "ntitle": "angriff auf die medien fifa reagiert harsch und überraschend auf kritik an investorenplänen",
+      "title": "Angriff auf die Medien: FIFA reagiert harsch und überraschend auf Kritik an Investorenplänen",
+      "summary": "Gianni Infantino möchte den Fußball für Investoren öffnen. Das sorgt für gigantische Wut. Die UEFA droht sogar offen mit einem WM-Boykott. Nun reagiert die FIFA auf die Kritik und greift die Medien an.",
+      "source": "ntv",
+      "ts": "2026-07-31T09:43:31"
+    },
+    {
+      "id": "https://www.n-tv.de/wirtschaft/Deutsche-Oelkonzerne-wehren-sich-gegen-das-Kartellamt-id31144532.html",
+      "ntitle": "ermittlungen zu spritpreisen deutsche ölkonzerne wehren sich gegen das kartellamt",
+      "title": "Ermittlungen zu Spritpreisen: Deutsche Ölkonzerne wehren sich gegen das Kartellamt",
+      "summary": "Das Bundeskartellamt will klären, ob Mineralölkonzerne den Iran-Krieg für überhöhte Kraftstoffpreise genutzt haben. Zwei Raffinerie-Betreiber gehen juristisch gegen die Auskunftsanordnungen der Behörde vor. Dadurch könnten sich die Ermittlungen verzögern.",
+      "source": "ntv",
+      "ts": "2026-07-31T09:43:31"
+    },
+    {
+      "id": "https://www.n-tv.de/wirtschaft/Das-ist-der-russische-Online-Riese-Wildberries-id31142725.html",
+      "ntitle": "reichste russin ist gründerin das ist der russische onlineriese wildberries",
+      "title": "Reichste Russin ist Gründerin: Das ist der russische Online-Riese Wildberries",
+      "summary": "Die Ukraine attackiert \"Russlands Amazon\" zurzeit beinahe täglich. Hinter dem Unternehmen steht eine Selfmade-Milliardärin. Zu ihrer Erfolgsgeschichte gehört ein blutiges Kapitel.",
+      "source": "ntv",
+      "ts": "2026-07-31T09:43:31"
+    },
+    {
+      "id": "6a6c4c5edd06dd5ef2e40352",
+      "ntitle": "wir werden schneller einfacher digitaler  aber wir müssen nachlegen",
+      "title": "„Wir werden schneller, einfacher, digitaler – aber wir müssen nachlegen“",
+      "summary": "Gitta Connemann (CDU), Parlamentarische Staatssekretärin im Digitalministerium, verteidigt die bisherigen Reformbemühungen der schwarz-roten Bundesregierung und erklärt, wo „eine radikale Umkehr“ ansteht.",
+      "source": "WELT",
+      "ts": "2026-07-31T09:43:31"
+    },
+    {
+      "id": "6a6c3b0f5aee44c118a947c2",
+      "ntitle": "sorge dass ein einzelner mann den weltfußball zerstören kann",
+      "title": "„Sorge, dass ein einzelner Mann den Weltfußball zerstören kann“",
+      "summary": "Die Front gegen die Investoren-Pläne von Fifa-Boss Infantino wächst. Neben der Uefa bekräftigt der Verband Nord- und Mittelamerikas einen Boykott. Aus der DFB-Spitze kommt neue, scharfe Kritik.",
+      "source": "WELT",
+      "ts": "2026-07-31T09:43:31"
     }
   ],
   "breaking_seen": [
@@ -3475,7 +3475,7 @@
     "https://www.n-tv.de/politik/Klingbeil-Krankschreibung-ab-erstem-Tag-pragmatisch-loesen-id31050775.html"
   ],
   "last_run": {
-    "digest_morning": "2026-07-30",
+    "digest_morning": "2026-07-31",
     "digest_noon": "2026-07-30",
     "digest_evening": "2026-07-30",
     "daily": "2026-07-30",
