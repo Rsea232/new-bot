@@ -1,150 +1,6 @@
 {
   "history": [
     {
-      "id": "df69b363-5eb4-488d-bb29-0998c9c9b622",
-      "ntitle": "csdliveblog  anschlagsverdacht  polizei ermittelt mit fahndungsaufruf",
-      "title": "CSD-Liveblog: ++ Anschlagsverdacht - Polizei ermittelt mit Fahndungsaufruf ++",
-      "summary": "Ein Transporter ist am Rande des Berliner CSD in eine Menschenmenge gefahren. Eine Frau starb, mindestens 16 weitere Menschen wurden verletzt. Die Polizei fahndet nach dem mutmaßlichen Täter mit einem öffentlichen Fahndungsaufruf. Er soll der islamistischen Szene angehören.",
-      "source": "Tagesschau",
-      "ts": "2026-07-26T08:46:04"
-    },
-    {
-      "id": "4ab9d3d9-b1aa-44d9-bbb5-67a3915ab71c",
-      "ntitle": "csd in berlin fahrzeug in menschenmenge gefahren  eine tote und verletzte",
-      "title": "CSD in Berlin: Fahrzeug in Menschenmenge gefahren - eine Tote und Verletzte",
-      "summary": "Der Berliner Christopher Street Day ist abgebrochen worden, nachdem ein Fahrzeug in eine Menschenmenge gefahren war. Laut Polizei starb ein Mensch, mehrere weitere wurden verletzt. Der Fahrer gehört laut Polizei der islamistischen Szene an.",
-      "source": "Tagesschau",
-      "ts": "2026-07-26T08:46:04"
-    },
-    {
-      "id": "002f56c6-312b-46e7-9387-1bce03e7e859",
-      "ntitle": "livestream die nachrichten auf tagesschau24",
-      "title": "Livestream: Die Nachrichten auf tagesschau24",
-      "summary": "Aktuelle Meldungen, vertiefende Analysen und Interviews: Verfolgen Sie das Programm des ARD-Nachrichtenkanals tagesschau24 hier.",
-      "source": "Tagesschau",
-      "ts": "2026-07-26T08:46:04"
-    },
-    {
-      "id": "4b333750-69f2-4bb0-99a2-b7129cc3613f",
-      "ntitle": "umbau der bundesregierung die personalentscheidungen von kanzler merz",
-      "title": "Umbau der Bundesregierung: Die Personalentscheidungen von Kanzler Merz",
-      "summary": "Umbau der Bundesregierung: Die Personalentscheidungen von Kanzler Merz",
-      "source": "Tagesschau",
-      "ts": "2026-07-26T08:46:04"
-    },
-    {
-      "id": "983101f7-ecdc-4ea7-b749-93311d4321c1",
-      "ntitle": "übung pitch black luftwaffe trainiert nachtkämpfe in australien",
-      "title": "Übung \"Pitch Black\": Luftwaffe trainiert Nachtkämpfe in Australien",
-      "summary": "Übung \"Pitch Black\": Luftwaffe trainiert Nachtkämpfe in Australien",
-      "source": "Tagesschau",
-      "ts": "2026-07-26T08:46:04"
-    },
-    {
-      "id": "994db25b-f64c-4832-8d61-a6d4da036462",
-      "ntitle": "jürgen klopp wird neuer bundestrainer",
-      "title": "Jürgen Klopp wird neuer Bundestrainer",
-      "summary": "Jürgen Klopp wird neuer Bundestrainer",
-      "source": "Tagesschau",
-      "ts": "2026-07-26T08:46:04"
-    },
-    {
-      "id": "6a820206-478b-4f5a-b9c2-4662d4a1ce73",
-      "ntitle": "merz gibt wechsel im kabinett bekannt",
-      "title": "Merz gibt Wechsel im Kabinett bekannt",
-      "summary": "Merz gibt Wechsel im Kabinett bekannt",
-      "source": "Tagesschau",
-      "ts": "2026-07-26T08:46:04"
-    },
-    {
-      "id": "0a7e5205-10e3-4d1a-a27f-c0b2de936588",
-      "ntitle": "waldbrände in frankreich und spanien tausende touristen betroffen",
-      "title": "Waldbrände in Frankreich und Spanien: Tausende Touristen betroffen",
-      "summary": "Waldbrände in Frankreich und Spanien: Tausende Touristen betroffen",
-      "source": "Tagesschau",
-      "ts": "2026-07-26T08:46:04"
-    },
-    {
-      "id": "https://www.n-tv.de/panorama/Anschlag-auf-Berliner-CSD-Polizei-fahndet-oeffentlich-nach-Abdul-B-id31125388.html",
-      "ntitle": "aus islamistischer szene anschlag auf berliner csd polizei fahndet öffentlich nach abdul b",
-      "title": "\"Aus islamistischer Szene\": Anschlag auf Berliner CSD: Polizei fahndet öffentlich nach Abdul B.",
-      "summary": "Der Christopher Street Day wird von einer Todesfahrt durch den Tiergarten überschattet. Mindestens ein Mensch stirbt, über ein Dutzend weitere werden verletzt. Die Polizei verdächtigt einen 21-Jährigen. Erst vor Kurzem wurde er aus dem Jugendarrest entlassen.",
-      "source": "ntv",
-      "ts": "2026-07-26T08:46:04"
-    },
-    {
-      "id": "https://www.n-tv.de/panorama/Islamistischer-Anschlag-in-Berlin-Was-wir-wissen-und-was-nicht-id31125409.html",
-      "ntitle": "großeinsatz bei csd islamistischer anschlag in berlin was wir wissen und was nicht",
-      "title": "Großeinsatz bei CSD: Islamistischer Anschlag in Berlin? Was wir wissen und was nicht",
-      "summary": "Während Hunderttausende in Berlin den CSD feiern, rast ein Transporter durch den angrenzenden Tiergarten. Dabei stirbt eine Frau, weitere Menschen werden verletzt. Was bisher bekannt ist - und was nicht.",
-      "source": "ntv",
-      "ts": "2026-07-26T08:46:04"
-    },
-    {
-      "id": "https://www.n-tv.de/panorama/Auto-faehrt-in-Menschenmenge-bei-Berliner-CSD-eine-Tote-id31125254.html",
-      "ntitle": "fahrer weiter auf der flucht auto fährt in menschenmenge bei berliner csd  eine tote",
-      "title": "Fahrer weiter auf der Flucht: Auto fährt in Menschenmenge bei Berliner CSD - eine Tote",
-      "summary": "Tausende Menschen feiern in Berlin den Christopher Street Day. Der Abend endet abrupt. Ein Auto fährt in den Tiergarten nahe der Hauptbühne und verletzt mehrere Menschen. Mindestens eine Frau stirbt.",
-      "source": "ntv",
-      "ts": "2026-07-26T08:46:04"
-    },
-    {
-      "id": "https://www.n-tv.de/wirtschaft/Fast-jeder-zweite-Rentner-muss-Steuern-nachzahlen-id31125492.html",
-      "ntitle": "es trifft immer mehr senioren fast jeder zweite rentner muss steuern nachzahlen",
-      "title": "Es trifft immer mehr Senioren: Fast jeder zweite Rentner muss Steuern nachzahlen",
-      "summary": "Die Einkommensteuer wird bei Rentnern anders berechnet als im Arbeitsleben. Mehrere Faktoren entscheiden, ob nicht etwas an den Fiskus gezahlt werden muss. Das betrifft mittlerweile immer mehr Rentner.",
-      "source": "ntv",
-      "ts": "2026-07-26T08:46:04"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Geschasster-Verteidigungsminister-Fedorow-mausert-sich-zu-Selenskyjs-Konkurrenten-id31122642.html",
-      "ntitle": "auftrieb durch regierungskrise geschasster verteidigungsminister mausert sich zu selenskyjs konkurrenten",
-      "title": "Auftrieb durch Regierungskrise: Geschasster Verteidigungsminister mausert sich zu Selenskyjs Konkurrenten",
-      "summary": "Präsident Selenskyj strebt eine zweite Amtszeit an. Noch ist Krieg, aber die Konkurrenten für künftige Wahlen stehen schon in den Startlöchern. Zu ihnen gesellt sich nun auch der entlassene Verteidigungsminister - dabei war Fedorow noch vor Kurzem Selenskyjs engster Vertrauter.",
-      "source": "ntv",
-      "ts": "2026-07-26T08:46:04"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/CSU-Landeschef-fordert-Abkommen-mit-Kiew-id31125463.html",
-      "ntitle": "drohnenproduktion hochfahren csulandeschef fordert abkommen mit kiew",
-      "title": "\"Drohnenproduktion hochfahren\": CSU-Landeschef fordert Abkommen mit Kiew",
-      "summary": "Seit mehr als vier Jahren unterstützt Deutschland die Ukraine, sich gegen die russische Aggression zu verteidigen. Immer wichtiger werden dabei Drohnen. Nach Vorstellung von CSU-Politiker Hoffmann sollte die Bundeswehr von den Fähigkeiten der Ukrainer profitieren.",
-      "source": "ntv",
-      "ts": "2026-07-26T08:46:04"
-    },
-    {
-      "id": "https://www.n-tv.de/panorama/Frankreich-ruft-55-000-weitere-Menschen-zur-Evakuierung-auf-id31125367.html",
-      "ntitle": "auch bordeaux betroffen frankreich ruft 55000 weitere menschen zur evakuierung auf",
-      "title": "Auch Bordeaux betroffen: Frankreich ruft 55.000 weitere Menschen zur Evakuierung auf",
-      "summary": "Die Waldbrände in Südeuropa geraten weiter außer Kontrolle. \"Heute sind wir etwas pessimistischer als gestern\", sagt der spanische Innenminister. Viele Menschen müssen vor den Flammen fliehen. Baden-Württemberg bietet Hilfe an.",
-      "source": "ntv",
-      "ts": "2026-07-26T08:46:04"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Mullahs-planten-wohl-Raketenangriff-auf-Trump-Flieger-id31124961.html",
-      "ntitle": "grund für flugzeugtausch mullahs planten wohl raketenangriff auf trumpflieger",
-      "title": "Grund für Flugzeugtausch: Mullahs planten wohl Raketenangriff auf Trump-Flieger",
-      "summary": "Beim Nato-Gipfel in Ankara gab es offenbar eine konkrete Gefahr für Donald Trump: Aus Sorge vor einem iranischen Angriff drängte der Secret Service den US-Präsidenten lieber auf eine Ausweichmaschine zu setzen.",
-      "source": "ntv",
-      "ts": "2026-07-26T08:46:04"
-    },
-    {
-      "id": "6a63236edcb7d1d921ce79d1",
-      "ntitle": "wenn jüdische künstler von der bühne gejagt werden",
-      "title": "Wenn jüdische Künstler von der Bühne gejagt werden",
-      "summary": "Die queere jüdische Künstlerin Barbara Butch wurde in Grenoble mit Flaschen und Schotter beworfen. Ein weiteres Beispiel für den Fanatismus der antiisraelischen Boykottbewegung BDS – unterstützt von der französischen Linken.",
-      "source": "WELT",
-      "ts": "2026-07-26T08:46:04"
-    },
-    {
-      "id": "6a65a726166bc12eb54f684f",
-      "ntitle": "hundertprozentige sicherheit gibt es nicht  es wird immer eine schwachstelle geben",
-      "title": "„Hundertprozentige Sicherheit gibt es nicht – es wird immer eine Schwachstelle geben“",
-      "summary": "Ein Autofahrer hat am Rande des Christopher Street Day in Berlin mehrere Menschen angefahren. Eine Frau starb, es gibt mehrere Verletzte. Der Tatverdächtige Abdul B. ist flüchtig: „Ziel ist es jetzt, die Schwachstellen zu analysieren“, sagt Kriminologe Manuel Heinemann.",
-      "source": "WELT",
-      "ts": "2026-07-26T08:46:04"
-    },
-    {
       "id": "6c7bee88-972a-4f80-a29a-d7ed30540aa5",
       "ntitle": "faq was über den angriff auf den berliner csd bekannt ist",
       "title": "FAQ: Was über den Angriff auf den Berliner CSD bekannt ist",
@@ -3455,6 +3311,150 @@
       "summary": "Families search for children not seen since 60,000 people crossed into Spanish enclave, as death toll rises to 72",
       "source": "Financial Times",
       "ts": "2026-08-02T20:35:16"
+    },
+    {
+      "id": "fa5987bf-ead5-46e7-b50e-7e975cb528fd",
+      "ntitle": "deutsche wahlen im visier russischer desinformation",
+      "title": "Deutsche Wahlen im Visier russischer Desinformation",
+      "summary": "Vor den Wahlen in Berlin, Sachsen-Anhalt, Mecklenburg-Vorpommern und Niedersachsen kursieren Dutzende Fake-Inhalte, die Kandidaten diskreditieren und Deutschland als gespalten darstellen sollen. Was steckt dahinter? Von Joscha Weber.",
+      "source": "Tagesschau",
+      "ts": "2026-08-03T10:28:48"
+    },
+    {
+      "id": "002f56c6-312b-46e7-9387-1bce03e7e859",
+      "ntitle": "livestream die nachrichten auf tagesschau24",
+      "title": "Livestream: Die Nachrichten auf tagesschau24",
+      "summary": "Aktuelle Meldungen, vertiefende Analysen und Interviews: Verfolgen Sie das Programm des ARD-Nachrichtenkanals tagesschau24 hier.",
+      "source": "Tagesschau",
+      "ts": "2026-08-03T10:28:48"
+    },
+    {
+      "id": "215dcc20-ec7d-49b3-8b86-d0e1a42f3e43",
+      "ntitle": "renaissance der atomkraft",
+      "title": "Renaissance der Atomkraft?",
+      "summary": "Renaissance der Atomkraft?",
+      "source": "Tagesschau",
+      "ts": "2026-08-03T10:28:48"
+    },
+    {
+      "id": "bcef37f7-8941-4b8f-bc9b-067291b3b63b",
+      "ntitle": "in moskau sterben bei explosion mehrere menschen",
+      "title": "In Moskau sterben bei Explosion mehrere Menschen",
+      "summary": "In Moskau sterben bei Explosion mehrere Menschen",
+      "source": "Tagesschau",
+      "ts": "2026-08-03T10:28:48"
+    },
+    {
+      "id": "8d3c20b2-88af-4f02-b9cf-c4a45785853d",
+      "ntitle": "brasiliens präsident lula tritt wieder an",
+      "title": "Brasiliens Präsident Lula tritt wieder an",
+      "summary": "Brasiliens Präsident Lula tritt wieder an",
+      "source": "Tagesschau",
+      "ts": "2026-08-03T10:28:48"
+    },
+    {
+      "id": "1b87cbf1-d00b-4896-97c7-00199b41c59c",
+      "ntitle": "csd in hamburg  slowakei verschärft ihren kurs",
+      "title": "CSD in Hamburg - Slowakei verschärft ihren Kurs",
+      "summary": "CSD in Hamburg - Slowakei verschärft ihren Kurs",
+      "source": "Tagesschau",
+      "ts": "2026-08-03T10:28:48"
+    },
+    {
+      "id": "48aac09d-78ba-45a9-bf68-eedcad311121",
+      "ntitle": "polizei verdoppelt einsatzkräfte beim csd in hamburg",
+      "title": "Polizei verdoppelt Einsatzkräfte beim CSD in Hamburg",
+      "summary": "Polizei verdoppelt Einsatzkräfte beim CSD in Hamburg",
+      "source": "Tagesschau",
+      "ts": "2026-08-03T10:28:48"
+    },
+    {
+      "id": "515ec324-caa8-47a5-b868-6047e3bbe716",
+      "ntitle": "migranten verlassen spanische exklave ceuta wieder",
+      "title": "Migranten verlassen spanische Exklave Ceuta wieder",
+      "summary": "Migranten verlassen spanische Exklave Ceuta wieder",
+      "source": "Tagesschau",
+      "ts": "2026-08-03T10:28:48"
+    },
+    {
+      "id": "https://www.n-tv.de/wirtschaft/Dax-steigt-auf-Rekordhoch-id31152333.html",
+      "ntitle": "usairangespräche angekündigt dax steigt auf rekordhoch",
+      "title": "USA-Iran-Gespräche angekündigt: Dax steigt auf Rekordhoch",
+      "summary": "Starke Quartalsberichte und sinkende Ölpreise führen zu Aufwind am Aktienmarkt: der Dax erreicht einen Rekordwert. Der deutsche Leitindex steigt auf 25.912,59 Punkte - und damit über den Anfang Juli erreichten Höchststand.",
+      "source": "ntv",
+      "ts": "2026-08-03T10:28:48"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Trump-kuendigt-zu-Wochenbeginn-neue-Gespraeche-mit-dem-Iran-an-id31151541.html",
+      "ntitle": "nach verkündeter angriffspause trump kündigt zu wochenbeginn neue gespräche mit dem iran an",
+      "title": "Nach verkündeter Angriffspause: Trump kündigt zu Wochenbeginn neue Gespräche mit dem Iran an",
+      "summary": "Im Februar beginnen Israel und die USA die Angriffe in Nahost. Nun soll es einen neuen Anlauf für eine nachhaltige Friedenslösung geben. US-Präsident Trump bestätigt zeitnahe Gespräche mit Teheran.",
+      "source": "ntv",
+      "ts": "2026-08-03T10:28:48"
+    },
+    {
+      "id": "https://www.n-tv.de/wirtschaft/Oelpreis-gibt-nach-Trump-Ankuendigung-nach-id31151898.html",
+      "ntitle": "börsen in asien zurückhaltend ölpreis gibt nach trumpankündigung nach",
+      "title": "Börsen in Asien zurückhaltend: Ölpreis gibt nach Trump-Ankündigung nach",
+      "summary": "Es scheint das ewig gleiche Spiel zu sein. Der US-Präsident stellt im Iran-Krieg eine Lösung in Aussicht, und schon gehen Ölpreise runter und Börsenkurse rauf. Ersteres passierte auch im aktuellen Fall, das Feuerwerk auf dem Parkett bleibt noch aus.",
+      "source": "ntv",
+      "ts": "2026-08-03T10:28:48"
+    },
+    {
+      "id": "https://www.n-tv.de/wirtschaft/Soeder-erwaegt-CO2-Preis-Absenkung-statt-12-Uhr-Regel-an-Tankstellen-id31151502.html",
+      "ntitle": "kein comeback des tankrabatts söder erwägt co2preisabsenkung statt 12uhrregel an tankstellen",
+      "title": "Kein Comeback des Tankrabatts: Söder erwägt CO2-Preis-Absenkung statt 12-Uhr-Regel an Tankstellen",
+      "summary": "Nach Auslaufen des Tankrabatts steigen die Benzinpreise wieder über die Zwei-Euro-Marke. Dass Tankstellen nur einmal am Tag die Preise erhöhen dürfen, führe zu keiner spürbaren Entlastung, mahnt der bayerische Ministerpräsident Markus Söder. Autofahrer will er mit anderen Maßnahmen entlasten.",
+      "source": "ntv",
+      "ts": "2026-08-03T10:28:48"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Auch-CSU-Politiker-murren-ueber-geplante-Reformen-id31152151.html",
+      "ntitle": "nach kritik aus dem osten auch csupolitiker murren über geplante reformen",
+      "title": "Nach Kritik aus dem Osten: Auch CSU-Politiker murren über geplante Reformen",
+      "summary": "Der Unmut wächst. Nicht nur die CDU-Regierungschefs von Sachsen, Sachsen-Anhalt und Thüringen fordern inzwischen Änderungen am geplanten Reformpaket der Bundesregierung. Auch unter CSU-Politikern regt sich Widerstand.",
+      "source": "ntv",
+      "ts": "2026-08-03T10:28:48"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/DIW-Oekonom-Fratzscher-Bleibt-Rente-mit-63-ist-die-Rentenreform-tot-id31151573.html",
+      "ntitle": "maßnahme spart zehn milliarden diwökonom fratzscher bleibt rente mit 63 ist die rentenreform tot",
+      "title": "Maßnahme spart zehn Milliarden: DIW-Ökonom Fratzscher: Bleibt Rente mit 63, \"ist die Rentenreform tot\"",
+      "summary": "Die Rentenkommission fordert die Abschaffung der abschlagsfreien Rente für langjährig Versicherte. Doch in den Koalitionsparteien wächst die Kritik. Ohne diese Einsparung platze die Finanzierung der gesamten Rentenreform, rechnet DIW-Präsident Marcel Fratzscher vor.",
+      "source": "ntv",
+      "ts": "2026-08-03T10:28:48"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Bas-schliesst-Aufschnueren-des-Rentenpakets-nicht-mehr-aus-id31151516.html",
+      "ntitle": "streitpunkt rente mit 63 bas schließt aufschnüren des rentenpakets nicht mehr aus",
+      "title": "Streitpunkt Rente mit 63: Bas schließt Aufschnüren des Rentenpakets nicht mehr aus",
+      "summary": "Bärbel Bas nennt das Rentenpaket bei der Vorstellung der geplanten Reformen ein \"Gesamtkunstwerk\". Die CDU-Regierungschefs in Ostdeutschland pochen im Wahlkampf auf Übergangsregelungen bei der Rente mit 63. Die SPD-Chefin sei \"bereit, über alles zu reden\".",
+      "source": "ntv",
+      "ts": "2026-08-03T10:28:48"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Marokko-macht-Fake-News-fuer-Ansturm-auf-Ceuta-verantwortlich-id31151694.html",
+      "ntitle": "dutzende werden noch vermisst marokko macht fakenews für ansturm auf ceuta verantwortlich",
+      "title": "Dutzende werden noch vermisst: Marokko macht Fake-News für Ansturm auf Ceuta verantwortlich",
+      "summary": "Wie kam es zu dem plötzlichen Andrang auf Ceuta? Mehrere Migranten behaupten, dass sie zum Grenzübertritt ermuntert worden seien. Die marokkanische Regierung weist die Schuld von sich.",
+      "source": "ntv",
+      "ts": "2026-08-03T10:28:48"
+    },
+    {
+      "id": "6a703b81cf0a7790ecb7dcdc",
+      "ntitle": "schwesig will rente mit 63 beibehalten  cdupolitiker warnt vor abkehr von rentenpaket",
+      "title": "Schwesig will „Rente mit 63“ beibehalten – CDU-Politiker warnt vor Abkehr von Rentenpaket",
+      "summary": "Die Rentenkommission setzt auf Einschnitte, doch Ministerpräsidentin Manuela Schwesig droht mit einem Nein im Bundesrat. Ein CDU-Politiker warnt davor, „einen Baustein rauszuziehen“.",
+      "source": "WELT",
+      "ts": "2026-08-03T10:28:48"
+    },
+    {
+      "id": "6a6f449add06dd5ef2e424f0",
+      "ntitle": "wie bonn gerade von der landkarte verschwindet",
+      "title": "Wie Bonn gerade von der Landkarte verschwindet",
+      "summary": "Brücken gesperrt. Bahnen aus dem Verkehr gezogen. Flughafenanbindung verschoben. Busse sollen weg. Reiner Zufall? Oder steckt hinter Bonns Verkehrschaos ein viel größerer Plan?",
+      "source": "WELT",
+      "ts": "2026-08-03T10:28:48"
     }
   ],
   "breaking_seen": [
@@ -3467,7 +3467,7 @@
     "https://www.n-tv.de/politik/Klingbeil-Krankschreibung-ab-erstem-Tag-pragmatisch-loesen-id31050775.html"
   ],
   "last_run": {
-    "digest_morning": "2026-08-02",
+    "digest_morning": "2026-08-03",
     "digest_noon": "2026-08-02",
     "digest_evening": "2026-08-02",
     "daily": "2026-08-02",
