@@ -1,150 +1,6 @@
 {
   "history": [
     {
-      "id": "635ade3d-74be-48b8-a6e0-31c7f09bc065",
-      "ntitle": "inzwischen rund 60000 migranten in ceuta angekommen  34 tote",
-      "title": "Inzwischen rund 60.000 Migranten in Ceuta angekommen - 34 Tote",
-      "summary": "Laut Behörden haben in den vergangenen Tagen rund 60.000 Menschen Ceuta erreicht. Der Regionalpräsident spricht von einem unmöglichen Druck auf die spanische Exklave. Die Zahl der Toten ist weiter gestiegen.",
-      "source": "Tagesschau",
-      "ts": "2026-07-31T14:25:03"
-    },
-    {
-      "id": "7c326450-d149-4375-a071-79b4479cf712",
-      "ntitle": "spanische exklave in nordafrika eu bietet spanien hilfe in ceuta an",
-      "title": "Spanische Exklave in Nordafrika: EU bietet Spanien Hilfe in Ceuta an",
-      "summary": "In Ceuta spitzt sich die Migrationslage zu. Die EU bietet Spanien Hilfe an, Italiens Ministerpräsidentin sieht europäische Grenzen bedroht und erwägt, das Schengen-Abkommen auszusetzen. Frankreich will seine Grenzkontrollen verschärfen.",
-      "source": "Tagesschau",
-      "ts": "2026-07-31T14:25:03"
-    },
-    {
-      "id": "ea2d80be-efad-4c19-b4ec-c402d8b27c35",
-      "ntitle": "wahlkampf in sachsenanhalt läuft auf hochtouren",
-      "title": "Wahlkampf in Sachsen-Anhalt läuft auf Hochtouren",
-      "summary": "Wahlkampf in Sachsen-Anhalt läuft auf Hochtouren",
-      "source": "Tagesschau",
-      "ts": "2026-07-31T14:25:03"
-    },
-    {
-      "id": "fe7ad074-009e-4562-bd3f-78f99f12cbc1",
-      "ntitle": "verschärfte sicherheitsmaßnahmen beim csd in hamburg",
-      "title": "Verschärfte Sicherheitsmaßnahmen beim CSD in Hamburg",
-      "summary": "Verschärfte Sicherheitsmaßnahmen beim CSD in Hamburg",
-      "source": "Tagesschau",
-      "ts": "2026-07-31T14:25:03"
-    },
-    {
-      "id": "0969960b-227e-4e75-8516-3db47e4a320e",
-      "ntitle": "hitze verursacht dürre und niedrigwasser in vielen regionen",
-      "title": "Hitze verursacht Dürre und Niedrigwasser in vielen Regionen",
-      "summary": "Hitze verursacht Dürre und Niedrigwasser in vielen Regionen",
-      "source": "Tagesschau",
-      "ts": "2026-07-31T14:25:03"
-    },
-    {
-      "id": "3169da01-ff6f-40fa-a5ca-454c236ad1d4",
-      "ntitle": "trump meldet vereinbarung zur hamasentwaffnung jc kitzler ard tel aviv",
-      "title": "Trump meldet Vereinbarung zur Hamas-Entwaffnung: J.-C. Kitzler, ARD Tel Aviv",
-      "summary": "Trump meldet Vereinbarung zur Hamas-Entwaffnung: J.-C. Kitzler, ARD Tel Aviv",
-      "source": "Tagesschau",
-      "ts": "2026-07-31T14:25:03"
-    },
-    {
-      "id": "b519407f-51a7-4d5d-a855-ed9123b79507",
-      "ntitle": "weltaidskonferenz in brasilien",
-      "title": "Welt-Aids-Konferenz in Brasilien",
-      "summary": "Welt-Aids-Konferenz in Brasilien",
-      "source": "Tagesschau",
-      "ts": "2026-07-31T14:25:03"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Ceuta-60-000-Migranten-erreichen-spanische-Exklave-id31145041.html",
-      "ntitle": "spanien spricht von angriff 60000 migranten erreichen exklave ceuta  25000 kehren zurück",
-      "title": "Spanien spricht von Angriff: 60.000 Migranten erreichen Exklave Ceuta - 25.000 kehren zurück",
-      "summary": "Es ist der größte Andrang von Migranten nach Ceuta seit 2021. In den vergangenen Stunden gelangen Zehntausende Menschen von Marokko in die spanische Exklave. Spaniens Regierungschef spricht von einem Angriff. Den plötzlichen Andrang führt er auf ein Gerücht der Schleusermafia zurück.",
-      "source": "ntv",
-      "ts": "2026-07-31T14:25:03"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Andrang-in-Ceuta-Frankreich-verstaerkt-Grenzkontrollen-zu-Spanien-id31146253.html",
-      "ntitle": "polizisten soldaten und zöllner andrang in ceuta  frankreich verstärkt grenzkontrollen zu spanien",
-      "title": "Polizisten, Soldaten und Zöllner: Andrang in Ceuta - Frankreich verstärkt Grenzkontrollen zu Spanien",
-      "summary": "Zehntausende Migranten gelangen nach spanischen Angaben von Marokko in die Exklave Ceuta. Jetzt verschärft Frankreich die Überwachung der Grenze zu Spanien. Unterdessen reagiert auch Bundeskanzler Friedrich Merz.",
-      "source": "ntv",
-      "ts": "2026-07-31T14:25:03"
-    },
-    {
-      "id": "https://www.n-tv.de/sport/fussball-wm/Gianni-Infantinos-umstrittener-WM-Plan-steht-vor-dem-Blitz-K-o-id31145377.html",
-      "ntitle": "auch asien winkt ab gianni infantinos umstrittener wmplan steht vor dem blitzko",
-      "title": "Auch Asien winkt ab: Gianni Infantinos umstrittener WM-Plan steht vor dem Blitz-K.-o.",
-      "summary": "Nächster empfindlicher Schlag für Infantino: Auch die Asiatische Fußball-Konföderation schließt sich UEFA und CONCACAF an und erklärt, die FIFA solle ihre umstrittenen Investitionspläne nicht weiterverfolgen. Für Infantinos Plan wäre damit keine Mehrheit möglich.",
-      "source": "ntv",
-      "ts": "2026-07-31T14:25:03"
-    },
-    {
-      "id": "https://www.n-tv.de/sport/fussball/FIFA-Chefberater-schmeisst-hin-Infantino-verliert-engen-Vertrauten-id31145973.html",
-      "ntitle": "aus protest gegen wmplan fifachefberater schmeißt hin infantino verliert engen vertrauten",
-      "title": "Aus Protest gegen WM-Plan: FIFA-Chefberater schmeißt hin: Infantino verliert engen Vertrauten",
-      "summary": "FIFA-Boss Gianni Infantino bekommt jetzt auch aus dem engsten Umfeld Gegenwind. Aus Protest gegen seine Pläne, Teile der Weltmeisterschaften zu verkaufen, tritt sein Chefberater Carlos Cordeiro zurück.",
-      "source": "ntv",
-      "ts": "2026-07-31T14:25:03"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Kretschmer-droht-mit-Nein-bei-Renten-Abstimmung-im-Bundesrat-id31145774.html",
-      "ntitle": "rentenreform in gefahr kretschmer droht mit nein bei rentenabstimmung im bundesrat",
-      "title": "Rentenreform in Gefahr?: Kretschmer droht mit Nein bei Renten-Abstimmung im Bundesrat",
-      "summary": "Friedrich Merz stellt seine Rentenreform als \"Gesamtkonzept\" vor, Sozialministerin Bas spricht sogar von einem \"Gesamtkunstwerk\". Sachsens Ministerpräsident Kretschmer sieht das anders und droht mit Blockade - doch allein kann er nur wenig ausrichten.",
-      "source": "ntv",
-      "ts": "2026-07-31T14:25:03"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/NRW-Innenminister-Reul-ermahnt-Merz-Kritiker-id31145781.html",
-      "ntitle": "liefern und nicht streiten nrwinnenminister reul ermahnt merzkritiker",
-      "title": "\"Liefern und nicht streiten\": NRW-Innenminister Reul ermahnt Merz-Kritiker",
-      "summary": "NRW-Innenminister Reul hat die Debatten über die Führungsqualität von Bundeskanzler Merz satt. Vor allem jetzt sei nicht die Zeit für solche Diskussionen, kritisiert er. Auf eine Interviewfrage reagiert der CDU-Politiker genervt, gibt aber eine Antwort.",
-      "source": "ntv",
-      "ts": "2026-07-31T14:25:03"
-    },
-    {
-      "id": "6a6c5982ff33749f57289cc9",
-      "ntitle": "der deutsche pass ist kein führerschein",
-      "title": "Der deutsche Pass ist kein Führerschein",
-      "summary": "Man kann die deutsche Staatsbürgerschaft nicht einfach entziehen. Wer auf islamistischen Terror mit immer neuen Eingriffen in Freiheitsrechte reagiert, bekämpft die Fehler der Migrationspolitik mit einem noch größeren Fehler.",
-      "source": "WELT",
-      "ts": "2026-07-31T14:25:03"
-    },
-    {
-      "id": "6a6c81a4dd06dd5ef2e4087a",
-      "ntitle": "bahn fordert löschung von zdfdoku mit dunja hayali  sender bezieht stellung",
-      "title": "Bahn fordert Löschung von ZDF-Doku mit Dunja Hayali – Sender bezieht Stellung",
-      "summary": "Zwei Fehler hat das ZDF in einer Dokumentation über die Deutsche Bahn berichtigt. Doch das Unternehmen will offenbar, dass diese ganz gelöscht wird. Gegenüber WELT bezieht der Sender Stellung.",
-      "source": "WELT",
-      "ts": "2026-07-31T14:25:03"
-    },
-    {
-      "id": "6a6c67c1ff33749f57289e12",
-      "ntitle": "reiche verteidigt rentenpläne gegen kritik der ostdeutschen cduministerpräsidenten",
-      "title": "Reiche verteidigt Rentenpläne gegen Kritik der ostdeutschen CDU-Ministerpräsidenten",
-      "summary": "Bundeswirtschaftsministerin Katherina Reiche hat die Rentenpläne der Bundesregierung gegen die Kritik der ostdeutschen CDU-Ministerpräsidenten verteidigt: „Wir brauchen insgesamt eine längere Lebensarbeitszeit, um wieder wettbewerbsfähig zu werden.“",
-      "source": "WELT",
-      "ts": "2026-07-31T14:25:03"
-    },
-    {
-      "id": "6a6c8ce4dd06dd5ef2e4097b",
-      "ntitle": "die eu hat eine ganze reihe von hebeln in den bilateralen beziehungen mit marokko",
-      "title": "„Die EU hat eine ganze Reihe von Hebeln in den bilateralen Beziehungen mit Marokko“",
-      "summary": "Johannes Volkmann (CDU) fordert bei WELT TV konsequenten Druck auf Spanien und Marokko, um illegale Migration über Ceuta zu stoppen: „Die Frage ist, wie Spanien gemeinsam mit den anderen Europäern dafür sorgen kann, dass seine Außengrenzen ordentlich geschützt sind“, so Volkermann.",
-      "source": "WELT",
-      "ts": "2026-07-31T14:25:03"
-    },
-    {
-      "id": "6a61cfffefccf0c0d55366aa",
-      "ntitle": "ein klang hält die zeit an",
-      "title": "Ein Klang hält die Zeit an",
-      "summary": "Seit 25 Jahren spielt die Orgel in der Sankt-Burchardi-Kirche in Halberstadt schon ein Stück des Komponisten John Cage. Erst im Jahr 2640 wird es beendet sein. Nun steht ein Klangwechsel an – eine Attraktion.",
-      "source": "WELT",
-      "ts": "2026-07-31T14:25:03"
-    },
-    {
       "id": "e1b0f3b0-b0b7-4d26-9a86-98c1299ee321",
       "ntitle": "dobrindt will grenzkontrollen in deutschland verlängern",
       "title": "Dobrindt will Grenzkontrollen in Deutschland verlängern",
@@ -3167,6 +3023,150 @@
       "summary": "Aus jeder Nachlässigkeit wird ein Grundsatzproblem, jede Kleinigkeit genügt für den nächsten Streit: Es gibt Paare, die einander schlechter behandeln als jeden anderen Menschen. Die Lösung beginnt mit einer kleinen Veränderung.",
       "source": "WELT",
       "ts": "2026-08-08T09:08:04"
+    },
+    {
+      "id": "45de0c89-78c1-47e9-9d98-84ad2201979d",
+      "ntitle": "ukraine schutzlos gegen ballistische raketen",
+      "title": "Ukraine: Schutzlos gegen ballistische Raketen",
+      "summary": "Russland greift die Ukraine verstärkt mit ballistischen Raketen an - mit tödlichen Folgen. Die Zahl ziviler Opfer stieg zuletzt erheblich, auch weil der Ukraine die Munition zur Flugabwehr fehlt. Von Rebecca Barth.",
+      "source": "Tagesschau",
+      "ts": "2026-08-08T15:05:42"
+    },
+    {
+      "id": "7fe369b7-4aea-4e05-bef9-31a16e8a1de4",
+      "ntitle": "ukraine meldet tote bei luftangriffen auf vorort von kiew",
+      "title": "Ukraine meldet Tote bei Luftangriffen auf Vorort von Kiew",
+      "summary": "Bei einer nächtlichen Angriffswelle sind in der Ukraine vier Menschen getötet worden. Getroffen wurden Wohnhäuser und Öltanks in und um Kiew. In Russland brannten nach ukrainischen Drohnenangriffen zwei Ölraffinerien.",
+      "source": "Tagesschau",
+      "ts": "2026-08-08T15:05:42"
+    },
+    {
+      "id": "89d88e23-b93a-41d1-a0d3-b85746d439b0",
+      "ntitle": "susanne petersohn ard kiew zu den russischen luftangriffen auf kiew",
+      "title": "Susanne Petersohn, ARD Kiew, zu den russischen Luftangriffen auf Kiew",
+      "summary": "Susanne Petersohn, ARD Kiew, zu den russischen Luftangriffen auf Kiew",
+      "source": "Tagesschau",
+      "ts": "2026-08-08T15:05:42"
+    },
+    {
+      "id": "57dbffc0-89ad-4924-852d-9b7de3e35909",
+      "ntitle": "natalie amiri ard tel aviv zzt wien zu selenskyjs besuch in serbien",
+      "title": "Natalie Amiri, ARD Tel Aviv, zzt. Wien, zu Selenskyjs Besuch in Serbien",
+      "summary": "Natalie Amiri, ARD Tel Aviv, zzt. Wien, zu Selenskyjs Besuch in Serbien",
+      "source": "Tagesschau",
+      "ts": "2026-08-08T15:05:42"
+    },
+    {
+      "id": "b4220eef-60b2-4957-ad85-de89732c9538",
+      "ntitle": "beratungen über globale krisen weltsozialforum in benin",
+      "title": "Beratungen über globale Krisen: Weltsozialforum in Benin",
+      "summary": "Beratungen über globale Krisen: Weltsozialforum in Benin",
+      "source": "Tagesschau",
+      "ts": "2026-08-08T15:05:42"
+    },
+    {
+      "id": "8325f877-5509-4253-bbd7-d208a39e2c3d",
+      "ntitle": "ebola breitet sich rasant in der demokratischen republik kongo aus",
+      "title": "Ebola breitet sich rasant in der Demokratischen Republik Kongo aus",
+      "summary": "Ebola breitet sich rasant in der Demokratischen Republik Kongo aus",
+      "source": "Tagesschau",
+      "ts": "2026-08-08T15:05:42"
+    },
+    {
+      "id": "92575711-9928-4ce1-a9b2-cc1a3de70883",
+      "ntitle": "kolumbiens neuer präsident de la espriella im amt",
+      "title": "Kolumbiens neuer Präsident de la Espriella im Amt",
+      "summary": "Kolumbiens neuer Präsident de la Espriella im Amt",
+      "source": "Tagesschau",
+      "ts": "2026-08-08T15:05:42"
+    },
+    {
+      "id": "https://www.n-tv.de/panorama/Behoerden-evakuieren-200-Menschen-wegen-Waldbrand-am-Gardasee-id31172712.html",
+      "ntitle": "feuer nicht unter kontrolle behörden evakuieren 200 menschen wegen waldbrand am gardasee",
+      "title": "Feuer nicht unter Kontrolle: Behörden evakuieren 200 Menschen wegen Waldbrand am Gardasee",
+      "summary": "Italien ist ein beliebtes Urlaubsziel im Sommer. Doch aktuell bereiten Hitze, Trockenheit und Waldbrände große Sorgen. Am Gardasee müssen nun 200 Menschen evakuiert werden, weil ein Feuer sich seinen Weg bahnt. Davon sind auch zahlreiche Touristen betroffen.",
+      "source": "ntv",
+      "ts": "2026-08-08T15:05:42"
+    },
+    {
+      "id": "https://www.n-tv.de/wirtschaft/Amazons-finanziert-gigantisches-Gaskraftwerk-fuer-Rechenzentren-id31172157.html",
+      "ntitle": "wettlauf im kiboom amazons finanziert gigantisches gaskraftwerk für rechenzentren",
+      "title": "Wettlauf im KI-Boom: Amazons finanziert gigantisches Gaskraftwerk für Rechenzentren",
+      "summary": "Der Wettlauf der Techriesen um die Führerschaft bei künstlicher Intelligenz führt zu einem Kampf um Energie. Amazon setzt für drei seiner künftigen Rechenzentren auf ein Gaskraftwerk. Aber nicht irgendeines, sondern das größte der USA.",
+      "source": "ntv",
+      "ts": "2026-08-08T15:05:42"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Russland-angeblich-ukrainische-Waffenfabrik-getroffen-id31172256.html",
+      "ntitle": "wichtiger rüstungslieferant russland soll ukrainischen flamingokonzern getroffen haben",
+      "title": "Wichtiger Rüstungslieferant: Russland soll ukrainischen Flamingo-Konzern getroffen haben",
+      "summary": "Russland hat angeblich einen Waffenkonzern in der Ukraine erfolgreich angegriffen. Ziel der Attacke soll der Hersteller Fire Point gewesen sein, der den wichtigen Marschflugkörper Flamingo sowie Langstreckendrohnen herstellt.",
+      "source": "ntv",
+      "ts": "2026-08-08T15:05:42"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Dobrindt-plant-Ausweise-ohne-Adresse-und-mit-mehr-Sicherheitsmerkmalen-id31172215.html",
+      "ntitle": "weniger bürokratie möglich dobrindt plant ausweise ohne adresse und mit mehr sicherheitsmerkmalen",
+      "title": "Weniger Bürokratie möglich: Dobrindt plant Ausweise ohne Adresse und mit mehr Sicherheitsmerkmalen",
+      "summary": "Im Zusammenhang mit Digitalisierung und Bürokratieabbau könnte sich auch an den Personalausweisen etwas ändern. Plänen zufolge könnte dort bald keine Adresse mehr stehen. Das würde Ummeldungen erleichtern. Bei der Sicherheit sollen die Anforderungen dafür wachsen.",
+      "source": "ntv",
+      "ts": "2026-08-08T15:05:42"
+    },
+    {
+      "id": "https://www.n-tv.de/panorama/Spanische-Polizei-legt-Mittelmeer-Ferraris-lahm-id31172517.html",
+      "ntitle": "schlepperbande machte millionen spanische polizei legt mittelmeerferraris lahm",
+      "title": "Schlepperbande machte Millionen: Spanische Polizei legt \"Mittelmeer-Ferraris\" lahm",
+      "summary": "Zehntausende Menschen, die die Exklave Ceuta stürmen, rücken zuletzt Spanien in den Fokus der europäischen Migrationspolitik. Nun meldet das Land einen Schlag gegen Schlepper. Diese brachten über Jahre Menschen in Speedbooten nach Europa.",
+      "source": "ntv",
+      "ts": "2026-08-08T15:05:42"
+    },
+    {
+      "id": "https://www.n-tv.de/sport/Wellbrock-fischt-drittes-Gold-bei-der-EM-aus-der-Seine-id31172411.html",
+      "ntitle": "diesmal mit der staffel wellbrock fischt drittes gold bei der em aus der seine",
+      "title": "Diesmal mit der Staffel: Wellbrock fischt drittes Gold bei der EM aus der Seine",
+      "summary": "Dritter Titel im vierten Rennen: Florian Wellbrock ist einer der Dominatoren bei der Schwimm-Europameisterschaft. Im Freiwasser gewinnt er auch mit der Mixed-Staffel Gold.",
+      "source": "ntv",
+      "ts": "2026-08-08T15:05:42"
+    },
+    {
+      "id": "6a772038cd7ba1c08997cb7e",
+      "ntitle": "neue spannungen in hormus  emirate werfen iran tankerangriff vor",
+      "title": "Neue Spannungen in Hormus – Emirate werfen Iran Tanker-Angriff vor",
+      "summary": "Während Teheran und Oman über eine neue Schifffahrtsroute durch die Straße von Hormus verhandeln, verschärft sich der Konflikt auf See. Die Vereinigten Arabischen Emirate beschuldigen den Iran eines Angriffs auf ein Schiff.",
+      "source": "WELT",
+      "ts": "2026-08-08T15:05:42"
+    },
+    {
+      "id": "6a771bdc35268e50270229cf",
+      "ntitle": "fifa uefa  das bedeutet immer auch sehr viel straflosigkeit am ende",
+      "title": "„Fifa, Uefa – das bedeutet immer auch sehr viel Straflosigkeit am Ende“",
+      "summary": "Die Uefa zahlte einer engen Mitarbeiterin von Gianni Infantino eine hohe Abfindung und finanzierte ihr ein MBA-Studium. Nun wird geprüft, ob persönliche Beziehungen Einfluss hatten. Global Reporter Tim Röhn analysiert die Hintergründe.",
+      "source": "WELT",
+      "ts": "2026-08-08T15:05:42"
+    },
+    {
+      "id": "6a7705ff0e3689919ec74db9",
+      "ntitle": "14jähriger erschießt bei amoklauf mindestens fünf menschen",
+      "title": "14-Jähriger erschießt bei Amoklauf mindestens fünf Menschen",
+      "summary": "Ein 14-Jähriger hat nahe Bangkok mindestens fünf Menschen getötet und über 20 verletzt. Nach dem Mord an seinen Großeltern eröffnete er das Feuer in einer Schule und erschoss sich selbst. Das Motiv ist unklar, Mobbing wird vermutet.",
+      "source": "WELT",
+      "ts": "2026-08-08T15:05:42"
+    },
+    {
+      "id": "6a7718a40e3689919ec74ebf",
+      "ntitle": "spdspitzenkandidat will mietpolizisten gegen wucher auf wohnungsmarkt einsetzen",
+      "title": "SPD-Spitzenkandidat will „Mietpolizisten“ gegen Wucher auf Wohnungsmarkt einsetzen",
+      "summary": "Mit scharferen Kontrollen will die Berliner SPD gegen mutmaßlichen Mietwucher vorgehen. Spitzenkandidat Steffen Krach kündigt 100 sogenannte „Mietenpolizisten“ und deutlich höhere Bußgelder für Vermieter an.",
+      "source": "WELT",
+      "ts": "2026-08-08T15:05:42"
+    },
+    {
+      "id": "6a77183dcd7ba1c08997caf4",
+      "ntitle": "drohne mit erheblicher menge sprengstoff explodiert an der grenze zwischen rumänien und bulgarien",
+      "title": "Drohne mit „erheblicher“ Menge Sprengstoff explodiert an der Grenze zwischen Rumänien und Bulgarien",
+      "summary": "Es sollen nur 1000 Meter bis zu einer Gaspipeline gewesen sein: An der Grenze zwischen Rumänien und Bulgarien ist eine Drohne explodiert. Es soll sich nicht um eine „Hobbydrohne“ gehandelt haben.",
+      "source": "WELT",
+      "ts": "2026-08-08T15:05:42"
     }
   ],
   "breaking_seen": [
@@ -3180,7 +3180,7 @@
   ],
   "last_run": {
     "digest_morning": "2026-08-08",
-    "digest_noon": "2026-08-07",
+    "digest_noon": "2026-08-08",
     "digest_evening": "2026-08-07",
     "daily": "2026-08-07",
     "weekly": "2026-W31"
