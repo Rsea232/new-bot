@@ -3311,16 +3311,25 @@
       "summary": "Nach einer Auseinandersetzung im Oktober 2023 in der Gerhardstraße war ein damals 29-Jähriger schwer verletzt worden. Nun nahm die Polizei einen Tatverdächtigen in dessen Wohnung in Rahlstedt fest.",
       "source": "WELT",
       "ts": "2026-08-12T14:30:36"
+    },
+    {
+      "id": "https://www.n-tv.de/wissen/Jetzt-live-Sonnenfinsternis-ueber-Europa-id31187076.html",
+      "ntitle": "zwei minuten dunkelheit jetzt live sonnenfinsternis über europa",
+      "title": "Zwei Minuten Dunkelheit: Jetzt live: Sonnenfinsternis über Europa",
+      "summary": "Europa erlebt ein außergewöhnliches Himmelsschauspiel: Der Mond schiebt sich zwischen Sonne und Erde. Die totale Sonnenfinsternis beginnt nahe der Nordküste Sibiriens und zieht über Grönland, Island, die Nordspitze Portugals und Spanien hinweg. In vielen anderen Regionen bleibt zumindest eine kleine Sichel.",
+      "source": "ntv",
+      "ts": "2026-08-12T19:14:48"
     }
   ],
   "breaking_seen": [
-    "https://www.n-tv.de/politik/Supreme-Court-stoppt-Trump-Plan-fuer-eingeschraenkte-Staatsbuergerschaft-id31032428.html",
-    "https://www.n-tv.de/politik/Jahrhunderturteil-Supreme-Court-weitet-Trumps-Macht-enorm-aus-id31050734.html",
     "39e743d3-98f8-4575-86aa-55ef943b00e8",
+    "https://www.n-tv.de/politik/Supreme-Court-stoppt-Trump-Plan-fuer-eingeschraenkte-Staatsbuergerschaft-id31032428.html",
+    "https://www.n-tv.de/politik/Nato-einigt-sich-auf-80-Milliarden-Euro-Hilfe-fuer-die-Ukraine-id31045527.html",
+    "https://www.n-tv.de/politik/Klingbeil-Krankschreibung-ab-erstem-Tag-pragmatisch-loesen-id31050775.html",
+    "https://www.n-tv.de/politik/Jahrhunderturteil-Supreme-Court-weitet-Trumps-Macht-enorm-aus-id31050734.html",
     "https://www.n-tv.de/politik/Urteil-Le-Pen-muss-fuer-ein-Jahr-eine-Fussfessel-tragen-id31057794.html",
     "https://www.n-tv.de/sport/fussball/Jetzt-live-DFB-stellt-Bundestrainer-Juergen-Klopp-vor-id31120826.html",
-    "https://www.n-tv.de/politik/Nato-einigt-sich-auf-80-Milliarden-Euro-Hilfe-fuer-die-Ukraine-id31045527.html",
-    "https://www.n-tv.de/politik/Klingbeil-Krankschreibung-ab-erstem-Tag-pragmatisch-loesen-id31050775.html"
+    "https://www.n-tv.de/wissen/Jetzt-live-Sonnenfinsternis-ueber-Europa-id31187076.html"
   ],
   "last_run": {
     "digest_morning": "2026-08-12",
