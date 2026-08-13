@@ -1,150 +1,6 @@
 {
   "history": [
     {
-      "id": "14aabf9c-27e0-4a7d-9031-639cb35b1e11",
-      "ntitle": "rente mit 63 wer sie nutzt  und wer sich darum streitet",
-      "title": "\"Rente mit 63\": Wer sie nutzt - und wer sich darum streitet",
-      "summary": "Die Abschaffung der \"Rente mit 63\" gilt als ein entscheidender Baustein der Rentenreform der Bundesregierung. Doch der Widerstand dagegen wird lauter. Wer profitiert eigentlich von der Frühverrentung? Und wer will daran festhalten?",
-      "source": "Tagesschau",
-      "ts": "2026-08-05T08:13:01"
-    },
-    {
-      "id": "b6da66da-761a-4fc8-833e-65613ec34027",
-      "ntitle": "arbeitgeber kritisieren widerstand gegen ende der rente mit 63",
-      "title": "Arbeitgeber kritisieren Widerstand gegen Ende der \"Rente mit 63\"",
-      "summary": "Das Aus der abschlagsfreien Frührente ist ein zentraler Punkt der schwarz-roten Rentenreform. Doch seit Tagen machen Teile der Koalition dagegen mobil. Der Arbeitgeberverband zeigt sich darüber \"fassungslos\".",
-      "source": "Tagesschau",
-      "ts": "2026-08-05T08:13:01"
-    },
-    {
-      "id": "002f56c6-312b-46e7-9387-1bce03e7e859",
-      "ntitle": "livestream die nachrichten auf tagesschau24",
-      "title": "Livestream: Die Nachrichten auf tagesschau24",
-      "summary": "Aktuelle Meldungen, vertiefende Analysen und Interviews: Verfolgen Sie das Programm des ARD-Nachrichtenkanals tagesschau24 hier.",
-      "source": "Tagesschau",
-      "ts": "2026-08-05T08:13:01"
-    },
-    {
-      "id": "8ada8853-00a2-45ac-ab88-bc0e66201092",
-      "ntitle": "treffen von vertretern aus israel und libanon zu sicherheitsabkommen",
-      "title": "Treffen von Vertretern aus Israel und Libanon zu Sicherheitsabkommen",
-      "summary": "Treffen von Vertretern aus Israel und Libanon zu Sicherheitsabkommen",
-      "source": "Tagesschau",
-      "ts": "2026-08-05T08:13:01"
-    },
-    {
-      "id": "c166d4b6-6c16-4250-94d9-9797cbb61138",
-      "ntitle": "pläne der bundesregierung für neuen zivildienst c mestmacher ard berlin",
-      "title": "Pläne der Bundesregierung für neuen Zivildienst: C. Mestmacher, ARD Berlin",
-      "summary": "Pläne der Bundesregierung für neuen Zivildienst: C. Mestmacher, ARD Berlin",
-      "source": "Tagesschau",
-      "ts": "2026-08-05T08:13:01"
-    },
-    {
-      "id": "6c58ac3f-fcf4-4140-be47-5ebdde8de69f",
-      "ntitle": "euinnenminister beraten über grenzschutz nach ansturm auf ceuta",
-      "title": "EU-Innenminister beraten über Grenzschutz nach Ansturm auf Ceuta",
-      "summary": "EU-Innenminister beraten über Grenzschutz nach Ansturm auf Ceuta",
-      "source": "Tagesschau",
-      "ts": "2026-08-05T08:13:01"
-    },
-    {
-      "id": "e9b054da-2fca-4dcb-a4d0-69429d868617",
-      "ntitle": "innenausschuss im bundestag tagt zu csdanschlag in berlin",
-      "title": "Innenausschuss im Bundestag tagt zu CSD-Anschlag in Berlin",
-      "summary": "Innenausschuss im Bundestag tagt zu CSD-Anschlag in Berlin",
-      "source": "Tagesschau",
-      "ts": "2026-08-05T08:13:01"
-    },
-    {
-      "id": "7d4ddae9-0591-4147-a9a2-6c6ba052d24d",
-      "ntitle": "kritische pegelstände in flüssen durch trockenheit",
-      "title": "Kritische Pegelstände in Flüssen durch Trockenheit",
-      "summary": "Kritische Pegelstände in Flüssen durch Trockenheit",
-      "source": "Tagesschau",
-      "ts": "2026-08-05T08:13:01"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/USA-und-Iran-sollen-kurz-vor-Einigung-fuer-Strasse-von-Hormus-stehen-id31159861.html",
-      "ntitle": "deal ohne schiffsgebühren usa und iran sollen kurz vor einigung für straße von hormus stehen",
-      "title": "Deal ohne Schiffsgebühren?: USA und Iran sollen kurz vor Einigung für Straße von Hormus stehen",
-      "summary": "Einem Bericht zufolge steht eine Vereinbarung zwischen den USA und dem Iran kurz bevor. Den Konflikt soll sie zwar nicht beenden. Allerdings könnte eine Einigung zur Straße von Hormus erzielt werden. Ob die Durchfahrt künftig gebührenfrei verläuft, ist noch offen.",
-      "source": "ntv",
-      "ts": "2026-08-05T08:13:01"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Trumps-Kriegsminister-Hegseth-bestreitet-Raketenmangel-id31159851.html",
-      "ntitle": "schämt euch trumps kriegsminister hegseth bestreitet raketenmangel",
-      "title": "\"Schämt euch\": Trumps \"Kriegsminister\" Hegseth bestreitet Raketenmangel",
-      "summary": "Der Iran-Krieg kostet die USA Milliarden und verbraucht massenhaft Munition. US-Medienberichten zufolge soll ein Großteil der Raketenbestände aufgebraucht sein. Verteidigungsminister Hegseth widerspricht und teilt gegen die Medien aus.",
-      "source": "ntv",
-      "ts": "2026-08-05T08:13:01"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Bewaffneter-Mann-auf-Trumps-Golfplatz-festgenommen-id31159577.html",
-      "ntitle": "kurz vor präsidentenbesuch bewaffneter mann auf trumps golfplatz festgenommen",
-      "title": "Kurz vor Präsidenten-Besuch: Bewaffneter Mann auf Trumps Golfplatz festgenommen",
-      "summary": "Die US-Polizei sorgt sich um die Sicherheit des Präsidenten. Auf dem Golfplatz von Donald Trump wird ein verdächtiger Mann mit einer Pistole und Patronen festgenommen.",
-      "source": "ntv",
-      "ts": "2026-08-05T08:13:01"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/BDA-Praesident-Kampeter-warnt-vor-Aufschnueren-des-Rentenpakets-id31159514.html",
-      "ntitle": "macht mich fassungslos bdapräsident kampeter warnt vor aufschnüren des rentenpakets",
-      "title": "\"Macht mich fassungslos\": BDA-Präsident Kampeter warnt vor Aufschnüren des Rentenpakets",
-      "summary": "Ministerpräsidenten aus Ostdeutschland fordern Änderungen am geplanten Rentenpaket. Arbeitgeberverband-Präsident Kampeter lehnt das Festhalten an der Rente mit 63 ab. Es sei die \"vielleicht letzte Chance\" für das Rentensystem.",
-      "source": "ntv",
-      "ts": "2026-08-05T08:13:01"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Umfrage-sieht-Linke-in-Berlin-vorn-CDU-auf-Platz-zwei-id31159884.html",
-      "ntitle": "spd weit abgeschlagen umfrage sieht linke in berlin vorn  cdu auf platz zwei",
-      "title": "SPD weit abgeschlagen: Umfrage sieht Linke in Berlin vorn - CDU auf Platz zwei",
-      "summary": "Die Abgeordnetenhauswahl in Berlin rückt näher, und sie dürfte spannend werden. Laut einer Umfrage liegt die Linke zwar auf Platz eins. Doch der Abstand zu anderen Parteien ist nicht so groß.",
-      "source": "ntv",
-      "ts": "2026-08-05T08:13:01"
-    },
-    {
-      "id": "https://www.n-tv.de/sport/fussball/Ex-Rivale-erhebt-schwere-Erpressungsvorwuerfe-gegen-Infantino-id31159811.html",
-      "ntitle": "alhussein außer sich exrivale erhebt schwere erpressungsvorwürfe gegen infantino",
-      "title": "Al-Hussein außer sich: Ex-Rivale erhebt schwere Erpressungsvorwürfe gegen Infantino",
-      "summary": "Kritik und Vorwürfe prasseln seit Tagen auf FIFA-Boss Infantino ein. Nun formulierte ein Fußball-Funktionär aus Asien eine besonders heftige Anschuldigung in Richtung Weltverband.",
-      "source": "ntv",
-      "ts": "2026-08-05T08:13:01"
-    },
-    {
-      "id": "https://www.n-tv.de/sport/fussball/US-WM-Staedte-warten-auf-zugesagte-FIFA-Millionen-id31159819.html",
-      "ntitle": "anonyme behauptungen uswmstädte warten auf zugesagte fifamillionen",
-      "title": "Anonyme Behauptungen: US-WM-Städte warten auf zugesagte FIFA-Millionen",
-      "summary": "Die Fußball-WM in den USA ist zu Ende, doch das Turnier bebt heftig nach. Nicht nur wegen des geplanten Investorendeals von Gianni Infantino. Nun behaupten vier Ausrichterstädte, dass sie zugesagte Zahlungen der FIFA nicht erhalten hätten.",
-      "source": "ntv",
-      "ts": "2026-08-05T08:13:01"
-    },
-    {
-      "id": "https://www.n-tv.de/sport/fussball/Infantino-laedt-offenbar-zu-FIFA-Krisensitzung-in-Marokko-id31159722.html",
-      "ntitle": "vertraute wenden sich zuletzt ab infantino lädt offenbar zu fifakrisensitzung in marokko",
-      "title": "Vertraute wenden sich zuletzt ab: Infantino lädt offenbar zu FIFA-Krisensitzung in Marokko",
-      "summary": "In Rabat soll die nächste reguläre FIFA-Präsidentschaftswahl stattfinden. Nach den gescheiterten WM-Investorenplänen hat Gianni Infantino laut Medienberichten genau an diesem Ort überraschend ein kurzfristiges Treffen mit wichtigen Mitarbeitern einberufen.",
-      "source": "ntv",
-      "ts": "2026-08-05T08:13:01"
-    },
-    {
-      "id": "6a72c5c647f8c988ecd624ca",
-      "ntitle": "asb und drk stellen bedingungen für neuen zivildienst  linke kritisiert geheimpläne der regierung",
-      "title": "ASB und DRK stellen Bedingungen für neuen Zivildienst – Linke kritisiert „Geheimpläne“ der Regierung",
-      "summary": "Die Pläne für einen neuen Zivildienst stoßen bei den Sozialverbänden auf Zurückhaltung. Einige formulieren bereits Bedingungen. Die Linke kritisiert die „Geheimpläne“, die auf eine Einführung der Wehrpflicht hindeuteten.",
-      "source": "WELT",
-      "ts": "2026-08-05T08:13:01"
-    },
-    {
-      "id": "6a72cc5947f8c988ecd62554",
-      "ntitle": "erster afdbürgermeister drei jahre im amt  viel raum für afdpolitik ist nicht",
-      "title": "Erster AfD-Bürgermeister drei Jahre im Amt – „Viel Raum für AfD-Politik ist nicht“",
-      "summary": "Vor drei Jahren wurde Hannes Loth erster AfD-Bürgermeister Deutschlands. In Raguhn-Jeßnitz betreibe er „pragmatische Kommunalpolitik“, so Loth. Die örtliche CDU spricht von einer „sehr guten“ Zusammenarbeit.",
-      "source": "WELT",
-      "ts": "2026-08-05T08:13:01"
-    },
-    {
       "id": "ce0d45ef-32cd-4345-a1d3-546403720cc0",
       "ntitle": "flughafen leipzighalle ermittler entdecken unbekannte masse und mutmaßlichen zünder an drohne",
       "title": "Flughafen Leipzig/Halle: Ermittler entdecken \"unbekannte Masse\" und mutmaßlichen Zünder an Drohne",
@@ -3319,6 +3175,150 @@
       "summary": "Frauke Petry und Thomas Kemmerich inszenieren Team Freiheit als Anti-Staats-Projekt mit Slogans wie „Brauchst du den Staat, bist du zu schwach“. Auf neue Gesetze will die Partei im Falle ihrer Wahl verzichten.",
       "source": "WELT",
       "ts": "2026-08-12T20:10:36"
+    },
+    {
+      "id": "7012e75f-46a8-4eb1-8eef-b3d59acf37b6",
+      "ntitle": "studie afdpolitik nicht auf arbeiter ausgerichtet",
+      "title": "Studie: AfD-Politik nicht auf Arbeiter ausgerichtet",
+      "summary": "Die AfD holt bei Arbeitern besonders viele Stimmen. Laut einer von Panorama in Auftrag gegebenen Studie hält sie aber am marktliberalen Kurs ihrer Gründungszeit fest - und hat ihn zuletzt sogar verschärft. Von S. Friedrich und I. Schneider.",
+      "source": "Tagesschau",
+      "ts": "2026-08-13T09:03:17"
+    },
+    {
+      "id": "002f56c6-312b-46e7-9387-1bce03e7e859",
+      "ntitle": "livestream die nachrichten auf tagesschau24",
+      "title": "Livestream: Die Nachrichten auf tagesschau24",
+      "summary": "Aktuelle Meldungen, vertiefende Analysen und Interviews: Verfolgen Sie das Programm des ARD-Nachrichtenkanals tagesschau24 hier.",
+      "source": "Tagesschau",
+      "ts": "2026-08-13T09:03:17"
+    },
+    {
+      "id": "8634ecc5-334b-44c3-b22a-cbfe9eb5e80a",
+      "ntitle": "vor landtagswahl in sachsenanhalt cduspitzenkandidat schulze im mdrinterview",
+      "title": "Vor Landtagswahl in Sachsen-Anhalt: CDU-Spitzenkandidat Schulze im MDR-Interview",
+      "summary": "Vor Landtagswahl in Sachsen-Anhalt: CDU-Spitzenkandidat Schulze im MDR-Interview",
+      "source": "Tagesschau",
+      "ts": "2026-08-13T09:03:17"
+    },
+    {
+      "id": "084dac67-0f0a-4b90-9ad4-b89f122f151f",
+      "ntitle": "uwe gradwohl leiter wissenschaftsredaktion swr zur faszination der sonnenfinsternis",
+      "title": "Uwe Gradwohl, Leiter Wissenschaftsredaktion SWR, zur Faszination der Sonnenfinsternis",
+      "summary": "Uwe Gradwohl, Leiter Wissenschaftsredaktion SWR, zur Faszination der Sonnenfinsternis",
+      "source": "Tagesschau",
+      "ts": "2026-08-13T09:03:17"
+    },
+    {
+      "id": "c8c052cb-03fd-44f2-8dce-9d2f3155e029",
+      "ntitle": "christoph mestmacher ard berlin zum beschluss der frühstartrente",
+      "title": "Christoph Mestmacher, ARD Berlin, zum Beschluss der Frühstartrente",
+      "summary": "Christoph Mestmacher, ARD Berlin, zum Beschluss der Frühstartrente",
+      "source": "Tagesschau",
+      "ts": "2026-08-13T09:03:17"
+    },
+    {
+      "id": "eff07ae9-a6df-4719-9704-5da019f61726",
+      "ntitle": "michael götschenberg ard berlin zu mehr befugnissen für nachrichtendienste",
+      "title": "Michael Götschenberg, ARD Berlin, zu mehr Befugnissen für Nachrichtendienste",
+      "summary": "Michael Götschenberg, ARD Berlin, zu mehr Befugnissen für Nachrichtendienste",
+      "source": "Tagesschau",
+      "ts": "2026-08-13T09:03:17"
+    },
+    {
+      "id": "3b7c0bc3-ec53-4705-930a-e5411f14fd0d",
+      "ntitle": "suche nach verschütteten geht nach schwerem erdbeben in kolumbien weiter",
+      "title": "Suche nach Verschütteten geht nach schwerem Erdbeben in Kolumbien weiter",
+      "summary": "Suche geht nach Verschütteten weiter nach schwerem Erdbeben in Kolumbien",
+      "source": "Tagesschau",
+      "ts": "2026-08-13T09:03:17"
+    },
+    {
+      "id": "3b73cef6-3cbc-4a9a-bfcf-4294500485d8",
+      "ntitle": "sonnenfinsternis in weiten teilen westeuropas erwartet",
+      "title": "Sonnenfinsternis in weiten Teilen Westeuropas erwartet",
+      "summary": "Sonnenfinsternis in weiten Teilen Westeuropas erwartet",
+      "source": "Tagesschau",
+      "ts": "2026-08-13T09:03:17"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/MDR-Wahlarena-zur-Wahl-in-Sachsen-Anhalt-Remigration-Brandmauer-War-da-was-id31187764.html",
+      "ntitle": "drucksen in magdeburg  remigration brandmauer war da was",
+      "title": "Drucksen in Magdeburg : Remigration? Brandmauer? War da was?",
+      "summary": "Beim Thema Brandmauer drucksen die Spitzenkandidaten von CDU und SPD herum – sie wollen es sich offenbar nicht mit den Anhängern der AfD verscherzen. AfD-Frontmann Siegmund gerät ins Drucksen, wenn es in der Wahl-Arena des MDR um sein Wahlprogramm geht.",
+      "source": "ntv",
+      "ts": "2026-08-13T09:03:17"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Bizarre-Nachwahl-in-Clacton-Nigel-Farage-kann-Count-Binface-besiegen-vor-allem-aber-sich-selbst-id31186110.html",
+      "ntitle": "historisch langer wahlzettel diese rekordwahl könnte für farage zur falle werden",
+      "title": "Historisch langer Wahlzettel: Diese Rekordwahl könnte für Farage zur Falle werden",
+      "summary": "Die Wahl wird Nigel Farage voraussichtlich gewinnen. Sein ärgster Konkurrent, der mit dem Mülleimer über dem Kopf, ist laut einer Umfrage weit abgeschlagen. Und doch könnte der Polit-Stunt Farage mehr kosten als ihm lieb ist. Denn eine weitere Nachwahl könnte nötig werden und ihn in Erklärungsnot bringen.",
+      "source": "ntv",
+      "ts": "2026-08-13T09:03:17"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Berichte-CIA-zweifelte-an-iranischer-Bedrohung-fuer-Trump-id31188102.html",
+      "ntitle": "im cateringcontainer versteckt berichte cia zweifelte an iranischer bedrohung für trump",
+      "title": "Im Catering-Container versteckt: Berichte: CIA zweifelte an iranischer Bedrohung für Trump",
+      "summary": "Nach dem Nato-Gipfel hatte das Weiße Haus nur vorgetäuscht, dass Trump mit einer Regierungsmaschine aus Ankara abgeflogen war. Grund soll die Bedrohung durch eine Rakete gewesen sein. Jetzt bringen Berichte von US-Medien neue Details ans Licht.",
+      "source": "ntv",
+      "ts": "2026-08-13T09:03:17"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Trump-Sprecherin-Leavitt-hoert-auf-id31187693.html",
+      "ntitle": "präsident setzt weiter auf sie trumpsprecherin leavitt hört auf",
+      "title": "Präsident setzt weiter auf sie: Trump-Sprecherin Leavitt hört auf",
+      "summary": "Mit gerade mal 27 Jahren wird Karoline Leavitt Pressesprecherin des Weißen Hauses - und schnell wird deutlich, warum: Klassischen Medien steht sie genauso skeptisch gegenüber wie ihr Chef Trump, dessen Politik sie aggressiv verteidigt. Jetzt hört sie auf.",
+      "source": "ntv",
+      "ts": "2026-08-13T09:03:17"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Hoecke-will-Wagenknecht-zur-Ministerpraesidentin-machen-id31187777.html",
+      "ntitle": "vergiftetes angebot höcke will wagenknecht zur ministerpräsidentin machen",
+      "title": "Vergiftetes Angebot: Höcke will Wagenknecht zur Ministerpräsidentin machen",
+      "summary": "Thüringens AfD-Chef Höcke umwirbt Sahra Wagenknecht. Per Video bietet er ihr an, seine Partei würde sie zur Ministerpräsidentin Thüringens wählen. Hintergrund ist nicht nur das Misstrauensvotum gegen den amtierenden Regierungschef Voigt.",
+      "source": "ntv",
+      "ts": "2026-08-13T09:03:17"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Bericht-Gericht-erlaesst-Haftbefehl-gegen-Maximilian-Krah-id31188207.html",
+      "ntitle": "nach rechtsstreit mit böhmermann bericht gericht erlässt haftbefehl gegen maximilian krah",
+      "title": "Nach Rechtsstreit mit Böhmermann: Bericht: Gericht erlässt Haftbefehl gegen Maximilian Krah",
+      "summary": "Jan Böhmermann und Maximilian Krah liefern sich seit fast zwei Jahren einen Rechtsstreit rund um einen Oktoberfestbesuch. Der Rechtsaußen verliert vor Gericht, doch weigert sich die Prozesskosten zu bezahlen. Jetzt liegt einem Bericht zufolge ein Haftbefehl gegen den AfD-Politiker vor.",
+      "source": "ntv",
+      "ts": "2026-08-13T09:03:17"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Umfrage-AfD-und-SPD-legen-in-Mecklenburg-Vorpommern-leicht-zu-id31188372.html",
+      "ntitle": "reicht es für rotrotgrün umfrage afd und spd legen in mecklenburgvorpommern leicht zu",
+      "title": "Reicht es für Rot-Rot-Grün?: Umfrage: AfD und SPD legen in Mecklenburg-Vorpommern leicht zu",
+      "summary": "Knapp einen Monat vor den Landtagswahlen in Mecklenburg-Vorpommern führt die AfD in einer neuen Umfrage weiter mit deutlichem Abstand. Doch auch die derzeit regierenden Sozialdemokraten legen zu. Für die verspricht die Befragung eine Chance auf eine bestimmte Machtoption.",
+      "source": "ntv",
+      "ts": "2026-08-13T09:03:17"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Ukrainischer-Trupp-sendet-viralen-Hilferuf-von-der-Front-id31187534.html",
+      "ntitle": "kein essen urin statt wasser ukrainischer trupp sendet viralen hilferuf von der front",
+      "title": "Kein Essen, Urin statt Wasser: Ukrainischer Trupp sendet viralen Hilferuf von der Front",
+      "summary": "In der Ukraine verbreitet sich ein Video in den sozialen Medien: Es zeigt eine Gruppe Soldaten, die an der Front in einem Unterschlupf ohne Wasser und Nahrung ausharrt. Sie flehen um Hilfe, das Kommando reagiert bereits - und betont, dass es sich um einen Einzelfall handle.",
+      "source": "ntv",
+      "ts": "2026-08-13T09:03:17"
+    },
+    {
+      "id": "6a7c40de169e8e32c0ae52ee",
+      "ntitle": "dobrindt stolz  sonne in deutschland erfolgreich beschattet",
+      "title": "Dobrindt stolz – Sonne in Deutschland erfolgreich beschattet",
+      "summary": "Bundesinnenminister Alexander Dobrindt zeigt sich hocherfreut über die Leistungsdemonstration deutscher Nachrichtendienste in den vergangenen Stunden.",
+      "source": "WELT",
+      "ts": "2026-08-13T09:03:17"
+    },
+    {
+      "id": "6a7d5fcb2623edb69d5ef3e6",
+      "ntitle": "afd legt in mecklenburgvorpommern zu  rotrotgrüne koalition rechnerisch möglich",
+      "title": "AfD legt in Mecklenburg-Vorpommern zu – rot-rot-grüne Koalition rechnerisch möglich",
+      "summary": "Wenige Wochen vor den Landtagswahlen in Mecklenburg-Vorpommern gewinnen SPD und Grüne in einer Umfrage hinzu. Die CDU kann sich dagegen nicht verbessern – anders als die AfD.",
+      "source": "WELT",
+      "ts": "2026-08-13T09:03:17"
     }
   ],
   "breaking_seen": [
@@ -3332,7 +3332,7 @@
     "https://www.n-tv.de/wissen/Jetzt-live-Sonnenfinsternis-ueber-Europa-id31187076.html"
   ],
   "last_run": {
-    "digest_morning": "2026-08-12",
+    "digest_morning": "2026-08-13",
     "digest_noon": "2026-08-12",
     "digest_evening": "2026-08-12",
     "daily": "2026-08-12",
