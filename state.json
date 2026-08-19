@@ -1,150 +1,6 @@
 {
   "history": [
     {
-      "id": "724bf2d6-39a7-4190-909e-632170126d4a",
-      "ntitle": "wie ist die rechtslage nach dem drohnenfund am flughafen leipzig",
-      "title": "Wie ist die Rechtslage nach dem Drohnenfund am Flughafen Leipzig?",
-      "summary": "Der Flughafen Leipzig/Halle ist offenbar nur knapp einem Drohnen-Anschlag entgangen. Der Generalbundesanwalt ermittelt, auch das Völkerrecht könnte greifen. Eine rechtliche Einordnung von Christoph Kehlbach, ARD-Rechtsredaktion",
-      "source": "Tagesschau",
-      "ts": "2026-08-11T20:09:57"
-    },
-    {
-      "id": "c307e268-8723-44f3-b950-90d029838e82",
-      "ntitle": "nach vorfall am flughafen leipzig  verdächtige dnaspuren und eine antenne",
-      "title": "Nach Vorfall am Flughafen Leipzig - Verdächtige DNA-Spuren und eine Antenne",
-      "summary": "Nach dem mutmaßlichen Anschlagsversuch mit einer Drohne am Flughafen Leipzig/Halle entdeckten Ermittler nach Recherchen von WDR, NDR und SZ sogar mehrere DNA-Spuren - und eine verdächtige Antenne.",
-      "source": "Tagesschau",
-      "ts": "2026-08-11T20:09:57"
-    },
-    {
-      "id": "a99452d2-3857-4777-a228-d8484ee6ec64",
-      "ntitle": "doreen jonas mdr mit einer einschätzung zum interview mit afdspitzenkandidat siegmund",
-      "title": "Doreen Jonas, MDR, mit einer Einschätzung zum Interview mit AfD-Spitzenkandidat Siegmund",
-      "summary": "Doreen Jonas, MDR, mit einer Einschätzung zum Interview mit AfD-Spitzenkandidat Siegmund",
-      "source": "Tagesschau",
-      "ts": "2026-08-11T20:09:57"
-    },
-    {
-      "id": "1a65ac48-b2a0-4124-a61c-5aed97963c62",
-      "ntitle": "gestürzter syrischer machthaber assad zum tode verurteilt",
-      "title": "Gestürzter syrischer Machthaber Assad zum Tode verurteilt",
-      "summary": "Gestürzter syrischer Machthaber Assad zum Tode verurteilt",
-      "source": "Tagesschau",
-      "ts": "2026-08-11T20:09:57"
-    },
-    {
-      "id": "912ab354-a4d6-4b52-bc8c-6e24a39a0311",
-      "ntitle": "krieg im sudan spitzt sich weiter zu",
-      "title": "Krieg im Sudan spitzt sich weiter zu",
-      "summary": "Krieg im Sudan spitzt sich weiter zu",
-      "source": "Tagesschau",
-      "ts": "2026-08-11T20:09:57"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/MAGA-wurde-betrogen-Abtruennige-um-Tucker-Carlson-rebellieren-gegen-Trump-id31179257.html",
-      "ntitle": "maga wurde betrogen abtrünnige um tucker carlson proben aufstand gegen trump",
-      "title": "\"MAGA wurde betrogen\": Abtrünnige um Tucker Carlson proben Aufstand gegen Trump",
-      "summary": "Die MAGA-Koalition um US-Präsident Trump bröckelt. Mehrere Rebellen versammeln sich nun um den konservativen Kommentator Tucker Carlson und proben gemeinsam den Aufstand. Sie reden bereits öffentlich über einen eigenen Präsidentschaftskandidaten.",
-      "source": "ntv",
-      "ts": "2026-08-11T20:09:57"
-    },
-    {
-      "id": "https://www.n-tv.de/panorama/Pegelstand-des-Rheins-in-Koeln-erreicht-historischen-Tiefstand-id31181775.html",
-      "ntitle": "man kann es kaum glauben pegelstand des rheins in köln erreicht historischen tiefstand",
-      "title": "\"Man kann es kaum glauben\": Pegelstand des Rheins in Köln erreicht historischen Tiefstand",
-      "summary": "Ausbleibender Regen sorgt in Westdeutschland für traurige Rekorde. Der Pegel des Rheins in Köln ist so niedrig wie noch nie. In anderen Städten sieht es nicht besser aus. Und die Aussichten für die nächsten Tage sind düster.",
-      "source": "ntv",
-      "ts": "2026-08-11T20:09:57"
-    },
-    {
-      "id": "https://www.n-tv.de/wissen/Wird-Deutschland-bald-Meerwasser-entsalzen-muessen-id31176354.html",
-      "ntitle": "technologie gegen wassermangel wird deutschland bald meerwasser entsalzen müssen",
-      "title": "Technologie gegen Wassermangel: Wird Deutschland bald Meerwasser entsalzen müssen?",
-      "summary": "Anhaltende Trockenheit bedroht die Wasserversorgung in Deutschland. Das Problem verschärft sich weiter, neue Konzepte müssen her. Doch wie sehen diese aus? Eine Übersicht über Technologien, die das Wasserproblem entschärften könnten.",
-      "source": "ntv",
-      "ts": "2026-08-11T20:09:57"
-    },
-    {
-      "id": "https://www.n-tv.de/wirtschaft/Generalsanierungs-Flop-fuehrt-bei-der-Bahn-zum-Umdenken-id31181853.html",
-      "ntitle": "konzept steht vor änderungen generalsanierungsflop führt bei der bahn zum umdenken",
-      "title": "Konzept steht vor Änderungen: Generalsanierungs-Flop führt bei der Bahn zum Umdenken",
-      "summary": "Die Generalsanierung der Bahnstrecke zwischen Berlin und Hamburg bringt nicht die erhoffte Verbesserung. In den Monaten nach der Eröffnung sind die Züge sogar deutlich unpünktlicher als vorher. Nun soll das Konzept überarbeitet werden, damit nicht auf vielen anderen Verbindungen das Gleiche droht.",
-      "source": "ntv",
-      "ts": "2026-08-11T20:09:57"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Politiker-dringen-auf-Schliessung-des-Russischen-Hauses-in-Berlin-id31182224.html",
-      "ntitle": "symbol unserer schwäche politiker dringen auf schließung des russischen hauses in berlin",
-      "title": "\"Symbol unserer Schwäche\": Politiker dringen auf Schließung des Russischen Hauses in Berlin",
-      "summary": "Das Russische Haus in Berlin wird Berichten zufolge insgeheim von Moskaus Geheimdiensten genutzt. Politiker von CDU, Grünen und FDP pochen auf die Schließung der Einrichtung. Die Bundesregierung ziert sich jedoch und verweist auf vertragliche Gründe.",
-      "source": "ntv",
-      "ts": "2026-08-11T20:09:57"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Russland-laesst-US-Buerger-nach-mehreren-Jahren-Haft-frei-id31182842.html",
-      "ntitle": "exmarine robert gilman russland lässt usbürger nach mehreren jahren haft frei",
-      "title": "Ex-Marine Robert Gilman: Russland lässt US-Bürger nach mehreren Jahren Haft frei",
-      "summary": "2022 wird ein US-Amerikaner in Russland inhaftiert, weil er angeblich einen Polizisten angegriffen hat. Mittlerweile soll sich Robert Gilman in schlechter psychischer Verfassung befinden, ist aber aktuell auf dem Weg zurück in die Heimat.",
-      "source": "ntv",
-      "ts": "2026-08-11T20:09:57"
-    },
-    {
-      "id": "https://www.n-tv.de/sport/Turn-Talent-Helen-Kevric-hat-keinen-Trainer-mehr-und-erklaert-sich-id31180089.html",
-      "ntitle": "18jährige greift wieder an turntalent helen kevric hat keinen trainer mehr und erklärt sich",
-      "title": "18-Jährige greift wieder an: Turn-Talent Helen Kevric hat keinen Trainer mehr und erklärt sich",
-      "summary": "In Leipzig jubelt Helen Kevric mit dem Team, dann wirft eine schwere Knieverletzung das Turn-Ass aus der Bahn. Nun kehrt die Stuttgarterin auf die EM-Bühne zurück - mit einem Handicap.",
-      "source": "ntv",
-      "ts": "2026-08-11T20:09:57"
-    },
-    {
-      "id": "6a7b636e0e3689919ec7838f",
-      "ntitle": "wo auch immer sich der uspräsident befindet gibt es irgendwelche rettungswege",
-      "title": "„Wo auch immer sich der US-Präsident befindet, gibt es irgendwelche Rettungswege“",
-      "summary": "US-Präsident Trump ist nach dem NATO-Gipfel in Ankara wegen einer iranischen Bedrohung offenbar heimlich ausgeflogen worden. „Solche Szenarien sind mehrmals trainiert und geplant“, sagt Geheimdienst-Experte Shlomo Shpiro.",
-      "source": "WELT",
-      "ts": "2026-08-11T20:09:57"
-    },
-    {
-      "id": "6a7b5f29630361c899229604",
-      "ntitle": "wir haben es mit den rohstoffadern des mittelstandes zu tun",
-      "title": "„Wir haben es mit den Rohstoffadern des Mittelstandes zu tun“",
-      "summary": "Das extreme Niedrigwasser im Rhein hat erste Unternehmen zu Produktionskürzungen gezwungen. „Was wir brauchen, ist eine bundesweite Aufhebung des Sonntagsfahrverbots für Lkw“, sagt Gitta Connemann, Vorsitzende der Mittelstands- und Wirtschaftsunion.",
-      "source": "WELT",
-      "ts": "2026-08-11T20:09:57"
-    },
-    {
-      "id": "6a7b5954630361c8992295bb",
-      "ntitle": "man muss sich diesen familienstrukturen jetzt mal mit langem atem widmen",
-      "title": "„Man muss sich diesen Familienstrukturen jetzt mal mit langem Atem widmen“",
-      "summary": "Mehr als 20 Personen zweier Großfamilien sollen in Düren mit Äxten, Hämmern und Baseballschlägern aufeinander losgegangen sein. „Das können wir nicht dulden“, sagt Oliver Huth, NRW-Landesvorsitzender des Bundes Deutscher Kriminalbeamter.",
-      "source": "WELT",
-      "ts": "2026-08-11T20:09:57"
-    },
-    {
-      "id": "6a7b58cd0e3689919ec7830c",
-      "ntitle": "schon lange ein völliger anachronismus und höchste zeit dass es zugemacht wird",
-      "title": "„Schon lange ein völliger Anachronismus und höchste Zeit, dass es zugemacht wird“",
-      "summary": "Nico Lange, Experte für Sicherheitspolitik, fordert die Schließung des „Russischen Hauses“ in Berlin. Angesichts russischer Spionage und hybrider Angriffe sei die Einrichtung ein Anachronismus: „Wir sollten da auch mal Respekt vor uns selbst haben.“",
-      "source": "WELT",
-      "ts": "2026-08-11T20:09:57"
-    },
-    {
-      "id": "6a7b4da9630361c899229507",
-      "ntitle": "mehr als 3000 vermisste nach erdbeben  ich habe kaum noch hoffnung",
-      "title": "Mehr als 3000 Vermisste nach Erdbeben – „Ich habe kaum noch Hoffnung“",
-      "summary": "Die Opferzahlen nach dem Erdbeben in Kolumbien steigen. Lokale Behörden melden mindestens 240 Tote und mehr als 3000 Vermisste. Soldaten, Rettungskräfte und Angehörige suchen in den Trümmern nach Überlebenden.",
-      "source": "WELT",
-      "ts": "2026-08-11T20:09:57"
-    },
-    {
-      "id": "6a7af7cd0e3689919ec77a86",
-      "ntitle": "neuer minister alte probleme",
-      "title": "Neuer Minister, alte Probleme",
-      "summary": "Steffen Bilger tritt die Nachfolge von Patrick Schnieder an – und übernimmt viele Positionen seines Vorgängers. Dabei muss er sein Ministerium anders führen, um Kanzler Merz zufriedenzustellen.",
-      "source": "WELT",
-      "ts": "2026-08-11T20:09:57"
-    },
-    {
       "id": "2632394e-96ea-43bc-9bba-785016298175",
       "ntitle": "reform der nachrichtendienste stößt auf kritik der opposition",
       "title": "Reform der Nachrichtendienste stößt auf Kritik der Opposition",
@@ -3479,6 +3335,150 @@
       "summary": "Nationalspieler Jamal Musiala bricht zweimal binnen weniger Tage zusammen – Uli Hoeneß ringt um Fassung und zeigt sich schockiert. Ein Drama sei das, sagt der Ehrenpräsident in einem TV-Interview.",
       "source": "WELT",
       "ts": "2026-08-19T14:14:21"
+    },
+    {
+      "id": "6c39fc36-1379-42e3-92ac-5fa5a521fdd3",
+      "ntitle": "wirtschaftsministerium setzt wegen niedriger gasvorräte auf händler",
+      "title": "Wirtschaftsministerium setzt wegen niedriger Gasvorräte auf Händler",
+      "summary": "Die deutschen Gasspeicher sind aktuell nur etwa zur Hälfte gefüllt - der niedrigste Stand seit Jahren. Das Wirtschaftsministerium setzt auf die Händler. Experten warnen: Bei einem sehr kalten Winter kann es eng werden.",
+      "source": "Tagesschau",
+      "ts": "2026-08-19T20:46:28"
+    },
+    {
+      "id": "70a59b42-b0ce-40f6-aa47-21fdf8d5b8f3",
+      "ntitle": "wie drohnen und ki zum brandschutz in waldgebieten eingesetzt werden können",
+      "title": "Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können",
+      "summary": "Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können",
+      "source": "Tagesschau",
+      "ts": "2026-08-19T20:46:28"
+    },
+    {
+      "id": "be925555-1117-449e-89f7-eb0adf18f8d7",
+      "ntitle": "lukas hochscheidt bundesverband arbeiterwohlfahrt zur bündelung von sozialleistungen",
+      "title": "Lukas Hochscheidt, Bundesverband Arbeiterwohlfahrt, zur Bündelung von Sozialleistungen",
+      "summary": "Lukas Hochscheidt, Bundesverband Arbeiterwohlfahrt, zur Bündelung von Sozialleistungen",
+      "source": "Tagesschau",
+      "ts": "2026-08-19T20:46:28"
+    },
+    {
+      "id": "deac55b3-76e3-4d19-8c4c-607064976f58",
+      "ntitle": "m seidel ndr über die sondersitzung zur rettungsaktion von gestrandetem wal",
+      "title": "M. Seidel, NDR, über die Sondersitzung zur Rettungsaktion von gestrandetem Wal",
+      "summary": "M. Seidel, NDR, über die Sondersitzung zur Rettungsaktion von gestrandetem Wal",
+      "source": "Tagesschau",
+      "ts": "2026-08-19T20:46:28"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Fedorows-halbherzige-Rebellion-ist-gescheitert-vorerst-id31211260.html",
+      "ntitle": "herausforderer für selenskyj fedorows halbherzige rebellion ist gescheitert  vorerst",
+      "title": "Herausforderer für Selenskyj?: Fedorows halbherzige Rebellion ist gescheitert - vorerst",
+      "summary": "Scharf kritisiert der geschasste Ex-Verteidigungsminister Fedorow das ukrainische Regierungssystem, fordert gar Neuwahlen. Einen Gefallen tut er sich damit eher nicht. Präsident Selenskyj kann noch einmal Autorität demonstrieren - geht aber nicht unbeschädigt aus dem Konflikt.",
+      "source": "ntv",
+      "ts": "2026-08-19T20:46:28"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Kann-eine-fast-vergessene-Waffe-der-Ukraine-helfen-id31209063.html",
+      "ntitle": "abwehr ballistischer raketen kann eine fast vergessene waffe der ukraine helfen",
+      "title": "Abwehr ballistischer Raketen: Kann eine fast vergessene Waffe der Ukraine helfen?",
+      "summary": "Seit Jahren kämpft die Ukraine vergeblich um mehr Hilfe bei der Abwehr von Russlands ballistischen Raketen. In Zukunft könnte sogar wieder häufiger auf S-300-Flugabwehr zurückgegriffen werden. Doch auch dafür braucht es Unterstützung.",
+      "source": "ntv",
+      "ts": "2026-08-19T20:46:28"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/CDU-Buergermeister-ruft-in-Sachsen-Anhalt-zur-Wahl-der-AfD-auf-id31212195.html",
+      "ntitle": "offener brandbrief cdubürgermeister ruft in sachsenanhalt zur wahl der afd auf",
+      "title": "\"Offener Brandbrief\": CDU-Bürgermeister ruft in Sachsen-Anhalt zur Wahl der AfD auf",
+      "summary": "Die CDU liegt in Sachsen-Anhalt in Umfragen deutlich hinter der AfD zurück. Ein Kommunalpolitiker der Konservativen ruft zudem nun auch zur Wahl der Rechtsaußen-Partei auf - und spendet dieser Tausende Euro.",
+      "source": "ntv",
+      "ts": "2026-08-19T20:46:28"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Trump-Kim-Jong-Un-hat-57-sehr-maechtige-Atomwaffen-id31212037.html",
+      "ntitle": "uspräsident plant treffen trump kim jong un hat 57 sehr mächtige atomwaffen",
+      "title": "US-Präsident plant Treffen: Trump: Kim Jong Un hat \"57 sehr mächtige Atomwaffen\"",
+      "summary": "In seiner ersten Amtszeit trifft Donald Trump sich dreimal mit Kim Jong Un. Nun will der US-Präsident abermals mit Nordkoreas Diktator von Angesicht zu Angesicht sprechen. Noch in diesem Jahr soll es so weit sein.",
+      "source": "ntv",
+      "ts": "2026-08-19T20:46:28"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Hat-der-Oman-den-Hormus-Bogen-ueberspannt-id31206825.html",
+      "ntitle": "trump droht maskat mit bomben hat der oman den hormusbogen überspannt",
+      "title": "Trump droht Maskat mit Bomben: Hat der Oman den Hormus-Bogen überspannt?",
+      "summary": "Der Oman spielt eine entscheidende Rolle bei den Verhandlungen zur Öffnung der Straße von Hormus. Das Sultanat ist mit den USA verbündet. Doch Präsident Trump hat den Eindruck: Der Golfstaat hintergeht uns.",
+      "source": "ntv",
+      "ts": "2026-08-19T20:46:28"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Behaelt-Trump-mit-seinen-wilden-Hormus-Prahlereien-diesmal-Recht-id31209889.html",
+      "ntitle": "iran verliert langsam kontrolle behält trump mit seinen wilden hormusprahlereien diesmal recht",
+      "title": "Iran verliert langsam Kontrolle: Behält Trump mit seinen wilden Hormus-Prahlereien diesmal Recht?",
+      "summary": "Selbstbewusst wie eh und je verkündet US-Präsident Donald Trump regelmäßig, die Straße von Hormus sei unter seiner Kontrolle. Das stimmt zwar nicht, doch einem Bericht zufolge verliert der Iran tatsächlich immer mehr Einfluss über die Meerenge.",
+      "source": "ntv",
+      "ts": "2026-08-19T20:46:28"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Trump-kassiert-Dreifach-Daempfer-von-republikanischen-Waehlern-id31211437.html",
+      "ntitle": "präsident feiert dennoch trump kassiert dreifachdämpfer von republikanischen wählern",
+      "title": "Präsident feiert dennoch: Trump kassiert Dreifach-Dämpfer von republikanischen Wählern",
+      "summary": "Die Zwischenwahlen für den Kongress im November entscheiden über den zweiten Abschnitt der Trump-Präsidentschaft. Doch bei der Vorauswahl der Kandidaten seiner Partei folgen die Anhänger dem Mann im Weißen Haus überraschend oft nicht mehr mit blindem Gehorsam.",
+      "source": "ntv",
+      "ts": "2026-08-19T20:46:28"
+    },
+    {
+      "id": "https://www.n-tv.de/wirtschaft/Anleger-reissen-sich-dank-Impfstofferfolg-bei-Hautkrebs-um-Moderna-Papiere-id31211830.html",
+      "ntitle": "aktie schießt gewaltig nach oben anleger reißen sich dank impfstofferfolg bei hautkrebs um modernapapiere",
+      "title": "Aktie schießt gewaltig nach oben: Anleger reißen sich dank Impfstofferfolg bei Hautkrebs um Moderna-Papiere",
+      "summary": "Mit einem Impfstoff gegen das Coronavirus feiert Moderna einen riesigen Erfolg. Jetzt verschafft eine erfolgreiche klinische Studie zur Bekämpfung von Hautkrebs dem Biotech-Unternehmen einen gigantischen Kurssprung. Davon profitieren auch mehrere andere Unternehmen.",
+      "source": "ntv",
+      "ts": "2026-08-19T20:46:28"
+    },
+    {
+      "id": "6a85e89b70b0057986d42fe9",
+      "ntitle": "cdupolitiker aus stendal spendet 10000 euro an die afd und hofft auf absolute mehrheit",
+      "title": "CDU-Politiker aus Stendal spendet 10.000 Euro an die AfD und hofft auf absolute Mehrheit",
+      "summary": "Ein CDU-Kommunalpolitiker aus Stendal hat 10.000 Euro für den Landtagswahlkampf gespendet – allerdings nicht an seine eigene Partei, sondern an die AfD. In einem Brandbrief hofft er auf den Sturz von Sven Schulze und Friedrich Merz.",
+      "source": "WELT",
+      "ts": "2026-08-19T20:46:28"
+    },
+    {
+      "id": "6a85bd88cbb4a8f2ce8fe46b",
+      "ntitle": "bei dieser absenceform ist es sehr wahrscheinlich dass noch andere anfallstypen auftreten",
+      "title": "„Bei dieser Absence-Form ist es sehr wahrscheinlich, dass noch andere Anfallstypen auftreten“",
+      "summary": "Jamal Musiala leidet nach eigener Aussage unter Absencen. Was genau passiert dabei im Gehirn und wie beeinflusst die Krankheit das Leben? Rainer Surges behandelt seit Jahren Patienten. In WELT beantwortet der Neurologe die wichtigsten Fragen.",
+      "source": "WELT",
+      "ts": "2026-08-19T20:46:28"
+    },
+    {
+      "id": "6a85efebe19c63e56272aac7",
+      "ntitle": "russland räumt mögliche gegner völlig skrupellos ab",
+      "title": "„Russland räumt mögliche Gegner völlig skrupellos ab“",
+      "summary": "Immer mehr deutsche Unternehmer, die die Ukraine unterstützen, geraten offenbar ins Visier Russlands. Besonders gefährdet sind Manager der Rüstungsindustrie. „An der Ernsthaftigkeit gibt es überhaupt nicht zu zweifeln“, so Klaus Nachtigall, Experte für Personenschutz.",
+      "source": "WELT",
+      "ts": "2026-08-19T20:46:28"
+    },
+    {
+      "id": "6a85dee1cbb4a8f2ce8fe695",
+      "ntitle": "filmreife wende im fall nord stream  festnahme am ort der dreharbeiten",
+      "title": "Filmreife Wende im Fall Nord Stream – Festnahme am Ort der Dreharbeiten",
+      "summary": "Während in Kroatien ein Hollywood-Film über die Sprengung der Nord-Stream-Pipelines entsteht, nimmt die Polizei dort einen Ukrainer fest, den deutsche Ermittler für einen Beteiligten der Sabotage halten. Seine Geschichte liest sich selbst wie ein Politthriller.",
+      "source": "WELT",
+      "ts": "2026-08-19T20:46:28"
+    },
+    {
+      "id": "6a85b788d479dd659e0b4071",
+      "ntitle": "der große mrnamoment an der börse  das sind die wahren gewinner",
+      "title": "Der große mRNA-Moment an der Börse – das sind die wahren Gewinner",
+      "summary": "Ein Börsenmärchen wird wahr. Moderna ist es gelungen, erfolgreiche Studiendaten zu einem Hautkrebs-Impfstoff auf mRNA-Basis abzuliefern. Der Aktienkurs der Biotechfirma explodiert, auch andere Titel reüssieren.",
+      "source": "WELT",
+      "ts": "2026-08-19T20:46:28"
+    },
+    {
+      "id": "6a85b584cbb4a8f2ce8fe3e1",
+      "ntitle": "neuköllner stadtrat greift durch  rumänen verlieren nach urlaub platz in obdachlosenunterkunft",
+      "title": "Neuköllner Stadtrat greift durch – Rumänen verlieren nach Urlaub Platz in Obdachlosenunterkunft",
+      "summary": "Eine rumänische Familie macht zehn Tage Urlaub in der Heimat und verlangt dann wieder einen Platz in einer Notunterkunft in Berlin. Doch ihr Antrag wird abgelehnt – auch vor Gericht. Der zuständige Stadtrat sieht einen Richtungswechsel.",
+      "source": "WELT",
+      "ts": "2026-08-19T20:46:28"
     }
   ],
   "breaking_seen": [
@@ -3496,7 +3496,7 @@
   "last_run": {
     "digest_morning": "2026-08-19",
     "digest_noon": "2026-08-19",
-    "digest_evening": "2026-08-18",
+    "digest_evening": "2026-08-19",
     "daily": "2026-08-18",
     "weekly": "2026-W33"
   }
