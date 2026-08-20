@@ -1,150 +1,6 @@
 {
   "history": [
     {
-      "id": "e1f0631d-32ec-4ffb-8271-a39301a13265",
-      "ntitle": "die sonnenfinsternis im livestream",
-      "title": "Die Sonnenfinsternis im Livestream",
-      "summary": "Die Sonnenfinsternis ist in weiten Teilen Europas, Nordamerikas und anderen Regionen der Welt zu sehen. Verfolgen Sie die Bilder aus Europa hier live im Stream.",
-      "source": "Tagesschau",
-      "ts": "2026-08-12T20:10:36"
-    },
-    {
-      "id": "3e733a1b-5813-4341-9e60-5e29f3fad874",
-      "ntitle": "partielle sonnenfinsternis in deutschland gestartet",
-      "title": "Partielle Sonnenfinsternis in Deutschland gestartet",
-      "summary": "Das gab es zuletzt 1999: In Deutschland verfolgen in diesen Stunden Millionen Menschen die partielle Sonnenfinsternis. Das Schauspiel begann kurz nach 19 Uhr und hat seinen Höhepunkt ab 20 Uhr. Dann verdeckt der Mond einen großen Teil der Sonne.",
-      "source": "Tagesschau",
-      "ts": "2026-08-12T20:10:36"
-    },
-    {
-      "id": "ab19e233-e304-492c-abc9-a35ccea1dcfb",
-      "ntitle": "liveblog  totale sonnenfinsternis beginnt in sibirien",
-      "title": "Liveblog: ++ Totale Sonnenfinsternis beginnt in Sibirien ++",
-      "summary": "Die totale Sonnenfinsternis hat im Norden Sibiriens begonnen und zieht nun weiter Richtung Mittelmeerraum. Im US-Bundesstaat Alaska war am frühen Abend bereits die partielle Verdunkelung zu bestaunen.",
-      "source": "Tagesschau",
-      "ts": "2026-08-12T20:10:36"
-    },
-    {
-      "id": "74fd053d-262f-4818-8845-fb78303d19cc",
-      "ntitle": "wie die totale sonnenfinsternis am 11 august 1999 millionen begeisterte",
-      "title": "Wie die totale Sonnenfinsternis am 11. August 1999 Millionen begeisterte",
-      "summary": "Es war die letzte Sonnenfinsternis des Jahrtausends: Am 11. August 1999 hüllte der Mondschatten viele Orte in Deutschland in Finsternis. Sehen Sie hier die Bilder aus der tagesschau von dem Ereignis.",
-      "source": "Tagesschau",
-      "ts": "2026-08-12T20:10:36"
-    },
-    {
-      "id": "1309479b-9e21-47cf-8f93-86afac12d1c5",
-      "ntitle": "partielle sonnenfinsternis so schützen sie ihre augen",
-      "title": "Partielle Sonnenfinsternis: So schützen Sie Ihre Augen",
-      "summary": "Am Mittwoch schiebt sich der Mond über Deutschland zwischen Sonne und Erde und erzeugt eine partielle Sonnenfinsternis. Viele wollen das Himmelsereignis verfolgen, aber es gibt dabei ein paar Dinge zu beachten. Von Juliane Orth.",
-      "source": "Tagesschau",
-      "ts": "2026-08-12T20:10:36"
-    },
-    {
-      "id": "8634ecc5-334b-44c3-b22a-cbfe9eb5e80a",
-      "ntitle": "vor landtagswahl in sachsenanhalt cduspitzenkandidat schulze im mdrinterview",
-      "title": "Vor Landtagswahl in Sachsen-Anhalt: CDU-Spitzenkandidat Schulze im MDR-Interview",
-      "summary": "Vor Landtagswahl in Sachsen-Anhalt: CDU-Spitzenkandidat Schulze im MDR-Interview",
-      "source": "Tagesschau",
-      "ts": "2026-08-12T20:10:36"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Ukraine-will-Todeszone-nach-Russland-tragen-Elon-Musk-ist-dagegen-id31184229.html",
-      "ntitle": "gerangel um starlinkeinsatz ukraine will todeszone nach russland tragen  elon musk ist dagegen",
-      "title": "Gerangel um Starlink-Einsatz: Ukraine will Todeszone nach Russland tragen - Elon Musk ist dagegen",
-      "summary": "Der Ukraine steht erneut ein schwerer Kriegswinter bevor. Ihr fehlen Luftabwehrraketen, um ballistische Raketen aus Russland abzuschießen. Deshalb will Kiew künftig die Startrampen angreifen - in Russland. Doch dafür benötigt die Ukraine die Unterstützung von Elon Musk.",
-      "source": "ntv",
-      "ts": "2026-08-12T20:10:36"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Ukraine-meldet-grosse-Gebietsgewinne-durch-Offensive-id31186998.html",
-      "ntitle": "mehrere orte unter kontrolle ukraine meldet befreiung von hunderten quadratkilometern territorium",
-      "title": "Mehrere Orte unter Kontrolle: Ukraine meldet Befreiung von Hunderten Quadratkilometern Territorium",
-      "summary": "Kiews Militär befindet sich nicht nur in der Defensive. In diesem Jahr sollen über 700 Quadratkilometer in drei Regionen befreit worden sein. Auf das gesamte Territorium des Landes bezogen haben die russischen Invasoren aber dennoch etwas mehr Gebiet besetzt als verloren.",
-      "source": "ntv",
-      "ts": "2026-08-12T20:10:36"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Wenn-Mehrfachmoerder-immer-wieder-begnadigt-werden-id31186885.html",
-      "ntitle": "russlands verbrecher im krieg wenn mehrfachmörder immer wieder begnadigt werden",
-      "title": "Russlands Verbrecher im Krieg: Wenn Mehrfachmörder immer wieder begnadigt werden",
-      "summary": "Ein Bräutigam wird auf seiner eigenen Hochzeit erstochen - der Täter geht straffrei aus, weil er in den Krieg zieht. Russland begnadigt tausende verurteilte Straftäter für den Kriegsdienst. Viele von ihnen werden nach ihrer Rückkehr erneut zu Mördern.",
-      "source": "ntv",
-      "ts": "2026-08-12T20:10:36"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Trumps-Impfempfehlungen-erzuernen-die-WHO-id31187266.html",
-      "ntitle": "nicht stand der wissenschaft trumps impfempfehlungen erzürnen die who",
-      "title": "\"Nicht Stand der Wissenschaft\": Trumps Impfempfehlungen erzürnen die WHO",
-      "summary": "Der US-Präsident will, dass Kinder in den Vereinigten Staaten seltener geimpft werden. Unter anderem glaubt Donald Trump, gewisse Vakzine würden Autismus verursachen. Wissenschaftliche Erkenntnisse sprechen jedoch klar dagegen.",
-      "source": "ntv",
-      "ts": "2026-08-12T20:10:36"
-    },
-    {
-      "id": "https://www.n-tv.de/wirtschaft/Das-Erfolgsgeheimnis-hinter-Chinas-neuem-Roboter-Riesen-Unitree-id31186247.html",
-      "ntitle": "mit schrotteilen zum imperium  das erfolgsgeheimnis hinter chinas neuem roboterriesen unitree",
-      "title": "Mit Schrotteilen zum Imperium : Das Erfolgsgeheimnis hinter Chinas neuem Roboter-Riesen Unitree",
-      "summary": "Mit Feile, Schere und Schrott baut Wang Xingxing während seines Studiums einen ersten Roboter. Heute bewerten Investoren seine Firma mit 7,7 Milliarden Euro. Dank radikaler Eigenfertigung drückt Unitree die Kosten und macht die Technologie so erstmals für den Alltag bezahlbar.",
-      "source": "ntv",
-      "ts": "2026-08-12T20:10:36"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Umweltminister-faehrt-neuem-Kollegen-Bilger-in-die-Parade-id31185840.html",
-      "ntitle": "kann keine antwort sein umweltminister fährt neuem kollegen bilger in die parade",
-      "title": "\"Kann keine Antwort sein\": Umweltminister fährt neuem Kollegen Bilger in die Parade",
-      "summary": "Nach zwei Wochen in der Bundesregierung heißt auch SPD-Minister Schneider den neuen Kollegen im Verkehrsressort willkommen: CDU-Mann Bilger will als Antwort auf Niedrigwasserphänomene die Flüsse vertiefen, Umweltminister Schneider widerspricht ihm öffentlich. Umweltverbände sehen es ähnlich.",
-      "source": "ntv",
-      "ts": "2026-08-12T20:10:36"
-    },
-    {
-      "id": "6a7c098b0e3689919ec78815",
-      "ntitle": "warum die berliner spd jetzt die linke zum hauptgegner erklärt",
-      "title": "Warum die Berliner SPD jetzt die Linke zum Hauptgegner erklärt",
-      "summary": "Der Berliner SPD-Spitzenkandidat Krach fokussiert seine Attacken im Wahlkampf jetzt auf die Linke. Dabei rückt er den Fokus nicht nur auf deren Enteignungsforderungen.",
-      "source": "WELT",
-      "ts": "2026-08-12T20:10:36"
-    },
-    {
-      "id": "6a7ca3f4c99104ecb401af8c",
-      "ntitle": "ein gewisses risiko des missbrauchs  wie der bnd kontrolliert werden soll",
-      "title": "„Ein gewisses Risiko des Missbrauchs“ – Wie der BND kontrolliert werden soll",
-      "summary": "Der BND soll künftig auch operativ eingreifen und etwa Server im Ausland lahmlegen können. Sicherheitsexperte Hans-Jakob Schindler erklärt, was die Reform vorsieht, wo die Grenzen liegen und wie ein Missbrauch der neuen Befugnisse verhindert werden soll.",
-      "source": "WELT",
-      "ts": "2026-08-12T20:10:36"
-    },
-    {
-      "id": "6a7c9d6ec99104ecb401af07",
-      "ntitle": "dass das nicht teil der flughafenüberwachung ist hat mich dann doch gewundert",
-      "title": "„Dass das nicht Teil der Flughafenüberwachung ist, hat mich dann doch gewundert“",
-      "summary": "Nach dem Fund einer Sprengstoff-Drohne am Flughafen Leipzig-Halle durchsuchen Ermittler das verlassene Kursdorf. Experte Julian Kelterborn erklärt, warum der Ort für einen Angriff interessant sein könnte und sagt: „Da fehlen noch ein paar Informationen.“",
-      "source": "WELT",
-      "ts": "2026-08-12T20:10:36"
-    },
-    {
-      "id": "6a7ca0bfa87e8142c31ce193",
-      "ntitle": "polizeigewerkschafter ostermann scheitert mit klage gegen zdf und böhmermann",
-      "title": "Polizeigewerkschafter Ostermann scheitert mit Klage gegen ZDF und Böhmermann",
-      "summary": "Satiriker Jan Böhmermann und das ZDF erringen vor Gericht einen Erfolg gegen Polizeigewerkschafter Manuel Ostermann – der Streit über den Vorwurf der „bewussten Sabotage“ der Bundespolizei aber geht weiter.",
-      "source": "WELT",
-      "ts": "2026-08-12T20:10:36"
-    },
-    {
-      "id": "6a7c8f13169e8e32c0ae5b08",
-      "ntitle": "diese menschen haben einfach null respekt vor dem rechtsstaat",
-      "title": "„Diese Menschen haben einfach null Respekt vor dem Rechtsstaat“",
-      "summary": "In Düren eskaliert ein Streit zwischen zwei Familien zur Massenschlägerei. Sechs Menschen werden schwer verletzt. Klaus Nachtigall spricht von „erschütternden Bildern“ und fordert härtere Strafen für bewaffnete Angreifer.",
-      "source": "WELT",
-      "ts": "2026-08-12T20:10:36"
-    },
-    {
-      "id": "6a7ae59867ddb2e13c583d4a",
-      "ntitle": "partei team freiheit stellt kampagne vor  spd moniert hass gegen staat",
-      "title": "Partei „Team Freiheit“ stellt Kampagne vor – SPD moniert „Hass gegen Staat“",
-      "summary": "Frauke Petry und Thomas Kemmerich inszenieren Team Freiheit als Anti-Staats-Projekt mit Slogans wie „Brauchst du den Staat, bist du zu schwach“. Auf neue Gesetze will die Partei im Falle ihrer Wahl verzichten.",
-      "source": "WELT",
-      "ts": "2026-08-12T20:10:36"
-    },
-    {
       "id": "7012e75f-46a8-4eb1-8eef-b3d59acf37b6",
       "ntitle": "studie afdpolitik nicht auf arbeiter ausgerichtet",
       "title": "Studie: AfD-Politik nicht auf Arbeiter ausgerichtet",
@@ -3471,6 +3327,150 @@
       "summary": "Lukas Mandl sieht Fortschritte in der EU-Migrationspolitik. Den Streit zwischen Deutschland und Italien hält er für lösbar. Zugleich fordert er eine konsequente Umsetzung des Asylpakts. „Die spanische Regierung hat hier versagt“, sagt der ÖVP-Politiker über den Ansturm auf Ceuta.",
       "source": "WELT",
       "ts": "2026-08-20T14:01:05"
+    },
+    {
+      "id": "c8efffab-8082-48f2-987d-7597587c08be",
+      "ntitle": "spanien richtet unterkünfte für migranten in exklave ceuta ein",
+      "title": "Spanien richtet Unterkünfte für Migranten in Exklave Ceuta ein",
+      "summary": "Im Juli gelangten Zehntausende Migranten von Marokko aus in die spanische Exklave Ceuta - die meisten kehrten danach zurück. Für die dort verbliebenen Menschen richtet Spaniens Regierung jetzt Unterkünfte ein.",
+      "source": "Tagesschau",
+      "ts": "2026-08-20T20:23:01"
+    },
+    {
+      "id": "463516bb-477e-4862-8ae4-f1e2ec79dba4",
+      "ntitle": "verbraucherschützer warnen vor steigenden gaspreisen",
+      "title": "Verbraucherschützer warnen vor steigenden Gaspreisen",
+      "summary": "Verbraucherschützer warnen vor steigenden Gaspreisen",
+      "source": "Tagesschau",
+      "ts": "2026-08-20T20:23:01"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Soll-die-EU-russischen-Touristen-die-Einreise-verbieten-id31215496.html",
+      "ntitle": "ukrainekämpfer schon bestraft soll die eu russischen touristen die einreise verbieten",
+      "title": "Ukraine-Kämpfer schon bestraft: Soll die EU russischen Touristen die Einreise verbieten?",
+      "summary": "Russen, die in der Ukraine an Gefechten beteiligt waren, dürfen bald nicht mehr in die EU einreisen. Die meisten russischen Zivilisten bekommen noch ihre Visa für den Sommerurlaub in Europa. Allerdings könnte sich das bald ändern.",
+      "source": "ntv",
+      "ts": "2026-08-20T20:23:01"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/War-der-toedliche-Juli-erst-der-Anfang-id31215005.html",
+      "ntitle": "raketenopfer in der ukraine war der tödliche juli erst der anfang",
+      "title": "Raketenopfer in der Ukraine: War der \"tödliche Juli\" erst der Anfang?",
+      "summary": "Der vergangene Juli war für ukrainische Zivilisten der tödlichste Monat seit über vier Kriegsjahren. Gegen Russlands Raketen hat Kiew kaum noch Abwehr. Was aber könnte Schutz bieten?",
+      "source": "ntv",
+      "ts": "2026-08-20T20:23:01"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/politik_kommentare/Trump-vermasselt-so-ziemlich-alles-id31214635.html",
+      "ntitle": "scherbenhaufen außenpolitik trump vermasselt so ziemlich alles",
+      "title": "Scherbenhaufen Außenpolitik: Trump vermasselt so ziemlich alles",
+      "summary": "US-Präsident Trump ist angetreten, um Amerika wieder groß zu machen. Doch die Beispiele Iran, Gaza und Nordkorea zeigen: Er erreicht das Gegenteil. Wie lange können sich die Vereinigten Staaten diesen Präsidenten noch erlauben?",
+      "source": "ntv",
+      "ts": "2026-08-20T20:23:01"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/US-Flugzeugtraeger-im-Nahen-Osten-wird-nach-langem-Einsatz-abgeloest-id31216284.html",
+      "ntitle": "washington ersetzt lincoln usflugzeugträger im nahen osten wird nach langem einsatz abgelöst",
+      "title": "\"Washington\" ersetzt \"Lincoln\": US-Flugzeugträger im Nahen Osten wird nach langem Einsatz abgelöst",
+      "summary": "Ein neuer Flugzeugträger der USA kommt im Nahen Osten an. Die \"USS George Washington\" löst die \"USS Abraham Lincoln\" nach über neun Monaten Dauereinsatz ab. Zuvor gab es Berichte über katastrophale Zustände an Bord.",
+      "source": "ntv",
+      "ts": "2026-08-20T20:23:01"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Wagenknecht-BSW-will-einzelne-AfD-Vorhaben-in-Sachsen-Anhalt-unterstuetzen-id31216249.html",
+      "ntitle": "schulessen pflegegeld energie wagenknecht bsw will einzelne afdvorhaben in sachsenanhalt unterstützen",
+      "title": "Schulessen, Pflegegeld, Energie: Wagenknecht: BSW will einzelne AfD-Vorhaben in Sachsen-Anhalt unterstützen",
+      "summary": "Das BSW kämpft in Sachsen-Anhalt um den Einzug in den Landtag. Sollte dies gelingen, will sich die Partei laut Gründerin Wagenknecht auch nicht allen AfD-Plänen in den Weg stellen. Man wolle \"vernünftige Dinge\" durchsetzen, sagt sie im RTL-\"Nachtjournal Spezial\".",
+      "source": "ntv",
+      "ts": "2026-08-20T20:23:01"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Lorenzo-Klingbeillini-und-das-Sommerhaus-der-Politstars-id31213605.html",
+      "ntitle": "berlin tag  macht lorenzo klingbeillini und das sommerhaus der politstars",
+      "title": "Berlin Tag & Macht: Lorenzo Klingbeillini und das Sommerhaus der Politstars",
+      "summary": "Das große Sommerinterview mit Lars Klingbeil zeigt: Die SPD hat nicht nur ein Umfrageproblem, sondern vor allem ein Problem damit, zu erklären, wofür man sie überhaupt noch braucht.",
+      "source": "ntv",
+      "ts": "2026-08-20T20:23:01"
+    },
+    {
+      "id": "https://www.n-tv.de/sport/fussball/Said-El-Mala-verlaengert-ueberraschend-beim-1-FC-Koeln-id31216507.html",
+      "ntitle": "nach wildem transferpoker said el mala verlängert überraschend beim 1 fc köln",
+      "title": "Nach wildem Transferpoker: Said El Mala verlängert überraschend beim 1. FC Köln",
+      "summary": "Nach langen Spekulationen klärt sich die Zukunft von Said El Mala. Der Nationalspieler bleibt beim 1. FC Köln und unterschreibt einen neuen Vertrag bis 2031. Er übernimmt zudem die Rückennummer einer Klub-Legende.",
+      "source": "ntv",
+      "ts": "2026-08-20T20:23:01"
+    },
+    {
+      "id": "6a873cf96b53e64effb7a866",
+      "ntitle": "nach 15 jahren bei der diakonie plötzlich entlassen  afdkandidatin leitet rechtliche schritte ein",
+      "title": "Nach 15 Jahren bei der Diakonie plötzlich entlassen – AfD-Kandidatin leitet rechtliche Schritte ein",
+      "summary": "Nach 15 Jahren bei der Diakonie erhält AfD-Kandidatin Martina Müller die Kündigung. Nun will sie dagegen klagen. Ein Arbeitsrechtler schätzt die Erfolgsaussichten als relativ hoch ein.",
+      "source": "WELT",
+      "ts": "2026-08-20T20:23:01"
+    },
+    {
+      "id": "6a873d9e6b53e64effb7a874",
+      "ntitle": "unsere gegner sind in der lage uns zu schaden  und zeigen auch klar den willen",
+      "title": "„Unsere Gegner sind in der Lage, uns zu schaden – und zeigen auch klar den Willen“",
+      "summary": "Ein F-16-Kampfjet der rumänischen Luftwaffe hat eine mit Sprengstoff bestückte Seedrohne im Schwarzen Meer unschädlich gemacht. „Wir haben technologisch eine ganz neue Bedrohungslage“, sagt Moritz Brake, Experte für maritime Sicherheit.",
+      "source": "WELT",
+      "ts": "2026-08-20T20:23:01"
+    },
+    {
+      "id": "6a8734652073297bd594c562",
+      "ntitle": "dann ist es wenig erbaulich wenn man sich an brandmauervorgaben halten muss",
+      "title": "„Dann ist es wenig erbaulich, wenn man sich an Brandmauer-Vorgaben halten muss“",
+      "summary": "Politikwissenschaftler Oliver W. Lembcke sieht die Brandmauer auf kommunaler Ebene „erodieren“, besonders bei der CDU: „Viele Kommunalpolitiker empfinden das als eine Einengung ihrer Praxis. Da kommt auch der Frust her.“",
+      "source": "WELT",
+      "ts": "2026-08-20T20:23:01"
+    },
+    {
+      "id": "6a87312bc3692834ff6d79ff",
+      "ntitle": "bürgermeister wird von ebike angefahren  jetzt verbietet er fahrräder in der innenstadt",
+      "title": "Bürgermeister wird von E-Bike angefahren – jetzt verbietet er Fahrräder in der Innenstadt",
+      "summary": "Der Bürgermeister im norditalienischen Como wird vor dem Rathaus von einem E-Bike erfasst. Nun untersagt die Stadt alle Fahrräder in der Innenstadt. Der Bürgermeister spricht von „Biestern“.",
+      "source": "WELT",
+      "ts": "2026-08-20T20:23:01"
+    },
+    {
+      "id": "6a85a6aa57e16470ca3ac3ef",
+      "ntitle": "russlands krieg gegen das getreide stürzt die ukraine in ein doppeltes dilemma",
+      "title": "Russlands Krieg gegen das Getreide stürzt die Ukraine in ein doppeltes Dilemma",
+      "summary": "Russland schießt auf Frachter im Schwarzen Meer und blockiert so den Export von ukrainischem Getreide. Polen wehrt sich gegen die Ausfuhr über Land. Letzte Hoffnung ist die Donau – doch auch dort gibt es Probleme.",
+      "source": "WELT",
+      "ts": "2026-08-20T20:23:01"
+    },
+    {
+      "id": "6a872fa4c3692834ff6d79e9",
+      "ntitle": "die ballistischen raketenangriffe haben massiv zugenommen",
+      "title": "„Die ballistischen Raketenangriffe haben massiv zugenommen“",
+      "summary": "Politikwissenschaftler Gerhard Mangott analysiert die Sicht Putins auf den Ukraine-Krieg, die Folgen für die Front und die Auswirkungen hybrider Angriffe auf westliche Staaten.",
+      "source": "WELT",
+      "ts": "2026-08-20T20:23:01"
+    },
+    {
+      "id": "6a86dd14260b7d1d2f795506",
+      "ntitle": "bgh bestätigt totschlag in jva burg  mann erwürgte ehefrau im besuchsraum",
+      "title": "BGH bestätigt Totschlag in JVA Burg – Mann erwürgte Ehefrau im Besuchsraum",
+      "summary": "",
+      "source": "WELT",
+      "ts": "2026-08-20T20:23:01"
+    },
+    {
+      "id": "6a8729f8260b7d1d2f795cd6",
+      "ntitle": "finde ich nicht gut  schulze distanziert sich von cduparteifreund der zu afdwahl aufruft",
+      "title": "„Finde ich nicht gut“ – Schulze distanziert sich von CDU-Parteifreund, der zu AfD-Wahl aufruft",
+      "summary": "Ministerpräsident Schulze bricht sein Schweigen zu dem CDU-Ortsbürgermeister, der auf einen Wahlsieg der AfD hofft und ihr 10.000 Euro spendete. Nach der Landtagswahl in Sachsen-Anhalt werde man sich mit der Frage nach einem Parteiausschluss beschäftigen.",
+      "source": "WELT",
+      "ts": "2026-08-20T20:23:01"
+    },
+    {
+      "id": "0c01cdd9-93e8-469c-8f09-a6d68c91fbc3",
+      "ntitle": "us longterm bonds slide as bessent intervention fails to soothe investors",
+      "title": "US long-term bonds slide as Bessent intervention fails to soothe investors",
+      "summary": "Yield on 30-year Treasuries rises despite move to ‘at least double’ purchases of securities",
+      "source": "Financial Times",
+      "ts": "2026-08-20T20:23:01"
     }
   ],
   "breaking_seen": [
@@ -3488,7 +3488,7 @@
   "last_run": {
     "digest_morning": "2026-08-20",
     "digest_noon": "2026-08-20",
-    "digest_evening": "2026-08-19",
+    "digest_evening": "2026-08-20",
     "daily": "2026-08-19",
     "weekly": "2026-W33"
   }
