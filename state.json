@@ -1,150 +1,6 @@
 {
   "history": [
     {
-      "id": "4d0b37dc-6a59-4338-8d3f-16411e8f750c",
-      "ntitle": "kampf gegen die flammen im hürtgenwald",
-      "title": "Kampf gegen die Flammen im Hürtgenwald",
-      "summary": "Seit Tagen brennt es im Hürtgenwald in der Eifel. Auch in der Nacht gingen die Löscharbeiten weiter. Die Feuerwehr musste ihre Einsatzzentrale verlegen - der Wind hatte sich gedreht.",
-      "source": "Tagesschau",
-      "ts": "2026-08-15T08:00:45"
-    },
-    {
-      "id": "e00817f5-0351-4c38-ab57-b7748d1dd5b1",
-      "ntitle": "waldbrand in der eifel ein doppelter weckruf",
-      "title": "Waldbrand in der Eifel: \"Ein doppelter Weckruf\"",
-      "summary": "Seit Wochen gibt es kaum Regen, dazu extreme Temperaturen und jetzt einen Waldbrand in der Eifel. Feuerökologe Alexander Held sieht darin einen \"doppelten Weckruf\". Wie gut ist Deutschland auf solche Gefahren vorbereitet?",
-      "source": "Tagesschau",
-      "ts": "2026-08-15T08:00:45"
-    },
-    {
-      "id": "002f56c6-312b-46e7-9387-1bce03e7e859",
-      "ntitle": "livestream die nachrichten auf tagesschau24",
-      "title": "Livestream: Die Nachrichten auf tagesschau24",
-      "summary": "Aktuelle Meldungen, vertiefende Analysen und Interviews: Verfolgen Sie das Programm des ARD-Nachrichtenkanals tagesschau24 hier.",
-      "source": "Tagesschau",
-      "ts": "2026-08-15T08:00:45"
-    },
-    {
-      "id": "8f81d1f5-c527-43af-9ed7-f0f506f92f82",
-      "ntitle": "etwa 2000 personen wegen waldbrandes in der eifelgemeinde hürtgenwald evakuiert",
-      "title": "Etwa 2.000 Personen wegen Waldbrandes in der Eifel-Gemeinde Hürtgenwald evakuiert",
-      "summary": "Etwa 2.000 Personen wegen Waldbrandes in der Eifel-Gemeinde Hürtgenwald evakuiert",
-      "source": "Tagesschau",
-      "ts": "2026-08-15T08:00:45"
-    },
-    {
-      "id": "edfd390e-31a4-42fb-a88a-4be524653e45",
-      "ntitle": "binnenschiffer wegen niedriger pegelstände unter druck",
-      "title": "Binnenschiffer wegen niedriger Pegelstände unter Druck",
-      "summary": "Binnenschiffer wegen niedriger Pegelstände unter Druck",
-      "source": "Tagesschau",
-      "ts": "2026-08-15T08:00:45"
-    },
-    {
-      "id": "25d09167-4917-4e11-89f9-e81970a89c08",
-      "ntitle": "alexander held forstwissenschaftler zur waldbrandgefahr in deutschland",
-      "title": "Alexander Held, Forstwissenschaftler, zur Waldbrandgefahr in Deutschland",
-      "summary": "Alexander Held, Forstwissenschaftler, zur Waldbrandgefahr in Deutschland",
-      "source": "Tagesschau",
-      "ts": "2026-08-15T08:00:45"
-    },
-    {
-      "id": "ee261807-a995-4ab1-b8af-60dddcbf1bfb",
-      "ntitle": "evakuierung wegen waldbrandes in der eifel",
-      "title": "Evakuierung wegen Waldbrandes in der Eifel",
-      "summary": "Evakuierung wegen Waldbrandes in der Eifel",
-      "source": "Tagesschau",
-      "ts": "2026-08-15T08:00:45"
-    },
-    {
-      "id": "36865f4b-107d-44fb-9c5a-83f5decb6212",
-      "ntitle": "junge menschen in indien protestieren gegen arbeitslosigkeit",
-      "title": "Junge Menschen in Indien protestieren gegen Arbeitslosigkeit",
-      "summary": "Junge Menschen in Indien protestieren gegen Arbeitslosigkeit",
-      "source": "Tagesschau",
-      "ts": "2026-08-15T08:00:45"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Magyar-krempelt-Ungarn-um-auch-mit-Orbans-Methoden-id31171016.html",
-      "ntitle": "skrupellose personalpolitik magyar krempelt ungarn um  auch mit orbns methoden",
-      "title": "Skrupellose Personalpolitik: Magyar krempelt Ungarn um - auch mit Orbáns Methoden",
-      "summary": "Untätigkeit kann dem ungarischen Ministerpräsidenten Magyar 100 Tage nach seinem Amtsantritt niemand vorwerfen. Hemdsärmelig baut er Justiz, Regierung und Medien um. Er arbeitet so effizient, dass die EU grünes Licht für eingefrorene Milliarden gibt. Aber seine Vorgehensweise stößt auf Kritik.",
-      "source": "ntv",
-      "ts": "2026-08-15T08:00:45"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Trump-will-Strasse-von-Hormus-nach-Kriegsende-zu-US-Territorium-erklaeren-id31196023.html",
-      "ntitle": "es ist wahr trump will straße von hormus nach kriegsende zu usterritorium erklären",
-      "title": "\"Es ist wahr\": Trump will Straße von Hormus nach Kriegsende zu US-Territorium erklären",
-      "summary": "Der Iran und die USA können sich bislang nicht auf eine dauerhafte Friedensvereinbarung einigen. Doch US-Präsident Trump spricht weiter von einem eigenen Sieg und einer \"vernichtenden Niederlage\" für Teheran. Nach dieser will er die Straße von Hormus für sich reklamieren.",
-      "source": "ntv",
-      "ts": "2026-08-15T08:00:45"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Klagen-ueber-US-Flugzeugtraeger-prallen-an-Trump-ab-id31195928.html",
-      "ntitle": "schiffsaustausch bestätigt klagen über usflugzeugträger prallen an trump ab",
-      "title": "Schiffs-Austausch bestätigt: Klagen über US-Flugzeugträger prallen an Trump ab",
-      "summary": "Die \"USS Abraham Lincoln\" ist seit neun Monaten unterwegs. Unhygienische Zustände und eine schlechte Versorgung an Bord zehren an den Nerven der Besatzung - das berichten Angehörige der Soldaten. Der US-Präsident spielt ihre Sorgen herunter.",
-      "source": "ntv",
-      "ts": "2026-08-15T08:00:45"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/politik_wieduwilts_woche/Wie-Hoecke-herrscht-id31193828.html",
-      "ntitle": "wieduwilts woche wie höcke herrscht",
-      "title": "Wieduwilts Woche: Wie Höcke herrscht",
-      "summary": "Der völkische Thüringer AfD-Chef dreht ein 121-Sekunden-Video wie ein Boomer, der einen Youtube-Kanal eröffnet. Was klingen soll wie eine Handreichung ist eine Ohrfeige - und hat vielleicht das Schicksal Sachsen-Anhalts entschieden.",
-      "source": "ntv",
-      "ts": "2026-08-15T08:00:45"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Umfrage-CDU-fuehrt-in-Berlin-knapp-vor-der-Linken-id31196407.html",
-      "ntitle": "afd direkt dahinter umfrage cdu führt in berlin knapp vor der linken",
-      "title": "AfD direkt dahinter: Umfrage: CDU führt in Berlin knapp vor der Linken",
-      "summary": "Rund einen Monat vor der Abgeordnetenhauswahl in der Hauptstadt liegen CDU und Linke in einer Umfrage weiter vorn. Dahinter folgen AfD und Grüne. Auf der Suche nach einer mehrheitsfähigen Koalition im Parlament nach dem Urnengang gibt es derzeit nur wenige Optionen.",
-      "source": "ntv",
-      "ts": "2026-08-15T08:00:45"
-    },
-    {
-      "id": "https://www.n-tv.de/panorama/Feuerwehr-im-Huertgenwald-erwartet-noch-tagelangen-Waldbrand-Einsatz-id31196281.html",
-      "ntitle": "ministerpräsident wüst vor ort feuerwehr im hürtgenwald erwartet noch tagelangen waldbrandeinsatz",
-      "title": "Ministerpräsident Wüst vor Ort: Feuerwehr im Hürtgenwald erwartet noch tagelangen Waldbrand-Einsatz",
-      "summary": "Im Westen Nordrhein-Westfalens kämpfen Einsatzkräfte unermüdlich gegen das ausgebrochene Feuer. Die Löscharbeiten sind derzeit bis Montag organisiert - ein Ende ist jedoch nicht absehbar. NRW-Innenminister Herbert Reul warnt davor, die Wälder zu betreten.",
-      "source": "ntv",
-      "ts": "2026-08-15T08:00:45"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Die-Taliban-finden-weltweit-zunehmend-Gespraechspartner-id31182426.html",
-      "ntitle": "handel abschiebung hilfsgüter die taliban finden weltweit zunehmend gesprächspartner",
-      "title": "Handel, Abschiebung, Hilfsgüter: Die Taliban finden weltweit zunehmend Gesprächspartner",
-      "summary": "Fünf Jahre, nachdem die Taliban Afghanistan zurückerobert haben, fassen sie auch auf internationalem Parkett zunehmend Fuß. Mit Nachbarstaaten führen sie Handelsgespräche, mit der EU sprechen sie über Abschiebungen. Es herrscht Pragmatismus vor, trotz der katastrophalen Menschenrechtslage.",
-      "source": "ntv",
-      "ts": "2026-08-15T08:00:45"
-    },
-    {
-      "id": "https://www.n-tv.de/panorama/Wegen-Betrugsvorwuerfen-zurueckgetretener-Professor-ist-tot-id31195965.html",
-      "ntitle": "nach skandal in cambridge wegen betrugsvorwürfen zurückgetretener professor ist tot",
-      "title": "Nach Skandal in Cambridge: Wegen Betrugsvorwürfen zurückgetretener Professor ist tot",
-      "summary": "Nach mehreren schweren Betrugsvorwürfen gegen Jason Arday wehrt sich dieser, räumt aber auch Fehler ein. Seine Professur an der angesehenen Cambridge-Universität gibt er auf. Kurz darauf ist er tot.",
-      "source": "ntv",
-      "ts": "2026-08-15T08:00:45"
-    },
-    {
-      "id": "6a7ff439a87e8142c31d0b19",
-      "ntitle": "verheerender waldbrand wütet in beliebter urlaubsregion  touristen ergreifen flucht",
-      "title": "Verheerender Waldbrand wütet in beliebter Urlaubsregion – Touristen ergreifen Flucht",
-      "summary": "Schwerer Waldbrand an der kroatischen Adriaküste im Raum Omiš: Touristen fliehen mit Autos und per Schiff, die Flammen dringen zu Häusern vor. Ein Mensch stirbt, weitere Personen schweben wegen Brandwunden in Lebensgefahr.",
-      "source": "WELT",
-      "ts": "2026-08-15T08:00:45"
-    },
-    {
-      "id": "6a7ff467a87e8142c31d0b1d",
-      "ntitle": "werde hormusstraße zum territorium der usa erklären  trump und iran streiten über meereng",
-      "title": "„Werde Hormus-Straße zum Territorium der USA erklären“ – Trump und Iran streiten über Meereng",
-      "summary": "US-Präsident Donald Trump kündigt an, die Straße von Hormus nach einem Sieg über den Iran zu US-Territorium erklären zu wollen. Der Iran weist diese Ansprüche entschieden zurück.",
-      "source": "WELT",
-      "ts": "2026-08-15T08:00:45"
-    },
-    {
       "id": "9459e834-ae8a-4fb0-813f-533d5127d03c",
       "ntitle": "gemeinde hürtgenwald hofft auf den regen  merz dankt helfern",
       "title": "Gemeinde Hürtgenwald hofft auf den Regen - Merz dankt Helfern",
@@ -3471,6 +3327,150 @@
       "summary": "World powers gather to decide how to deal with potential threat to colonising Earth’s nearest celestial neighbour",
       "source": "Financial Times",
       "ts": "2026-08-22T20:40:30"
+    },
+    {
+      "id": "7ba2dd30-aca0-450c-bdb4-45a065d24439",
+      "ntitle": "merz will reformbeschlüsse so schnell wie möglich umsetzen",
+      "title": "Merz will Reformbeschlüsse so schnell wie möglich umsetzen",
+      "summary": "Nach der Urlaubszeit kommen Bundeskanzler Merz und die Minister in der kommenden Woche zur Klausur in Brandenburg zusammen. Merz will die beschlossenen Reformen voranbringen - trotz des Gegenwindes, der in drei Wochen Urlaub aufkam.",
+      "source": "Tagesschau",
+      "ts": "2026-08-23T08:33:49"
+    },
+    {
+      "id": "a47282fc-ef34-4d8f-8680-b53eb5558b77",
+      "ntitle": "kanzler merz dankt helfern im waldbrandgebiet in nrw",
+      "title": "Kanzler Merz dankt Helfern im Waldbrandgebiet in NRW",
+      "summary": "Nach dem Waldbrand im nordrhein-westfälischen Hürtgenwald hat der Kanzler den Helfern gedankt. Zu spät sei sein Besuch gekommen, sagen Anwohner. Doch die Rettungskräfte loben das Timing des Kanzlers.",
+      "source": "Tagesschau",
+      "ts": "2026-08-23T08:33:49"
+    },
+    {
+      "id": "002f56c6-312b-46e7-9387-1bce03e7e859",
+      "ntitle": "livestream die nachrichten auf tagesschau24",
+      "title": "Livestream: Die Nachrichten auf tagesschau24",
+      "summary": "Aktuelle Meldungen, vertiefende Analysen und Interviews: Verfolgen Sie das Programm des ARD-Nachrichtenkanals tagesschau24 hier.",
+      "source": "Tagesschau",
+      "ts": "2026-08-23T08:33:49"
+    },
+    {
+      "id": "d129bdab-7cfa-4a0b-b87a-84b050ceaf75",
+      "ntitle": "malte pieper mdr zum stimmungstest für thüringens cduchef voigt",
+      "title": "Malte Pieper, MDR, zum Stimmungstest für Thüringens CDU-Chef Voigt",
+      "summary": "Malte Pieper, MDR, zum Stimmungstest für Thüringens CDU-Chef Voigt",
+      "source": "Tagesschau",
+      "ts": "2026-08-23T08:33:49"
+    },
+    {
+      "id": "ed09c7be-1e56-448a-b34e-8d7fc25ee2fd",
+      "ntitle": "daniel günther swr zu den ausschreitungen beim dfbpokalspiel zwischen mannheim und kaiserslautern",
+      "title": "Daniel Günther, SWR, zu den Ausschreitungen beim DFB-Pokalspiel zwischen Mannheim und Kaiserslautern",
+      "summary": "Daniel Günther, SWR, zu den Ausschreitungen beim DFB-Pokalspiel zwischen Mannheim und Kaiserslautern",
+      "source": "Tagesschau",
+      "ts": "2026-08-23T08:33:49"
+    },
+    {
+      "id": "291e4335-fcef-4474-aee7-9829041f759f",
+      "ntitle": "klimaphänomen el nio könnte wetterkatastrophen verschärfen",
+      "title": "Klimaphänomen El Niño könnte Wetterkatastrophen verschärfen",
+      "summary": "Klimaphänomen El Niño könnte Wetterkatastrophen verschärfen",
+      "source": "Tagesschau",
+      "ts": "2026-08-23T08:33:49"
+    },
+    {
+      "id": "61becec8-3cf2-4e9a-83bf-91714842495f",
+      "ntitle": "spionageverdacht setzt russisches haus in berlin unter druck",
+      "title": "Spionageverdacht setzt Russisches Haus in Berlin unter Druck",
+      "summary": "Spionageverdacht setzt Russisches Haus in Berlin unter Druck",
+      "source": "Tagesschau",
+      "ts": "2026-08-23T08:33:49"
+    },
+    {
+      "id": "daeeccb4-4072-41d9-a01f-65a4cf593b09",
+      "ntitle": "claudia kornmeier ard berlin mit informationen zum fund des waffenverstecks bei berlin",
+      "title": "Claudia Kornmeier, ARD Berlin, mit Informationen zum Fund des Waffenverstecks bei Berlin",
+      "summary": "Claudia Kornmeier, ARD Berlin, mit Informationen zum Fund des Waffenverstecks bei Berlin",
+      "source": "Tagesschau",
+      "ts": "2026-08-23T08:33:49"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/In-Berlin-setzt-die-SPD-auf-ganz-viel-Krach-id31217331.html",
+      "ntitle": "wer erobert das rote rathaus in berlin setzt die spd auf ganz viel krach",
+      "title": "Wer erobert das Rote Rathaus?: In Berlin setzt die SPD auf ganz viel Krach",
+      "summary": "Er kam als Unbekannter und Hoffnungsträger zurück in die Wahlheimat: Spitzenkandidat Steffen Krach trägt den Wahlkampf der SPD fast allein auf seinen Schultern. Der Erfolg ist bisher durchwachsen, für Krach aber kein Grund zum Aufstecken.",
+      "source": "ntv",
+      "ts": "2026-08-23T08:33:49"
+    },
+    {
+      "id": "https://www.n-tv.de/wirtschaft/VW-Chef-Blume-verlangt-Schulterschluss-der-Mitarbeiter-id31222503.html",
+      "ntitle": "volkswagen vor schicksalswoche vwchef blume verlangt schulterschluss der mitarbeiter",
+      "title": "Volkswagen vor Schicksalswoche: VW-Chef Blume verlangt Schulterschluss der Mitarbeiter",
+      "summary": "Volkswagen stehen bittere Wahrheiten bevor: Bis zu 50.000 Stellen könnten wegfallen, Werke stehen auf der Kippe. Angesichts des enormen Spardrucks verlangt VW-Chef Blume von den Angestellten geschlossene Gefolgschaft. Die IG Metall spricht von einer Ohrfeige für die Belegschaft.",
+      "source": "ntv",
+      "ts": "2026-08-23T08:33:49"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Iran-warnt-Laender-vor-Teilnahme-an-Trumps-Wirtschaftskrieg-id31222559.html",
+      "ntitle": "stufen jeden als feind ein iran warnt länder vor teilnahme an trumps wirtschaftskrieg",
+      "title": "\"Stufen jeden als Feind ein\": Iran warnt Länder vor Teilnahme an Trumps Wirtschaftskrieg",
+      "summary": "Trump will das Mullah-Regime mit härteren Sanktionen überziehen. Nun versuchen die USA, Verbündete dafür zu gewinnen. Teheran kontert mit einer Gegendrohung. Jedes Land, das Washington beispringe, werde man als feindlich betrachten.",
+      "source": "ntv",
+      "ts": "2026-08-23T08:33:49"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Putin-droht-Ukraine-Buechse-der-Pandora-geoeffnet-id31222312.html",
+      "ntitle": "nach angriffen auf ölraffinerien putin droht ukraine büchse der pandora geöffnet",
+      "title": "Nach Angriffen auf Ölraffinerien: Putin droht Ukraine: \"Büchse der Pandora geöffnet\"",
+      "summary": "Mit Drohnen gelingen der Ukraine einige spektakuläre Angriffe auf die russische Wirtschaft. Erstmals seit Beginn der Attacken äußert sich Kremlchef Putin dazu. Er kündigt eine scharfe Antwort Moskaus an.",
+      "source": "ntv",
+      "ts": "2026-08-23T08:33:49"
+    },
+    {
+      "id": "https://www.n-tv.de/panorama/Es-gibt-Regeln-auch-fuer-Despoten-id31219537.html",
+      "ntitle": "eine für alle es gibt regeln auch für despoten",
+      "title": "Eine für alle: Es gibt Regeln, auch für Despoten!",
+      "summary": "Selbst im Krieg gibt es Regeln. Und doch wird in der Ukraine alles und jeder kurz und klein geschossen, dem Erdboden gleichgemacht. Da wird auch vor Zivilisten - Kindern, Alten, Kranken - nicht haltgemacht. Heute daher keine Kolumne - kein Bock auf lustig oder Zwischen-den-Zeilen-Problemchen - sondern eine Bestandsaufnahme des Horrors.",
+      "source": "ntv",
+      "ts": "2026-08-23T08:33:49"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Stehen-USA-und-Kanada-vor-einem-Handelskrieg-id31222643.html",
+      "ntitle": "experte sieht schädliche spirale stehen usa und kanada vor einem handelskrieg",
+      "title": "Experte sieht schädliche Spirale: Stehen USA und Kanada vor einem Handelskrieg?",
+      "summary": "Kanada und die USA können ihren Zollkonflikt nicht beilegen. Ein Experte warnt vor hohen Kosten für beide Länder. Kanadische Politiker sind erleichtert, dass sie nicht mit zu viel Nachgiebigkeit in die Falle der EU getappt sind.",
+      "source": "ntv",
+      "ts": "2026-08-23T08:33:49"
+    },
+    {
+      "id": "https://www.n-tv.de/sport/fussball/FC-Bayern-direkt-in-Topform-Knapper-Supercup-Sieg-gegen-BVB-id31222442.html",
+      "ntitle": "wildes ende mit roter karte fc bayern direkt in topform knapper supercupsieg gegen bvb",
+      "title": "Wildes Ende mit Roter Karte: FC Bayern direkt in Topform: Knapper Supercup-Sieg gegen BVB",
+      "summary": "Der FC Bayern gewinnt die zweite Ausgabe des Franz-Beckenbauer-Supercups. Im Duell mit dem Vize-Meister Borussia Dortmund behält der Double-Sieger dank einer dominanten ersten Hälfte die Oberhand und holt den ersten Titel der neuen Saison 2026/27. Am Ende wird die Partie noch richtig wild.",
+      "source": "ntv",
+      "ts": "2026-08-23T08:33:49"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/EVG-droht-Bundesregierung-mit-Streik-wegen-Untaetigkeit-id31222508.html",
+      "ntitle": "nach tod von zugbegleiter  evg droht bundesregierung mit streik  wegen untätigkeit",
+      "title": "Nach Tod von Zugbegleiter : EVG droht Bundesregierung mit Streik - wegen Untätigkeit",
+      "summary": "Die Bahngewerkschaft EVG verlangt härtere Strafen für Angriffe auf das Zugpersonal. Nach dem Tod eines DB-Mitarbeiters bei der Fahrscheinkontrolle habe die Politik schärfere Gesetze versprochen, moniert der EVG-Chef. Sollte weiter nichts passieren, gebe es Streik.",
+      "source": "ntv",
+      "ts": "2026-08-23T08:33:49"
+    },
+    {
+      "id": "6a8a8e82511d4fd3bc4e0c1c",
+      "ntitle": "politiker haben serkan vergessen wir nicht  bahngewerkschaft droht mit deutschlandweiten streiks",
+      "title": "„Politiker haben Serkan vergessen. Wir nicht“ – Bahngewerkschaft droht mit deutschlandweiten Streiks",
+      "summary": "Die Bahngewerkschaft EVG hat mit bundesweiten Streiks im Regionalverkehr ab Januar gedroht, sollte die Bundesregierung das Strafmaß bei Angriffen auf Zugbegleiter nicht bald verschärfen.",
+      "source": "WELT",
+      "ts": "2026-08-23T08:33:49"
+    },
+    {
+      "id": "6a88329bb24f9237ede78524",
+      "ntitle": "warum nicht auch hesses herrenunterhosen oder den habermashüftslip",
+      "title": "Warum nicht auch „Hesses Herrenunterhosen“ oder den „Habermas-Hüftslip“?",
+      "summary": "Der Suhrkamp-Verlag befindet sich im Niedergang. Finanziell sieht es schlecht aus, und die Führung leidet an Ideenskorbut. Deshalb greift sie jetzt zu drastischen Mitteln.",
+      "source": "WELT",
+      "ts": "2026-08-23T08:33:49"
     }
   ],
   "breaking_seen": [
@@ -3486,7 +3486,7 @@
     "https://www.n-tv.de/politik/Supreme-Court-stoppt-Trump-Plan-fuer-eingeschraenkte-Staatsbuergerschaft-id31032428.html"
   ],
   "last_run": {
-    "digest_morning": "2026-08-22",
+    "digest_morning": "2026-08-23",
     "digest_noon": "2026-08-22",
     "digest_evening": "2026-08-22",
     "daily": "2026-08-22",
