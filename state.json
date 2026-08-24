@@ -1,150 +1,6 @@
 {
   "history": [
     {
-      "id": "f9fb0891-219a-4c8e-bfb3-dc569d263d78",
-      "ntitle": "überblick waldbrände in deutschland",
-      "title": "Überblick: Waldbrände in Deutschland",
-      "summary": "Nicht nur im Westen Nordrhein-Westfalens ist die Feuerwehr wegen Waldbränden im Einsatz. Auch in anderen Regionen Deutschlands sind Wald- oder Vegetationsflächen in Brand geraten. Wo brennt es und wie ist die Lage dort?",
-      "source": "Tagesschau",
-      "ts": "2026-08-16T20:39:11"
-    },
-    {
-      "id": "9fa8073a-cac5-4fce-8a38-17cdad5745e7",
-      "ntitle": "susanne petersohn ard kiew berichtet über die erneuten russischen angriffe auf kiew",
-      "title": "Susanne Petersohn, ARD Kiew, berichtet über die erneuten russischen Angriffe auf Kiew",
-      "summary": "Susanne Petersohn, ARD Kiew, berichtet über die erneuten russischen Angriffe auf Kiew",
-      "source": "Tagesschau",
-      "ts": "2026-08-16T20:39:11"
-    },
-    {
-      "id": "f85dcf54-e176-4bb3-b8b1-6d1fe2956832",
-      "ntitle": "tilman kleinjung ard rom zum umgang mit der hitze in italien",
-      "title": "Tilman Kleinjung, ARD Rom, zum Umgang mit der Hitze in Italien",
-      "summary": "Tilman Kleinjung, ARD Rom, zum Umgang mit der Hitze in Italien",
-      "source": "Tagesschau",
-      "ts": "2026-08-16T20:39:11"
-    },
-    {
-      "id": "7efdcf47-9c34-4b9b-b8eb-a7058617b82a",
-      "ntitle": "sandra biegger swr zum pfalztreffen der spd",
-      "title": "Sandra Biegger, SWR, zum Pfalztreffen der SPD",
-      "summary": "Sandra Biegger, SWR, zum Pfalztreffen der SPD",
-      "source": "Tagesschau",
-      "ts": "2026-08-16T20:39:11"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/In-Mariupol-wird-der-Krieg-mit-dem-Grundbuch-weitergefuehrt-id31194277.html",
-      "ntitle": "die kakerlaken kommen in mariupol wird der krieg mit dem grundbuch weitergeführt",
-      "title": "Die \"Kakerlaken\" kommen: In Mariupol wird der Krieg mit dem Grundbuch weitergeführt",
-      "summary": "Russland ersetzt die Bevölkerung der ukrainischen Stadt Mariupol durch Ansiedlung von Russen. Es ist ein Verstoß gegen internationales Recht, ein Kriegsverbrechen. Die Neuankömmlinge freuen sich auf ein schönes Leben am Meer.",
-      "source": "ntv",
-      "ts": "2026-08-16T20:39:11"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Banaszak-fordert-von-CDU-Gespraechsbereitschaft-mit-der-Linken-id31199870.html",
-      "ntitle": "für die demokratie entscheiden banaszak fordert von cdu gesprächsbereitschaft mit der linken",
-      "title": "\"Für die Demokratie entscheiden\": Banaszak fordert von CDU Gesprächsbereitschaft mit der Linken",
-      "summary": "Angesichts möglicher schwieriger Mehrheitsverhältnisse in Ostdeutschland erhöht Grünen-Chef Banaszak den Druck auf die Union. Er fordert Gesprächsbereitschaft mit der Linkspartei, um eine Regierungsbeteiligung der AfD zu verhindern.",
-      "source": "ntv",
-      "ts": "2026-08-16T20:39:11"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/AfD-Politiker-nach-Plakat-Streit-offenbar-erneut-auffaellig-id31199886.html",
-      "ntitle": "bei verkehrskontrolle gestoppt afdpolitiker nach plakatstreit offenbar erneut auffällig",
-      "title": "Bei Verkehrskontrolle gestoppt: AfD-Politiker nach Plakat-Streit offenbar erneut auffällig",
-      "summary": "Wegen einer Auseinandersetzung um ein Wahlplakat steht der AfD-Politiker Arno Bausemer im Fokus. Der 43-Jährige wird verdächtigt, einen 14-Jährigen geschlagen zu haben. Nun hat die Polizei auch wegen des Verdachts auf eine Verkehrsstraftat ein Verfahren eingeleitet.",
-      "source": "ntv",
-      "ts": "2026-08-16T20:39:11"
-    },
-    {
-      "id": "https://www.n-tv.de/wirtschaft/USA-drohen-Iran-mit-beispielloser-Sanktionswelle-id31199321.html",
-      "ntitle": "trump erhöht den druck usa drohen iran mit beispielloser sanktionswelle",
-      "title": "Trump erhöht den Druck: USA drohen Iran mit beispielloser Sanktionswelle",
-      "summary": "Wie weit wird Washington gehen, um Teheran wirtschaftlich in die Knie zu zwingen? Im Raum stehen harte Eingriffe in Irans Handelswege und Druck auf Partnerländer - mit erheblichen Risiken für die USA und die Weltwirtschaft.",
-      "source": "ntv",
-      "ts": "2026-08-16T20:39:11"
-    },
-    {
-      "id": "https://www.n-tv.de/panorama/Wilder-Umschwung-laesst-es-krachen-und-endlich-regnen-id31199356.html",
-      "ntitle": "wetterwoche im schnellcheck wilder umschwung lässt es krachen und endlich regnen",
-      "title": "Wetterwoche im Schnellcheck: Wilder Umschwung lässt es krachen und endlich regnen",
-      "summary": "Auf die große Hitze der vergangenen Tage folgt ein Wetterwechsel - und der sorgt wieder für wechselhaftere Verhältnisse. Die kommende Woche bringt für viele etwas kühleres Wetter. Außerdem könnte ein neuer Rekord aufgestellt werden.",
-      "source": "ntv",
-      "ts": "2026-08-16T20:39:11"
-    },
-    {
-      "id": "https://www.n-tv.de/sport/fussball/Niklas-Suele-trifft-bei-Kreisliga-Debuet-kassiert-aber-eine-Klatsche-id31199801.html",
-      "ntitle": "auf ungewohnter position niklas süle trifft bei kreisligadebüt  kassiert aber eine klatsche",
-      "title": "Auf ungewohnter Position: Niklas Süle trifft bei Kreisliga-Debüt - kassiert aber eine Klatsche",
-      "summary": "Nach seinem überraschenden Karriereende kehrt Niklas Süle zu den Wurzeln des Fußballs zurück: der Kreisliga. Zwischen Bratwurst-Bude und 500 Fans erzielt der ehemalige Nationalspieler zwar einen Treffer, zum Sieg reicht es aber nicht. Am Ende schweigt er.",
-      "source": "ntv",
-      "ts": "2026-08-16T20:39:11"
-    },
-    {
-      "id": "https://www.n-tv.de/leute/Georgina-und-Ronaldo-heiraten-im-Wohnzimmer-id31199762.html",
-      "ntitle": "intim voller liebe  georgina und ronaldo heiraten im wohnzimmer",
-      "title": "\"Intim, voller Liebe\" : Georgina und Ronaldo heiraten im Wohnzimmer",
-      "summary": "Cristiano Ronaldo und Georgina Rodríguez haben sich getraut. Doch anders als in zahlreichen Medienberichten vermutet, gibt es keine Feier auf Madeira. Stattdessen sagen die beiden bei einer intimen Zeremonie in den eigenen vier Wänden Ja.",
-      "source": "ntv",
-      "ts": "2026-08-16T20:39:11"
-    },
-    {
-      "id": "6a81f746169e8e32c0aea7e5",
-      "ntitle": "russland wird weiter versuchen die verteidigung des bündnisses auszutesten mahnt der exciachef",
-      "title": "„Russland wird weiter versuchen, die Verteidigung des Bündnisses auszutesten“, mahnt der Ex-CIA-Chef",
-      "summary": "Ex-US-Verteidigungsminister Leon Panetta warnt vor russischen Angriffen auf deutschem Boden – und sieht die Nato in einem gefährlichen Moment der Schwäche.",
-      "source": "WELT",
-      "ts": "2026-08-16T20:39:11"
-    },
-    {
-      "id": "6a81fb14169e8e32c0aea829",
-      "ntitle": "gerade sie der sie so viel wert auf männlichkeit legen  wagenknecht ruft höcke zum rededuell auf",
-      "title": "„Gerade Sie, der Sie so viel Wert auf Männlichkeit legen“ – Wagenknecht ruft Höcke zum Rededuell auf",
-      "summary": "Die BSW-Gründerin Wagenknecht stellt Björn Höcke ein Live-Duell mit neutralem Moderator in Aussicht – und koppelt daran ihre Idee eines überparteilichen Regierungschefs für Thüringen.",
-      "source": "WELT",
-      "ts": "2026-08-16T20:39:11"
-    },
-    {
-      "id": "6a81d994e2db31c6341311c3",
-      "ntitle": "eine sehr große nachtmusik",
-      "title": "Eine sehr große Nachtmusik",
-      "summary": "Mit einem Festival im Festival, der „Großen Nachtmusik“ rund um den illuminierten Marktplatz, wird seit 25 Jahren das Musikfest Bremen eröffnet. Die Jubiläumsausgabe geriet mit dem Komponisten und Starpianisten Fazil Say außergewöhnlich.",
-      "source": "WELT",
-      "ts": "2026-08-16T20:39:11"
-    },
-    {
-      "id": "6a81e098e2db31c6341312aa",
-      "ntitle": "özdemir warnt vor möglichem missbrauch von geheimdienstinformationen durch die afd",
-      "title": "Özdemir warnt vor möglichem Missbrauch von Geheimdienstinformationen durch die AfD",
-      "summary": "„Das ist eine Frage deutscher Interessen“: Cem Özdemir sieht einen möglichen AfD-Ministerpräsidenten als Sicherheitsrisiko.",
-      "source": "WELT",
-      "ts": "2026-08-16T20:39:11"
-    },
-    {
-      "id": "6a81e055f97b07171c0588b6",
-      "ntitle": "wehrlein krönt sich auf dramatische weise zum weltmeister",
-      "title": "Wehrlein krönt sich auf dramatische Weise zum Weltmeister",
-      "summary": "Pascal Wehrlein erlebt ein Chaos-Rennen in London. Am Ende aber sichert sich der 31 Jahre alte Porsche-Pilot den zweiten WM-Titel seiner Karriere in der Formel E.",
-      "source": "WELT",
-      "ts": "2026-08-16T20:39:11"
-    },
-    {
-      "id": "6a81d165a87e8142c31d1f6f",
-      "ntitle": "sie sind nicht einmal menschen  itamar bengvir fordert gezielte tötungen von palästinensern",
-      "title": "„Sie sind nicht einmal Menschen“ – Itamar Ben-Gvir fordert „gezielte Tötungen“ von Palästinensern",
-      "summary": "Der israelische Sicherheitsminister Itamar Ben-Gvir hat in einem Podcast gefordert, jede Nacht Dutzende Palästinenser zu töten. Außerdem will er den Gaza-Streifen wieder besetzen.",
-      "source": "WELT",
-      "ts": "2026-08-16T20:39:11"
-    },
-    {
-      "id": "6a81cbe5e2db31c6341310cc",
-      "ntitle": "nach streit um wahlplakat  afdpolitiker fuhr mutmaßlich auch betrunken auto",
-      "title": "Nach Streit um Wahlplakat – AfD-Politiker fuhr mutmaßlich auch betrunken Auto",
-      "summary": "Arno Bausemer griff einen Jugendlichen mit einem Baseballschläger an, nachdem dieser AfD-Plakate beschädigt hatte. Einen Tag später hielt die Polizei den AfD-Politiker an – mutmaßlich war er alkoholisiert.",
-      "source": "WELT",
-      "ts": "2026-08-16T20:39:11"
-    },
-    {
       "id": "9177729e-a8f9-4d82-875e-9102d4e77c41",
       "ntitle": "warum deutsche industrie ihr glück in ungarn sucht",
       "title": "Warum deutsche Industrie ihr Glück in Ungarn sucht",
@@ -3471,6 +3327,150 @@
       "summary": "Axel Springer Global Reporter Paul Ronzheimer beobachtet beim Spitzenpersonal der Union massive Zweifel an der Führung von Kanzler Merz. „Da gibt es ganz viele, die sagen, er hätte gezeigt, dass er es eben nicht kann.“",
       "source": "WELT",
       "ts": "2026-08-24T14:18:58"
+    },
+    {
+      "id": "08e92af2-0ff7-4390-8a8d-656a4b8c89bd",
+      "ntitle": "unabhängigkeitstag der ukraine  kapitulation kommt nicht in frage",
+      "title": "Unabhängigkeitstag der Ukraine - Kapitulation kommt nicht in Frage",
+      "summary": "Mitten im russischen Angriffskrieg feiert die Ukraine ihre Unabhängigkeit. Präsident Selenskyj pocht auf die Stärke seines Landes - und erhält weitere Rüstungshilfe der EU und aus Großbritannien. Von F. Kellermann.",
+      "source": "Tagesschau",
+      "ts": "2026-08-24T20:42:09"
+    },
+    {
+      "id": "1a3988ed-8dc2-4946-8900-d8dea8c98a47",
+      "ntitle": "melanie marks ard berlin über die ziele des treffens der cdu parteispitze",
+      "title": "Melanie Marks, ARD Berlin, über die Ziele des Treffens der CDU Parteispitze",
+      "summary": "Melanie Marks, ARD Berlin, über die Ziele des Treffens der CDU Parteispitze",
+      "source": "Tagesschau",
+      "ts": "2026-08-24T20:42:09"
+    },
+    {
+      "id": "9f010cd2-e164-4dfa-80fb-49ea6b46b4f3",
+      "ntitle": "verena schälter ard rom zum schweren erdbeben in mittelitalien vor zehn jahren",
+      "title": "Verena Schälter, ARD Rom, zum schweren Erdbeben in Mittel-Italien vor zehn Jahren",
+      "summary": "Verena Schälter, ARD Rom, zum schweren Erdbeben in Mittel-Italien vor zehn Jahren",
+      "source": "Tagesschau",
+      "ts": "2026-08-24T20:42:09"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Der-russische-Vormarsch-ist-sichtbar-id31227102.html",
+      "ntitle": "reisners blick auf die front der russische vormarsch ist sichtbar",
+      "title": "Reisners Blick auf die Front: \"Der russische Vormarsch ist sichtbar\"",
+      "summary": "Bei allem ukrainischen Erfolg gegen russische Raffinerien und Logistikzentren: Im Donbass marschieren die Kreml-Truppen weiter vor, erklärt Oberst Reisner ntv.de. Und sie zielen auf Kiews Achillesferse.",
+      "source": "ntv",
+      "ts": "2026-08-24T20:42:09"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Selenskyj-enthuellt-weiteren-Grund-warum-er-Fedorow-gefeuert-hat-id31227736.html",
+      "ntitle": "na dann es ist seine wahl selenskyj enthüllt weiteren grund warum er fedorow gefeuert hat",
+      "title": "\"Na dann, es ist seine Wahl\": Selenskyj enthüllt weiteren Grund, warum er Fedorow gefeuert hat",
+      "summary": "Ex-Verteidigungsminister Fedorow hat sich nach Darstellung des ukrainischen Präsidenten nicht nur einen Machtkampf mit dem Generalstabschef geliefert. Er hat Selenskyj auch mit einer falschen Information versorgt. Das führte zu einer peinlichen Szene mit Trump.",
+      "source": "ntv",
+      "ts": "2026-08-24T20:42:09"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Russlands-Drohungen-lassen-Koalition-der-Willigen-kalt-id31227902.html",
+      "ntitle": "mehr unterstützung für ukraine russlands drohungen lassen koalition der willigen kalt",
+      "title": "Mehr Unterstützung für Ukraine: Russlands Drohungen lassen \"Koalition der Willigen\" kalt",
+      "summary": "Russland verschärft den Ton gegenüber den westlichen Unterstützern der Ukraine. Doch die lassen sich von den Drohungen aus Moskau nicht beeindrucken. Bei einer gemeinsamen Schalte machen mehrere Regierungschefs deutlich, wie sie nun reagieren wollen.",
+      "source": "ntv",
+      "ts": "2026-08-24T20:42:09"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Fuer-Meloni-kann-das-neue-Asylsystem-zum-Bumerang-werden-id31226578.html",
+      "ntitle": "streit mit deutschland für meloni kann das neue asylsystem zum bumerang werden",
+      "title": "Streit mit Deutschland: Für Meloni kann das neue Asylsystem zum Bumerang werden",
+      "summary": "Mit einer sinnlosen Reaktion auf den Ansturm von Migranten auf die spanische Exklave Ceuta hat die italienische Regierung Reaktionen ausgelöst, die sie selbst unter Druck setzen. Es ist ein Test, ob GEAS für Italien besser ist als Dublin.",
+      "source": "ntv",
+      "ts": "2026-08-24T20:42:09"
+    },
+    {
+      "id": "https://www.n-tv.de/wirtschaft/USA-wollen-Iran-wirtschaftlich-komplett-isolieren-id31228096.html",
+      "ntitle": "viele fragen unklar usa wollen iran wirtschaftlich komplett isolieren",
+      "title": "Viele Fragen unklar: USA wollen Iran wirtschaftlich komplett isolieren",
+      "summary": "US-Finanzminister Scott Bessent kündigt eine globale Wirtschaftsoffensive gegen den Iran an. Demnach drohen allen Staaten sowie Unternehmen, die Geschäfte mit Teheran tätigen, drastische Konsequenzen. Konkrete Maßnahmen lässt er offen.",
+      "source": "ntv",
+      "ts": "2026-08-24T20:42:09"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Netanjahu-spricht-ueber-angebliche-iranische-Anschlagsplaene-auf-seine-Familie-id31228092.html",
+      "ntitle": "wollten meinen sohn töten netanjahu spricht über angebliche iranische anschlagspläne auf seine familie",
+      "title": "\"Wollten meinen Sohn töten\": Netanjahu spricht über angebliche iranische Anschlagspläne auf seine Familie",
+      "summary": "Israels Regierungschef Benjamin Netanjahu spricht in einem Interview über eine bislang weitgehend unbekannte Bedrohung seiner Familie. Demnach soll der Iran einen seiner Söhne ins Visier genommen haben. Einzelheiten nennt Netanjahu zunächst nicht.",
+      "source": "ntv",
+      "ts": "2026-08-24T20:42:09"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Die-Bundesregierung-schliesst-sich-im-Schloss-ein-id31227396.html",
+      "ntitle": "zwei neue gesichter die bundesregierung schließt sich im schloss ein",
+      "title": "Zwei neue Gesichter: Die Bundesregierung schließt sich im Schloss ein",
+      "summary": "Der Kanzler ist aus dem Urlaub zurück und will seine Regierung darauf \"einschwören\", die Reformpläne endlich umzusetzen. Friedrich Merz steht unter hohem Druck. Schlechte Umfragen sorgen in den Regierungsparteien für Verunsicherung.",
+      "source": "ntv",
+      "ts": "2026-08-24T20:42:09"
+    },
+    {
+      "id": "https://www.n-tv.de/wirtschaft/Das-fast-erschreckende-Firmenimperium-des-Klaus-Michael-Kuehne-id31227472.html",
+      "ntitle": "investitionen am lebensende das fast erschreckende firmenimperium des klausmichael kühne",
+      "title": "Investitionen am Lebensende: Das \"fast erschreckende\" Firmenimperium des Klaus-Michael Kühne",
+      "summary": "Zum Zeitpunkt seines Todes war Klaus-Michael Kühne laut Bloomberg wohl der reichste Deutsche. Einen Großteil seines gigantischen Vermögens und seines Firmenreiches erwarb er im Alter von mehr als 80 Jahren.",
+      "source": "ntv",
+      "ts": "2026-08-24T20:42:09"
+    },
+    {
+      "id": "6a8c8707c3692834ff6db79a",
+      "ntitle": "köln quält sich in die zweite runde 16jähriger führt den hsv zum sieg",
+      "title": "Köln quält sich in die zweite Runde, 16-Jähriger führt den HSV zum Sieg",
+      "summary": "Der 1. FC Köln müht sich bei Drittligaklub Würzburg zum Sieg und steht in der zweiten Runde des DFB-Pokals. Der HSV löst seine Pflichtaufgabe souverän und hat einen neuen Hoffnungsträger.",
+      "source": "WELT",
+      "ts": "2026-08-24T20:42:09"
+    },
+    {
+      "id": "6a8c85c0c3692834ff6db77e",
+      "ntitle": "jede wirtschaftliche lebensader durchtrennen die dieses tyrannische regime am leben hält",
+      "title": "„Jede wirtschaftliche Lebensader ​durchtrennen, die dieses ‌tyrannische Regime am Leben hält“",
+      "summary": "US-Finanzminister Scott Bessent ruft den „wirtschaftlichen D-Day“ aus – jetzt geraten auch Handelspartner und Energieimporteure ins Visier der US-Sanktionen.",
+      "source": "WELT",
+      "ts": "2026-08-24T20:42:09"
+    },
+    {
+      "id": "6a8c8636c3692834ff6db78b",
+      "ntitle": "die menschen bangen um ihr leben und versuchen kiew zu verlassen",
+      "title": "„Die Menschen bangen um ihr Leben und versuchen, Kiew zu verlassen“",
+      "summary": "Die Ukraine hat ihren 35. Unabhängigkeitstag unter strengsten Sicherheitsvorkehrungen gefeiert. Andrij Melnyk, UN-Botschafter der Ukraine, fordert angesichts täglicher russischer Angriffe mehr Unterstützung der Europäer.",
+      "source": "WELT",
+      "ts": "2026-08-24T20:42:09"
+    },
+    {
+      "id": "6a7c26a78c07c6525c768948",
+      "ntitle": "flächendeckende versorgung von kindern nicht mehr gewährleistet",
+      "title": "„Flächendeckende Versorgung von Kindern nicht mehr gewährleistet“",
+      "summary": "Kinderarzt Axel Gerschlauer warnt vor gravierenden Engpässen in der Versorgung durch das schwarz-rote Sparpaket. Er sieht erhebliche Selbstzahlerkosten auf Eltern zukommen.",
+      "source": "WELT",
+      "ts": "2026-08-24T20:42:09"
+    },
+    {
+      "id": "6a8c7f69c3692834ff6db72c",
+      "ntitle": "bedenklicher präzedenzfall  deutsche medien fordern von merz unterstützung bei usvisaregeln",
+      "title": "„Bedenklicher Präzedenzfall“ – Deutsche Medien fordern von Merz Unterstützung bei US-Visaregeln",
+      "summary": "Deutsche Medien zeigen sich „zutiefst besorgt“: Verlage und Fernsehsender schlagen Alarm über neue US-Visaregeln – sie sehen die Pressefreiheit in der Partnerdemokratie unter Druck.",
+      "source": "WELT",
+      "ts": "2026-08-24T20:42:09"
+    },
+    {
+      "id": "6a8c80ae511d4fd3bc4e29b3",
+      "ntitle": "von maradonas fuß geküsst und der hand gottes gestreichelt  ball bringt millionenerlös",
+      "title": "Von Maradonas Fuß geküsst und der Hand Gottes gestreichelt – Ball bringt Millionen-Erlös",
+      "summary": "Erst war die Hand Gottes, dann der Fuß des Fußballgottes im Spiel. Diego Maradona schießt Argentinien 1986 gegen England ins WM-Finale. Der Ball wurde 40 Jahre später für eine Millionensumme versteigert",
+      "source": "WELT",
+      "ts": "2026-08-24T20:42:09"
+    },
+    {
+      "id": "6a8c84a3c3692834ff6db757",
+      "ntitle": "der staat kommt seiner aufgabe nicht mehr nach den schutz der bevölkerung darzustellen",
+      "title": "„Der Staat kommt seiner Aufgabe nicht mehr nach, den Schutz der Bevölkerung darzustellen“",
+      "summary": "Nach Schüssen auf einen Friseursalon in Berlin-Steglitz ermittelt die Polizei wegen des Verdachts der Schutzgelderpressung. Der Laden soll zum Umfeld des Rappers Samra gehören. „Das läuft aus dem Ruder“, sagt Ex-LKA-Ermittler Klaus Nachtigall.",
+      "source": "WELT",
+      "ts": "2026-08-24T20:42:09"
     }
   ],
   "breaking_seen": [
@@ -3488,7 +3488,7 @@
   "last_run": {
     "digest_morning": "2026-08-24",
     "digest_noon": "2026-08-24",
-    "digest_evening": "2026-08-23",
+    "digest_evening": "2026-08-24",
     "daily": "2026-08-23",
     "weekly": "2026-W34"
   }
