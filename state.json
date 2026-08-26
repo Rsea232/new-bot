@@ -1,150 +1,6 @@
 {
   "history": [
     {
-      "id": "c980ad76-97e9-4192-b3ef-cd1ecc6c61b3",
-      "ntitle": "wagenknecht und das bsw mit schlagzeilen in den überlebenskampf",
-      "title": "Wagenknecht und das BSW: Mit Schlagzeilen in den Überlebenskampf",
-      "summary": "Vor der heißen Phase des Wahlkampfs in Sachsen-Anhalt versucht vor allem Gründerin Sahra Wagenknecht, mit der AfD ins Gespräch zu kommen. Was geht da vor sich? Von Frank Aischmann.",
-      "source": "Tagesschau",
-      "ts": "2026-08-18T20:00:47"
-    },
-    {
-      "id": "a399c617-d1d2-4a01-becf-7c2b36499ecb",
-      "ntitle": "großbrand im hohen venn löscharbeiten auf moorflächen gehen weiter",
-      "title": "Großbrand im Hohen Venn: Löscharbeiten auf Moorflächen gehen weiter",
-      "summary": "Großbrand im Hohen Venn: Löscharbeiten auf Moorflächen gehen weiter",
-      "source": "Tagesschau",
-      "ts": "2026-08-18T20:00:47"
-    },
-    {
-      "id": "f6e7f5ac-745f-4182-86c4-88e3f05c3a9e",
-      "ntitle": "extreme provokationen von israels sicherheitsminister ben gvir",
-      "title": "Extreme Provokationen von Israels Sicherheitsminister Ben Gvir",
-      "summary": "Extreme Provokationen von Israels Sicherheitsminister Ben Gvir",
-      "source": "Tagesschau",
-      "ts": "2026-08-18T20:00:47"
-    },
-    {
-      "id": "d47fc40e-c536-47f1-a4e8-e84f40116777",
-      "ntitle": "früherkennung von waldbränden durch aufklärungsdrohnen",
-      "title": "Früherkennung von Waldbränden durch Aufklärungsdrohnen",
-      "summary": "Früherkennung von Waldbränden durch Aufklärungsdrohnen",
-      "source": "Tagesschau",
-      "ts": "2026-08-18T20:00:47"
-    },
-    {
-      "id": "b29e2dbe-d0d3-4770-ac69-8e67c821f428",
-      "ntitle": "verschärfte regeln für kinutzung an dänemarks schulen",
-      "title": "Verschärfte Regeln für KI-Nutzung an Dänemarks Schulen",
-      "summary": "Verschärfte Regeln für KI-Nutzung an Dänemarks Schulen",
-      "source": "Tagesschau",
-      "ts": "2026-08-18T20:00:47"
-    },
-    {
-      "id": "720ef64e-23b9-4453-a924-5e700d57d956",
-      "ntitle": "hagen tober mdr über das neue technologiezentrum für drohnenabwehr in cochstedt",
-      "title": "Hagen Tober, MDR, über das neue Technologiezentrum für Drohnenabwehr in Cochstedt",
-      "summary": "Hagen Tober, MDR, über das neue Technologiezentrum für Drohnenabwehr in Cochstedt",
-      "source": "Tagesschau",
-      "ts": "2026-08-18T20:00:47"
-    },
-    {
-      "id": "e00304ca-d4d5-4721-aced-ecadc0496983",
-      "ntitle": "langanhaltende hitze in deutschland verursacht schlechte erntebilanz der bauern",
-      "title": "Langanhaltende Hitze in Deutschland verursacht schlechte Erntebilanz der Bauern",
-      "summary": "Langanhaltende Hitze in Deutschland verursacht schlechte Erntebilanz der Bauern",
-      "source": "Tagesschau",
-      "ts": "2026-08-18T20:00:47"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Uganda-ist-offenbar-raus-Ruanda-Europas-letzte-Hoffnung-id31206780.html",
-      "ntitle": "return hubs in afrika uganda ist offenbar raus ruanda europas letzte hoffnung",
-      "title": "Return Hubs in Afrika: Uganda ist offenbar raus, Ruanda Europas letzte Hoffnung",
-      "summary": "Asylbewerber sollen in Zukunft aus Europa in Drittstaaten ausgeflogen werden. Doch wohin? Bislang stand Uganda auf der Liste potenzieller Staaten, jetzt auch Ruanda. Doch bislang sind Abschiebedeals gescheitert - oder unter Zwang entstanden.",
-      "source": "ntv",
-      "ts": "2026-08-18T20:00:47"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Trump-untermauert-Anspruch-auf-Strasse-von-Hormus-mit-Karten-Post-id31207674.html",
-      "ntitle": "neues usgebiet trump untermauert anspruch auf straße von hormus mit kartenpost",
-      "title": "\"Neues US-Gebiet\": Trump untermauert Anspruch auf Straße von Hormus mit Karten-Post",
-      "summary": "Im Krieg zwischen dem Iran und den USA gibt es weiterhin keine dauerhafte Lösung. Der US-Präsident will allerdings die weiterhin von Teheran kontrollierte Straße von Hormus für sein Land reklamieren. Doch mit der Kriegspartei sprechen, möchte Trump derzeit nicht.",
-      "source": "ntv",
-      "ts": "2026-08-18T20:00:47"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Bericht-USA-erwaegen-Truppenabzug-aus-dem-Nahen-Osten-id31207909.html",
-      "ntitle": "nach iranischen attacken bericht usa erwägen truppenabzug aus dem nahen osten",
-      "title": "Nach iranischen Attacken: Bericht: USA erwägen Truppenabzug aus dem Nahen Osten",
-      "summary": "Die USA könnten den Iran-Krieg zum Anlass nehmen, um ihre militärische Präsenz im Nahen Osten grundlegend zu überarbeiten. Laut einem Bericht wird im Pentagon ein Truppenabzug aus der Region analysiert.",
-      "source": "ntv",
-      "ts": "2026-08-18T20:00:47"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Oligarchen-sollen-Putins-Kriegskasse-mit-Milliarden-gefuellt-haben-id31207636.html",
-      "ntitle": "spenden für klammen haushalt oligarchen sollen putins kriegskasse mit milliarden gefüllt haben",
-      "title": "Spenden für klammen Haushalt: Oligarchen sollen Putins Kriegskasse mit Milliarden gefüllt haben",
-      "summary": "Der Angriffskrieg gegen die Ukraine belastet Russlands Staatshaushalt. Ein Spendenaufruf des Kreml lindert die Situation offenbar ein wenig. Einem Medienbericht zufolge kommen so fast 400 Milliarden Rubel zusammen.",
-      "source": "ntv",
-      "ts": "2026-08-18T20:00:47"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Donaustahl-Gruender-Stefan-Thumann-auf-der-Flucht-vor-dem-russischen-Geheimdienst-id31202264.html",
-      "ntitle": "ich lebe im untergrund stefan thumann auf der flucht vor dem russischen geheimdienst",
-      "title": "\"Ich lebe im Untergrund\": Stefan Thumann auf der Flucht vor dem russischen Geheimdienst",
-      "summary": "Weil er die Ukraine mit Kampfdrohnen ausstattet, gerät Donaustahl-Gründer Stefan Thumann ins Visier des russischen Geheimdienstes. Nach einem mutmaßlichen Mordkomplott gegen ihn taucht er ab - und liefert sich seitdem ein \"Duell um sein Leben\".",
-      "source": "ntv",
-      "ts": "2026-08-18T20:00:47"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/US-Zerstoerer-durch-tagelangen-Stromausfall-lahmgelegt-id31206880.html",
-      "ntitle": "kein wasser essen toiletten uszerstörer durch tagelangen stromausfall lahmgelegt",
-      "title": "Kein Wasser, Essen, Toiletten: US-Zerstörer durch tagelangen Stromausfall lahmgelegt",
-      "summary": "Die US-Marine ist derzeit durch die vielen Militäreinsätze des Landes belastet. An Bord eines Zerstörers fällt im Juli über vier Tage der Strom aus. Das Boot muss in einen Hafen geschleppt werden.",
-      "source": "ntv",
-      "ts": "2026-08-18T20:00:47"
-    },
-    {
-      "id": "6a849a50e6cb5d22726515b8",
-      "ntitle": "jedes moderne elektroauto ist ein informationssammelsystem",
-      "title": "„Jedes moderne Elektroauto ist ein Informationssammelsystem“",
-      "summary": "Das Kraftfahrt-Bundesamt prüft den chinesischen Autohersteller MG wegen möglicher Spionagesoftware in seinen Fahrzeugen. „Jedes moderne Elektroauto ist ein Informationssammelsystem“, sagt Geheimdienst-Experte Shlomo Shpiro.",
-      "source": "WELT",
-      "ts": "2026-08-18T20:00:47"
-    },
-    {
-      "id": "6a84956de6cb5d227265158f",
-      "ntitle": "mehr als 22000 mittelmeerflüchtlinge erreichten italien offenbar mit deutschen ngoschiffen",
-      "title": "Mehr als 22.000 Mittelmeer-Flüchtlinge erreichten Italien offenbar mit deutschen NGO-Schiffen",
-      "summary": "Italien wirft Deutschland vor, private Seenotretter hätten seit Herbst 2022 rund 22.500 Migranten ins Land gebracht. Innenminister Matteo Piantedosi fordert von Deutschland deshalb eine Entschädigung.",
-      "source": "WELT",
-      "ts": "2026-08-18T20:00:47"
-    },
-    {
-      "id": "6a847938e6cb5d2272651401",
-      "ntitle": "davon wüsste ich wirklich gar nichts  elif eralp bestreitet kontakte ihrer partei zu islamisten",
-      "title": "„Davon wüsste ich wirklich gar nichts“ – Elif Eralp bestreitet Kontakte ihrer Partei zu Islamisten",
-      "summary": "Hat die Linke Kontakte zur Hamas? Die Berliner Spitzenkandidatin Elif Eralp bestreitet das. Gleichzeitig räumt sie ein, dass es linken Antisemitismus gebe. Sie will der Polarisierung ein Ende bereiten.",
-      "source": "WELT",
-      "ts": "2026-08-18T20:00:47"
-    },
-    {
-      "id": "6a8494f6e6cb5d2272651585",
-      "ntitle": "topökonom will mehrwertsteuer von 19 auf 22 prozent anheben  und kündigungsschutz abschaffen",
-      "title": "Top-Ökonom will Mehrwertsteuer von 19 auf 22 Prozent anheben – und Kündigungsschutz abschaffen",
-      "summary": "Moritz Schularick, Präsident des Instituts für Weltwirtschaft, fordert eine höhere Mehrwertsteuer, um Bürger bei der Einkommensteuer entlasten zu können. Zudem plädiert er für einen flexibleren Arbeitsmarkt.",
-      "source": "WELT",
-      "ts": "2026-08-18T20:00:47"
-    },
-    {
-      "id": "6a84878ce6cb5d22726514e9",
-      "ntitle": "grünenvorsitzende brantner fordert einreiseverbot für israelischen minister bengvir",
-      "title": "Grünen-Vorsitzende Brantner fordert Einreiseverbot für israelischen Minister Ben-Gvir",
-      "summary": "Nach Ben-Gvirs Tötungsfantasien formiert sich in Berlin Widerstand. Grünen-Vorsitzende Brantner verlangt ein Einreiseverbot, SPD und Union drängen auf Europa-Sanktionen.",
-      "source": "WELT",
-      "ts": "2026-08-18T20:00:47"
-    },
-    {
       "id": "https://www.n-tv.de/politik/Klingbeil-Muessen-Sanktionen-gegen-Israels-Polizeiminister-pruefen-id31207901.html",
       "ntitle": "eine grenze überschritten klingbeil müssen sanktionen gegen israels polizeiminister prüfen",
       "title": "\"Eine Grenze überschritten\": Klingbeil: Müssen Sanktionen gegen Israels Polizeiminister prüfen",
@@ -3479,6 +3335,150 @@
       "summary": "Der Grünen-Politiker Nouripour schlägt einmal mehr vor, Wahltermine zusammenzulegen. Sein Vorschlag wirkt arg durchsichtig, kurz vor einer Wahl, deren Ausgang für den ein oder anderen Ohnmachtsanfall sorgen könnte.",
       "source": "WELT",
       "ts": "2026-08-26T14:03:21"
+    },
+    {
+      "id": "0791603b-edf8-4c3c-9ec8-a3ee07d30321",
+      "ntitle": "ardvorwahlumfrage für sachsenanhalt afd mit großem vorsprung",
+      "title": "ARD-Vorwahlumfrage für Sachsen-Anhalt: AfD mit großem Vorsprung",
+      "summary": "In der letzten ARD-Umfrage vor der Landtagswahl in Sachsen-Anhalt liegt die AfD deutlich vorn. Die CDU verliert dagegen weiter. Ein Patt gibt es bei der Frage nach der Regierungsführung. Von Claudia Müller.",
+      "source": "Tagesschau",
+      "ts": "2026-08-26T20:28:16"
+    },
+    {
+      "id": "1c308a90-00c2-4dcf-b300-aa26352677a3",
+      "ntitle": "stärke der afd in sachsenanhalt der osten ist eher das normal",
+      "title": "Stärke der AfD in Sachsen-Anhalt: \"Der Osten ist eher das Normal\"",
+      "summary": "Kurz vor der Wahl in Sachsen-Anhalt führt die AfD die Umfragen klar an. Parteienforscher Höhne sieht darin keinen ostdeutschen Sonderfall, benennt aber eine historische Spur und ein Szenario für den Fall der Regierungsübernahme. Von L. Frohmüller.",
+      "source": "Tagesschau",
+      "ts": "2026-08-26T20:28:16"
+    },
+    {
+      "id": "370b9d49-bf6f-4be3-a1ee-8132e484665c",
+      "ntitle": "ursula münch politikwissenschaftlerin zur kabinettsklausur der schwarzroten koalition",
+      "title": "Ursula Münch, Politikwissenschaftlerin, zur Kabinettsklausur der schwarz-roten Koalition",
+      "summary": "Ursula Münch, Politikwissenschaftlerin, zur Kabinettsklausur der schwarz-roten Koalition",
+      "source": "Tagesschau",
+      "ts": "2026-08-26T20:28:16"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Ratcliffe-kann-sagen-Das-was-ihr-gerade-tut-lasst-das-besser-sein-id31236212.html",
+      "ntitle": "trumps oberster spion in moskau ratcliffe kann sagen das was ihr gerade tut lasst das besser sein",
+      "title": "Trumps oberster Spion in Moskau: \"Ratcliffe kann sagen: Das, was ihr gerade tut, lasst das besser sein\"",
+      "summary": "Warum schickte US-Präsident Trump seinen obersten Spion nach Moskau? Darüber gibt es viele Spekulationen. Welche erscheint plausibel, welche klingt unwahrscheinlich?",
+      "source": "ntv",
+      "ts": "2026-08-26T20:28:16"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Ukraine-setzt-in-Donezk-auf-neue-Einheiten-und-bekannte-Kommandeure-id31235694.html",
+      "ntitle": "selenskyj besucht front  ukraine setzt in donezk auf neue einheiten und bekannte kommandeure",
+      "title": "Selenskyj besucht Front : Ukraine setzt in Donezk auf neue Einheiten und bekannte Kommandeure",
+      "summary": "Die Eroberung des Donbass ist das Hauptziel Russlands. Die ukrainische Armee erhöht nun die Truppenstärke in der umkämpften Region. Präsident Selenskyj besucht einen Frontsektor, wo die Ukraine in diesem Jahr Erfolge verzeichnen konnte.",
+      "source": "ntv",
+      "ts": "2026-08-26T20:28:16"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Eralp-pocht-auf-Enteignungen-Evers-lehnt-entschieden-ab-id31235538.html",
+      "ntitle": "berlinkandidaten im rtlduell eralp pocht auf enteignungen evers lehnt entschieden ab",
+      "title": "Berlin-Kandidaten im RTL-Duell: Eralp pocht auf Enteignungen, Evers lehnt entschieden ab",
+      "summary": "Die Wohnungskrise ist der zentrale Konflikt im Berliner Wahlkampf. Im \"Nachtjournal Spezial\" bei RTL liefern sich CDU-Spitzenkandidat Stefan Evers und Linken-Spitzenkandidatin Elif Eralp einen scharfen Schlagabtausch über Mieten, Neubau und die Vergesellschaftung großer Wohnungsunternehmen.",
+      "source": "ntv",
+      "ts": "2026-08-26T20:28:16"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/AfD-in-Sachsen-Anhalt-baut-ihren-Vorsprung-aus-id31236101.html",
+      "ntitle": "cdu verliert in umfrage afd in sachsenanhalt baut ihren vorsprung aus",
+      "title": "CDU verliert in Umfrage: AfD in Sachsen-Anhalt baut ihren Vorsprung aus",
+      "summary": "In einer aktuellen Wahlumfrage erhält die in Sachsen-Anhalt als gesichert rechtsextremistisch eingestufte AfD 42 Prozent der Stimmen. Auch SPD und Grüne legen zu. Die CDU hingegen fällt zurück.",
+      "source": "ntv",
+      "ts": "2026-08-26T20:28:16"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/politik_kommentare/In-Neuhardenberg-sieht-die-Welt-fuer-Merz-ziemlich-ok-aus-noch-id31235840.html",
+      "ntitle": "schwarzrot in klausur in neuhardenberg sieht die welt für merz ziemlich ok aus  noch",
+      "title": "Schwarz-Rot in Klausur: In Neuhardenberg sieht die Welt für Merz ziemlich ok aus - noch",
+      "summary": "Zwei Tage geht Kanzler Merz mit seinen Ministern in Klausur. Auf Schloss Neuhardenberg in Brandenburg soll eine Aufbruchstimmung entstehen. Der Kanzler gibt sich von den Turbulenzen der vergangenen Wochen unbeeindruckt.",
+      "source": "ntv",
+      "ts": "2026-08-26T20:28:16"
+    },
+    {
+      "id": "https://www.n-tv.de/leute/Ehemaliger-Tatort-Star-Andreas-Hoppe-ist-gestorben-id31236296.html",
+      "ntitle": "das war viel zu früh ehemaliger tatortstar andreas hoppe ist gestorben",
+      "title": "\"Das war viel zu früh\": Ehemaliger \"Tatort\"-Star Andreas Hoppe ist gestorben",
+      "summary": "Mehr als 20 Jahre gehört Andreas Hoppe als Kommissar Kopper zum Südwest-\"Tatort\". Mit Verweis auf seine Familie teilt seine Agentur mit: Er ist im Alter von nur 66 Jahren unerwartet gestorben.",
+      "source": "ntv",
+      "ts": "2026-08-26T20:28:16"
+    },
+    {
+      "id": "https://www.n-tv.de/sport/fussball/Atubolus-Haengepartie-endet-mit-ungewoehnlichem-Kompromiss-id31235911.html",
+      "ntitle": "beim vertrag verzockt atubolus hängepartie endet mit ungewöhnlichem kompromiss",
+      "title": "Beim Vertrag verzockt: Atubolus Hängepartie endet mit ungewöhnlichem Kompromiss",
+      "summary": "Für Torhüter Noah Atubolu erfüllt sich der Traum vom Spielen in der Premier League nicht. Nun gibt es für den 24-Jährigen beim SC Freiburg wohl ein spannendes Konstrukt: Er verlängert, um dann doch noch zu wechseln.",
+      "source": "ntv",
+      "ts": "2026-08-26T20:28:16"
+    },
+    {
+      "id": "6a8f2dc48a7786c19f335344",
+      "ntitle": "nicht so zuversichtlich wie die ölmärkte  carsten brzeski warnt vor dauerkrise",
+      "title": "„Nicht so zuversichtlich wie die Ölmärkte“ – Carsten Brzeski warnt vor Dauerkrise",
+      "summary": "Die Hoffnung auf eine schnelle Öffnung der Straße von Hormus ist aus Sicht von ING-Chefvolkswirt Carsten Brzeski verfrüht. Er rechnet mit einem langanhaltenden Konflikt und warnt vor weiter steigenden Ölpreisen – mit Folgen auch für die Inflation.",
+      "source": "WELT",
+      "ts": "2026-08-26T20:28:16"
+    },
+    {
+      "id": "6a8f224f518a586e18559601",
+      "ntitle": "vwchef blume erhöht den spardruck  ein viertel der managementstellen soll wegfallen",
+      "title": "VW-Chef Blume erhöht den Spardruck – ein Viertel der Managementstellen soll wegfallen",
+      "summary": "Der Spardruck bei Volkswagen steigt: Konzernchef Oliver Blume kündigt einen deutlichen Stellenabbau im Management an. Für die Werke in Emden und Zwickau gibt es weiterhin keine klare Perspektive.",
+      "source": "WELT",
+      "ts": "2026-08-26T20:28:16"
+    },
+    {
+      "id": "6a8f1798198bb9fbdfb00166",
+      "ntitle": "so etwas habe ich habe in zehn jahren sturzflutforschung noch nicht gesehen",
+      "title": "„So etwas habe ich habe in zehn Jahren Sturzflutforschung noch nicht gesehen“",
+      "summary": "Eine Flutwelle rast durch den Himalaya, reißt Brücken und Häuser mit und überrascht Menschen innerhalb weniger Minuten. Wie konnte es zu dieser Katastrophe kommen? Geomorphologe Niels Hovius erklärt die Naturgewalten – und den Einfluss des Klimawandels.",
+      "source": "WELT",
+      "ts": "2026-08-26T20:28:16"
+    },
+    {
+      "id": "6a8f265d518a586e18559655",
+      "ntitle": "sind diese vermeintlichen gesünderen alternativen wirklich so gesund",
+      "title": "„Sind diese vermeintlichen gesünderen Alternativen wirklich so gesund?“",
+      "summary": "Zuckerhaltige Getränke gelten als gesundheitlich problematisch – doch wie sinnvoll ist eine Zuckersteuer? Kardiologe Boris Bigalke erklärt, warum nicht jeder Zucker gleich zu bewerten ist und warnt vor vermeintlich gesünderen Süßstoffen.",
+      "source": "WELT",
+      "ts": "2026-08-26T20:28:16"
+    },
+    {
+      "id": "6a8f1feb8a7786c19f3352a0",
+      "ntitle": "skandal um coesfelder liste  politisches versagen auf ganzer ebene",
+      "title": "Skandal um Coesfelder Liste – „Politisches Versagen auf ganzer Ebene“",
+      "summary": "471 Menschen sind ausreisepflichtig, doch nur fünf haben Köln bislang verlassen. Zudem sollen viele Betroffene strafrechtlich aufgefallen sein. Manuel Ostermann, Vorsitzender der Bundespolizeigewerkschaft, fordert weitreichende Konsequenzen.",
+      "source": "WELT",
+      "ts": "2026-08-26T20:28:16"
+    },
+    {
+      "id": "6a8f20178a7786c19f3352a9",
+      "ntitle": "sie war die letzte große integrationsfigur einer gespaltenen gesellschaft",
+      "title": "„Sie war die letzte große Integrationsfigur einer gespaltenen Gesellschaft\"",
+      "summary": "Dolly Parton und Tim Curry haben Musik, Film und Popkultur nachhaltig geprägt. WELT-Autor Dennis Sand erklärt, warum Parton zur großen Integrationsfigur wurde und Curry mit seinen Kultrollen unvergessen bleibt.",
+      "source": "WELT",
+      "ts": "2026-08-26T20:28:16"
+    },
+    {
+      "id": "6a8f17c7198bb9fbdfb0016b",
+      "ntitle": "dieses thema zuckersteuer war dann doch ein blick in den abgrund",
+      "title": "„Dieses Thema Zuckersteuer war dann doch ein Blick in den Abgrund“",
+      "summary": "Nach zwei Tagen Kabinettsklausur beschwört Kanzler Friedrich Merz den Aufbruch. Doch konkrete Beschlüsse blieben aus. Die Harmonie von Schloss Neuhardenberg wirkt für Politico-Chefkorrespondent Rasmus Buchsteiner auch wie Inszenierung.",
+      "source": "WELT",
+      "ts": "2026-08-26T20:28:16"
+    },
+    {
+      "id": "6a8f196a0030825e3e9cd4e8",
+      "ntitle": "bei uns sind maßnahmen gegen den klimawandel sehr sehr teuer",
+      "title": "„Bei uns sind Maßnahmen gegen den Klimawandel sehr, sehr teuer“",
+      "summary": "Deutschland wächst wieder – doch Daniel Stelter warnt vor falscher Euphorie. Das Plus sei vor allem durch steigende Staatsausgaben erkauft. Der Ökonom fordert tiefgreifende Reformen statt neuer Steuern und kritisiert auch die Klimapolitik der Bundesregierung.",
+      "source": "WELT",
+      "ts": "2026-08-26T20:28:16"
     }
   ],
   "breaking_seen": [
@@ -3497,7 +3497,7 @@
   "last_run": {
     "digest_morning": "2026-08-26",
     "digest_noon": "2026-08-26",
-    "digest_evening": "2026-08-25",
+    "digest_evening": "2026-08-26",
     "daily": "2026-08-25",
     "weekly": "2026-W34"
   }
