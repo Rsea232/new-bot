@@ -3471,19 +3471,28 @@
       "summary": "CIA-Direktor John Ratcliffe soll zu Gesprächen nach Moskau gereist sein. Korrespondent Christoph Wanner erklärt, mit wem Ratcliffe gesprochen und welches Thema im Fokus gestanden haben könnte: „Es gibt viele Spekulationen.“",
       "source": "WELT",
       "ts": "2026-08-26T08:02:51"
+    },
+    {
+      "id": "135dd922-af83-4006-be49-9da3b5a955c3",
+      "ntitle": "klingbeil keine zuckersteuer auf zuckerfreie getränke",
+      "title": "Klingbeil: \"Keine Zuckersteuer auf zuckerfreie Getränke\"",
+      "summary": "Die geplante Zuckersteuer sorgt weiter für Gesprächsstoff. Für welche Art von Getränken soll sie gelten? Finanzminister Klingbeil stellte nun klar, dass er keine Abgabe auf zuckerfreie Getränke erheben wolle.",
+      "source": "Tagesschau",
+      "ts": "2026-08-26T12:58:38"
     }
   ],
   "breaking_seen": [
-    "https://www.n-tv.de/sport/fussball/Jetzt-live-DFB-stellt-Bundestrainer-Juergen-Klopp-vor-id31120826.html",
+    "https://www.n-tv.de/politik/Supreme-Court-stoppt-Trump-Plan-fuer-eingeschraenkte-Staatsbuergerschaft-id31032428.html",
     "https://www.n-tv.de/politik/Klingbeil-Krankschreibung-ab-erstem-Tag-pragmatisch-loesen-id31050775.html",
-    "https://www.n-tv.de/politik/Urteil-Le-Pen-muss-fuer-ein-Jahr-eine-Fussfessel-tragen-id31057794.html",
-    "https://www.n-tv.de/wissen/Jetzt-live-Sonnenfinsternis-ueber-Europa-id31187076.html",
-    "https://www.n-tv.de/politik/Klingbeil-Muessen-Sanktionen-gegen-Israels-Polizeiminister-pruefen-id31207901.html",
-    "39e743d3-98f8-4575-86aa-55ef943b00e8",
     "https://www.n-tv.de/politik/Nato-einigt-sich-auf-80-Milliarden-Euro-Hilfe-fuer-die-Ukraine-id31045527.html",
-    "https://www.n-tv.de/politik/Jahrhunderturteil-Supreme-Court-weitet-Trumps-Macht-enorm-aus-id31050734.html",
+    "https://www.n-tv.de/politik/Klingbeil-Muessen-Sanktionen-gegen-Israels-Polizeiminister-pruefen-id31207901.html",
     "https://www.n-tv.de/politik/Klingbeil-Alle-in-SPD-sind-froh-ueber-Schwesig-id31208685.html",
-    "https://www.n-tv.de/politik/Supreme-Court-stoppt-Trump-Plan-fuer-eingeschraenkte-Staatsbuergerschaft-id31032428.html"
+    "39e743d3-98f8-4575-86aa-55ef943b00e8",
+    "https://www.n-tv.de/politik/Jahrhunderturteil-Supreme-Court-weitet-Trumps-Macht-enorm-aus-id31050734.html",
+    "https://www.n-tv.de/politik/Urteil-Le-Pen-muss-fuer-ein-Jahr-eine-Fussfessel-tragen-id31057794.html",
+    "https://www.n-tv.de/sport/fussball/Jetzt-live-DFB-stellt-Bundestrainer-Juergen-Klopp-vor-id31120826.html",
+    "135dd922-af83-4006-be49-9da3b5a955c3",
+    "https://www.n-tv.de/wissen/Jetzt-live-Sonnenfinsternis-ueber-Europa-id31187076.html"
   ],
   "last_run": {
     "digest_morning": "2026-08-26",
