@@ -1,294 +1,6 @@
 {
   "history": [
     {
-      "id": "5cebfc1c-3a42-4de9-abd8-ad9d6f4e7195",
-      "ntitle": "merz in der sommerpause das schweigen des kanzlers",
-      "title": "Merz in der Sommerpause: Das Schweigen des Kanzlers",
-      "summary": "Hitze, Reformdebatte und noch ein Drohnen-Vorfall: Dieser Sommer bietet viele Anlässe, sich zu äußern. Doch Kanzler Merz bleibt erstaunlich ruhig - und beobachtet. Politische Brandherde müssen andere austreten. Von Georg Schwarte.",
-      "source": "Tagesschau",
-      "ts": "2026-08-19T14:14:21"
-    },
-    {
-      "id": "518f9f27-00cb-45ac-8f77-de2913e9d700",
-      "ntitle": "spdministerinnen legen bei klimaplänen nach",
-      "title": "SPD-Ministerinnen legen bei Klimaplänen nach",
-      "summary": "Klimaschutz ins Grundgesetz - die Forderung der SPD und ihr Aktionsplan gegen Hitze sind bei der Union bislang auf Skepsis gestoßen. Nun legen die SPD-Ministerinnen für Justiz und Bau nach - mit teils konkreten Vorschlägen.",
-      "source": "Tagesschau",
-      "ts": "2026-08-19T14:14:21"
-    },
-    {
-      "id": "8adf7e8f-26eb-4a40-a68b-2c1b73800628",
-      "ntitle": "mangelnder jugendschutz mehrere usbundesstaaten klagen gegen meta",
-      "title": "Mangelnder Jugendschutz: Mehrere US-Bundesstaaten klagen gegen Meta",
-      "summary": "Mangelnder Jugendschutz: Mehrere US-Bundesstaaten klagen gegen Meta",
-      "source": "Tagesschau",
-      "ts": "2026-08-19T14:14:21"
-    },
-    {
-      "id": "db64fc81-ddc2-4d6a-8d3a-287e4ffea074",
-      "ntitle": "t kleinjung ard rom zur deutschitalienischen uneinigkeit über asylrecht",
-      "title": "T. Kleinjung, ARD Rom, zur deutsch-italienischen Uneinigkeit über Asylrecht",
-      "summary": "T. Kleinjung, ARD Rom, zur deutsch-italienischen Uneinigkeit über Asylrecht",
-      "source": "Tagesschau",
-      "ts": "2026-08-19T14:14:21"
-    },
-    {
-      "id": "3b74fea0-7d82-4db1-a0a9-bd8910357c72",
-      "ntitle": "lukas eichelter welternährungsprogramm zu den sparmaßnahmen der humanitären hilfe im sudan",
-      "title": "Lukas Eichelter, Welternährungsprogramm, zu den Sparmaßnahmen der humanitären Hilfe im Sudan",
-      "summary": "Lukas Eichelter, Welternährungsprogramm, zu den Sparmaßnahmen der humanitären Hilfe im Sudan",
-      "source": "Tagesschau",
-      "ts": "2026-08-19T14:14:21"
-    },
-    {
-      "id": "e74c3b4a-727c-4b54-812d-c15acd5d9f37",
-      "ntitle": "wdr veröffentlicht studie wie junge menschen arbeiten möchten",
-      "title": "WDR veröffentlicht Studie: Wie junge Menschen arbeiten möchten",
-      "summary": "WDR veröffentlicht Studie: Wie junge Menschen arbeiten möchten",
-      "source": "Tagesschau",
-      "ts": "2026-08-19T14:14:21"
-    },
-    {
-      "id": "https://www.n-tv.de/wirtschaft/Russen-heben-Milliarden-von-ihren-Konten-ab-id31210059.html",
-      "ntitle": "flucht ins bargeld russen heben milliarden von ihren konten ab",
-      "title": "Flucht ins Bargeld: Russen heben Milliarden von ihren Konten ab",
-      "summary": "Viele Russen fürchten offenbar um ihre Ersparnisse. Der enorme Bargeldbedarf belastet die Banken in Russland und wird auch für den Kreml zum Problem.",
-      "source": "ntv",
-      "ts": "2026-08-19T14:14:21"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Nord-Stream-Anschlaege-Zweiter-Verdaechtiger-festgenommen-id31209726.html",
-      "ntitle": "ein taucher aus der ukraine nordstreamanschläge zweiter verdächtiger festgenommen",
-      "title": "Ein Taucher aus der Ukraine: Nord-Stream-Anschläge: Zweiter Verdächtiger festgenommen",
-      "summary": "Es gibt offenbar einen weiteren Fahndungserfolg im Zusammenhang mit den Anschlägen auf die Nord-Stream-Pipelines. Wie die Bundesanwaltschaft mitteilt, wird ein weiterer Ukrainer festgenommen - diesmal in Kroatien.",
-      "source": "ntv",
-      "ts": "2026-08-19T14:14:21"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Buendelung-von-Sozialleistungen-koennte-Armutsrisiko-senken-id31209718.html",
-      "ntitle": "ifoinstitut macht rechnung auf bündelung von sozialleistungen könnte armutsrisiko senken",
-      "title": "Ifo-Institut macht Rechnung auf: Bündelung von Sozialleistungen könnte Armutsrisiko senken",
-      "summary": "Wer Sozialleistungen erhält, muss oft von einem Amt zum nächsten ziehen. Eine Studie sieht nun einen Weg, wie sich das verbessern ließe. Den Staat kostet das zwar Milliarden - zugleich könnten mehr Menschen einen Job annehmen.",
-      "source": "ntv",
-      "ts": "2026-08-19T14:14:21"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Ukraine-meldet-Tote-bei-Drohnen-Safari-in-Cherson-id31210004.html",
-      "ntitle": "russischer angriff auf kleinbus ukraine meldet tote bei drohnensafari in cherson",
-      "title": "Russischer Angriff auf Kleinbus: Ukraine meldet Tote bei \"Drohnen-Safari\" in Cherson",
-      "summary": "Der ukrainische Präsident Wolodymyr Selenskyj wirft Russland vor, gezielt Jagd auf Menschen zu machen. Das habe \"längst die Grenzen dessen überschritten, was sich ein normaler Mensch überhaupt vorstellen kann.\"",
-      "source": "ntv",
-      "ts": "2026-08-19T14:14:21"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/stern-Investigativ-RTL-schleust-Reporter-in-russisches-Netzwerk-fuer-Wegwerfagenten-ein-id31209602.html",
-      "ntitle": "ein jahr undercover rtl schleust reporter in russisches netzwerk für wegwerfagenten ein",
-      "title": "Ein Jahr undercover: RTL schleust Reporter in russisches Netzwerk für \"Wegwerfagenten\" ein",
-      "summary": "Ein Jahr undercover im mutmaßlich russischen Agentennetz: RTL-Reporter dokumentieren Spionageaufträge, Sabotagepläne und Rekrutierung über Telegram. Eine Reporterin wird enttarnt und erhält sogar eine Morddrohung.",
-      "source": "ntv",
-      "ts": "2026-08-19T14:14:21"
-    },
-    {
-      "id": "https://www.n-tv.de/wirtschaft/Industrie-freut-sich-ueber-fettes-Auftragspolster-id31209088.html",
-      "ntitle": "so viel wie noch nie seit 2015 industrie freut sich über fettes auftragspolster",
-      "title": "So viel wie noch nie seit 2015: Industrie freut sich über fettes Auftragspolster",
-      "summary": "Allen Unkenrufen zum Trotz gibt es für die Industrie gerade auch gute Nachrichten. So sind die Auftragsbücher voll - und noch für Monate. Das hat aber auch einen Haken.",
-      "source": "ntv",
-      "ts": "2026-08-19T14:14:21"
-    },
-    {
-      "id": "https://www.n-tv.de/sport/Trans-Hass-Trumps-MAGA-Barbie-spaltet-die-USA-id31209332.html",
-      "ntitle": "kulturkampf in der wnba transhass trumps magabarbie spaltet die usa",
-      "title": "Kulturkampf in der WNBA: Trans-Hass: Trumps \"MAGA-Barbie\" spaltet die USA",
-      "summary": "Sportlich ist Sophie Cunningham kein Star in der WNBA. Und doch bestimmt die US-Amerikanerin mit höchst umstrittenen Äußerungen die Schlagzeilen. Es geht um Trans-Menschen und \"weiße Privilegien\", auch Donald Trump mischt mit.",
-      "source": "ntv",
-      "ts": "2026-08-19T14:14:21"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Korruptionsbehoerde-ermittelt-gegen-mehrere-ukrainische-Politiker-id31209407.html",
-      "ntitle": "selenskyj feuert vizebürochefin korruptionsbehörde ermittelt gegen mehrere ukrainische politiker",
-      "title": "Selenskyj feuert Vize-Bürochefin: Korruptionsbehörde ermittelt gegen mehrere ukrainische Politiker",
-      "summary": "In der Ukraine laufen wegen mutmaßlicher Geldwäsche Ermittlungen gegen mehrere teilweise hochrangige Politiker. Im Rahmen einer großangelegten Razzia werden Gebäude durchsucht. Einer der Verdächtigen ist in der Vergangenheit bereits negativ aufgefallen.",
-      "source": "ntv",
-      "ts": "2026-08-19T14:14:21"
-    },
-    {
-      "id": "6a857bfe3f3b2550f6df4799",
-      "ntitle": "unfallchirurgen melden 58 prozent mehr schwerverletzte durch stichwaffen",
-      "title": "Unfallchirurgen melden 58 Prozent mehr Schwerverletzte durch Stichwaffen",
-      "summary": "Die Zahl lebensbedrohlicher Stichverletzungen hat deutschlandweit stark zugenommen, wie Daten aus Kliniken belegen. Zwei Personenmerkmale unterscheiden die Opfer deutlich von anderen Schwerverletzten.",
-      "source": "WELT",
-      "ts": "2026-08-19T14:14:21"
-    },
-    {
-      "id": "6a859789d479dd659e0b3d7f",
-      "ntitle": "halleammendorf kinder werfen gegenstand ins gleis  magdeburgnews",
-      "title": "Halle-Ammendorf: Kinder werfen Gegenstand ins Gleis | Magdeburg-News",
-      "summary": "Dein News-Update für die Landeshauptstadt am 19. August 2026",
-      "source": "WELT",
-      "ts": "2026-08-19T14:14:21"
-    },
-    {
-      "id": "6a856e95c9a2e30783dab5e6",
-      "ntitle": "die größten probleme der deutschen  frust über politiker erreicht neuen höchstwert",
-      "title": "Die größten Probleme der Deutschen – Frust über Politiker erreicht neuen Höchstwert",
-      "summary": "Mittlerweile zählt jeder Zweite das Agieren der Politiker und Parteien zu den größten Problemen des Landes – so viel wie noch nie, wie eine Forsa-Umfrage ergibt. Ein Thema ist den Deutschen jedoch noch wichtiger.",
-      "source": "WELT",
-      "ts": "2026-08-19T14:14:21"
-    },
-    {
-      "id": "6a8586d1b6831511cf831d78",
-      "ntitle": "wir müssen erst lernen mit dieser situation umzugehen sagt hoeneß nach musialas blackouts",
-      "title": "„Wir müssen erst lernen, mit dieser Situation umzugehen“, sagt Hoeneß nach Musialas Blackouts",
-      "summary": "Nationalspieler Jamal Musiala bricht zweimal binnen weniger Tage zusammen – Uli Hoeneß ringt um Fassung und zeigt sich schockiert. Ein Drama sei das, sagt der Ehrenpräsident in einem TV-Interview.",
-      "source": "WELT",
-      "ts": "2026-08-19T14:14:21"
-    },
-    {
-      "id": "6c39fc36-1379-42e3-92ac-5fa5a521fdd3",
-      "ntitle": "wirtschaftsministerium setzt wegen niedriger gasvorräte auf händler",
-      "title": "Wirtschaftsministerium setzt wegen niedriger Gasvorräte auf Händler",
-      "summary": "Die deutschen Gasspeicher sind aktuell nur etwa zur Hälfte gefüllt - der niedrigste Stand seit Jahren. Das Wirtschaftsministerium setzt auf die Händler. Experten warnen: Bei einem sehr kalten Winter kann es eng werden.",
-      "source": "Tagesschau",
-      "ts": "2026-08-19T20:46:28"
-    },
-    {
-      "id": "70a59b42-b0ce-40f6-aa47-21fdf8d5b8f3",
-      "ntitle": "wie drohnen und ki zum brandschutz in waldgebieten eingesetzt werden können",
-      "title": "Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können",
-      "summary": "Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können",
-      "source": "Tagesschau",
-      "ts": "2026-08-19T20:46:28"
-    },
-    {
-      "id": "be925555-1117-449e-89f7-eb0adf18f8d7",
-      "ntitle": "lukas hochscheidt bundesverband arbeiterwohlfahrt zur bündelung von sozialleistungen",
-      "title": "Lukas Hochscheidt, Bundesverband Arbeiterwohlfahrt, zur Bündelung von Sozialleistungen",
-      "summary": "Lukas Hochscheidt, Bundesverband Arbeiterwohlfahrt, zur Bündelung von Sozialleistungen",
-      "source": "Tagesschau",
-      "ts": "2026-08-19T20:46:28"
-    },
-    {
-      "id": "deac55b3-76e3-4d19-8c4c-607064976f58",
-      "ntitle": "m seidel ndr über die sondersitzung zur rettungsaktion von gestrandetem wal",
-      "title": "M. Seidel, NDR, über die Sondersitzung zur Rettungsaktion von gestrandetem Wal",
-      "summary": "M. Seidel, NDR, über die Sondersitzung zur Rettungsaktion von gestrandetem Wal",
-      "source": "Tagesschau",
-      "ts": "2026-08-19T20:46:28"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Fedorows-halbherzige-Rebellion-ist-gescheitert-vorerst-id31211260.html",
-      "ntitle": "herausforderer für selenskyj fedorows halbherzige rebellion ist gescheitert  vorerst",
-      "title": "Herausforderer für Selenskyj?: Fedorows halbherzige Rebellion ist gescheitert - vorerst",
-      "summary": "Scharf kritisiert der geschasste Ex-Verteidigungsminister Fedorow das ukrainische Regierungssystem, fordert gar Neuwahlen. Einen Gefallen tut er sich damit eher nicht. Präsident Selenskyj kann noch einmal Autorität demonstrieren - geht aber nicht unbeschädigt aus dem Konflikt.",
-      "source": "ntv",
-      "ts": "2026-08-19T20:46:28"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Kann-eine-fast-vergessene-Waffe-der-Ukraine-helfen-id31209063.html",
-      "ntitle": "abwehr ballistischer raketen kann eine fast vergessene waffe der ukraine helfen",
-      "title": "Abwehr ballistischer Raketen: Kann eine fast vergessene Waffe der Ukraine helfen?",
-      "summary": "Seit Jahren kämpft die Ukraine vergeblich um mehr Hilfe bei der Abwehr von Russlands ballistischen Raketen. In Zukunft könnte sogar wieder häufiger auf S-300-Flugabwehr zurückgegriffen werden. Doch auch dafür braucht es Unterstützung.",
-      "source": "ntv",
-      "ts": "2026-08-19T20:46:28"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/CDU-Buergermeister-ruft-in-Sachsen-Anhalt-zur-Wahl-der-AfD-auf-id31212195.html",
-      "ntitle": "offener brandbrief cdubürgermeister ruft in sachsenanhalt zur wahl der afd auf",
-      "title": "\"Offener Brandbrief\": CDU-Bürgermeister ruft in Sachsen-Anhalt zur Wahl der AfD auf",
-      "summary": "Die CDU liegt in Sachsen-Anhalt in Umfragen deutlich hinter der AfD zurück. Ein Kommunalpolitiker der Konservativen ruft zudem nun auch zur Wahl der Rechtsaußen-Partei auf - und spendet dieser Tausende Euro.",
-      "source": "ntv",
-      "ts": "2026-08-19T20:46:28"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Trump-Kim-Jong-Un-hat-57-sehr-maechtige-Atomwaffen-id31212037.html",
-      "ntitle": "uspräsident plant treffen trump kim jong un hat 57 sehr mächtige atomwaffen",
-      "title": "US-Präsident plant Treffen: Trump: Kim Jong Un hat \"57 sehr mächtige Atomwaffen\"",
-      "summary": "In seiner ersten Amtszeit trifft Donald Trump sich dreimal mit Kim Jong Un. Nun will der US-Präsident abermals mit Nordkoreas Diktator von Angesicht zu Angesicht sprechen. Noch in diesem Jahr soll es so weit sein.",
-      "source": "ntv",
-      "ts": "2026-08-19T20:46:28"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Hat-der-Oman-den-Hormus-Bogen-ueberspannt-id31206825.html",
-      "ntitle": "trump droht maskat mit bomben hat der oman den hormusbogen überspannt",
-      "title": "Trump droht Maskat mit Bomben: Hat der Oman den Hormus-Bogen überspannt?",
-      "summary": "Der Oman spielt eine entscheidende Rolle bei den Verhandlungen zur Öffnung der Straße von Hormus. Das Sultanat ist mit den USA verbündet. Doch Präsident Trump hat den Eindruck: Der Golfstaat hintergeht uns.",
-      "source": "ntv",
-      "ts": "2026-08-19T20:46:28"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Behaelt-Trump-mit-seinen-wilden-Hormus-Prahlereien-diesmal-Recht-id31209889.html",
-      "ntitle": "iran verliert langsam kontrolle behält trump mit seinen wilden hormusprahlereien diesmal recht",
-      "title": "Iran verliert langsam Kontrolle: Behält Trump mit seinen wilden Hormus-Prahlereien diesmal Recht?",
-      "summary": "Selbstbewusst wie eh und je verkündet US-Präsident Donald Trump regelmäßig, die Straße von Hormus sei unter seiner Kontrolle. Das stimmt zwar nicht, doch einem Bericht zufolge verliert der Iran tatsächlich immer mehr Einfluss über die Meerenge.",
-      "source": "ntv",
-      "ts": "2026-08-19T20:46:28"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Trump-kassiert-Dreifach-Daempfer-von-republikanischen-Waehlern-id31211437.html",
-      "ntitle": "präsident feiert dennoch trump kassiert dreifachdämpfer von republikanischen wählern",
-      "title": "Präsident feiert dennoch: Trump kassiert Dreifach-Dämpfer von republikanischen Wählern",
-      "summary": "Die Zwischenwahlen für den Kongress im November entscheiden über den zweiten Abschnitt der Trump-Präsidentschaft. Doch bei der Vorauswahl der Kandidaten seiner Partei folgen die Anhänger dem Mann im Weißen Haus überraschend oft nicht mehr mit blindem Gehorsam.",
-      "source": "ntv",
-      "ts": "2026-08-19T20:46:28"
-    },
-    {
-      "id": "https://www.n-tv.de/wirtschaft/Anleger-reissen-sich-dank-Impfstofferfolg-bei-Hautkrebs-um-Moderna-Papiere-id31211830.html",
-      "ntitle": "aktie schießt gewaltig nach oben anleger reißen sich dank impfstofferfolg bei hautkrebs um modernapapiere",
-      "title": "Aktie schießt gewaltig nach oben: Anleger reißen sich dank Impfstofferfolg bei Hautkrebs um Moderna-Papiere",
-      "summary": "Mit einem Impfstoff gegen das Coronavirus feiert Moderna einen riesigen Erfolg. Jetzt verschafft eine erfolgreiche klinische Studie zur Bekämpfung von Hautkrebs dem Biotech-Unternehmen einen gigantischen Kurssprung. Davon profitieren auch mehrere andere Unternehmen.",
-      "source": "ntv",
-      "ts": "2026-08-19T20:46:28"
-    },
-    {
-      "id": "6a85e89b70b0057986d42fe9",
-      "ntitle": "cdupolitiker aus stendal spendet 10000 euro an die afd und hofft auf absolute mehrheit",
-      "title": "CDU-Politiker aus Stendal spendet 10.000 Euro an die AfD und hofft auf absolute Mehrheit",
-      "summary": "Ein CDU-Kommunalpolitiker aus Stendal hat 10.000 Euro für den Landtagswahlkampf gespendet – allerdings nicht an seine eigene Partei, sondern an die AfD. In einem Brandbrief hofft er auf den Sturz von Sven Schulze und Friedrich Merz.",
-      "source": "WELT",
-      "ts": "2026-08-19T20:46:28"
-    },
-    {
-      "id": "6a85bd88cbb4a8f2ce8fe46b",
-      "ntitle": "bei dieser absenceform ist es sehr wahrscheinlich dass noch andere anfallstypen auftreten",
-      "title": "„Bei dieser Absence-Form ist es sehr wahrscheinlich, dass noch andere Anfallstypen auftreten“",
-      "summary": "Jamal Musiala leidet nach eigener Aussage unter Absencen. Was genau passiert dabei im Gehirn und wie beeinflusst die Krankheit das Leben? Rainer Surges behandelt seit Jahren Patienten. In WELT beantwortet der Neurologe die wichtigsten Fragen.",
-      "source": "WELT",
-      "ts": "2026-08-19T20:46:28"
-    },
-    {
-      "id": "6a85efebe19c63e56272aac7",
-      "ntitle": "russland räumt mögliche gegner völlig skrupellos ab",
-      "title": "„Russland räumt mögliche Gegner völlig skrupellos ab“",
-      "summary": "Immer mehr deutsche Unternehmer, die die Ukraine unterstützen, geraten offenbar ins Visier Russlands. Besonders gefährdet sind Manager der Rüstungsindustrie. „An der Ernsthaftigkeit gibt es überhaupt nicht zu zweifeln“, so Klaus Nachtigall, Experte für Personenschutz.",
-      "source": "WELT",
-      "ts": "2026-08-19T20:46:28"
-    },
-    {
-      "id": "6a85dee1cbb4a8f2ce8fe695",
-      "ntitle": "filmreife wende im fall nord stream  festnahme am ort der dreharbeiten",
-      "title": "Filmreife Wende im Fall Nord Stream – Festnahme am Ort der Dreharbeiten",
-      "summary": "Während in Kroatien ein Hollywood-Film über die Sprengung der Nord-Stream-Pipelines entsteht, nimmt die Polizei dort einen Ukrainer fest, den deutsche Ermittler für einen Beteiligten der Sabotage halten. Seine Geschichte liest sich selbst wie ein Politthriller.",
-      "source": "WELT",
-      "ts": "2026-08-19T20:46:28"
-    },
-    {
-      "id": "6a85b788d479dd659e0b4071",
-      "ntitle": "der große mrnamoment an der börse  das sind die wahren gewinner",
-      "title": "Der große mRNA-Moment an der Börse – das sind die wahren Gewinner",
-      "summary": "Ein Börsenmärchen wird wahr. Moderna ist es gelungen, erfolgreiche Studiendaten zu einem Hautkrebs-Impfstoff auf mRNA-Basis abzuliefern. Der Aktienkurs der Biotechfirma explodiert, auch andere Titel reüssieren.",
-      "source": "WELT",
-      "ts": "2026-08-19T20:46:28"
-    },
-    {
-      "id": "6a85b584cbb4a8f2ce8fe3e1",
-      "ntitle": "neuköllner stadtrat greift durch  rumänen verlieren nach urlaub platz in obdachlosenunterkunft",
-      "title": "Neuköllner Stadtrat greift durch – Rumänen verlieren nach Urlaub Platz in Obdachlosenunterkunft",
-      "summary": "Eine rumänische Familie macht zehn Tage Urlaub in der Heimat und verlangt dann wieder einen Platz in einer Notunterkunft in Berlin. Doch ihr Antrag wird abgelehnt – auch vor Gericht. Der zuständige Stadtrat sieht einen Richtungswechsel.",
-      "source": "WELT",
-      "ts": "2026-08-19T20:46:28"
-    },
-    {
       "id": "5b4caf4e-a5c6-4e19-a270-a2d94c775ace",
       "ntitle": "massive russische angriffe auf die ukrainische hauptstadt kiew",
       "title": "Massive russische Angriffe auf die ukrainische Hauptstadt Kiew",
@@ -3319,6 +3031,150 @@
       "summary": "Deutschland wächst wieder – doch Daniel Stelter warnt vor falscher Euphorie. Das Plus sei vor allem durch steigende Staatsausgaben erkauft. Der Ökonom fordert tiefgreifende Reformen statt neuer Steuern und kritisiert auch die Klimapolitik der Bundesregierung.",
       "source": "WELT",
       "ts": "2026-08-26T20:28:16"
+    },
+    {
+      "id": "e5271791-d2a2-4fbc-98f3-baa0ab08065d",
+      "ntitle": "nepal sehr großer bergsturz  und obendrauf ein gletscher",
+      "title": "Nepal: \"Sehr großer Bergsturz\" - und obendrauf ein Gletscher",
+      "summary": "Nach der Sturzflut in Nepal geht die Suche nach der Ursache weiter. Die Gletscherforscherin Jacquemart beschreibt, wie das Unglück abgelaufen sein könnte, und verdeutlicht, wie sehr die Menschen der Flut ausgeliefert waren.",
+      "source": "Tagesschau",
+      "ts": "2026-08-27T22:46:46"
+    },
+    {
+      "id": "58afc284-535d-4906-bba3-21dcb98bd3db",
+      "ntitle": "nach sturzfluten im himalaya auch deutsche unter den vermissten",
+      "title": "Nach Sturzfluten im Himalaya: Auch Deutsche unter den Vermissten",
+      "summary": "Sturzfluten haben in Nepal und China mehr als 380 Menschen getötet - Hunderte werden vermisst, unter ihnen auch Deutsche. Wie kam es zu der Katastrophe? Wie groß ist das Ausmaß der Zerstörung? Und ist die Gefahr gebannt? Ein Überblick.",
+      "source": "Tagesschau",
+      "ts": "2026-08-27T22:46:46"
+    },
+    {
+      "id": "49e9663c-971d-426b-ba07-33c64bd9ce42",
+      "ntitle": "nach sturzflut im himalaya  mehr als 380 tote und hunderte vermisste",
+      "title": "Nach Sturzflut im Himalaya - Mehr als 380 Tote und hunderte Vermisste",
+      "summary": "Nach der Sturzflut im Himalaya suchen Rettungskräfte weiter nach Überlebenden. Die Flutwelle hatte ganze Dörfer mitgerissen. Augenzeugen berichten von dramatischen Szenen - während in Nepal eine weitere Flutwelle droht.",
+      "source": "Tagesschau",
+      "ts": "2026-08-27T22:46:46"
+    },
+    {
+      "id": "794dac7b-9a5f-4b17-bee3-ed9817f4146e",
+      "ntitle": "spenden hilfe für die menschen in nepal",
+      "title": "Spenden: Hilfe für die Menschen in Nepal",
+      "summary": "Wenn Sie für die Menschen in Nepal spenden wollen, finden Sie hier Hilfsorganisationen und Bankverbindungen.",
+      "source": "Tagesschau",
+      "ts": "2026-08-27T22:46:46"
+    },
+    {
+      "id": "002f56c6-312b-46e7-9387-1bce03e7e859",
+      "ntitle": "livestream die nachrichten auf tagesschau24",
+      "title": "Livestream: Die Nachrichten auf tagesschau24",
+      "summary": "Aktuelle Meldungen, vertiefende Analysen und Interviews: Verfolgen Sie das Programm des ARD-Nachrichtenkanals tagesschau24 hier.",
+      "source": "Tagesschau",
+      "ts": "2026-08-27T22:46:46"
+    },
+    {
+      "id": "370b9d49-bf6f-4be3-a1ee-8132e484665c",
+      "ntitle": "ursula münch politikwissenschaftlerin zur kabinettsklausur der schwarzroten koalition",
+      "title": "Ursula Münch, Politikwissenschaftlerin, zur Kabinettsklausur der schwarz-roten Koalition",
+      "summary": "Ursula Münch, Politikwissenschaftlerin, zur Kabinettsklausur der schwarz-roten Koalition",
+      "source": "Tagesschau",
+      "ts": "2026-08-27T22:46:46"
+    },
+    {
+      "id": "17559a72-3920-4ea5-b3ed-1d4978e28bf5",
+      "ntitle": "tausende migranten harren weiter in spanischer exklave ceuta aus",
+      "title": "Tausende Migranten harren weiter in spanischer Exklave Ceuta aus",
+      "summary": "Tausende Migranten harren weiter in spanischer Exklave Ceuta aus",
+      "source": "Tagesschau",
+      "ts": "2026-08-27T22:46:46"
+    },
+    {
+      "id": "aa6287d5-e7cc-4330-aa0e-077b8c95fffa",
+      "ntitle": "irans zivilbevölkerung leidet unter wirtschaftskrise",
+      "title": "Irans Zivilbevölkerung leidet unter Wirtschaftskrise",
+      "summary": "Irans Zivilbevölkerung leidet unter Wirtschaftskrise",
+      "source": "Tagesschau",
+      "ts": "2026-08-27T22:46:46"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Vor-allem-zwei-Gaeste-setzen-den-Kanzler-massiv-unter-Druck-id31239995.html",
+      "ntitle": "am tisch mit merz bei rtl vor allem zwei gäste setzen den kanzler massiv unter druck",
+      "title": "Am Tisch mit Merz bei RTL: Vor allem zwei Gäste setzen den Kanzler massiv unter Druck",
+      "summary": "In der RTL-Sendung \"Am Tisch mit Friedrich Merz\" wird der Kanzler mit massiven Vorwürfen konfrontiert. Seine Botschaft lautet: \"Ich möchte aus dieser Verdrießlichkeit in unserem Lande raus.\" Kritik an seiner Art der Kommunikation nimmt er an.",
+      "source": "ntv",
+      "ts": "2026-08-27T22:46:46"
+    },
+    {
+      "id": "https://www.n-tv.de/wirtschaft/Bei-Gasspeichern-steht-Vorwurf-der-Erpressung-im-Raum-id31234112.html",
+      "ntitle": "haben betreiber sich verzockt bei gasspeichern steht vorwurf der erpressung im raum",
+      "title": "Haben Betreiber sich verzockt?: \"Bei Gasspeichern steht Vorwurf der Erpressung im Raum\"",
+      "summary": "Die Gasspeicher decken an kalten Wintertagen die Hälfte des deutschen Verbrauchs ab. Noch sind sie halb leer. Die Betreiber hinken dem Befüllungszeitplan hinterher. Eine Ursache ist der Iran-Krieg. Einige scheinen sich aber auch verzockt zu haben. \"Das sieht man\", sagt ein Energieanalyst im Interview.",
+      "source": "ntv",
+      "ts": "2026-08-27T22:46:46"
+    },
+    {
+      "id": "https://www.n-tv.de/panorama/19-Jaehriger-toetet-zwei-Menschen-in-Schule-bei-Berlin-id31240559.html",
+      "ntitle": "beziehungstat in neu zittau 19jähriger tötet zwei menschen in schule bei berlin",
+      "title": "Beziehungstat in Neu Zittau: 19-Jähriger tötet zwei Menschen in Schule bei Berlin",
+      "summary": "Noch sind viele Details unklar. Aber in Brandenburg hat sich eine Tragödie abgespielt. Ein junger Mann tötet offenbar seine Ex-Freundin und einen Mann, der der jungen Frau zu Hilfe eilt. Der Tatort ist eine Schule.",
+      "source": "ntv",
+      "ts": "2026-08-27T22:46:46"
+    },
+    {
+      "id": "https://www.n-tv.de/sport/fussball/Hammerlose-in-der-Champions-League-FC-Bayern-muss-gegen-Manchester-United-ran-id31240345.html",
+      "ntitle": "wie im finale 1999 hammerlose in der champions league fc bayern muss gegen manchester united ran",
+      "title": "Wie im Finale 1999: Hammerlose in der Champions League: FC Bayern muss gegen Manchester United ran",
+      "summary": "Die Auslosung der Champions League bringt den deutschen Vertretern attraktive Gegner. Der FC Bayern muss zu Manchester United, während sowohl die Münchner als auch der BVB auf den englischen Meister FC Arsenal treffen. Auch der VfB Stuttgart und RB Leipzig bekommen große Mannschaften ab.",
+      "source": "ntv",
+      "ts": "2026-08-27T22:46:46"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Putin-wird-laut-Trump-kein-Nato-Gebiet-angreifen-id31240603.html",
+      "ntitle": "hatte gute gespräche mit ihm putin wird laut trump kein natogebiet angreifen",
+      "title": "\"Hatte gute Gespräche mit ihm\": Putin wird laut Trump kein Nato-Gebiet angreifen",
+      "summary": "Der Direktor des US-Geheimdienstes CIA hat Moskau besucht - womöglich, um Russland vor einem Angriff auf das Baltikum zu warnen. US-Präsident Trump ist nach eigener Aussage überzeugt, dass Putin kein Nato-Territorium attackieren werde.",
+      "source": "ntv",
+      "ts": "2026-08-27T22:46:46"
+    },
+    {
+      "id": "https://www.n-tv.de/sport/fussball/Trotz-Torwart-Patzer-Freiburg-locker-in-die-Conference-League-id31240636.html",
+      "ntitle": "backhaus mit aussetzer trotz torwartpatzer freiburg locker in die conference league",
+      "title": "Backhaus mit Aussetzer: Trotz Torwart-Patzer: Freiburg locker in die Conference League",
+      "summary": "Der SC Freiburg erreicht locker die Ligaphase der Conference League. Die neue Nummer eins patzt, doch ein Offensivass dreht mächtig auf. Auch eine Rote Karte hilft beim erneuten Sieg gegen Motherwell.",
+      "source": "ntv",
+      "ts": "2026-08-27T22:46:46"
+    },
+    {
+      "id": "https://www.n-tv.de/sport/Ekstase-Zwei-Weltrekorde-an-einem-Abend-elektrisieren-Zuerich-id31240701.html",
+      "ntitle": "100 und 400 meter hürden ekstase zwei weltrekorde an einem abend elektrisieren zürich",
+      "title": "100 und 400 Meter Hürden: Ekstase: Zwei Weltrekorde an einem Abend elektrisieren Zürich",
+      "summary": "Was ist da denn los? Alison dos Santos läuft in Zürich zu einer Fabelzeit über 400 Meter Hürden. Norwegens Star Karsten Warholm ist entthront. Kurze Zeit später rennt die Amerikanerin Masai Russell ebenfalls Weltrekord.",
+      "source": "ntv",
+      "ts": "2026-08-27T22:46:46"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Wer-sich-in-Sachsen-Anhalt-vor-einem-AfD-Sieg-fuerchtet-id31238586.html",
+      "ntitle": "kein land für alle wer sich in sachsenanhalt vor einem afdsieg fürchtet",
+      "title": "\"Kein Land für alle\": Wer sich in Sachsen-Anhalt vor einem AfD-Sieg fürchtet",
+      "summary": "Nach der Wahl in Sachsen-Anhalt könnte es erstmals zu einer AfD-Landesregierung kommen. Was würde sich ändern, wenn die Forderungen der Partei umgesetzt werden? Eine RTL-Doku gibt Einblicke in das Leben von Menschen, die Angst vor einer AfD-Regierung haben - und zeigt mögliche Folgen auf.",
+      "source": "ntv",
+      "ts": "2026-08-27T22:46:46"
+    },
+    {
+      "id": "6a90692e0c649aabd971610d",
+      "ntitle": "du kannst nicht die ganze kranke scheiße sehen die sich am horizont abzeichnet",
+      "title": "„Du kannst nicht die ganze kranke Scheiße sehen, die sich am Horizont abzeichnet“",
+      "summary": "„GTA VI“ könnte das größte Kulturprodukt aller Zeiten werden. Ein Trailer für das Spiel erscheint ausgerechnet auf Netflix. Doch der gigantische Hype erzählt vor allem etwas über unsere Gegenwart.",
+      "source": "WELT",
+      "ts": "2026-08-27T22:46:46"
+    },
+    {
+      "id": "6a908fea8a7786c19f33684f",
+      "ntitle": "demonstranten legen feuer in notlager in ceuta  migranten müssen sich zurückziehen",
+      "title": "Demonstranten legen Feuer in Notlager in Ceuta – Migranten müssen sich zurückziehen",
+      "summary": "Es sind verstörende Bilder: Zuerst versuchen Demonstranten, Hilfsgütertransporte in ein Migrantenlager zu stoppen, dann legen sie ein Feuer. Die Polizei muss einschreiten.",
+      "source": "WELT",
+      "ts": "2026-08-27T22:46:46"
     }
   ],
   "breaking_seen": [
@@ -3336,9 +3192,9 @@
   ],
   "last_run": {
     "digest_morning": "2026-08-27",
-    "digest_noon": "2026-08-26",
-    "digest_evening": "2026-08-26",
-    "daily": "2026-08-26",
+    "digest_noon": "2026-08-27",
+    "digest_evening": "2026-08-27",
+    "daily": "2026-08-27",
     "weekly": "2026-W34"
   }
 }
