@@ -1,150 +1,6 @@
 {
   "history": [
     {
-      "id": "0ba6ed72-1084-404b-8d1c-e9ddcdb7a8c4",
-      "ntitle": "arddeutschlandtrend zwei drittel schauen besorgt nach sachsenanhalt",
-      "title": "ARD-DeutschlandTrend: Zwei Drittel schauen besorgt nach Sachsen-Anhalt",
-      "summary": "Eine Mehrheit der Deutschen blickt mit Sorge auf den Ausgang der Wahl in Sachsen-Anhalt. Im DeutschlandTrend extra ist zugleich jeder Zweite der Meinung, die anderen Parteien sollten die AfD stärker einbinden. Von J. Schönenborn.",
-      "source": "Tagesschau",
-      "ts": "2026-09-07T21:26:32"
-    },
-    {
-      "id": "f8dd6d10-4a1d-4241-a49d-4dfe360544b7",
-      "ntitle": "kurs der bundesregierung verändert der afderfolg die deutsche eupolitik",
-      "title": "Kurs der Bundesregierung: Verändert der AfD-Erfolg die deutsche EU-Politik?",
-      "summary": "In der EU stehen in nächster Zeit wichtige Entscheidungen an, etwa beim neuen Haushalt. Diskutiert wird daher, ob der Erfolg der AfD auch Folgen für die EU-Politik der Bundesregierung haben könnte. Von C. Feld und T. Spickhofen.",
-      "source": "Tagesschau",
-      "ts": "2026-09-07T21:26:32"
-    },
-    {
-      "id": "b9ea0436-5295-4f0a-ae41-cf0fb5e94110",
-      "ntitle": "afdwahlerfolg polen fürchtet instabilität und geschichtsrelativierung",
-      "title": "AfD-Wahlerfolg: Polen fürchtet Instabilität und Geschichtsrelativierung",
-      "summary": "Der Wahlausgang in Sachsen-Anhalt wird auch in Polen genau beobachtet. Gerade die Haltung der AfD zu Russland verunsichert viele Menschen, zudem gibt es die Sorge vor einer geschwächten Bundesregierung. Von Palina Milling.",
-      "source": "Tagesschau",
-      "ts": "2026-09-07T21:26:32"
-    },
-    {
-      "id": "2e89d99f-c3c7-4652-a683-30d6f8dc7d82",
-      "ntitle": "wie der afdwahlsieg in sachsenanhalt in frankreich bewertet wird",
-      "title": "Wie der AfD-Wahlsieg in Sachsen-Anhalt in Frankreich bewertet wird",
-      "summary": "Auch in Frankreich ist der AfD-Sieg in Sachsen-Anhalt Thema. Viele Politiker sind entsetzt - gilt die AfD doch als noch extremer als der Rassemblement National. Dessen Frontfrau Le Pen schweigt zum deutschen Wahlergebnis. Von Julia Borutta.",
-      "source": "Tagesschau",
-      "ts": "2026-09-07T21:26:32"
-    },
-    {
-      "id": "2f1233cc-1e9b-474d-92b4-8db39bf6d5e8",
-      "ntitle": "regierungsparteien ringen um strategie nach landtagswahl",
-      "title": "Regierungsparteien ringen um Strategie nach Landtagswahl",
-      "summary": "Die Regierungsparteien ringen um Worte und Antworten nach dem Wahlausgang in Sachsen-Anhalt. Der Kanzler will besser kommunizieren, die SPD hadert mit den geplanten Sozialreformen. Wie kann es nun weitergehen? Von D. Hebestreit.",
-      "source": "Tagesschau",
-      "ts": "2026-09-07T21:26:32"
-    },
-    {
-      "id": "33bd2d37-c1d0-4683-a101-fb4534b314f7",
-      "ntitle": "liveticker zur sachsenanhaltwahl  sepp müller will als cdulandeschef kandidieren",
-      "title": "Liveticker zur Sachsen-Anhalt-Wahl: ++ Sepp Müller will als CDU-Landeschef kandidieren ++",
-      "summary": "Im Spätherbst will die CDU in Sachsen-Anhalt einen neuen neuen Vorstand wählen. Der Bundestagsabgeordnete Sepp Müller will dann für den Landesvorsitz kandidieren. In Berlin hat es eine Protestaktion gegen die AfD am Brandenburger Tor gegeben.",
-      "source": "Tagesschau",
-      "ts": "2026-09-07T21:26:32"
-    },
-    {
-      "id": "4df800ef-949d-4bbc-979a-121c2c53a8d5",
-      "ntitle": "nach niederlage bei landtagswahl cdu will landesvorstand in sachsenanhalt neu wählen",
-      "title": "Nach Niederlage bei Landtagswahl: CDU will Landesvorstand in Sachsen-Anhalt neu wählen",
-      "summary": "Die CDU Sachsen-Anhalt zieht Konsequenzen aus ihrem historischen Wahldebakel. Die Mitglieder des Landesvorstands stellen ihre Ämter zur Verfügung. Offen ist, wie es mit Ministerpräsident Sven Schulze weitergeht.",
-      "source": "Tagesschau",
-      "ts": "2026-09-07T21:26:32"
-    },
-    {
-      "id": "f873e8b1-eb12-4efd-bb0c-beacccc38e20",
-      "ntitle": "sachsenanhalt das bsw ist in einer unglaublich starken position",
-      "title": "Sachsen-Anhalt: \"Das BSW ist in einer unglaublich starken Position\"",
-      "summary": "Bis zuletzt schien fraglich, ob das BSW in Sachsen-Anhalt an der Fünf-Prozent-Hürde scheitern würde. Nun fällt ihm die Rolle des Königsmachers zu, sagt Politikwissenschaftler Wagner. Kann die Partei das nutzen?",
-      "source": "Tagesschau",
-      "ts": "2026-09-07T21:26:32"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Putin-setzt-eindeutig-auf-Eskalation-id31279084.html",
-      "ntitle": "reisners blick auf die front putin setzt eindeutig auf eskalation",
-      "title": "Reisners Blick auf die Front: \"Putin setzt eindeutig auf Eskalation\"",
-      "summary": "Die Front stagniert und die US-Sondergesandten trafen Putin in Moskau. Doch entscheidender für einen Durchbruch ist die Situation am Himmel über der Ukraine, erklärt Oberst Reisner ntv.de.",
-      "source": "ntv",
-      "ts": "2026-09-07T21:26:32"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Sepp-Mueller-kandidiert-als-neuer-CDU-Landeschef-id31280168.html",
-      "ntitle": "neuaufstellung in sachsenanhalt sepp müller kandidiert als neuer cdulandeschef",
-      "title": "Neuaufstellung in Sachsen-Anhalt: Sepp Müller kandidiert als neuer CDU-Landeschef",
-      "summary": "In Sachsen-Anhalts CDU beginnt nach dem Wahldebakel die Neuaufstellung. Ministerpräsident Schulze kündigt Konsequenzen und eine Neuwahl der Parteispitze an - ein möglicher Nachfolger bringt sich bereits in Stellung.",
-      "source": "ntv",
-      "ts": "2026-09-07T21:26:32"
-    },
-    {
-      "id": "https://www.n-tv.de/panorama/Sich-der-AfD-widersetzen-es-ist-noch-nicht-zu-spaet-id31278173.html",
-      "ntitle": "meine angst kriegt ihr nicht sich der afd widersetzen  es ist noch nicht zu spät",
-      "title": "\"Meine Angst kriegt ihr nicht\": Sich der AfD widersetzen - es ist noch nicht zu spät",
-      "summary": "Der Wahlsieg der AfD in Sachsen-Anhalt ist keine Überraschung, für viele aber trotzdem ein Schock. Doch für Schockstarre ist jetzt keine Zeit, sagt der Extremismusforscher Dirk Laabs. Es sei längst Zeit, sich dem Faschismus aktiv zu widersetzen. Nur, wie?",
-      "source": "ntv",
-      "ts": "2026-09-07T21:26:32"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Das-macht-etwas-mit-uns-auch-mit-mir-persoenlich-id31279074.html",
-      "ntitle": "sachsenanhalt macht merz ratlos das macht etwas mit uns auch mit mir persönlich",
-      "title": "Sachsen-Anhalt macht Merz ratlos: \"Das macht etwas mit uns, auch mit mir persönlich\"",
-      "summary": "Am Tag nach der Landtagswahl von Sachsen-Anhalt steckt dem Kanzler der AfD-Sieg erkennbar in den Knochen. Er will nun versuchen, \"die Menschen in ihrer Emotionalität stärker zu erreichen\". Und weiß, dass das nicht leicht wird.",
-      "source": "ntv",
-      "ts": "2026-09-07T21:26:32"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Schwesig-Werden-Machtfantasien-der-AfD-stoppen-id31280120.html",
-      "ntitle": "demos in mehreren bundesländern schwesig werden machtfantasien der afd stoppen",
-      "title": "Demos in mehreren Bundesländern: Schwesig: \"Werden Machtfantasien der AfD stoppen\"",
-      "summary": "Der AfD-Wahlsieg in Sachsen-Anhalt mobilisiert Gegner der Partei weit über das Bundesland hinaus. Kurz vor den Wahlen in Mecklenburg-Vorpommern und Berlin gehen Tausende auf die Straße - und Manuela Schwesig verschärft den Ton.",
-      "source": "ntv",
-      "ts": "2026-09-07T21:26:32"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Wann-es-zur-Neuwahl-in-Sachsen-Anhalt-kaeme-id31278410.html",
-      "ntitle": "drei möglichkeiten wann es zur neuwahl in sachsenanhalt käme",
-      "title": "Drei Möglichkeiten: Wann es zur Neuwahl in Sachsen-Anhalt käme",
-      "summary": "Trotz eines eindeutigen Wahlsiegs dürfte die Regierungsbildung in Sachsen-Anhalt schwierig werden. Im \"Notfall\" könnte neu gewählt werden - unter diesen Voraussetzungen.",
-      "source": "ntv",
-      "ts": "2026-09-07T21:26:32"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Finnland-errichtet-200-Kilometer-Zaun-an-Grenze-zu-Russland-id31280022.html",
-      "ntitle": "menschen fernhalten finnland errichtet 200 kilometer zaun an grenze zu russland",
-      "title": "\"Menschen fernhalten\": Finnland errichtet 200 Kilometer Zaun an Grenze zu Russland",
-      "summary": "Finnland rüstet seine Grenze zu Russland massiv auf. Ein kilometerlanger Hightech-Zaun soll illegale Übertritte verhindern - und das Land auf eine Situation vorbereiten, die nach Einschätzung der Regierung jederzeit eintreten könnte.",
-      "source": "ntv",
-      "ts": "2026-09-07T21:26:32"
-    },
-    {
-      "id": "https://www.n-tv.de/wissen/Warum-starten-die-deutschen-Raketen-in-Norwegen-id31278844.html",
-      "ntitle": "besonderheit der flugbahn warum starten die deutschen raketen in norwegen",
-      "title": "Besonderheit der Flugbahn: Warum starten die deutschen Raketen in Norwegen?",
-      "summary": "Von Norwegen aus schickt das bayerische Unternehmen Isar Aerospace erstmals eine Trägerrakete erfolgreich ins All. Viele der großen Weltraumbahnhöfe liegen in Äquatornähe, was einige Vorteile mit sich bringt. Warum startet die deutsche Rakete ausgerechnet im eisigen Norden?",
-      "source": "ntv",
-      "ts": "2026-09-07T21:26:32"
-    },
-    {
-      "id": "6a9ec8edf1cc0ca5cda5003c",
-      "ntitle": "das ist der deutsche brexitmoment sagt stadelmann  und prognostiziert wilde politische dekade",
-      "title": "„Das ist der deutsche Brexit-Moment“, sagt Stadelmann – und prognostiziert „wilde politische Dekade“",
-      "summary": "Satiriker Ingmar Stadelmann vergleicht den AfD-Erfolg in Sachsen-Anhalt mit den Bewegungen Brexit und Maga. Er erwartet politische Ernüchterung erst nach Jahren der Regierungsverantwortung.",
-      "source": "WELT",
-      "ts": "2026-09-07T21:26:32"
-    },
-    {
-      "id": "6a9ef1354cd0c9e2b887e0ae",
-      "ntitle": "die wähler erwarten etwas anderes von der politik",
-      "title": "„Die Wähler erwarten etwas anderes von der Politik“",
-      "summary": "Der ehemalige Regierungssprecher und Kommunikationsexperte Bela Anda analysiert die Folgen und Ursachen des Wahldebakels der CDU in Sachsen-Anhalt.",
-      "source": "WELT",
-      "ts": "2026-09-07T21:26:32"
-    },
-    {
       "id": "59168331-ce00-4e31-9e70-7d8a27ddad77",
       "ntitle": "klingbeil verteidigt neuverschuldung in etatdebatte",
       "title": "Klingbeil verteidigt Neuverschuldung in Etatdebatte",
@@ -2159,6 +2015,150 @@
       "summary": "Die steigenden Spritpreise gefährden laut ING-Chefvolkswirt Carsten Brzeski den wirtschaftlichen Aufschwung in Deutschland. Neben hohen Kaufkraftverlusten drohen Produktionsrückgänge in der Industrie.",
       "source": "WELT",
       "ts": "2026-09-15T14:14:58"
+    },
+    {
+      "id": "a4084077-b49a-4747-aad4-25ad453514d9",
+      "ntitle": "hohe spritpreise spdfraktionsvize fordert übergewinnsteuer",
+      "title": "Hohe Spritpreise: SPD-Fraktionsvize fordert Übergewinnsteuer",
+      "summary": "Mehr Druck auf Mineralölkonzerne und zielgerichtete Maßnahmen: SPD-Fraktionsvize Zorn verspricht neue Vorschläge der Sprit-Taskforce \"in den nächsten Tagen\". Angesichts der hohen Spritpreise seien staatliche Eingriffe nötig.",
+      "source": "Tagesschau",
+      "ts": "2026-09-15T22:14:54"
+    },
+    {
+      "id": "77ae59e5-99a8-4ae4-bcdf-866345d91372",
+      "ntitle": "organisierte kriminalität wie sich strukturen im drogengeschäft ändern",
+      "title": "Organisierte Kriminalität: Wie sich Strukturen im Drogengeschäft ändern",
+      "summary": "Organisierte Kriminalität: Wie sich Strukturen im Drogengeschäft ändern",
+      "source": "Tagesschau",
+      "ts": "2026-09-15T22:14:54"
+    },
+    {
+      "id": "290a1d23-dd28-4c0b-afd9-45bd516a8845",
+      "ntitle": "merz kündigt entlastungen bei spritpreisen an",
+      "title": "Merz kündigt Entlastungen bei Spritpreisen an",
+      "summary": "Merz kündigt Entlastungen bei Spritpreisen an",
+      "source": "Tagesschau",
+      "ts": "2026-09-15T22:14:54"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Fuenf-Szenarien-fuer-einen-Kanzlertausch-id31307842.html",
+      "ntitle": "merz in bedrängnis fünf szenarien für einen kanzlertausch",
+      "title": "Merz in Bedrängnis: Fünf Szenarien für einen Kanzlertausch",
+      "summary": "Kanzler Merz ist in Bedrängnis - nach den Landtagswahlen in Berlin und Mecklenburg-Vorpommern am Sonntag könnte sich die Kritik gegen ihn noch potenzieren. Droht ihm ein vorzeitiges Aus im Amt? Vier Szenarien sind denkbar.",
+      "source": "ntv",
+      "ts": "2026-09-15T22:14:54"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/In-diesem-Keller-bekommt-Merz-noch-Applaus-id31309979.html",
+      "ntitle": "diskussion in prenzlauer berg in diesem keller bekommt merz noch applaus",
+      "title": "Diskussion in Prenzlauer Berg: In diesem Keller bekommt Merz noch Applaus",
+      "summary": "Der Bundeskanzler durchlebt die schwierigsten Tage seiner Amtszeit. Das Land diskutiert über ein vorzeitiges Aus. Doch am Dienstagabend ist alles anders. Bei einer Diskussion mit jungen Leuten bekommt er Applaus.",
+      "source": "ntv",
+      "ts": "2026-09-15T22:14:54"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Niemand-vermisst-den-Ministerpraesidenten-Kandidaten-der-AfD-id31309050.html",
+      "ntitle": "chrupalla in pasewalk niemand vermisst den ministerpräsidentenkandidaten der afd",
+      "title": "Chrupalla in Pasewalk: Niemand vermisst den Ministerpräsidenten-Kandidaten der AfD",
+      "summary": "In Mecklenburg-Vorpommern hat die AfD mit Leif-Erik Holm einen Ministerpräsidenten-Kandidaten, der dem nächsten Landtag wahrscheinlich nicht angehören wird. Bei einer Wahlkampfveranstaltung in Pasewalk ist Holm nicht nur nicht da. Über ihn wird auch so gut wie gar nicht gesprochen.",
+      "source": "ntv",
+      "ts": "2026-09-15T22:14:54"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Merz-sagt-Reise-zur-UN-Generaldebatte-nach-New-York-ab-id31309793.html",
+      "ntitle": "präsenz in berlin erforderlich merz sagt reise zur ungeneraldebatte nach new york ab",
+      "title": "\"Präsenz in Berlin erforderlich\": Merz sagt Reise zur UN-Generaldebatte nach New York ab",
+      "summary": "Statt vor der UN-Generalversammlung in New York zu sprechen, bleibt Merz in Berlin. Die Krise zwingt den Kanzler offenbar zum Umdenken. Kritiker innerhalb der CDU fordern bereits seinen Rücktritt.",
+      "source": "ntv",
+      "ts": "2026-09-15T22:14:54"
+    },
+    {
+      "id": "https://www.n-tv.de/wirtschaft/Saudi-Arabien-muss-einige-Oellieferungen-nach-Europa-stornieren-id31309422.html",
+      "ntitle": "energiekrise spitzt sich zu saudiarabien muss einige öllieferungen nach europa stornieren",
+      "title": "Energiekrise spitzt sich zu: Saudi-Arabien muss einige Öllieferungen nach Europa stornieren",
+      "summary": "Die Huthi-Rebellen treffen eine enorm wichtige Öl-Pipeline in Saudi-Arabien mit einer Drohne und sorgen damit für einen Betriebsstopp. Die Reparaturarbeiten könnten länger dauern - nun gibt es offenbar erste Auswirkungen auf die saudischen Öllieferungen.",
+      "source": "ntv",
+      "ts": "2026-09-15T22:14:54"
+    },
+    {
+      "id": "https://www.n-tv.de/wirtschaft/Saudi-Pipeline-soll-schon-bald-wieder-in-Betrieb-sein-id31309845.html",
+      "ntitle": "angaben von usenergieminister saudipipeline soll schon bald wieder in betrieb sein",
+      "title": "Angaben von US-Energieminister: Saudi-Pipeline soll schon bald wieder in Betrieb sein",
+      "summary": "Durch Saudi-Arabiens wichtige Ost-West-Pipeline fließt nach Angriffen derzeit kein Öl. Unklar ist, wie lange die Reparatur dauert. Angaben aus den USA deuten darauf hin, dass es schnell gehen könnte. Doch nicht jeder ist so optimistisch.",
+      "source": "ntv",
+      "ts": "2026-09-15T22:14:54"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Trump-greift-eigens-ernannte-Richter-am-Supreme-Court-an-id31309958.html",
+      "ntitle": "nur noch schatten ihrer selbst trump greift eigens ernannte richter am supreme court an",
+      "title": "\"Nur noch Schatten ihrer selbst\": Trump greift eigens ernannte Richter am Supreme Court an",
+      "summary": "Eine Entscheidung des Obersten US-Gerichts zur Briefwahl fällt nicht so aus, wie sich Präsident Trump das erhofft hatte. Der Republikaner sieht einmal mehr die \"radikale Linke\" am Werk - greift aber auch die drei Richter an, die er selbst für den Supreme Court auserwählt hat.",
+      "source": "ntv",
+      "ts": "2026-09-15T22:14:54"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Trump-ordnet-Schliessung-des-Kennedy-Centers-an-id31310110.html",
+      "ntitle": "streit um umbenennung trump ordnet schließung des kennedy centers an",
+      "title": "Streit um Umbenennung: Trump ordnet Schließung des Kennedy Centers an",
+      "summary": "Washingtons Kennedy Center soll dichtmachen. Als Gründe nennt US-Präsident Trump Sicherheitsmängel und Renovierungsarbeiten. Kurz zuvor stoppt ein Richter die Umbenennungspläne des Republikaners.",
+      "source": "ntv",
+      "ts": "2026-09-15T22:14:54"
+    },
+    {
+      "id": "6aa8efd614e96b91c66fab9b",
+      "ntitle": "strahlkraft der marktwirtschaftlichen ordnung zu neuem leben erwecken sagt merz kämpferisch",
+      "title": "„Strahlkraft der marktwirtschaftlichen Ordnung zu neuem Leben erwecken“, sagt Merz kämpferisch",
+      "summary": "Der Druck auf Friedrich Merz wächst, bei einem Auftritt in Berlin gibt er sich entschlossen. Er verspricht Reformen und fordert mehr Zuversicht für Deutschlands Zukunft.",
+      "source": "WELT",
+      "ts": "2026-09-15T22:14:54"
+    },
+    {
+      "id": "6aa999249cfc210a32c4aa8d",
+      "ntitle": "nach ausladung von macklemore  jetzt meldet sich ed sheeran zu wort",
+      "title": "Nach Ausladung von Macklemore – jetzt meldet sich Ed Sheeran zu Wort",
+      "summary": "Ed Sheeran weist die Verantwortung für Macklemores Ausladung aus seinem Tourprogramm zurück. Es sei die Entscheidung des Tourveranstalters gewesen. Seine Auftritte seien „Ort der Sicherheit und Zuflucht“.",
+      "source": "WELT",
+      "ts": "2026-09-15T22:14:54"
+    },
+    {
+      "id": "6aa994b69cfc210a32c4aa40",
+      "ntitle": "geheimes militärtreffen  usa berieten offenbar in deutschland mit arabischen staaten über iran",
+      "title": "Geheimes Militärtreffen – USA berieten offenbar in Deutschland mit arabischen Staaten über Iran",
+      "summary": "Hochrangige Militärvertreter aus den USA und arabischen Ländern sollen sich vergangene Woche in Deutschland zu einer Konferenz getroffen haben. Dabei sei es um eine „Stärkung der Sicherheitskooperationen“ im Nahen Osten gegangen, heißt es.",
+      "source": "WELT",
+      "ts": "2026-09-15T22:14:54"
+    },
+    {
+      "id": "6aa9912ca3450cf42e45328c",
+      "ntitle": "italien und spanien verlängern grenzkontrollen",
+      "title": "Italien und Spanien verlängern Grenzkontrollen",
+      "summary": "Italien und Spanien verlängern die gegenseitige Grenzkontrollen bis Anfang Oktober. Hinweise auf eine Weiterreise von Migranten aus Ceuta nach Italien gibt es nicht.",
+      "source": "WELT",
+      "ts": "2026-09-15T22:14:54"
+    },
+    {
+      "id": "6aa98d409cfc210a32c4a9fc",
+      "ntitle": "leihmutteraffäre kostet spahn auch sein letztes amt  dorothee feller folgt",
+      "title": "Leihmutter-Affäre kostet Spahn auch sein letztes Amt – Dorothee Feller folgt",
+      "summary": "Jens Spahn zieht sich Schritt für Schritt aus der Parteispitze zurück. Nach der Leihmutter-Affäre gibt der CDU-Politiker nun auch den Parteivorsitz im Münsterland auf. Er habe das Vertrauen vieler Parteifreunde enttäuscht.",
+      "source": "WELT",
+      "ts": "2026-09-15T22:14:54"
+    },
+    {
+      "id": "6aa98daaa64ce6bfceb37659",
+      "ntitle": "das alles halte ich für möglich  roland kochs ratschläge für merz und die präsidiumssitzung",
+      "title": "„Das alles halte ich für möglich“ – Roland Kochs Ratschläge für Merz und die Präsidiumssitzung",
+      "summary": "Roland Koch gibt dem kriselnden Friedrich Merz Rückendeckung. Deutschland könne derzeit „keinen besseren Kanzler haben in dieser kritischen internationalen Situation“, ist sich Hessens früherer Ministerpräsident sicher. Für die kommende Präsidiumssitzung hat er Ratschläge für den Kanzler.",
+      "source": "WELT",
+      "ts": "2026-09-15T22:14:54"
+    },
+    {
+      "id": "6aa9463ca25e6df915e9a4d1",
+      "ntitle": "die unbequeme wahrheit hinter gladbachs nächstem traineraus",
+      "title": "Die unbequeme Wahrheit hinter Gladbachs nächstem Trainer-Aus",
+      "summary": "Borussia Mönchengladbach hat Eugen Polanski nach drei Niederlagen entlassen. Die Parallelen zur Vorsaison sind genauso verblüffend wie erschreckend. Tiefgreifende Probleme beim Traditionsklub werden immer offenkundiger.",
+      "source": "WELT",
+      "ts": "2026-09-15T22:14:54"
     }
   ],
   "breaking_seen": [
@@ -2177,8 +2177,8 @@
   "last_run": {
     "digest_morning": "2026-09-15",
     "digest_noon": "2026-09-15",
-    "digest_evening": "2026-09-14",
-    "daily": "2026-09-14",
+    "digest_evening": "2026-09-15",
+    "daily": "2026-09-15",
     "weekly": "2026-W37"
   }
 }
