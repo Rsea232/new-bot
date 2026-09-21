@@ -1,150 +1,6 @@
 {
   "history": [
     {
-      "id": "be4600a6-1a89-4c3b-9bf6-a66608781f72",
-      "ntitle": "cduinfluencerin von nathusius übt scharfe kritik an kanzler merz",
-      "title": "CDU-Influencerin von Nathusius übt scharfe Kritik an Kanzler Merz",
-      "summary": "In der CDU wächst die Kritik an Kanzler Merz: Clara von Nathusius, im Vorstand der Jungen Union, hält seine Tage im Amt für gezählt. Die CDU müsse sich nun entscheiden, wofür sie stehe, sagt sie im Bericht aus Berlin. Die Brandmauer hält sie für gescheitert.",
-      "source": "Tagesschau",
-      "ts": "2026-09-13T21:52:30"
-    },
-    {
-      "id": "4918a1ff-c2be-4933-be1d-6efa6940689c",
-      "ntitle": "söder zu kanzlersturzspekulationen von der csu auf keinen fall",
-      "title": "Söder zu Kanzlersturz-Spekulationen: \"Von der CSU auf keinen Fall\"",
-      "summary": "Was wird aus Kanzler Merz? In der CDU rumort es, Gerüchte über einen Kanzlersturz machen die Runde. Von der CSU werde Merz nicht gestürzt, versicherte Parteichef Söder nun. Für die CDU sei er nicht zuständig.",
-      "source": "Tagesschau",
-      "ts": "2026-09-13T21:52:30"
-    },
-    {
-      "id": "47506076-1ae1-4d78-aa49-2d1067ffcd3d-SENDUNGSVIDEO",
-      "ntitle": "tagesschau 2000 uhr",
-      "title": "tagesschau 20:00 Uhr",
-      "summary": "Kritik an Bundeskanzler Merz nimmt zu, OpenAI verschiebt wegen Sicherheitsbedenken Börsengang, Knappes Rennen zwischen linkem Lager und regierendem Mitte-rechts Bündnis bei Parlamentswahlen in Schweden, Mehr als 130 Vermisste nach Fährunglück in Indonesien, Über 7.000 Gebäude zum Tag des offenen Denkmals für Besucher geöffnet, Ergebnisse des 3. Spieltags der Fußball-Bundesliga, Fußball-Bundesligis",
-      "source": "Tagesschau",
-      "ts": "2026-09-13T21:52:30"
-    },
-    {
-      "id": "d1d33dc4-f88d-41fb-9b0a-655da62da808",
-      "ntitle": "viel diskussion und spekulation um bundeskanzler merz",
-      "title": "Viel Diskussion und Spekulation um Bundeskanzler Merz",
-      "summary": "Viel Diskussion und Spekulation um Bundeskanzler Merz",
-      "source": "Tagesschau",
-      "ts": "2026-09-13T21:52:30"
-    },
-    {
-      "id": "cb09c829-a021-4750-b517-e72beba32b8d",
-      "ntitle": "forderung nach verlangsamung der kientwicklung",
-      "title": "Forderung nach Verlangsamung der KI-Entwicklung",
-      "summary": "Forderung nach Verlangsamung der KI-Entwicklung",
-      "source": "Tagesschau",
-      "ts": "2026-09-13T21:52:30"
-    },
-    {
-      "id": "12cbd642-c1ea-47a5-9108-389cac1d0081",
-      "ntitle": "parlamentswahlen in schweden knappes ergebnis erwartet",
-      "title": "Parlamentswahlen in Schweden: Knappes Ergebnis erwartet",
-      "summary": "Parlamentswahlen in Schweden: Knappes Ergebnis erwartet",
-      "source": "Tagesschau",
-      "ts": "2026-09-13T21:52:30"
-    },
-    {
-      "id": "8bb21ad2-e36a-45ca-8d52-f9302652a7b8",
-      "ntitle": "suche nach überlebenden eines fährunglücks in indonesien",
-      "title": "Suche nach Überlebenden eines Fährunglücks in Indonesien",
-      "summary": "Suche nach Überlebenden eines Fährunglücks in Indonesien",
-      "source": "Tagesschau",
-      "ts": "2026-09-13T21:52:30"
-    },
-    {
-      "id": "a866f5e8-67ad-4fbc-bf44-32e1c779aa14",
-      "ntitle": "tag des offenen denkmals geschichte für besucher erzählen",
-      "title": "Tag des offenen Denkmals: Geschichte für Besucher erzählen",
-      "summary": "Tag des offenen Denkmals: Geschichte für Besucher erzählen",
-      "source": "Tagesschau",
-      "ts": "2026-09-13T21:52:30"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/CDU-holt-in-Wolfsburg-haarscharf-die-absolute-Mehrheit-id31301675.html",
-      "ntitle": "kommunalwahl in niedersachsen cdu holt in wolfsburg haarscharf die absolute mehrheit",
-      "title": "Kommunalwahl in Niedersachsen: CDU holt in Wolfsburg haarscharf die absolute Mehrheit",
-      "summary": "In Niedersachsen trudeln die Ergebnisse der Kommunalwahlen ein. Die CDU kann in Wolfsburg jubeln, muss in Worms allerdings noch bangen. Hannover kämpft derweil mit langen Schlangen und hohen Wartezeiten - in der Landeshauptstadt zeichnet sich eine Stichwahl ab.",
-      "source": "ntv",
-      "ts": "2026-09-13T21:52:30"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Sozialdemokraten-liegen-bei-Wahl-in-Schweden-vorn-id31301674.html",
-      "ntitle": "ausgang noch offen sozialdemokraten liegen bei wahl in schweden vorn",
-      "title": "Ausgang noch offen: Sozialdemokraten liegen bei Wahl in Schweden vorn",
-      "summary": "Bei der Parlamentswahl in Schweden zeichnet sich ein Sieg der von den Sozialdemokraten angeführten Opposition ab. Regierungschef Kristersson muss um die Macht zittern.",
-      "source": "ntv",
-      "ts": "2026-09-13T21:52:30"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Regierung-dementiert-Ueberlegung-zu-Minderheitsregierung-id31301432.html",
-      "ntitle": "völlig aus der luft gegriffen regierung dementiert überlegung zu minderheitsregierung",
-      "title": "\"Völlig aus der Luft gegriffen\": Regierung dementiert Überlegung zu Minderheitsregierung",
-      "summary": "Der Druck auf Friedrich Merz wächst von Tag zu Tag. Laut einem Bericht soll man im Kanzleramt sogar an ein Ende der Koalition und eine Minderheitsregierung denken. Ein Regierungssprecher weist dieses Szenario klar zurück.",
-      "source": "ntv",
-      "ts": "2026-09-13T21:52:30"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Geht-nicht-kaempfen-Jungs-id31294672.html",
-      "ntitle": "russlands veteranen als problem geht nicht kämpfen jungs",
-      "title": "Russlands Veteranen als Problem: \"Geht nicht kämpfen, Jungs\"",
-      "summary": "Die wachsende Zahl an Kriegsheimkehrern wird für Russland zum Problem: Sie fallen auf mit Morden und anderen Gewalttaten, andere wiederum fühlen sich im Stich gelassen und ausgegrenzt. Was soll erst werden, wenn Hunderttausende von der Front zurückkehren?",
-      "source": "ntv",
-      "ts": "2026-09-13T21:52:30"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Trump-geht-Selenskyj-wegen-Dieselknappheit-an-id31301306.html",
-      "ntitle": "kommt nicht aus nahem osten trump geht selenskyj wegen dieselknappheit an",
-      "title": "\"Kommt nicht aus Nahem Osten\": Trump geht Selenskyj wegen Dieselknappheit an",
-      "summary": "Trump macht den Schuldigen für die hohen Kraftstoffpreise in seiner Heimat aus: Und der sitzt laut dem US-Präsidenten nicht im Kreml und natürlich nicht im Weißen Haus, wie es manche zeitlichen Zusammenhänge nahelegen könnten.",
-      "source": "ntv",
-      "ts": "2026-09-13T21:52:30"
-    },
-    {
-      "id": "https://www.n-tv.de/wirtschaft/Spritpreise-naehern-sich-wieder-Rekordmarken-id31301321.html",
-      "ntitle": "rufe nach entlastung  spritpreise nähern sich wieder rekordmarken",
-      "title": "Rufe nach Entlastung : Spritpreise nähern sich wieder Rekordmarken",
-      "summary": "Geschlossene Schifffahrtswege und eine stillgelegte Pipeline in Saudi-Arabien belasten die Ölversorgung und schicken die Preise an den Zapfsäulen am Wochenende auf Höhenflug. Hoffnungen ruhen nun auf bevorstehenden Krisengesprächen im Oman.",
-      "source": "ntv",
-      "ts": "2026-09-13T21:52:30"
-    },
-    {
-      "id": "6aa6f033cf1f62d4f0807044",
-      "ntitle": "die mächtigste frau im deutschen fußball hört auf",
-      "title": "Die mächtigste Frau im deutschen Fußball hört auf",
-      "summary": "Die einflussreiche Fußballmanagerin Alice Mascia verlässt DAZN zum Jahresende. Die Chefin des Sportdienstes sicherte die Bundesliga-Konferenz und führte das Geschäft in Deutschland in die Gewinnzone.",
-      "source": "WELT",
-      "ts": "2026-09-13T21:52:30"
-    },
-    {
-      "id": "6aa6dd42240b302c8a8437df",
-      "ntitle": "der unternehmer hinter der krachaffäre spendete auch an die cdu",
-      "title": "Der Unternehmer hinter der Krach-Affäre spendete auch an die CDU",
-      "summary": "Eine Spende an die Berliner SPD bringt Gaurav Garg in die Schlagzeilen. Doch WELT-Recherchen zeigen: Schon Jahre zuvor floss Geld aus seinem Unternehmensumfeld an die CDU.",
-      "source": "WELT",
-      "ts": "2026-09-13T21:52:30"
-    },
-    {
-      "id": "6aa6f66b181cb962d488e384",
-      "ntitle": "cdu behauptet sich in niedersachsen  wolfsburg bleibt in unionshand",
-      "title": "CDU behauptet sich in Niedersachsen – Wolfsburg bleibt in Unionshand",
-      "summary": "Niedersachsen hat gewählt. Die Kommunalwahl gilt als wichtiger Stimmungstest für die Parteien – auch mit Blick auf die AfD. Erste Ergebnisse zeigen: In Wolfsburg hält die CDU das Rathaus.",
-      "source": "WELT",
-      "ts": "2026-09-13T21:52:30"
-    },
-    {
-      "id": "6aa6e41e86a4188a29d95c95",
-      "ntitle": "scheitert die bundesregierung wäre das ein elfmeter ohne torwart für die afd sagt söder",
-      "title": "Scheitert die Bundesregierung, wäre das ein „Elfmeter ohne Torwart für die AfD“, sagt Söder",
-      "summary": "Das Wahldebakel in Sachsen-Anhalt setzt die Union unter Druck. CSU-Chef Markus Söder fordert von der Bundesregierung mehr Tempo und warnt eindringlich vor einem Scheitern der Koalition. Auch Michael Kretschmer verlangt konkrete Konsequenzen.",
-      "source": "WELT",
-      "ts": "2026-09-13T21:52:30"
-    },
-    {
       "id": "6a569928-0312-418a-b04a-e5cf140dee70",
       "ntitle": "was steckt hinter der debatte über eine kibremse",
       "title": "Was steckt hinter der Debatte über eine KI-Bremse?",
@@ -2303,6 +2159,150 @@
       "summary": "Der ukrainische Präsident Selenskyj trifft kommende Woche US-Präsident Trump in New York. Beide beabsichtigen, einen neuen Anlauf für Verhandlungen mit Russland über ein Kriegsende zu nehmen.",
       "source": "WELT",
       "ts": "2026-09-20T21:50:38"
+    },
+    {
+      "id": "21b9b309-dcde-480e-b5d8-54d12d50c2dd",
+      "ntitle": "cduwahlschlappe neuer kurs alte probleme",
+      "title": "CDU-Wahlschlappe: Neuer Kurs, alte Probleme",
+      "summary": "Der Bundeskanzler und CDU-Chef kämpft nach dem erneuten Wahldebakel um sein Amt. Die SPD setzt sich vom Reformkurs ab. Merz will daran festhalten und hofft auf Unterstützung. Von Jakob Mayr.",
+      "source": "Tagesschau",
+      "ts": "2026-09-21T22:37:32"
+    },
+    {
+      "id": "52b61aae-2e20-47d9-8d76-01c4781be6c6",
+      "ntitle": "gerechtigkeitsproblem merz tritt debatte über krankenkassen los",
+      "title": "\"Gerechtigkeitsproblem\": Merz tritt Debatte über Krankenkassen los",
+      "summary": "Für viele überraschend hat sich Kanzler Merz zum dualen System der Krankenkassen geäußert. Viele sähen darin ein \"Gerechtigkeitsproblem\", über das man sprechen müsse. Seine Aussage ruft deutliche Kritik hervor - aber auch Lob.",
+      "source": "Tagesschau",
+      "ts": "2026-09-21T22:37:32"
+    },
+    {
+      "id": "f75acbb8-4afb-4498-9568-a23f0db9c5a8",
+      "ntitle": "cduchef peters tritt zurück amthor übernimmt",
+      "title": "CDU-Chef Peters tritt zurück, Amthor übernimmt",
+      "summary": "Nach dem Debakel bei der Landtagswahl ist der CDU-Spitzenkandidat Peters als Landesvorsitzender zurückgetreten. Peters zieht damit die Konsequenzen aus dem verpassten Wiedereinzug in den Landtag. Bund-Länder-Staatsminister Amthor übernimmt.",
+      "source": "Tagesschau",
+      "ts": "2026-09-21T22:37:32"
+    },
+    {
+      "id": "fe7f2650-632a-4ae6-a0fb-cbab87e94741",
+      "ntitle": "spd nach den wahlen das neue machtzentrum schwesig",
+      "title": "SPD nach den Wahlen: Das neue Machtzentrum Schwesig?",
+      "summary": "Die SPD hat ein neues Machtzentrum und das heißt Manuela Schwesig. Die beiden SPD-Parteivorsitzenden bekommen eine kurze Verschnaufpause - und wollen auf einem Parteikonvent im Dezember eine neue Linie finden. Von Nicole Kohnert.",
+      "source": "Tagesschau",
+      "ts": "2026-09-21T22:37:32"
+    },
+    {
+      "id": "748800cb-971c-40a4-865c-90d4ce6cd5ef",
+      "ntitle": "liveticker  schwesigspd will mit linken und grünen sondieren",
+      "title": "Liveticker: ++ Schwesig-SPD will mit Linken und Grünen sondieren ++",
+      "summary": "In Mecklenburg-Vorpommern will die zweitplatzierte SPD Sondierungsgespräche beginnen. Der CDU-Landesvorsitzende Peters hat dort seinen Rücktritt erklärt. Amthor übernimmt für den Übergang.",
+      "source": "Tagesschau",
+      "ts": "2026-09-21T22:37:32"
+    },
+    {
+      "id": "a5d949f7-b7ea-4254-b893-4068039e52e4",
+      "ntitle": "merz kündigt gesetz gegen linke enteignungspläne an",
+      "title": "Merz kündigt Gesetz gegen linke Enteignungspläne an",
+      "summary": "Die Vergesellschaftungspläne der Linkspartei in Berlin schlagen hohe Wellen: Kanzler Merz will Enteignungen per Gesetz verbieten lassen. Die Bankenbranche mahnt, Investoren könnten verschreckt und Immobilienkredite teurer werden.",
+      "source": "Tagesschau",
+      "ts": "2026-09-21T22:37:32"
+    },
+    {
+      "id": "tagesschau_fm-story-rbb_abgeordnetenhaus-wahlkreise-direktkandidaten-giffey-wegner-evers",
+      "ntitle": "berlinwahl giffey verpasst einzug ins abgeordnetenhaus",
+      "title": "Berlin-Wahl: Giffey verpasst Einzug ins Abgeordnetenhaus",
+      "summary": "Die ehemalige Berliner Regierende Bürgermeisterin Giffey hat das Direktmandat in ihrem Wahlkreis verpasst. Die SPD-Politikerin gehört damit nicht mehr dem Abgeordnetenhaus an. Sie wurde knapp von ihrem CDU-Konkurrenten überholt.",
+      "source": "Tagesschau",
+      "ts": "2026-09-21T22:37:32"
+    },
+    {
+      "id": "58c1fd87-1db4-4aa3-bffd-9bd2a6f4c9ff-SENDUNGSVIDEO",
+      "ntitle": "tagesschau 2000 uhr",
+      "title": "tagesschau 20:00 Uhr",
+      "summary": "Nach schwerer CDU-Wahlniederlage in Mecklenburg-Vorpommern: Kanzler Merz bekräftigt Fortsetzung des Reformkurses zusammen mit der SPD, SPD-Ministerpräsidentin Schwesig will in Mecklenburg-Vorpommern mit rot-rot-grünem Dreierbündnis weiterregieren, Nach Abgeordnetenhauswahl in Berlin: Linkspartei plant Gespräche mit SPD und Grünen, IG Metall ruft bundesweit zu Protesten gegen Sparpläne in der Autoi",
+      "source": "Tagesschau",
+      "ts": "2026-09-21T22:37:32"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Mecklenburg-Vorpommerns-CDU-Chef-Peters-tritt-ab-Amthor-uebernimmt-id31332268.html",
+      "ntitle": "konsequenzen nach wahldebakel mecklenburgvorpommerns cduchef peters tritt ab  amthor übernimmt",
+      "title": "Konsequenzen nach Wahldebakel: Mecklenburg-Vorpommerns CDU-Chef Peters tritt ab - Amthor übernimmt",
+      "summary": "In Mecklenburg-Vorpommern scheitert die CDU erstmals in ihrer Geschichte an einer 5-Prozent-Hürde. Der Landesvorsitzende Daniel Peters übernimmt anschließend Verantwortung und tritt zurück. Sein Nachfolger wird bis zu einem Parteitag Philipp Amthor.",
+      "source": "ntv",
+      "ts": "2026-09-21T22:37:32"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Merz-macht-neue-Front-auf-bekommt-Gratis-Lektion-und-Soeder-Tipps-id31331966.html",
+      "ntitle": "cduchef übersteht tag danach merz macht neue front auf bekommt gratislektion und södertipps",
+      "title": "CDU-Chef übersteht \"Tag danach\": Merz macht neue Front auf, bekommt Gratis-Lektion und Söder-Tipps",
+      "summary": "Nach dem Wahltag beginnt das Scherbenaufsammeln für die CDU. Kanzler und Parteichef Merz tritt wie schon am Wahlabend vor Journalisten und lässt diesmal Fragen zu. In einem Punkt stiftet er Verwirrung.",
+      "source": "ntv",
+      "ts": "2026-09-21T22:37:32"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Sprecherin-rueckt-Merz-Krankenkassen-Ansage-gerade-id31331193.html",
+      "ntitle": "system nicht infrage gestellt sprecherin rückt merz krankenkassenansage gerade",
+      "title": "\"System nicht infrage gestellt\": Sprecherin rückt Merz' Krankenkassen-Ansage gerade",
+      "summary": "Seit jeher steht die CDU hinter dem zweigeteilten System der Krankenversicherung. Doch das duale Konstrukt könne in der Bevölkerung auch als \"Gerechtigkeitsproblem\" wahrgenommen werden, räumt Kanzler Merz ein. Nach den Landtagswahlen kündigt er Änderungen an.",
+      "source": "ntv",
+      "ts": "2026-09-21T22:37:32"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Gutverdiener-zahlen-ab-2027-hoehere-Sozialbeitraege-id31330815.html",
+      "ntitle": "bemessungsgrenzen angehoben gutverdiener zahlen ab 2027 höhere sozialbeiträge",
+      "title": "Bemessungsgrenzen angehoben: Gutverdiener zahlen ab 2027 höhere Sozialbeiträge",
+      "summary": "Einkommen ab bestimmten Grenzen werden ab dem kommenden Jahr stärker zur Finanzierung von Kranken- und Rentenversicherung herangezogen. Die Erhöhung folgt zum Teil einer gesetzlichen Regelung. Aber auch das Gesundheitssparpaket der schwarz-roten Regierung schlägt zu Buche.",
+      "source": "ntv",
+      "ts": "2026-09-21T22:37:32"
+    },
+    {
+      "id": "https://www.n-tv.de/wirtschaft/Betriebsratschefin-warnt-Bei-VW-stehen-die-Zeichen-auf-Sturm-id31332227.html",
+      "ntitle": "versammlung in wolfsburg betriebsratschefin warnt bei vw stehen die zeichen auf sturm",
+      "title": "Versammlung in Wolfsburg: Betriebsratschefin warnt: Bei VW stehen die Zeichen auf Sturm",
+      "summary": "In Wolfsburg bei einer Betriebsversammlung hat Markenchef Schäfer keine guten Nachrichten für die Angestellten von Volkswagen im Gepäck. Betriebsratschefin Cavallo geht davon aus, die \"Sparwut des Unternehmens\" werde ihnen an \"allen Ecken und Enden\" begegnen.",
+      "source": "ntv",
+      "ts": "2026-09-21T22:37:32"
+    },
+    {
+      "id": "https://www.n-tv.de/wirtschaft/Mercedes-Werksschliessungen-wenn-Kosten-nicht-sinken-id31332276.html",
+      "ntitle": "proteste gegen jobabbau mercedes werksschließungen wenn kosten nicht sinken",
+      "title": "Proteste gegen Jobabbau: Mercedes: Werksschließungen, wenn Kosten nicht sinken",
+      "summary": "Mercedes-Benz sind die Arbeitskosten in Deutschland zu hoch. Produktionsvorstand Schiebe macht den Fortbestand zweier deutscher Fabriken bei einer Betriebsversammlung in Sindelfingen von drastischen Einsparungen abhängig.",
+      "source": "ntv",
+      "ts": "2026-09-21T22:37:32"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Merkel-reagiert-mit-Adenauer-Vergleich-auf-CDU-Desaster-id31332315.html",
+      "ntitle": "für ihn war klar merkel reagiert mit adenauervergleich auf cdudesaster",
+      "title": "\"Für ihn war klar\": Merkel reagiert mit Adenauer-Vergleich auf CDU-Desaster",
+      "summary": "Erstmals in ihrer Geschichte verpasst die CDU den Einzug in ein Landesparlament. Altkanzlerin Merkel erinnert deshalb an die Anfänge der Partei - und an das, was die Christdemokraten ausmacht.",
+      "source": "ntv",
+      "ts": "2026-09-21T22:37:32"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Jetzt-steht-die-Ukraine-vor-derselben-Herausforderung-wie-Russland-id31331381.html",
+      "ntitle": "reisners blick auf die front jetzt steht die ukraine vor derselben herausforderung wie russland",
+      "title": "Reisners Blick auf die Front: \"Jetzt steht die Ukraine vor derselben Herausforderung wie Russland\"",
+      "summary": "Moskau verstärkt seine hybride Kriegsführung an der Grenze zu Polen. Oberst Reisner erkennt darin eine neue Eskalationsstufe. An der ukrainischen Front sähen sich die Kriegsparteien angesichts der Drohnenangriffe der gleichen verzwickten Situation ausgesetzt, sagt er.",
+      "source": "ntv",
+      "ts": "2026-09-21T22:37:32"
+    },
+    {
+      "id": "6aafd698b1857e86757a8482",
+      "ntitle": "wollen sie bundeskanzler werden wird wüst auf der bühne gefragt",
+      "title": "„Wollen Sie Bundeskanzler werden?“, wird Wüst auf der Bühne gefragt",
+      "summary": "Ein Journalist setzt NRW-Ministerpräsident Hendrik Wüst in der Kanzler-Frage auf der Bühne die Pistole auf die Brust. Um eine Aussage des Kanzlers zur Krankenversicherung gibt es Verwirrung. Mehr im Liveticker.",
+      "source": "WELT",
+      "ts": "2026-09-21T22:37:32"
+    },
+    {
+      "id": "6ab1875c708e760b5e066e8e",
+      "ntitle": "trumps zustimmungswerte fallen in umfrage auf den tiefsten stand seiner politischen karriere",
+      "title": "Trumps Zustimmungswerte fallen in Umfrage auf den tiefsten Stand seiner politischen Karriere",
+      "summary": "Kurz vor den wichtigen Midterms zeigen sich nur noch 32 Prozent der US-Amerikaner mit Trumps Arbeit zufrieden. Damit unterbietet der Präsident den tiefsten Wert, den es je für seinen demokratischen ​Vorgänger Joe Biden gegeben hatte.",
+      "source": "WELT",
+      "ts": "2026-09-21T22:37:32"
     }
   ],
   "breaking_seen": [
@@ -2321,8 +2321,8 @@
   "last_run": {
     "digest_morning": "2026-09-21",
     "digest_noon": "2026-09-21",
-    "digest_evening": "2026-09-20",
-    "daily": "2026-09-20",
+    "digest_evening": "2026-09-21",
+    "daily": "2026-09-21",
     "weekly": "2026-W38"
   }
 }
