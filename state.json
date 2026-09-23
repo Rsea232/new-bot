@@ -1,150 +1,6 @@
 {
   "history": [
     {
-      "id": "a645471d-1192-44d0-9263-077ef9bf225f",
-      "ntitle": "mecklenburgvorpommern wahlkampf zwischen euphorie und entgeisterung",
-      "title": "Mecklenburg-Vorpommern: Wahlkampf zwischen Euphorie und Entgeisterung",
-      "summary": "Wohin steuert Mecklenburg-Vorpommern? Mit Blick auf die Umfragewerte ist der Nordosten politisch entzweit. Über Themen und Stimmungen, die diesen Wahlkampf prägen. Von Christoph Cyrulies.",
-      "source": "Tagesschau",
-      "ts": "2026-09-15T08:47:08"
-    },
-    {
-      "id": "f3a1c530-9944-4587-b723-157eab244a0a-SENDUNGSVIDEO",
-      "ntitle": "tagesschau 2000 uhr",
-      "title": "tagesschau 20:00 Uhr",
-      "summary": "CDU bleibt stärkste Kraft bei Kommunalwahl in Niedersachsen, Treffen zwischen Golf-Anrainerstaaten und Iran zur Straße von Hormus vertagt, Verteidigungsminister Pistorius will erstmals Soldaten für Litauen-Brigade verpflichten, Arktis-Gipfel in Finnland: EU-Staaten beschließen mehr Engagement in der Region, Bundesanwaltschaft erhebt Anklage gegen mutmaßliche Spionin Russlands, Laut israelischer Me",
-      "source": "Tagesschau",
-      "ts": "2026-09-15T08:47:08"
-    },
-    {
-      "id": "ec58e76c-efba-4e67-9647-b14f01349b67",
-      "ntitle": "westjordanland ardreporterin steckelbach ordnet studie zu siedlergewalt ein",
-      "title": "Westjordanland: ARD-Reporterin Steckelbach ordnet Studie zu Siedlergewalt ein",
-      "summary": "Westjordanland: ARD-Reporterin Steckelbach ordnet Studie zu Siedlergewalt ein",
-      "source": "Tagesschau",
-      "ts": "2026-09-15T08:47:08"
-    },
-    {
-      "id": "d1d33dc4-f88d-41fb-9b0a-655da62da808",
-      "ntitle": "viel diskussion und spekulation um bundeskanzler merz",
-      "title": "Viel Diskussion und Spekulation um Bundeskanzler Merz",
-      "summary": "Viel Diskussion und Spekulation um Bundeskanzler Merz",
-      "source": "Tagesschau",
-      "ts": "2026-09-15T08:47:08"
-    },
-    {
-      "id": "35c89af1-8d96-42a8-9a74-ec71d3a76e0a",
-      "ntitle": "weg zu neuer regierung noch lang ardjournalist stichler zur wahl in schweden",
-      "title": "\"Weg zu neuer Regierung noch lang\": ARD-Journalist Stichler zur Wahl in Schweden",
-      "summary": "\"Weg zu neuer Regierung noch lang\": ARD-Journalist Stichler zur Wahl in Schweden",
-      "source": "Tagesschau",
-      "ts": "2026-09-15T08:47:08"
-    },
-    {
-      "id": "e11e07fb-2c76-4162-a3e3-707e6ec3b8cb",
-      "ntitle": "cdu kann bei kommunalwahlen in niedersachsen ihre position verteidigen",
-      "title": "CDU kann bei Kommunalwahlen in Niedersachsen ihre Position verteidigen",
-      "summary": "CDU kann bei Kommunalwahlen in Niedersachsen ihre Position verteidigen",
-      "source": "Tagesschau",
-      "ts": "2026-09-15T08:47:08"
-    },
-    {
-      "id": "31d1d87a-e96a-4ba9-9748-110bedfd9fc3",
-      "ntitle": "benzinpreise steigen auf rekordhoch",
-      "title": "Benzinpreise steigen auf Rekordhoch",
-      "summary": "Benzinpreise steigen auf Rekordhoch",
-      "source": "Tagesschau",
-      "ts": "2026-09-15T08:47:08"
-    },
-    {
-      "id": "cccc2d48-aca8-4ed7-8830-953909968b71",
-      "ntitle": "anja kohl hr zu den gründen der steigenden ölpreise",
-      "title": "Anja Kohl, HR, zu den Gründen der steigenden Ölpreise",
-      "summary": "Anja Kohl, HR, zu den Gründen der steigenden Ölpreise",
-      "source": "Tagesschau",
-      "ts": "2026-09-15T08:47:08"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Nato-Kampfjets-schiessen-Drohne-ueber-Litauen-ab-id31306198.html",
-      "ntitle": "polen aktiviert luftverteidigung natokampfjets schießen drohne über litauen ab",
-      "title": "Polen aktiviert Luftverteidigung: Nato-Kampfjets schießen Drohne über Litauen ab",
-      "summary": "Wieder einmal dringt eine Drohne ins baltische Litauen ein. Diesmal soll sie aus Belarus gestartet worden sein. Die Nato reagiert, Polen gibt den Beginn von \"Lufteinsätzen\" in seinem Luftraum bekannt.",
-      "source": "ntv",
-      "ts": "2026-09-15T08:47:08"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Supreme-Court-beerdigt-Trumps-Briefwahl-Plaene-id31305878.html",
-      "ntitle": "keine neuregelung vor midterms supreme court beerdigt trumps briefwahlpläne",
-      "title": "Keine Neuregelung vor Midterms: Supreme Court beerdigt Trumps Briefwahl-Pläne",
-      "summary": "Die Trump-Regierung will die Regeln für die Briefwahl ändern, und das noch vor den Zwischenwahlen. Dabei sind die Wahlunterlagen teilweise schon versendet. Jetzt scheitert das Vorhaben vor dem Supreme Court.",
-      "source": "ntv",
-      "ts": "2026-09-15T08:47:08"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Renitenter-Trump-klammert-sich-an-Rettungsanker-KI-id31305964.html",
-      "ntitle": "lasst daten herrschen renitenter trump klammert sich an rettungsanker ki",
-      "title": "\"Lasst Daten herrschen\": Renitenter Trump klammert sich an Rettungsanker KI",
-      "summary": "Sogar manche Konzerne selbst sagen es: Wir wollen einheitliche Regeln bei der KI-Entwicklung. Trump wehrt sich partout dagegen. Der Kongress schlingert. Bald soll es zum Gipfel kommen. Bis zu den Kongresswahlen ist nicht mehr viel Zeit.",
-      "source": "ntv",
-      "ts": "2026-09-15T08:47:08"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/US-Gericht-blockiert-Trumps-neue-Visa-Regeln-id31306226.html",
-      "ntitle": "für studenten und journalisten usgericht blockiert trumps neue visaregeln",
-      "title": "Für Studenten und Journalisten: US-Gericht blockiert Trumps neue Visa-Regeln",
-      "summary": "Wenn es nach der Trump-Regierung geht, sollen sich Journalisten und ausländische Studierende nicht für unbegrenzte Zeit in den USA aufhalten dürfen. Mehrere Organisationen klagen - nun legt ein Gericht Trumps Pläne auf Eis. Das letzte Wort ist jedoch noch nicht gesprochen.",
-      "source": "ntv",
-      "ts": "2026-09-15T08:47:08"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Russischer-Oligarch-Alischer-Usmanow-spaltet-EU-id31305849.html",
-      "ntitle": "sanktionen nicht verlängert russischer oligarch alischer usmanow spaltet eu",
-      "title": "Sanktionen nicht verlängert: Russischer Oligarch Alischer Usmanow spaltet EU",
-      "summary": "Victor Orban kann in der EU keine Russland-Sanktionen mehr blockieren - dafür tun es jetzt andere. Die Verlängerung eines umfangreichen Maßnahmenpakets droht am Widerstand zweier Länder zu scheitern. Sie wollen einen bestimmten Oligarchen von der Sanktionsliste streichen.",
-      "source": "ntv",
-      "ts": "2026-09-15T08:47:08"
-    },
-    {
-      "id": "https://www.n-tv.de/panorama/Brite-gesteht-jahrzehntelangen-Missbrauch-seiner-Ehefrau-id31306266.html",
-      "ntitle": "schuldig in 60 anklagepunkten brite gesteht jahrzehntelangen missbrauch seiner ehefrau",
-      "title": "Schuldig in 60 Anklagepunkten: Brite gesteht jahrzehntelangen Missbrauch seiner Ehefrau",
-      "summary": "Der Fall Gisèle Pelicot in Frankreich schockiert seinerzeit die Öffentlichkeit. Ein Einzelfall ist er keineswegs. In Großbritannien gibt ein Mann vor Gericht nun zu, seine Ehefrau massiv sexuell missbraucht zu haben - mehr als 20 Jahre lang.",
-      "source": "ntv",
-      "ts": "2026-09-15T08:47:08"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/USA-bestaetigen-erstmals-im-All-stationierte-Waffen-id31306430.html",
-      "ntitle": "trump rief truppe 2019 ins leben usa bestätigen erstmals im all stationierte waffen",
-      "title": "Trump rief Truppe 2019 ins Leben: USA bestätigen erstmals im All stationierte Waffen",
-      "summary": "Der Kalte Krieg zwischen den USA und der Sowjetunion war auch von einem \"Rennen um das All\" geprägt. Nun bestätigen die USA erstmals, dass sie über Waffen im All verfügen. Dort ist Russland aber nicht der einzige Gegner.",
-      "source": "ntv",
-      "ts": "2026-09-15T08:47:08"
-    },
-    {
-      "id": "https://www.n-tv.de/sport/tennis/Becker-will-wegen-Zverev-dringend-Regelaenderung-id31306175.html",
-      "ntitle": "ich wurde hektisch becker will wegen zverev dringend regeländerung",
-      "title": "\"Ich wurde hektisch\": Becker will wegen Zverev \"dringend Regeländerung\"",
-      "summary": "Alexander Zverev feiert bei den US Open seinen nächsten Grand-Slam-Triumph. Doch in den Jubel über den großen Sieg mischt sich auch Kritik am Deutschen. Manche formulieren sie leiser, andere lauter. Es geht um eine Marotte.",
-      "source": "ntv",
-      "ts": "2026-09-15T08:47:08"
-    },
-    {
-      "id": "6aa8df75bcd7f8a405fc36f7",
-      "ntitle": "der deutsche staat kassiert am meisten an der zapfsäule",
-      "title": "„Der deutsche Staat kassiert am meisten an der Zapfsäule“",
-      "summary": "Der US-Journalist Erik Kirschbaum kritisiert die hohen staatlichen Steuern auf Benzinpreise in Deutschland sowie Subventionen für E-Autos: „Was mich wundert, ist, dass der Staat in Deutschland so tut, als ob Iran Schuld hat oder Putin oder Trump“, meint Kirschbaum.",
-      "source": "WELT",
-      "ts": "2026-09-15T08:47:08"
-    },
-    {
-      "id": "6aa88b2c250f8ce245e4ce8e",
-      "ntitle": "donald trump jr bestätigt außerordentlich großzügiges hochzeitsgeschenk von russischem oligarchen",
-      "title": "Donald Trump Jr. bestätigt „außerordentlich großzügiges Hochzeitsgeschenk“ von russischem Oligarchen",
-      "summary": "Ein russischer Oligarch mit Verbindungen zu Putin ist für Teile der Hochzeitsfeier von Trumps Sohn aufgekommen. Der Vorsitzende der Demokraten Hakeem Jeffries kritisiert das scharf.",
-      "source": "WELT",
-      "ts": "2026-09-15T08:47:08"
-    },
-    {
       "id": "47413da2-62d6-4107-b8af-9aef2d0409bd",
       "ntitle": "spritpreise was kann die politik tun um die verbraucher zu entlasten",
       "title": "Spritpreise: Was kann die Politik tun, um die Verbraucher zu entlasten?",
@@ -2735,6 +2591,150 @@
       "summary": "Die SPD-Parteichefs Lars Klingbeil und Bärbel Bas schalten sich in die Debatte um die Berliner Linkspartei ein. Bundeskanzler Merz zog vor der CDU-Fraktion einen brisanten Vergleich.",
       "source": "WELT",
       "ts": "2026-09-23T08:35:31"
+    },
+    {
+      "id": "d71cf173-ee47-47c3-82e5-70a2c85597f6",
+      "ntitle": "können wohnungen in berlin vergesellschaftet werden",
+      "title": "Können Wohnungen in Berlin vergesellschaftet werden?",
+      "summary": "Die Linke will in Berlin Wohnungen von großen Konzernen vergesellschaften. Im Fokus steht ein Artikel aus dem Grundgesetz, der noch nie angewandt wurde. Juristisch ist das Vorgehen umstritten. Von A. Stephany, A. Lagmöller und M. Bauer.",
+      "source": "Tagesschau",
+      "ts": "2026-09-23T14:09:10"
+    },
+    {
+      "id": "a6dcd665-3bd6-48f3-b76e-cff3c3eea4d3",
+      "ntitle": "warnungen vor koalition mit der linken in berlin",
+      "title": "Warnungen vor Koalition mit der Linken in Berlin",
+      "summary": "Nach dem Berliner Wahlerfolg nimmt die Linke Kurs aufs Rote Rathaus. Die möglichen Koalitionspartner äußern Bedenken - wegen antisemitischer Tendenzen in der Partei. Andere warnen vor den Folgen für Juden in der Hauptstadt.",
+      "source": "Tagesschau",
+      "ts": "2026-09-23T14:09:10"
+    },
+    {
+      "id": "002f56c6-312b-46e7-9387-1bce03e7e859",
+      "ntitle": "livestream die nachrichten auf tagesschau24",
+      "title": "Livestream: Die Nachrichten auf tagesschau24",
+      "summary": "Aktuelle Meldungen, vertiefende Analysen und Interviews: Verfolgen Sie das Programm des ARD-Nachrichtenkanals tagesschau24 hier.",
+      "source": "Tagesschau",
+      "ts": "2026-09-23T14:09:10"
+    },
+    {
+      "id": "f49fa5e1-02e3-40fc-954a-688c37c67241",
+      "ntitle": "kotropfen härtere strafen sollen täter abschrecken",
+      "title": "K.o.-Tropfen: Härtere Strafen sollen Täter abschrecken",
+      "summary": "K.o.-Tropfen: Härtere Strafen sollen Täter abschrecken",
+      "source": "Tagesschau",
+      "ts": "2026-09-23T14:09:10"
+    },
+    {
+      "id": "028ee28d-5f69-4e63-a9ce-57906856d332",
+      "ntitle": "parlamentswahl in marokko junge menschen sehen keine perspektive",
+      "title": "Parlamentswahl in Marokko: Junge Menschen sehen keine Perspektive",
+      "summary": "Parlamentswahl in Marokko: Junge Menschen sehen keine Perspektive",
+      "source": "Tagesschau",
+      "ts": "2026-09-23T14:09:10"
+    },
+    {
+      "id": "a0b4ec7f-da8a-48fe-bee1-6ab4568471db",
+      "ntitle": "schulstart im gazastreifen in notunterkünften",
+      "title": "Schulstart im Gazastreifen in Notunterkünften",
+      "summary": "Schulstart im Gazastreifen in Notunterkünften",
+      "source": "Tagesschau",
+      "ts": "2026-09-23T14:09:10"
+    },
+    {
+      "id": "eefca75e-ffa0-4603-a932-c23a1be70ddc",
+      "ntitle": "selenskyj trifft trump bei un in new york",
+      "title": "Selenskyj trifft Trump bei UN in New York",
+      "summary": "Selenskyj trifft Trump bei UN in New York",
+      "source": "Tagesschau",
+      "ts": "2026-09-23T14:09:10"
+    },
+    {
+      "id": "38ce3f0c-b0e3-47f7-adeb-08f5287355a2",
+      "ntitle": "medien vs trump erste anhörung in washington",
+      "title": "Medien vs. Trump: Erste Anhörung in Washington",
+      "summary": "Medien vs. Trump: Erste Anhörung in Washington",
+      "source": "Tagesschau",
+      "ts": "2026-09-23T14:09:10"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/politik_kommentare/Und-wieder-zeigt-sich-woran-Diplomatie-wirklich-scheitert-id31339342.html",
+      "ntitle": "ukraine und russland und wieder zeigt sich woran diplomatie wirklich scheitert",
+      "title": "Ukraine und Russland: Und wieder zeigt sich, woran Diplomatie wirklich scheitert",
+      "summary": "In den Wahlkämpfen schallte er quer durch Sachsen-Anhalt, Mecklenburg-Vorpommern und Berlin: der Ruf nach Diplomatie für einen Frieden in der Ukraine. Gerade zeigt sich wieder, woran es hakt.",
+      "source": "ntv",
+      "ts": "2026-09-23T14:09:10"
+    },
+    {
+      "id": "https://www.n-tv.de/wirtschaft/Ein-Tabubruch-sind-Enteignungen-nicht-id31338648.html",
+      "ntitle": "linke will an wohnungsbestände ein tabubruch sind enteignungen nicht",
+      "title": "Linke will an Wohnungsbestände: Ein Tabubruch sind Enteignungen nicht",
+      "summary": "Die Linke in Berlin will Hunderttausende Wohnungen in Gemeineigentum überführen. Dagegen gibt es gute Argumente. Dass der Staat privaten Besitz nicht antasten dürfe, gehört allerdings nicht dazu.",
+      "source": "ntv",
+      "ts": "2026-09-23T14:09:10"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Regierung-bringt-Ende-der-Bonpflicht-auf-den-Weg-id31338498.html",
+      "ntitle": "digitale kassen werden pflicht regierung bringt ende der bonpflicht auf den weg",
+      "title": "Digitale Kassen werden Pflicht: Regierung bringt Ende der Bonpflicht auf den Weg",
+      "summary": "Der gedruckte Bon wird nach dem Willen der Bundesregierung zum Auslaufmodell. Ab 2028 sollen die Papierbelege durch eine digitale Alternative ersetzt werden. Zudem sollen digitale Kassensysteme zur Pflicht werden.",
+      "source": "ntv",
+      "ts": "2026-09-23T14:09:10"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Ukraine-bestaetigt-Erfolg-an-der-Charkiw-Front-id31337841.html",
+      "ntitle": "operation am fluss oskil ukraine bestätigt erfolg an der charkiwfront",
+      "title": "Operation am Fluss Oskil: Ukraine bestätigt Erfolg an der Charkiw-Front",
+      "summary": "Im Donbass führt die Ukraine derzeit die mehrstufige \"Operation Vivaldi\" durch. Abseits des öffentlichen Fokus stößt das ukrainische Militär zudem in der Region Charkiw vor. Nördlich der Stadt Kupjansk gelingt ihm ein lokal begrenzter Erfolg.",
+      "source": "ntv",
+      "ts": "2026-09-23T14:09:10"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Pistorius-wehrt-sich-gegen-Kritik-an-Panzerkaeufen-id31338782.html",
+      "ntitle": "das ist kein altmetall pistorius wehrt sich gegen kritik an panzerkäufen",
+      "title": "\"Das ist kein Altmetall\": Pistorius wehrt sich gegen Kritik an Panzerkäufen",
+      "summary": "Kritiker bemängeln, dass die Bundeswehr im Rahmen der Zeitenwende zu sehr auf veraltetes Material setzt. Statt in Panzer und Fregatten müsse mehr Geld in Drohnen und KI fließen. Der Verteidigungsminister verteidigt seine neuen \"Hightech-Geräte\".",
+      "source": "ntv",
+      "ts": "2026-09-23T14:09:10"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Wadephul-geht-im-Gerichtsstreit-auf-Konfrontation-zu-Trump-id31338157.html",
+      "ntitle": "werden wir nicht machen wadephul geht im gerichtsstreit auf konfrontation zu trump",
+      "title": "\"Werden wir nicht machen\": Wadephul geht im Gerichtsstreit auf Konfrontation zu Trump",
+      "summary": "Donald Trump fordert in seiner Rede vor der UN die Mitgliedstaaten zum Austritt aus dem Internationalen Strafgerichtshof auf. Der deutsche Außenminister widerspricht dem US-Präsidenten nun deutlich und hält ein Plädoyer für die Institution.",
+      "source": "ntv",
+      "ts": "2026-09-23T14:09:10"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Tochter-von-Rechtsextremist-Kubitschek-darf-nicht-Lehrerin-werden-id31338703.html",
+      "ntitle": "beschwerde abgelehnt tochter von rechtsextremist kubitschek darf nicht lehrerin werden",
+      "title": "Beschwerde abgelehnt: Tochter von Rechtsextremist Kubitschek darf nicht Lehrerin werden",
+      "summary": "Götz Kubitschek ist bekannter Rechtsextremist. Seiner Tochter wird in Sachsen die Zulassung für ein Referendariat an einer Schule entzogen. Das Landesamt für Schule und Bildung argumentiert mit Zweifeln an ihrer Verfassungstreue.",
+      "source": "ntv",
+      "ts": "2026-09-23T14:09:10"
+    },
+    {
+      "id": "https://www.n-tv.de/wirtschaft/Flixtrain-faehrt-ab-2027-im-Stundentakt-auf-der-Strecke-Berlin-Hamburg-id31339398.html",
+      "ntitle": "schneller als der ice  flixtrain fährt ab 2027 im stundentakt auf der strecke berlinhamburg",
+      "title": "Schneller als der ICE? : Flixtrain fährt ab 2027 im Stundentakt auf der Strecke Berlin-Hamburg",
+      "summary": "Flixtrain investiert rund 2,4 Milliarden Euro in den Ausbau seiner Zugflotte. Die grünen Wagen sollen bereits im kommenden Jahr deutlich öfter im Schienennetz unterwegs sein. Davon profitieren besonders Reisende zwischen Berlin und Hamburg.",
+      "source": "ntv",
+      "ts": "2026-09-23T14:09:10"
+    },
+    {
+      "id": "6ab3baa3e5b1ca08382b8e66",
+      "ntitle": "beim spiel klimavernunft gegen realitätsverweigerung steht es gerade gefühlt 13",
+      "title": "„Beim Spiel Klimavernunft gegen Realitätsverweigerung steht es gerade gefühlt 1:3“",
+      "summary": "Der Extremwetterkongress in Hamburg warnt vor mehr Hitzewellen, mehr Trockenheit und mehr Hitzetoten in Deutschland. Bundesumweltminister Schneider fordert die Verankerung von Klimaanpassung und Naturschutz im Grundgesetz.",
+      "source": "WELT",
+      "ts": "2026-09-23T14:09:10"
+    },
+    {
+      "id": "6aa8ffbace1a73b32a4fc067",
+      "ntitle": "kinderfilme rauben einem den schlaf und den verstand",
+      "title": "Kinderfilme rauben einem den Schlaf und den Verstand",
+      "summary": "Der Kinobesuch kann Männer an den Rand von „Regretting Fatherhood“ bringen. Die Geschichten, die in den neuen Leinwand-Hits wie „Bibi Blocksberg“ oder „Emil und die Detektive“ erzählt werden, können nichts dafür. Nervig ist etwas anderes.",
+      "source": "WELT",
+      "ts": "2026-09-23T14:09:10"
     }
   ],
   "breaking_seen": [
@@ -2752,7 +2752,7 @@
   ],
   "last_run": {
     "digest_morning": "2026-09-23",
-    "digest_noon": "2026-09-22",
+    "digest_noon": "2026-09-23",
     "digest_evening": "2026-09-22",
     "daily": "2026-09-22",
     "weekly": "2026-W38"
