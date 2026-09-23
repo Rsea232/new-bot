@@ -1,150 +1,6 @@
 {
   "history": [
     {
-      "id": "a4084077-b49a-4747-aad4-25ad453514d9",
-      "ntitle": "hohe spritpreise spdfraktionsvize fordert übergewinnsteuer",
-      "title": "Hohe Spritpreise: SPD-Fraktionsvize fordert Übergewinnsteuer",
-      "summary": "Mehr Druck auf Mineralölkonzerne und zielgerichtete Maßnahmen: SPD-Fraktionsvize Zorn verspricht neue Vorschläge der Sprit-Taskforce \"in den nächsten Tagen\". Angesichts der hohen Spritpreise seien staatliche Eingriffe nötig.",
-      "source": "Tagesschau",
-      "ts": "2026-09-15T22:14:54"
-    },
-    {
-      "id": "77ae59e5-99a8-4ae4-bcdf-866345d91372",
-      "ntitle": "organisierte kriminalität wie sich strukturen im drogengeschäft ändern",
-      "title": "Organisierte Kriminalität: Wie sich Strukturen im Drogengeschäft ändern",
-      "summary": "Organisierte Kriminalität: Wie sich Strukturen im Drogengeschäft ändern",
-      "source": "Tagesschau",
-      "ts": "2026-09-15T22:14:54"
-    },
-    {
-      "id": "290a1d23-dd28-4c0b-afd9-45bd516a8845",
-      "ntitle": "merz kündigt entlastungen bei spritpreisen an",
-      "title": "Merz kündigt Entlastungen bei Spritpreisen an",
-      "summary": "Merz kündigt Entlastungen bei Spritpreisen an",
-      "source": "Tagesschau",
-      "ts": "2026-09-15T22:14:54"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Fuenf-Szenarien-fuer-einen-Kanzlertausch-id31307842.html",
-      "ntitle": "merz in bedrängnis fünf szenarien für einen kanzlertausch",
-      "title": "Merz in Bedrängnis: Fünf Szenarien für einen Kanzlertausch",
-      "summary": "Kanzler Merz ist in Bedrängnis - nach den Landtagswahlen in Berlin und Mecklenburg-Vorpommern am Sonntag könnte sich die Kritik gegen ihn noch potenzieren. Droht ihm ein vorzeitiges Aus im Amt? Vier Szenarien sind denkbar.",
-      "source": "ntv",
-      "ts": "2026-09-15T22:14:54"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/In-diesem-Keller-bekommt-Merz-noch-Applaus-id31309979.html",
-      "ntitle": "diskussion in prenzlauer berg in diesem keller bekommt merz noch applaus",
-      "title": "Diskussion in Prenzlauer Berg: In diesem Keller bekommt Merz noch Applaus",
-      "summary": "Der Bundeskanzler durchlebt die schwierigsten Tage seiner Amtszeit. Das Land diskutiert über ein vorzeitiges Aus. Doch am Dienstagabend ist alles anders. Bei einer Diskussion mit jungen Leuten bekommt er Applaus.",
-      "source": "ntv",
-      "ts": "2026-09-15T22:14:54"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Niemand-vermisst-den-Ministerpraesidenten-Kandidaten-der-AfD-id31309050.html",
-      "ntitle": "chrupalla in pasewalk niemand vermisst den ministerpräsidentenkandidaten der afd",
-      "title": "Chrupalla in Pasewalk: Niemand vermisst den Ministerpräsidenten-Kandidaten der AfD",
-      "summary": "In Mecklenburg-Vorpommern hat die AfD mit Leif-Erik Holm einen Ministerpräsidenten-Kandidaten, der dem nächsten Landtag wahrscheinlich nicht angehören wird. Bei einer Wahlkampfveranstaltung in Pasewalk ist Holm nicht nur nicht da. Über ihn wird auch so gut wie gar nicht gesprochen.",
-      "source": "ntv",
-      "ts": "2026-09-15T22:14:54"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Merz-sagt-Reise-zur-UN-Generaldebatte-nach-New-York-ab-id31309793.html",
-      "ntitle": "präsenz in berlin erforderlich merz sagt reise zur ungeneraldebatte nach new york ab",
-      "title": "\"Präsenz in Berlin erforderlich\": Merz sagt Reise zur UN-Generaldebatte nach New York ab",
-      "summary": "Statt vor der UN-Generalversammlung in New York zu sprechen, bleibt Merz in Berlin. Die Krise zwingt den Kanzler offenbar zum Umdenken. Kritiker innerhalb der CDU fordern bereits seinen Rücktritt.",
-      "source": "ntv",
-      "ts": "2026-09-15T22:14:54"
-    },
-    {
-      "id": "https://www.n-tv.de/wirtschaft/Saudi-Arabien-muss-einige-Oellieferungen-nach-Europa-stornieren-id31309422.html",
-      "ntitle": "energiekrise spitzt sich zu saudiarabien muss einige öllieferungen nach europa stornieren",
-      "title": "Energiekrise spitzt sich zu: Saudi-Arabien muss einige Öllieferungen nach Europa stornieren",
-      "summary": "Die Huthi-Rebellen treffen eine enorm wichtige Öl-Pipeline in Saudi-Arabien mit einer Drohne und sorgen damit für einen Betriebsstopp. Die Reparaturarbeiten könnten länger dauern - nun gibt es offenbar erste Auswirkungen auf die saudischen Öllieferungen.",
-      "source": "ntv",
-      "ts": "2026-09-15T22:14:54"
-    },
-    {
-      "id": "https://www.n-tv.de/wirtschaft/Saudi-Pipeline-soll-schon-bald-wieder-in-Betrieb-sein-id31309845.html",
-      "ntitle": "angaben von usenergieminister saudipipeline soll schon bald wieder in betrieb sein",
-      "title": "Angaben von US-Energieminister: Saudi-Pipeline soll schon bald wieder in Betrieb sein",
-      "summary": "Durch Saudi-Arabiens wichtige Ost-West-Pipeline fließt nach Angriffen derzeit kein Öl. Unklar ist, wie lange die Reparatur dauert. Angaben aus den USA deuten darauf hin, dass es schnell gehen könnte. Doch nicht jeder ist so optimistisch.",
-      "source": "ntv",
-      "ts": "2026-09-15T22:14:54"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Trump-greift-eigens-ernannte-Richter-am-Supreme-Court-an-id31309958.html",
-      "ntitle": "nur noch schatten ihrer selbst trump greift eigens ernannte richter am supreme court an",
-      "title": "\"Nur noch Schatten ihrer selbst\": Trump greift eigens ernannte Richter am Supreme Court an",
-      "summary": "Eine Entscheidung des Obersten US-Gerichts zur Briefwahl fällt nicht so aus, wie sich Präsident Trump das erhofft hatte. Der Republikaner sieht einmal mehr die \"radikale Linke\" am Werk - greift aber auch die drei Richter an, die er selbst für den Supreme Court auserwählt hat.",
-      "source": "ntv",
-      "ts": "2026-09-15T22:14:54"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Trump-ordnet-Schliessung-des-Kennedy-Centers-an-id31310110.html",
-      "ntitle": "streit um umbenennung trump ordnet schließung des kennedy centers an",
-      "title": "Streit um Umbenennung: Trump ordnet Schließung des Kennedy Centers an",
-      "summary": "Washingtons Kennedy Center soll dichtmachen. Als Gründe nennt US-Präsident Trump Sicherheitsmängel und Renovierungsarbeiten. Kurz zuvor stoppt ein Richter die Umbenennungspläne des Republikaners.",
-      "source": "ntv",
-      "ts": "2026-09-15T22:14:54"
-    },
-    {
-      "id": "6aa8efd614e96b91c66fab9b",
-      "ntitle": "strahlkraft der marktwirtschaftlichen ordnung zu neuem leben erwecken sagt merz kämpferisch",
-      "title": "„Strahlkraft der marktwirtschaftlichen Ordnung zu neuem Leben erwecken“, sagt Merz kämpferisch",
-      "summary": "Der Druck auf Friedrich Merz wächst, bei einem Auftritt in Berlin gibt er sich entschlossen. Er verspricht Reformen und fordert mehr Zuversicht für Deutschlands Zukunft.",
-      "source": "WELT",
-      "ts": "2026-09-15T22:14:54"
-    },
-    {
-      "id": "6aa999249cfc210a32c4aa8d",
-      "ntitle": "nach ausladung von macklemore  jetzt meldet sich ed sheeran zu wort",
-      "title": "Nach Ausladung von Macklemore – jetzt meldet sich Ed Sheeran zu Wort",
-      "summary": "Ed Sheeran weist die Verantwortung für Macklemores Ausladung aus seinem Tourprogramm zurück. Es sei die Entscheidung des Tourveranstalters gewesen. Seine Auftritte seien „Ort der Sicherheit und Zuflucht“.",
-      "source": "WELT",
-      "ts": "2026-09-15T22:14:54"
-    },
-    {
-      "id": "6aa994b69cfc210a32c4aa40",
-      "ntitle": "geheimes militärtreffen  usa berieten offenbar in deutschland mit arabischen staaten über iran",
-      "title": "Geheimes Militärtreffen – USA berieten offenbar in Deutschland mit arabischen Staaten über Iran",
-      "summary": "Hochrangige Militärvertreter aus den USA und arabischen Ländern sollen sich vergangene Woche in Deutschland zu einer Konferenz getroffen haben. Dabei sei es um eine „Stärkung der Sicherheitskooperationen“ im Nahen Osten gegangen, heißt es.",
-      "source": "WELT",
-      "ts": "2026-09-15T22:14:54"
-    },
-    {
-      "id": "6aa9912ca3450cf42e45328c",
-      "ntitle": "italien und spanien verlängern grenzkontrollen",
-      "title": "Italien und Spanien verlängern Grenzkontrollen",
-      "summary": "Italien und Spanien verlängern die gegenseitige Grenzkontrollen bis Anfang Oktober. Hinweise auf eine Weiterreise von Migranten aus Ceuta nach Italien gibt es nicht.",
-      "source": "WELT",
-      "ts": "2026-09-15T22:14:54"
-    },
-    {
-      "id": "6aa98d409cfc210a32c4a9fc",
-      "ntitle": "leihmutteraffäre kostet spahn auch sein letztes amt  dorothee feller folgt",
-      "title": "Leihmutter-Affäre kostet Spahn auch sein letztes Amt – Dorothee Feller folgt",
-      "summary": "Jens Spahn zieht sich Schritt für Schritt aus der Parteispitze zurück. Nach der Leihmutter-Affäre gibt der CDU-Politiker nun auch den Parteivorsitz im Münsterland auf. Er habe das Vertrauen vieler Parteifreunde enttäuscht.",
-      "source": "WELT",
-      "ts": "2026-09-15T22:14:54"
-    },
-    {
-      "id": "6aa98daaa64ce6bfceb37659",
-      "ntitle": "das alles halte ich für möglich  roland kochs ratschläge für merz und die präsidiumssitzung",
-      "title": "„Das alles halte ich für möglich“ – Roland Kochs Ratschläge für Merz und die Präsidiumssitzung",
-      "summary": "Roland Koch gibt dem kriselnden Friedrich Merz Rückendeckung. Deutschland könne derzeit „keinen besseren Kanzler haben in dieser kritischen internationalen Situation“, ist sich Hessens früherer Ministerpräsident sicher. Für die kommende Präsidiumssitzung hat er Ratschläge für den Kanzler.",
-      "source": "WELT",
-      "ts": "2026-09-15T22:14:54"
-    },
-    {
-      "id": "6aa9463ca25e6df915e9a4d1",
-      "ntitle": "die unbequeme wahrheit hinter gladbachs nächstem traineraus",
-      "title": "Die unbequeme Wahrheit hinter Gladbachs nächstem Trainer-Aus",
-      "summary": "Borussia Mönchengladbach hat Eugen Polanski nach drei Niederlagen entlassen. Die Parallelen zur Vorsaison sind genauso verblüffend wie erschreckend. Tiefgreifende Probleme beim Traditionsklub werden immer offenkundiger.",
-      "source": "WELT",
-      "ts": "2026-09-15T22:14:54"
-    },
-    {
       "id": "9b55f055-dc5d-4666-9f91-839cc4dc1da0",
       "ntitle": "emails zeigen ministerium nannte niedrigeren maskenmarktpreis",
       "title": "E-Mails zeigen: Ministerium nannte niedrigeren Masken-Marktpreis",
@@ -2591,6 +2447,150 @@
       "summary": "Der Kinobesuch kann Männer an den Rand von „Regretting Fatherhood“ bringen. Die Geschichten, die in den neuen Leinwand-Hits wie „Bibi Blocksberg“ oder „Emil und die Detektive“ erzählt werden, können nichts dafür. Nervig ist etwas anderes.",
       "source": "WELT",
       "ts": "2026-09-23T14:09:10"
+    },
+    {
+      "id": "20016b1e-e48a-4d3b-8d60-6f4e23f21dd4",
+      "ntitle": "usa laden russlands präsidenten putin zu g20gipfel ein",
+      "title": "USA laden Russlands Präsidenten Putin zu G20-Gipfel ein",
+      "summary": "Vor sieben Jahren war Russlands Präsident Putin das letzte Mal persönlich bei einem G20-Gipfel. Nun haben die USA ihn nach Angaben von Außenminister Rubio nach Miami eingeladen. Die Aussicht auf eine Waffenruhe in der Ukraine bleibt aber vage.",
+      "source": "Tagesschau",
+      "ts": "2026-09-23T22:15:34"
+    },
+    {
+      "id": "4e88453d-4fec-4b74-a0cb-923330931330",
+      "ntitle": "eu streicht oligarchen von sanktionsliste ein kompromiss der für diskussionen sorgt",
+      "title": "EU streicht Oligarchen von Sanktionsliste: Ein Kompromiss, der für Diskussionen sorgt",
+      "summary": "Die EU hat zwei russische Oligarchen von der Sanktionsliste gestrichen. Im Gegenzug wurde inzwischen ein Franzose in Aserbaidschan begnadigt. Hat sich die EU erpressbar gemacht? In Brüssel versucht man, sich zu erklären. Von T. Spickhofen.",
+      "source": "Tagesschau",
+      "ts": "2026-09-23T22:15:34"
+    },
+    {
+      "id": "9e019bcb-889f-401f-81d8-76dffb99645c",
+      "ntitle": "regierung geht gegen missbrauch von sozialleistungen vor",
+      "title": "Regierung geht gegen Missbrauch von Sozialleistungen vor",
+      "summary": "Regierung geht gegen Missbrauch von Sozialleistungen vor",
+      "source": "Tagesschau",
+      "ts": "2026-09-23T22:15:34"
+    },
+    {
+      "id": "d4c1951a-4a48-4c22-b40b-c03dffe675f4",
+      "ntitle": "bundesjustizministerin hubig will einsatz von kotropfen härter bestrafen",
+      "title": "Bundesjustizministerin Hubig will Einsatz von K.o.-Tropfen härter bestrafen",
+      "summary": "Bundesjustizministerin Hubig will Einsatz von K.o.-Tropfen härter bestrafen",
+      "source": "Tagesschau",
+      "ts": "2026-09-23T22:15:34"
+    },
+    {
+      "id": "92a73d71-e61b-461c-8c0c-c821849e6c11",
+      "ntitle": "bundesregierung beschließt mit aktionsplan härteres vorgehen gegen sozialbetrug",
+      "title": "Bundesregierung beschließt mit Aktionsplan härteres Vorgehen gegen Sozialbetrug",
+      "summary": "Bundesregierung beschließt mit Aktionsplan härteres Vorgehen gegen Sozialbetrug",
+      "source": "Tagesschau",
+      "ts": "2026-09-23T22:15:34"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Fast-wie-frueher-Linnemann-muss-Merz-Ankuendigung-einfangen-id31340747.html",
+      "ntitle": "gesundheitsminister im bundestag fast wie früher  linnemann muss merzankündigung einfangen",
+      "title": "Gesundheitsminister im Bundestag: Fast wie früher - Linnemann muss Merz-Ankündigung einfangen",
+      "summary": "Der neue Gesundheitsminister Linnemann stellt sich zum ersten Mal den Fragen der Abgeordneten im Bundestag. Er ist gut vorbereitet, soll aber gleich zu Beginn wie im alten Job Stellung zu seinem Chef nehmen.",
+      "source": "ntv",
+      "ts": "2026-09-23T22:15:34"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Deutsche-Geheimdienste-sind-ungeeignet-Russland-im-Zaum-zu-halten-id31340020.html",
+      "ntitle": "reform könnte agenten gefährden deutsche geheimdienste sind ungeeignet russland im zaum zu halten",
+      "title": "Reform könnte Agenten gefährden: \"Deutsche Geheimdienste sind ungeeignet, Russland im Zaum zu halten\"",
+      "summary": "Durch eine Reform sollen deutsche Nachrichtendienste Befugnisse bis hinein in den militärischen Bereich bekommen. Das sei sinnlos und gefährlich, sagt Experte Schmidt-Eenboom. Russlands Geheimdienste seien weit überlegen. Sie könnten Verheerendes anrichten, vor allem beim BND.",
+      "source": "ntv",
+      "ts": "2026-09-23T22:15:34"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Unsere-Drohne-ist-dafuer-gemacht-dass-sie-abgeknallt-wird-id31339196.html",
+      "ntitle": "wie den natoluftraum schützen unsere drohne ist dafür gemacht dass sie abgeknallt wird",
+      "title": "Wie den Nato-Luftraum schützen?: \"Unsere Drohne ist dafür gemacht, dass sie abgeknallt wird\"",
+      "summary": "Westliche Armeen müssen Putins Drohnen abwehren, aber wie können sie trainieren ohne die feindliche Waffe? Eine Shahed-Attrappe aus Estland kann dieses Problem lösen.",
+      "source": "ntv",
+      "ts": "2026-09-23T22:15:34"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Russischer-Hubschrauber-dringt-in-polnischen-Luftraum-ein-id31340482.html",
+      "ntitle": "kampfjets steigen auf russischer hubschrauber dringt in polnischen luftraum ein",
+      "title": "Kampfjets steigen auf: Russischer Hubschrauber dringt in polnischen Luftraum ein",
+      "summary": "Russische Provokationen gegenüber Polen sind eher die Regel als die Ausnahme. Nun gibt es mit dem Eindringen eines Hubschraubers der Kreml-Streitkräfte in den Luftraum des Landes einen besonders heiklen Vorfall. Warschau geht von einem Test aus.",
+      "source": "ntv",
+      "ts": "2026-09-23T22:15:34"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Russland-will-Ukraine-weiter-angreifen-USA-besorgt-ueber-moegliche-Ausweitung-id31340978.html",
+      "ntitle": "washington warnt staaten russland will ukraine weiter angreifen  usa besorgt über mögliche ausweitung",
+      "title": "Washington warnt Staaten: Russland will Ukraine weiter angreifen - USA besorgt über mögliche Ausweitung",
+      "summary": "Die Ukraine möchte nach wie vor schnellstmöglich ein Kriegsende erreichen. Mit Russland ist das jedoch nicht zu machen. Die USA sorgen sich derweil, dass Moskau weitere Staaten ins Visier nehmen könnte.",
+      "source": "ntv",
+      "ts": "2026-09-23T22:15:34"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Selenskyj-berichtet-Erschuetterndes-ueber-nordkoreanische-Soldaten-id31341131.html",
+      "ntitle": "gefangennahmen selten möglich selenskyj berichtet erschütterndes über nordkoreanische soldaten",
+      "title": "Gefangennahmen selten möglich: Selenskyj berichtet Erschütterndes über nordkoreanische Soldaten",
+      "summary": "Russland ist in seinem Krieg gegen die Ukraine auf Unterstützung aus Nordkorea angewiesen. Pjöngjang drillt seine Soldaten dabei auf besonders extreme Weise. Wer sich einer Gefangennahme entzieht, wird als Held gefeiert.",
+      "source": "ntv",
+      "ts": "2026-09-23T22:15:34"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Israel-schliesst-arabische-Parteien-von-Parlamentswahl-aus-id31340737.html",
+      "ntitle": "gericht kann noch widersprechen israel schließt arabische parteien von parlamentswahl aus",
+      "title": "Gericht kann noch widersprechen: Israel schließt arabische Parteien von Parlamentswahl aus",
+      "summary": "In Israel sind rund 20 Prozent der Bevölkerung palästinensischer Abstammung. Politisch werden sie vor allem von den arabischen Parteien in der Knesset repräsentiert - doch deren Teilnahme bei der Wahl Ende Oktober steht nun auf der Kippe.",
+      "source": "ntv",
+      "ts": "2026-09-23T22:15:34"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Trump-will-keine-internationalen-Wahlbeobachter-bei-US-Wahlen-id31340909.html",
+      "ntitle": "usa lädt erstmals osze aus trump will keine internationalen wahlbeobachter bei uswahlen",
+      "title": "USA lädt erstmals OSZE aus: Trump will keine internationalen Wahlbeobachter bei US-Wahlen",
+      "summary": "Seit 2002 ist die OSZE bei jeder US-Bundeswahl als Wahlbeobachter vor Ort gewesen. Nun darf sie bei den Kongresszwischenwahlen ihre Aufgabe nicht mehr erfüllen. Wer Integrität von Wahlen wolle, lasse Wahlbeobachter nicht außen vor, betont der Präsident der Organisation.",
+      "source": "ntv",
+      "ts": "2026-09-23T22:15:34"
+    },
+    {
+      "id": "6ab42c825326afb097c9c3db",
+      "ntitle": "ki könnte zum risiko für die gesamte menschheit werden warnt anthropicchef",
+      "title": "KI könnte zum „Risiko für die gesamte Menschheit“ werden, warnt Anthropic-Chef",
+      "summary": "Vor dem UN-Sicherheitsrat haben führende KI-Experten vor den Risiken Künstlicher Intelligenz gewarnt. Anthropic-Chef Dario Amodei sprach von möglichen Gefahren für die Menschheit und forderte einen verantwortungsvollen Umgang mit der Technologie.",
+      "source": "WELT",
+      "ts": "2026-09-23T22:15:34"
+    },
+    {
+      "id": "6ab383ffa15a9fecb668c756",
+      "ntitle": "das war auch die haltung der nazis wirft gysi dann merz vor",
+      "title": "„Das war auch die Haltung der Nazis“, wirft Gysi dann Merz vor",
+      "summary": "Der Bundestag debattiert über die Linkspartei. Die spricht aber lieber über den Kanzler als über Neuköllner Antisemitismus und lieber über „Spahn“- als Clankriminalität. Grüne und SPD indes ziehen weitere rote Linien vor einer möglichen Links-Koalition in Berlin.",
+      "source": "WELT",
+      "ts": "2026-09-23T22:15:34"
+    },
+    {
+      "id": "6ab42a39a15a9fecb66932e7",
+      "ntitle": "drohne über ber gesichtet  flughafen stoppt zeitweise alle flüge",
+      "title": "Drohne über BER gesichtet – Flughafen stoppt zeitweise alle Flüge",
+      "summary": "Eine mutmaßliche Drohne hat am Mittwochabend den Flugverkehr am Hauptstadtflughafen BER beeinträchtigt. Der Betrieb wurde für 45 Minuten eingestellt. Bereits in der Vergangenheit war es dort immer wieder zu ähnlichen Vorfällen gekommen.",
+      "source": "WELT",
+      "ts": "2026-09-23T22:15:34"
+    },
+    {
+      "id": "6ab4211f4e1356a4e00bc26c",
+      "ntitle": "nach zwölf jahren  claudia kleinert macht beziehungsende öffentlich",
+      "title": "Nach zwölf Jahren – Claudia Kleinert macht Beziehungsende öffentlich",
+      "summary": "Zwölf Jahre lang waren Claudia Kleinert und Michael Souvignier ein Paar. Nun haben die ARD-Wettermoderatorin und der Filmproduzent ihre Trennung bestätigt. Das Liebes-Aus liegt bereits mehr als ein Jahr zurück.",
+      "source": "WELT",
+      "ts": "2026-09-23T22:15:34"
+    },
+    {
+      "id": "6aafd698b1857e86757a8482",
+      "ntitle": "wirtschaftsliberales lager zerstört die cdu  interne kritik an kurs der partei",
+      "title": "„Wirtschaftsliberales Lager zerstört die CDU“ – Interne Kritik an Kurs der Partei",
+      "summary": "Prominente Christdemokraten machen das fehlende soziale Profil für den Vertrauensverlust vieler Wähler mitverantwortlich. Elmar Brok und Dennis Radtke mahnen, die CDU müsse wieder stärker die politische Mitte ansprechen. Mehr im Liveticker.",
+      "source": "WELT",
+      "ts": "2026-09-23T22:15:34"
     }
   ],
   "breaking_seen": [
@@ -2609,8 +2609,8 @@
   "last_run": {
     "digest_morning": "2026-09-23",
     "digest_noon": "2026-09-23",
-    "digest_evening": "2026-09-22",
-    "daily": "2026-09-22",
+    "digest_evening": "2026-09-23",
+    "daily": "2026-09-23",
     "weekly": "2026-W38"
   }
 }
