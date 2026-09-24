@@ -1,150 +1,6 @@
 {
   "history": [
     {
-      "id": "9b55f055-dc5d-4666-9f91-839cc4dc1da0",
-      "ntitle": "emails zeigen ministerium nannte niedrigeren maskenmarktpreis",
-      "title": "E-Mails zeigen: Ministerium nannte niedrigeren Masken-Marktpreis",
-      "summary": "Laut Plusminus-Recherche zeigen E-Mails, dass ein Beamter des Gesundheitsministeriums im April 2020 von einem Marktpreis von 1,95 Euro pro Maske ausging. Wenige Tage zuvor hatte Jens Spahn jedoch 100 Millionen Masken für 5,40 Euro bestellt.",
-      "source": "Tagesschau",
-      "ts": "2026-09-16T08:13:18"
-    },
-    {
-      "id": "1cf5a4fc-e5ca-4e53-ae83-9cf3509e3278-SENDUNGSVIDEO",
-      "ntitle": "tagesschau 2000 uhr",
-      "title": "tagesschau 20:00 Uhr",
-      "summary": "Bundeskanzler Merz kündigt Entlastungen bei Spritpreisen an, Huthis im Jemen kontrollieren Meerenge Bab El-Mandeb, BKA Lagebild 2025: Organisierte Kriminalität agiert digitaler und brutaler, Russische Fregatte feuert Leuchtraketen auf dänischen Helikopter, Generalstaatsanwalt der Ukraine entlassen als Folge eines Korruptionsskandal, Ute Niklas übernimmt als erste Frau das Kommando einer Fregatte, ",
-      "source": "Tagesschau",
-      "ts": "2026-09-16T08:13:18"
-    },
-    {
-      "id": "77ae59e5-99a8-4ae4-bcdf-866345d91372",
-      "ntitle": "organisierte kriminalität wie sich strukturen im drogengeschäft ändern",
-      "title": "Organisierte Kriminalität: Wie sich Strukturen im Drogengeschäft ändern",
-      "summary": "Organisierte Kriminalität: Wie sich Strukturen im Drogengeschäft ändern",
-      "source": "Tagesschau",
-      "ts": "2026-09-16T08:13:18"
-    },
-    {
-      "id": "290a1d23-dd28-4c0b-afd9-45bd516a8845",
-      "ntitle": "merz kündigt entlastungen bei spritpreisen an",
-      "title": "Merz kündigt Entlastungen bei Spritpreisen an",
-      "summary": "Merz kündigt Entlastungen bei Spritpreisen an",
-      "source": "Tagesschau",
-      "ts": "2026-09-16T08:13:18"
-    },
-    {
-      "id": "0e949e35-ae3f-4d52-bff3-6cc88af1f949",
-      "ntitle": "afdwahlkampf wie rechte streamer journalisten bedrängen",
-      "title": "AfD-Wahlkampf: Wie rechte Streamer Journalisten bedrängen",
-      "summary": "AfD-Wahlkampf: Wie rechte Streamer Journalisten bedrängen",
-      "source": "Tagesschau",
-      "ts": "2026-09-16T08:13:18"
-    },
-    {
-      "id": "ccdf65b9-a18c-49f9-912b-4b7884aef9d5",
-      "ntitle": "unruhe in der union kritik an kanzler merz wächst",
-      "title": "Unruhe in der Union: Kritik an Kanzler Merz wächst",
-      "summary": "Unruhe in der Union: Kritik an Kanzler Merz wächst",
-      "source": "Tagesschau",
-      "ts": "2026-09-16T08:13:18"
-    },
-    {
-      "id": "24bae00f-2d39-4767-8022-bdd502652faf",
-      "ntitle": "wohnungsnot und hohe mieten sind auch wahlthemen in berlin am wochenende",
-      "title": "Wohnungsnot und hohe Mieten sind auch Wahlthemen in Berlin am Wochenende",
-      "summary": "Wohnungsnot und hohe Mieten sind auch Wahlthemen in Berlin am Wochenende",
-      "source": "Tagesschau",
-      "ts": "2026-09-16T08:13:18"
-    },
-    {
-      "id": "0c18f262-6fea-45ea-a0b7-f4e7fe039533",
-      "ntitle": "lehrermangel und pisastudie berlins schulen unter druck",
-      "title": "Lehrermangel und Pisa-Studie: Berlins Schulen unter Druck",
-      "summary": "Lehrermangel und Pisa-Studie: Berlins Schulen unter Druck",
-      "source": "Tagesschau",
-      "ts": "2026-09-16T08:13:18"
-    },
-    {
-      "id": "https://www.n-tv.de/wirtschaft/Reiche-vollzieht-offenbar-Kehrtwende-und-laesst-nun-zusaetzlich-Gas-einkaufen-id31310667.html",
-      "ntitle": "niedrige speicherstände reiche vollzieht offenbar kehrtwende  und lässt nun zusätzlich gas einkaufen",
-      "title": "Niedrige Speicherstände: Reiche vollzieht offenbar Kehrtwende - und lässt nun zusätzlich Gas einkaufen",
-      "summary": "Bislang wollte Katherina Reiche den Markt nicht durch staatliche Käufe verzerren. Angesichts niedriger Speicherstände rückt die Bundeswirtschaftsministerin laut einem Medienbericht von dieser Linie nun ab. Der bundeseigene Importeur Sefe soll mit Zukäufen bereits begonnen haben.",
-      "source": "ntv",
-      "ts": "2026-09-16T08:13:18"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Gruene-wollen-Energiepauschale-von-bis-zu-250-Euro-id31310715.html",
-      "ntitle": "streit um übergewinnsteuer grüne wollen energiepauschale von bis zu 250 euro",
-      "title": "Streit um Übergewinnsteuer: Grüne wollen Energiepauschale von bis zu 250 Euro",
-      "summary": "Spritpreisdeckel, Tankrabatt, Direktzahlung - das sind die Instrumente, über die die Bundesregierung derzeit im Kampf gegen die hohen Spritpreise streitet. Den Grünen reichen diese kurzfristigen Maßnahmen nicht. Sie wollen schneller in Richtung E-Mobilität.",
-      "source": "ntv",
-      "ts": "2026-09-16T08:13:18"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Hegseth-empfaengt-Pistorius-mit-lobenden-Worten-id31310286.html",
-      "ntitle": "rüstungsvereinbarung beschlossen hegseth empfängt pistorius mit lobenden worten",
-      "title": "Rüstungsvereinbarung beschlossen: Hegseth empfängt Pistorius mit lobenden Worten",
-      "summary": "Freundliche Worte für Berlin hat man zuletzt eher selten aus den USA gehört. Beim Besuch von Verteidigungsminister Pistorius im Pentagon ist das anders. \"Kriegsminister\" Hegseth würdigt die deutschen Anstrengungen im Rüstungsbereich, Pistorius spricht von großen Chancen bei künftiger Zusammenarbeit.",
-      "source": "ntv",
-      "ts": "2026-09-16T08:13:18"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Trump-greift-eigens-ernannte-Richter-am-Supreme-Court-an-id31309958.html",
-      "ntitle": "nur noch schatten ihrer selbst trump greift eigens ernannte richter am supreme court an",
-      "title": "\"Nur noch Schatten ihrer selbst\": Trump greift eigens ernannte Richter am Supreme Court an",
-      "summary": "Eine Entscheidung des Obersten US-Gerichts zur Briefwahl fällt nicht so aus, wie sich Präsident Trump das erhofft hatte. Der Republikaner sieht einmal mehr die \"radikale Linke\" am Werk - greift aber auch die drei Richter an, die er selbst für den Supreme Court auserwählt hat.",
-      "source": "ntv",
-      "ts": "2026-09-16T08:13:18"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Teherans-Aussenminister-spottet-ueber-US-Verluste-id31310553.html",
-      "ntitle": "teurer irankrieg teherans außenminister spottet über usverluste",
-      "title": "Teurer Iran-Krieg: Teherans Außenminister spottet über US-Verluste",
-      "summary": "Schon kurz nach dem Angriff auf den Iran erklärt US-Präsident Trump das dortige Regime für quasi besiegt. Sechs Monate später dauert der Krieg an und das US-Militär muss gegenüber dem Kongress massive Schäden und Munitionsmangel einräumen. Eine willkommene Steilvorlage für die Führung in Teheran.",
-      "source": "ntv",
-      "ts": "2026-09-16T08:13:18"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Abgeschossene-Drohne-ueber-Litauen-trug-Sprengstoff-id31310690.html",
-      "ntitle": "nationaler sicherheitsrat tagt abgeschossene drohne über litauen trug sprengstoff",
-      "title": "Nationaler Sicherheitsrat tagt: Abgeschossene Drohne über Litauen trug Sprengstoff",
-      "summary": "Verletzte und Schäden gibt es nicht, als Nato-Kampfjets in Litauen eine Drohne abschießen. Doch jetzt wird bekannt: Es hätte womöglich auch ganz anders ausgehen können.",
-      "source": "ntv",
-      "ts": "2026-09-16T08:13:18"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Luftabwehr-soll-Huthi-Drohne-vor-Mekka-abgewehrt-haben-id31310381.html",
-      "ntitle": "alarm in saudiarabien luftabwehr soll huthidrohne vor mekka abgewehrt haben",
-      "title": "Alarm in Saudi-Arabien: Luftabwehr soll Huthi-Drohne vor Mekka abgewehrt haben",
-      "summary": "Der Bürgerkrieg im Jemen ist wieder entflammt, auch in Saudi-Arabien heulen inzwischen wieder häufiger die Alarmsirenen. Jetzt sollen die Huthis versucht haben, eine Drohne auf die Heilige Stadt Mekka zu steuern.",
-      "source": "ntv",
-      "ts": "2026-09-16T08:13:18"
-    },
-    {
-      "id": "https://www.n-tv.de/panorama/Richterbund-beklagt-Hoechststand-bei-unerledigten-Strafverfahren-id31310692.html",
-      "ntitle": "mehr als eine million fälle richterbund beklagt höchststand bei unerledigten strafverfahren",
-      "title": "Mehr als eine Million Fälle: Richterbund beklagt Höchststand bei unerledigten Strafverfahren",
-      "summary": "Die Strafverfolgung gerät an ihre Grenzen: Mehr als eine Million Verfahren liegen inzwischen bundesweit auf Halde. Der Richterbund sieht bereits eine \"Strafverfolgung nach Kassenlage\".",
-      "source": "ntv",
-      "ts": "2026-09-16T08:13:18"
-    },
-    {
-      "id": "6aaa29e0569f88cbe8e3f630",
-      "ntitle": "messerangriffe schusswaffengebrauch vermüllung  wir erleben den niedergang berlins",
-      "title": "„Messerangriffe, Schusswaffengebrauch, Vermüllung – wir erleben den Niedergang Berlins“",
-      "summary": "AfD-Spitzenkandidatin Kristin Brinker rechnet bei „WELT – Stimme am Morgen“ mit der Politik in der Bundeshauptstadt ab: „Natürlich haben wir in Berlin ein komplett anderes Milieu, aber die Stimmungslage hat sich zu unseren Gunsten gedreht.“",
-      "source": "WELT",
-      "ts": "2026-09-16T08:13:18"
-    },
-    {
-      "id": "6aaa2c3c7d718a09b2f3dac6",
-      "ntitle": "lidl setzt fahrerlosen elektrolkw auf öffentlichen straßen ein",
-      "title": "Lidl setzt fahrerlosen Elektro-Lkw auf öffentlichen Straßen ein",
-      "summary": "Bei Kassel ist erstmals ein fahrerloser Elektro-Lkw im öffentlichen Straßenverkehr unterwegs. Das Fahrzeug wird von dem Discounter Lidl für Transporte zwischen Lager und Filiale eingesetzt.",
-      "source": "WELT",
-      "ts": "2026-09-16T08:13:18"
-    },
-    {
       "id": "1ec6819d-290d-4253-aca4-3a72bea31d4e",
       "ntitle": "usnotenbank erhöht leitzins erstmals seit 2023",
       "title": "US-Notenbank erhöht Leitzins erstmals seit 2023",
@@ -2599,6 +2455,150 @@
       "summary": "Head of one of US’s top artificial intelligence companies calls for common model testing standards and a notification system for internationally significant AI incidents",
       "source": "Financial Times",
       "ts": "2026-09-24T00:59:54"
+    },
+    {
+      "id": "f3e62a41-767a-4363-a863-264588965cbf",
+      "ntitle": "gericht hebt ausschluss von medien aus weißem haus vorerst auf",
+      "title": "Gericht hebt Ausschluss von Medien aus Weißem Haus vorerst auf",
+      "summary": "Ein US-Gericht hat den von Präsident Trump verhängten Ausschluss von Journalisten aus dem Weißen Haus vorerst aufgehoben. Sie sei wohl verfassungswidrig, erklärte der von Trump selbst berufene Richter.",
+      "source": "Tagesschau",
+      "ts": "2026-09-24T08:19:05"
+    },
+    {
+      "id": "ba6e45a7-94ef-4b4d-b93a-754681c92e10-SENDUNGSVIDEO",
+      "ntitle": "tagesschau 2000 uhr",
+      "title": "tagesschau 20:00 Uhr",
+      "summary": "Bundesregierung will härtere Strafen für Nutzung von K.o.-Tropfen durchsetzen, Regierung verschärft mit Zehn-Punkte-Aktionsplan Vorgehen gegen Sozialbetrug, Berlin zieht offenbar Olympia-Bewerbung zurück, OECD hebt Konjunkturprognose für deutsche und Weltwirtschaft an, IG Metall will fünf Prozent mehr Lohn für Beschäftigte in der Metall- und Elektroindustrie, Zweiter Tag der UN-Vollversammlung: In",
+      "source": "Tagesschau",
+      "ts": "2026-09-24T08:19:05"
+    },
+    {
+      "id": "9e019bcb-889f-401f-81d8-76dffb99645c",
+      "ntitle": "regierung geht gegen missbrauch von sozialleistungen vor",
+      "title": "Regierung geht gegen Missbrauch von Sozialleistungen vor",
+      "summary": "Regierung geht gegen Missbrauch von Sozialleistungen vor",
+      "source": "Tagesschau",
+      "ts": "2026-09-24T08:19:05"
+    },
+    {
+      "id": "f49fa5e1-02e3-40fc-954a-688c37c67241",
+      "ntitle": "kotropfen härtere strafen sollen täter abschrecken",
+      "title": "K.o.-Tropfen: Härtere Strafen sollen Täter abschrecken",
+      "summary": "K.o.-Tropfen: Härtere Strafen sollen Täter abschrecken",
+      "source": "Tagesschau",
+      "ts": "2026-09-24T08:19:05"
+    },
+    {
+      "id": "028ee28d-5f69-4e63-a9ce-57906856d332",
+      "ntitle": "parlamentswahl in marokko junge menschen sehen keine perspektive",
+      "title": "Parlamentswahl in Marokko: Junge Menschen sehen keine Perspektive",
+      "summary": "Parlamentswahl in Marokko: Junge Menschen sehen keine Perspektive",
+      "source": "Tagesschau",
+      "ts": "2026-09-24T08:19:05"
+    },
+    {
+      "id": "c42d3f81-7bf4-4e78-b8fc-7a4a048f8a78",
+      "ntitle": "chinas präsident xi bei uspräsident trump in washington",
+      "title": "Chinas Präsident Xi bei US-Präsident Trump in Washington",
+      "summary": "Chinas Präsident Xi bei US-Präsident Trump in Washington",
+      "source": "Tagesschau",
+      "ts": "2026-09-24T08:19:05"
+    },
+    {
+      "id": "254df1c3-45e7-4684-aeff-d08a213cdabb",
+      "ntitle": "torben börgers ard washington zum besuch von chinas präsident xi bei uspräsident trump",
+      "title": "Torben Börgers, ARD Washington, zum Besuch von Chinas Präsident Xi bei US-Präsident Trump",
+      "summary": "Torben Börgers, ARD Washington, zum Besuch von Chinas Präsident Xi bei US-Präsident Trump",
+      "source": "Tagesschau",
+      "ts": "2026-09-24T08:19:05"
+    },
+    {
+      "id": "5078384e-0c59-4fd6-a13a-cdbbfdee6cc1",
+      "ntitle": "bundestag befasst sich mit widerspruchslösung bei organspende",
+      "title": "Bundestag befasst sich mit Widerspruchslösung bei Organspende",
+      "summary": "Bundestag befasst sich mit Widerspruchslösung bei Organspende",
+      "source": "Tagesschau",
+      "ts": "2026-09-24T08:19:05"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Koalition-erwaegt-Anhebung-der-Beitragsjahre-bei-Rente-mit-63-id31341671.html",
+      "ntitle": "ausnahmen für bestimmte berufe koalition erwägt anhebung der beitragsjahre bei rente mit 63",
+      "title": "Ausnahmen für bestimmte Berufe?: Koalition erwägt Anhebung der Beitragsjahre bei Rente mit 63",
+      "summary": "Das Rentenpaket der Bundesregierung wird im Bundestag noch einmal aufgeschnürt: Bei der Rente mit 63 gibt es offenbar Bewegung. Dabei könnte die notwendige Zahl der Beitragsjahre steigen, aber auch eine Begrenzung auf bestimmte Berufsgruppen kommen.",
+      "source": "ntv",
+      "ts": "2026-09-24T08:19:05"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Linnemann-will-Anspruch-auf-Kinderkrankengeld-kuerzen-id31341822.html",
+      "ntitle": "zurück zu regelung vor corona linnemann will anspruch auf kinderkrankengeld kürzen",
+      "title": "Zurück zu Regelung vor Corona: Linnemann will Anspruch auf Kinderkrankengeld kürzen",
+      "summary": "Wer ein Kind unter zwölf Jahren hat, muss sich auf weitere Kürzungen einstellen: Kinderkrankengeld soll es pro Kind und Elternteil nur noch für 10 statt für 15 Tage geben, fordert Gesundheitsminister Linnemann. Die Regelung wäre nicht neu.",
+      "source": "ntv",
+      "ts": "2026-09-24T08:19:05"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Gericht-Verbannte-US-Medien-duerfen-wieder-ins-Weisse-Haus-id31341929.html",
+      "ntitle": "trump kassiert niederlage gericht verbannte usmedien dürfen wieder ins weiße haus",
+      "title": "Trump kassiert Niederlage: Gericht: Verbannte US-Medien dürfen wieder ins Weiße Haus",
+      "summary": "Trumps Bannstrahl gegen drei US-Medien hat nur eine kurze Wirkdauer. Ein US-Bundesgericht hebt den Ausschluss nach nur wenigen Tagen wieder auf. Der zuständige Richter erklärt diesen für wahrscheinlich verfassungswidrig.",
+      "source": "ntv",
+      "ts": "2026-09-24T08:19:05"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Xi-bei-Trump-Besucht-ein-Kommunist-einen-Kommunistenhasser-id31341305.html",
+      "ntitle": "usa und china vor größerem deal xi bei trump besucht ein kommunist einen kommunistenhasser",
+      "title": "USA und China vor größerem Deal?: Xi bei Trump: Besucht ein Kommunist einen Kommunistenhasser",
+      "summary": "Chinas Präsident Xi Jinping wird von US-Staatschef Trump empfangen - mit allem, was diplomatisch dazu gehört. Die beiden Wirtschaftsmächte sind Rivalen. Zusammenarbeiten müssen Peking und Washington trotzdem. Das gefällt nicht allen.",
+      "source": "ntv",
+      "ts": "2026-09-24T08:19:05"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Selenskyj-nennt-Putin-den-Patienten-Null-der-Kriegstreiberei-id31341672.html",
+      "ntitle": "muss gestoppt werden selenskyj nennt putin den patienten null der kriegstreiberei",
+      "title": "\"Muss gestoppt werden\": Selenskyj nennt Putin den \"Patienten Null\" der Kriegstreiberei",
+      "summary": "Gebt Russland die Ukraine und dann ist Schluss? Dies ist die Hoffnung vieler. Doch der ukrainische Präsident Selenskyj warnt eindringlich vor den Machtgelüsten des Kreml: Auch andere Staaten seien gefährdet, von Putin verbreite sich die Idee des Krieges immer weiter.",
+      "source": "ntv",
+      "ts": "2026-09-24T08:19:05"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Selenskyj-berichtet-Erschuetterndes-ueber-nordkoreanische-Soldaten-id31341131.html",
+      "ntitle": "gefangennahmen selten möglich selenskyj berichtet erschütterndes über nordkoreanische soldaten",
+      "title": "Gefangennahmen selten möglich: Selenskyj berichtet Erschütterndes über nordkoreanische Soldaten",
+      "summary": "Russland ist in seinem Krieg gegen die Ukraine auf Unterstützung aus Nordkorea angewiesen. Pjöngjang drillt seine Soldaten dabei auf besonders extreme Weise. Wer sich einer Gefangennahme entzieht, wird als Held gefeiert.",
+      "source": "ntv",
+      "ts": "2026-09-24T08:19:05"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Gruenen-Chef-nennt-Bedingungen-fuer-Koalition-mit-Linken-id31341300.html",
+      "ntitle": "bündnis nicht um jeden preis grünenchef nennt bedingungen für koalition mit linken",
+      "title": "\"Bündnis nicht um jeden Preis\": Grünen-Chef nennt Bedingungen für Koalition mit Linken",
+      "summary": "Clankontakte und antisemitische Strömungen in der Linkspartei stellen die Grünen vor ein Problem. Parteichef Banaszak will trotzdem eine Koalition für den Berliner Senat nicht ausschließen. Dafür verlangt er glaubwürdige Abgrenzung.",
+      "source": "ntv",
+      "ts": "2026-09-24T08:19:05"
+    },
+    {
+      "id": "https://www.n-tv.de/sport/fussball/Harry-Kane-hat-klare-Tendenz-und-in-Kuerze-Klarheit-id31341663.html",
+      "ntitle": "neuer bayernvertrag harry kane hat klare tendenz  und in kürze klarheit",
+      "title": "Neuer Bayern-Vertrag: Harry Kane hat klare Tendenz - und in Kürze Klarheit",
+      "summary": "Es ist die wichtigste Personalie, die der FC Bayern München in naher Zukunft zu kären hat: Bleibt Super-Torjäger Harry Kane noch länger in der Bundesliga - oder werden sich die Wege bald trennen? Der Stürmer kündigt eine baldige Verkündung an. Und verrät seinen Kollegen eine Tendenz.",
+      "source": "ntv",
+      "ts": "2026-09-24T08:19:05"
+    },
+    {
+      "id": "6ab4b91d4bc26502f545bb20",
+      "ntitle": "usrichter hebt trumps ausschluss von politico cnn und ms now vorerst auf",
+      "title": "US-Richter hebt Trumps Ausschluss von „Politico“, CNN und MS NOW vorerst auf",
+      "summary": "Ein US-Gericht setzt Trumps Ausschluss von CNN, MS NOW und „Politico“ aus dem Weißen Haus vorläufig aus. Der Richter hält die Sperre für wahrscheinlich verfassungswidrig.",
+      "source": "WELT",
+      "ts": "2026-09-24T08:19:05"
+    },
+    {
+      "id": "6ab4b9d2274d1bab27b6a33c",
+      "ntitle": "dann glaube ich sogar dass ki ein risiko für die gesamte menschheit darstellen könnte",
+      "title": "„Dann glaube ich sogar, dass KI ein Risiko für die gesamte Menschheit ⁠darstellen könnte“",
+      "summary": "Führende Vertreter der Technologiebranche haben den UN-Sicherheitsrat ⁠vor den wachsenden Gefahren durch Künstliche Intelligenz (KI) gewarnt.",
+      "source": "WELT",
+      "ts": "2026-09-24T08:19:05"
     }
   ],
   "breaking_seen": [
@@ -2616,7 +2616,7 @@
     "135dd922-af83-4006-be49-9da3b5a955c3"
   ],
   "last_run": {
-    "digest_morning": "2026-09-23",
+    "digest_morning": "2026-09-24",
     "digest_noon": "2026-09-23",
     "digest_evening": "2026-09-23",
     "daily": "2026-09-23",
