@@ -1,294 +1,6 @@
 {
   "history": [
     {
-      "id": "2affc0ee-5dbe-4347-af4a-5f600a8bdc96",
-      "ntitle": "ungewisser wahlausgang wann wird es wie eng für den kanzler",
-      "title": "Ungewisser Wahlausgang: Wann wird es wie eng für den Kanzler?",
-      "summary": "In Berlin steht für die CDU das Rote Rathaus auf dem Spiel, in Mecklenburg-Vorpommern droht den Christdemokraten ein einstelliges Ergebnis. Welche Folgen hätte das für Kanzler Merz?",
-      "source": "Tagesschau",
-      "ts": "2026-09-20T16:48:34"
-    },
-    {
-      "id": "8497c3bb-126c-4968-9d0d-f04d9962757d",
-      "ntitle": "berlin und mecklenburgvorpommern wahlen mit unterschiedlichen vorzeichen",
-      "title": "Berlin und Mecklenburg-Vorpommern: Wahlen mit unterschiedlichen Vorzeichen",
-      "summary": "Die beiden Wahlen sind Gradmesser für die Zukunft der Bundesregierung - mit unterschiedlichen Ausgangslagen: In Berlin kämpft die CDU gegen die Unzufriedenheit. In Mecklenburg-Vorpommern setzt die SPD auf Schwesigs Beliebtheit. Von Jörg Schönenborn.",
-      "source": "Tagesschau",
-      "ts": "2026-09-20T16:48:34"
-    },
-    {
-      "id": "a1c476ea-b4aa-4501-b4b6-39da8a86aac5",
-      "ntitle": "liveticker zur berlinwahl hohe wahlbeteiligung zeichnet sich ab",
-      "title": "++ Liveticker zur Berlin-Wahl: Hohe Wahlbeteiligung zeichnet sich ab ++",
-      "summary": "In Berlin zeichnet sich eine hohe Wahlbeteiligung ab: Bis mittags wählten 27,9 Prozent- das sind fast fünf Prozentpunkte mehr als 2023. Nach und nach geben immer mehr Spitzenkandidaten und -kandidatinnen ihre Stimmen ab.",
-      "source": "Tagesschau",
-      "ts": "2026-09-20T16:48:34"
-    },
-    {
-      "id": "002f56c6-312b-46e7-9387-1bce03e7e859",
-      "ntitle": "livestream die nachrichten auf tagesschau24",
-      "title": "Livestream: Die Nachrichten auf tagesschau24",
-      "summary": "Aktuelle Meldungen, vertiefende Analysen und Interviews: Verfolgen Sie das Programm des ARD-Nachrichtenkanals tagesschau24 hier.",
-      "source": "Tagesschau",
-      "ts": "2026-09-20T16:48:34"
-    },
-    {
-      "id": "21e85abf-8b87-40cc-8a4e-b5cfaae03a09",
-      "ntitle": "kopfankopfrennen bei landtagswahl in mecklenburgvorpommern erwartet",
-      "title": "Kopf-an-Kopf-Rennen bei Landtagswahl in Mecklenburg-Vorpommern erwartet",
-      "summary": "Kopf-an-Kopf-Rennen bei Landtagswahl in Mecklenburg-Vorpommern erwartet",
-      "source": "Tagesschau",
-      "ts": "2026-09-20T16:48:34"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Wahlbeteiligung-in-Mecklenburg-Vorpommern-bisher-hoeher-als-2021-id31326905.html",
-      "ntitle": "bleibt schwesig im amt wahlbeteiligung in mecklenburgvorpommern bisher höher als 2021",
-      "title": "Bleibt Schwesig im Amt?: Wahlbeteiligung in Mecklenburg-Vorpommern bisher höher als 2021",
-      "summary": "In Mecklenburg-Vorpommern sind 1,3 Millionen Wahlberechtigte noch bis 18 Uhr zur Abgabe ihrer Stimme bei der Landtagswahl aufgerufen. Dem sind bisher mehr Menschen nachgekommen als bei der letzten Landtagswahl 2021.",
-      "source": "ntv",
-      "ts": "2026-09-20T16:48:34"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/In-Berlin-ist-die-Wahlbeteiligung-bis-zum-Mittag-deutlich-hoeher-als-2023-id31326717.html",
-      "ntitle": "polizei bisher sehr zufrieden in berlin ist die wahlbeteiligung bis zum mittag deutlich höher als 2023",
-      "title": "Polizei bisher \"sehr zufrieden\": In Berlin ist die Wahlbeteiligung bis zum Mittag deutlich höher als 2023",
-      "summary": "In einem Wahllokal wird das Schloss zugeklebt, in einigen weiteren werden der Polizei Sachbeschädigungen gemeldet. Aber alles in allem verläuft der Wahlsonntag nach Polizeiangaben \"völlig störungsfrei\". Stand Mittag haben mehr Menschen ihre Stimme abgegeben als um die gleiche Uhrzeit vor drei Jahren.",
-      "source": "ntv",
-      "ts": "2026-09-20T16:48:34"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Wie-Belarus-Machthaber-Lukaschenko-seine-Gefangenen-verkauft-id31321406.html",
-      "ntitle": "distanz zu putin wie belarus machthaber lukaschenko seine gefangenen verkauft",
-      "title": "Distanz zu Putin: Wie Belarus' Machthaber Lukaschenko seine Gefangenen verkauft",
-      "summary": "In Belarus kommt immer wieder eine größere Zahl politischer Gefangener frei. Diktator Lukaschenko nutzt sie als Faustpfand, um Lockerungen von US-Sanktionen zu erreichen. Damit entfernt er sich zugleich von Putin.",
-      "source": "ntv",
-      "ts": "2026-09-20T16:48:34"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Von-Trump-geplanter-Triumphbogen-soll-auch-Militaerdepot-werden-id31326783.html",
-      "ntitle": "historische sichtachse zerstört von trump geplanter triumphbogen soll auch militärdepot werden",
-      "title": "Historische Sichtachse zerstört?: Von Trump geplanter Triumphbogen soll auch Militärdepot werden",
-      "summary": "US-Präsident Trump plant den \"größten Triumphbogen der ganzen Welt\". Der Protest von Kriegsveteranen bleibt dabei nur eine Randnotiz - das Bauwerk wird in der Nähe eines bedeutenden Friedhofs errichtet. Einer Bitte des Militärs kommt der Republikaner nun offenbar nach.",
-      "source": "ntv",
-      "ts": "2026-09-20T16:48:34"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Wer-hier-eine-Wohnung-sucht-sollte-reich-sein-oder-weniger-arbeiten-id31305294.html",
-      "ntitle": "normalverdienerhölle berlin  wer hier eine wohnung sucht sollte reich sein  oder weniger arbeiten",
-      "title": "Normalverdiener-Hölle Berlin : Wer hier eine Wohnung sucht, sollte reich sein - oder weniger arbeiten",
-      "summary": "Wer arm ist und in Berlin eine Wohnung sucht, darf auf eine Sozialwohnung hoffen. Wer reich ist, findet etwas auf dem freien Markt. Normalverdiener-Haushalte, selbst mit zwei Einkommen, haben die schlechtesten Karten. Dass es nach der Berlin-Wahl besser wird, ist nicht absehbar. Eher im Gegenteil.",
-      "source": "ntv",
-      "ts": "2026-09-20T16:48:34"
-    },
-    {
-      "id": "https://www.n-tv.de/wissen/Mega-Stromkabel-durch-Atlantik-koennte-ein-grosses-Problem-loesen-id31303952.html",
-      "ntitle": "kanada an europa anschließen megastromkabel durch atlantik könnte ein großes problem lösen",
-      "title": "Kanada an Europa anschließen?: Mega-Stromkabel durch Atlantik könnte ein großes Problem lösen",
-      "summary": "Strom aus erneuerbaren Energien fehlt oft dann, wenn er am dringendsten gebraucht wird. Mögliche Lösung: ein gigantisches Stromkabel quer durch den Atlantik, das Europa mit Kanada verbindet. Die unterschiedlichen Zeitzonen könnten dann geschickt ausgenutzt werden.",
-      "source": "ntv",
-      "ts": "2026-09-20T16:48:34"
-    },
-    {
-      "id": "https://www.n-tv.de/wirtschaft/Autoindustrie-kritisiert-IG-Metall-Mueller-fordert-mehr-Veraenderungsbereitschaft-id31326621.html",
-      "ntitle": "vda vor igmetallprotest vdachefin wirft gewerkschaft realitätsverweigerung vor",
-      "title": "VDA vor IG-Metall-Protest: VDA-Chefin wirft Gewerkschaft Realitätsverweigerung vor",
-      "summary": "Vor dem Protesttag der IG Metall verschärft der Autoverband den Ton gegenüber den Beschäftigten. Wer sich Veränderungen verweigere, leugne die Realität, schreibt Verbandschefin Müller. Es sei \"kein Naturgesetz\", dass deutsche Konzerne in Deutschland produzierten.",
-      "source": "ntv",
-      "ts": "2026-09-20T16:48:34"
-    },
-    {
-      "id": "6aafe110708e760b5e06529f",
-      "ntitle": "glücklich hier für deutschland zu spielen sagt zverev nach dem sieg",
-      "title": "„Glücklich, hier für Deutschland zu spielen“, sagt Zverev nach dem Sieg",
-      "summary": "Alexander Zverev führt Deutschland mit zwei Einzelsiegen ins Davis-Cup-Finale. Nach seinen Grand-Slam-Titeln in Paris und New York strebt er nun den prestigeträchtigen Mannschaftssieg an.",
-      "source": "WELT",
-      "ts": "2026-09-20T16:48:34"
-    },
-    {
-      "id": "6aaf2a27708e760b5e06492b",
-      "ntitle": "entlastung wird schnell unsichtbar  ökonomen halten tankrabatt für sinnlos",
-      "title": "„Entlastung wird schnell unsichtbar“ – Ökonomen halten Tankrabatt für sinnlos",
-      "summary": "Die Wirtschaftsweise Veronika Grimm und der Ökonom Marcel Fratzscher kritisieren die Pläne für einen neuen Tankrabatt scharf. Grimm nannte das Vorhaben „zynisch“, Fratzscher warnt vor Enttäuschung.",
-      "source": "WELT",
-      "ts": "2026-09-20T16:48:34"
-    },
-    {
-      "id": "6a70a5bdabec2d71c8bee6aa",
-      "ntitle": "koalition der sanften rechten israel auf mission den zionismus zu retten",
-      "title": "Koalition der sanften Rechten? Israel auf Mission, den Zionismus zu retten",
-      "summary": "In Israel tobt der Wahlkampf. Und vom rechtsreligiösen bis zum säkular-linken Lager wollen die Gegner von Benjamin Netanjahu den Zionismus retten. Aber kann das überhaupt gelingen?",
-      "source": "WELT",
-      "ts": "2026-09-20T16:48:34"
-    },
-    {
-      "id": "6aafd79179d37abec14f10af",
-      "ntitle": "hannover gewinnt jetzt übernimmt sandro wagner  cottbus vergibt den sieg",
-      "title": "Hannover gewinnt, jetzt übernimmt Sandro Wagner – Cottbus vergibt den Sieg",
-      "summary": "Am sechsten Spieltag der zweiten Fußball-Bundesliga sind Traditionsklubs im Einsatz. Hannover 96 bleibt in der Erfolgsspur. Der FC St. Pauli feiert einen Punkt, der 1. FC Heidenheim ist enttäuscht.",
-      "source": "WELT",
-      "ts": "2026-09-20T16:48:34"
-    },
-    {
-      "id": "6aafe078fc619be80f3c43f7",
-      "ntitle": "gewalt bei tuningtreffen  vermummte greifen polizisten an",
-      "title": "Gewalt bei Tuningtreffen – Vermummte greifen Polizisten an",
-      "summary": "Ein illegales Tuningtreffen mit rund 1000 Teilnehmern ist in Rheinland-Pfalz eskaliert: Vermummte griffen Polizisten an, beschädigten Einsatzwagen und zündeten Feuerwerkskörper.",
-      "source": "WELT",
-      "ts": "2026-09-20T16:48:34"
-    },
-    {
-      "id": "6aafdbe679d37abec14f1104",
-      "ntitle": "meloni will ausländerquote und burkaverbot in italiens schulen einführen",
-      "title": "Meloni will Ausländerquote und Burka-Verbot in Italiens Schulen einführen",
-      "summary": "Mit einem Burka- und Nikab-Verbot an Schulen verschärft Italiens Ministerpräsidentin Giorgia Meloni ihren Kurs in der Migrationspolitik. Zudem soll die Zahl ausländischer Schüler je Klasse sinken.",
-      "source": "WELT",
-      "ts": "2026-09-20T16:48:34"
-    },
-    {
-      "id": "7aefb860-b985-488b-afdd-a4c18ad41ba5",
-      "ntitle": "nach den landtagswahlen merz spielt auf zeit",
-      "title": "Nach den Landtagswahlen: Merz spielt auf Zeit",
-      "summary": "Noch vor den ersten Hochrechnungen trat Kanzler Merz ans Mikro. Als Parteivorsitzender und Kanzler wolle er die Reformen voranbringen, betonte er. Der Druck auf ihn und die Bundesregierung dürfte hoch bleiben. Von Tina Handel.",
-      "source": "Tagesschau",
-      "ts": "2026-09-20T21:50:38"
-    },
-    {
-      "id": "e2bacea0-2f83-4081-a0f6-aaf728a9d42b",
-      "ntitle": "nach landtagswahlen zwischen desaster und jubel",
-      "title": "Nach Landtagswahlen: Zwischen Desaster und Jubel",
-      "summary": "Kanzler Merz hat nach den Wahlen bekräftigt, die aus seiner Sicht nötigen Reformen durchsetzen zu wollen. Vizekanzler Klingbeil von der SPD räumte ein, das Thema Rente habe zu \"großer Verunsicherung\" geführt. Die AfD sieht sich erneut gestärkt.",
-      "source": "Tagesschau",
-      "ts": "2026-09-20T21:50:38"
-    },
-    {
-      "id": "2b3ebfff-e5ff-4930-850d-373d6e8de70b",
-      "ntitle": "bisherige regierungen in berlin und mecklenburgvorpommern ohne mehrheit",
-      "title": "Bisherige Regierungen in Berlin und Mecklenburg-Vorpommern ohne Mehrheit",
-      "summary": "In Mecklenburg-Vorpommern liegt die AfD laut ARD-Prognose knapp vor der SPD. In Berlin gewinnt erstmals die Linke. In beiden Bundesländern gibt es für die bisherigen Koalitionen keine Mehrheiten mehr. Eine Analyse von Jörg Schönenborn.",
-      "source": "Tagesschau",
-      "ts": "2026-09-20T21:50:38"
-    },
-    {
-      "id": "1817dfdc-2d2e-459d-bd23-cb23fe10cb8d",
-      "ntitle": "hochrechnung für mecklenburgvorpommern afd leicht vor spd cdu bangt um einzug ins parlament",
-      "title": "Hochrechnung für Mecklenburg-Vorpommern: AfD leicht vor SPD, CDU bangt um Einzug ins Parlament",
-      "summary": "Die AfD liegt bei der Wahl in Mecklenburg-Vorpommern vorne - die regierende SPD ist knapp dahinter. Dramatisch ist die Situation für die CDU, die aus dem Landtag fliegen könnte. Die Grünen schaffen wohl den Einzug. Das BSW hofft.",
-      "source": "Tagesschau",
-      "ts": "2026-09-20T21:50:38"
-    },
-    {
-      "id": "55a53767-9517-449e-856b-6a541aed52e8",
-      "ntitle": "hochrechnung zur berlinwahl linke klar vorne cdu afd und grüne dahinter",
-      "title": "Hochrechnung zur Berlin-Wahl: Linke klar vorne, CDU, AfD und Grüne dahinter",
-      "summary": "Die Linke hat die Abgeordnetenhauswahl in Berlin klar gewonnen: 25,3 Prozent stimmten für die Partei von Spitzenkandidatin Eralp. Die CDU verliert deutlich und muss das Rote Rathaus wohl räumen. Die AfD legt zu, Grüne und SPD verlieren teils deutlich.",
-      "source": "Tagesschau",
-      "ts": "2026-09-20T21:50:38"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Merz-hat-klare-Botschaft-fuer-Untergangspropheten-id31327563.html",
-      "ntitle": "cduchef zu landtagswahlen merz hat klare botschaft für untergangspropheten",
-      "title": "CDU-Chef zu Landtagswahlen: Merz hat klare Botschaft für Untergangspropheten",
-      "summary": "Landtagswahlen lösen immer ein Echo in der Bundespolitik aus und für diese beiden war ein ganz besonders großes erwartet worden. Kann der Kanzler sich halten? Nach seinem ersten Statement sieht es nach einer Flucht nach vorn aus.",
-      "source": "ntv",
-      "ts": "2026-09-20T21:50:38"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Manuela-Schwesig-feiert-eine-bittersuesse-Niederlage-id31327182.html",
-      "ntitle": "afd holt mecklenburgvorpommern manuela schwesig feiert eine bittersüße niederlage",
-      "title": "AfD holt Mecklenburg-Vorpommern: Manuela Schwesig feiert eine bittersüße Niederlage",
-      "summary": "Die AfD fährt in Mecklenburg-Vorpommern einen deutlichen Wahlsieg ein. Die mit ihrer SPD zweitplatzierte Manuela Schwesig sieht sich aber ebenfalls als Siegerin. Dass sie das erhoffte Wunder verpasst, kann sie aber schlecht allein an Schwarz-Rot im Bund festmachen.",
-      "source": "ntv",
-      "ts": "2026-09-20T21:50:38"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Die-Zaesur-von-Berlin-ist-das-ehrlichere-SPD-Ergebnis-id31326992.html",
-      "ntitle": "mit steffen krach auf platz fünf die zäsur von berlin ist das ehrlichere spdergebnis",
-      "title": "Mit Steffen Krach auf Platz fünf: Die \"Zäsur\" von Berlin ist das ehrlichere SPD-Ergebnis",
-      "summary": "Bei der Abgeordnetenhauswahl in Berlin läuft die SPD auf Platz fünf ins Ziel - mit voraussichtlich 12 Prozent, wie in den bundesweiten Umfragen. Das Desaster für die einstige \"Berlin-Partei\" weist weit über die Hauptstadt hinaus, denn die SPD verliert zunehmend die Städte.",
-      "source": "ntv",
-      "ts": "2026-09-20T21:50:38"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Elif-Eralp-holt-Sensationssieg-und-muss-drei-Huerden-ueberwinden-id31327735.html",
-      "ntitle": "berlin wählt rot elif eralp holt sensationssieg  und muss drei hürden überwinden",
-      "title": "Berlin wählt Rot: Elif Eralp holt Sensationssieg - und muss drei Hürden überwinden",
-      "summary": "Der Wahlsieg der Linken in Berlin ist historisch und ein persönlicher Erfolg der Spitzenkandidatin Elif Eralp. Allerdings stehen Hürden zwischen ihr und dem Roten Rathaus. Eine davon: die Regierungsbereitschaft ihrer eigenen Partei.",
-      "source": "ntv",
-      "ts": "2026-09-20T21:50:38"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Das-sagt-der-Koalitionsrechner-zur-Berlin-Wahl-id31309212.html",
-      "ntitle": "wer mit wem im abgeordnetenhaus das sagt der koalitionsrechner zur berlinwahl",
-      "title": "Wer mit wem im Abgeordnetenhaus?: Das sagt der Koalitionsrechner zur Berlin-Wahl",
-      "summary": "Berlin hat gewählt, die Linkspartei liegt deutlich vorn. Welche Parteienbündnisse sind im Berliner Abgeordnetenhaus künftig möglich? Hochrechnungen am Wahlabend legen verschiedene Szenarien nahe. Ein Blick auf die Koalitionsoptionen in der Hauptstadt.",
-      "source": "ntv",
-      "ts": "2026-09-20T21:50:38"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Clanchef-Remmo-besucht-Wahlparty-der-Berliner-Linken-id31327700.html",
-      "ntitle": "linke war uns nicht bekannt clanchef remmo besucht wahlparty der berliner linken",
-      "title": "Linke: \"War uns nicht bekannt\": Clanchef Remmo besucht Wahlparty der Berliner Linken",
-      "summary": "In Kreuzberg wird er an der Tür abgewiesen, in Neukölln kommt er rein: Issa Remmo wird auf Wahlpartys der Berliner Linken gesichtet. Einlass habe der Clanchef nur erhalten, weil \"er nicht auf unserer Anmeldeliste\" stand, teilt die Partei mit.",
-      "source": "ntv",
-      "ts": "2026-09-20T21:50:38"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Alle-Daten-zur-Wahl-in-Berlin-id31237194.html",
-      "ntitle": "entscheidung an der spree alle daten zur wahl in berlin",
-      "title": "Entscheidung an der Spree: Alle Daten zur Wahl in Berlin",
-      "summary": "In der deutschen Hauptstadt kommt es zum Machtwechsel: Bei der Wahl zum Berliner Abgeordnetenhaus fährt die Linkspartei einen klaren Wahlsieg ein. Die AfD landet hinter CDU und Grünen, aber noch vor der SPD. Wie sehen die Daten zum Wahlausgang im Detail aus?",
-      "source": "ntv",
-      "ts": "2026-09-20T21:50:38"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/AfD-will-als-Volkspartei-in-Schwerin-regieren-doch-Schwesig-hat-bessere-Karten-id31327581.html",
-      "ntitle": "sensationelles ergebnis  afd will als volkspartei in schwerin regieren  doch schwesig hat bessere karten",
-      "title": "\"Sensationelles Ergebnis\" : AfD will als \"Volkspartei\" in Schwerin regieren - doch Schwesig hat bessere Karten",
-      "summary": "Bei der Landtagswahl im Nordosten liegt die AfD vor der SPD. Dennoch hat Ministerpräsidentin Schwesig gute Chancen, im Amt zu bleiben. Die AfD beansprucht zwar den Regierungsauftrag - eine echte Machtoption hat sie allerdings nicht.",
-      "source": "ntv",
-      "ts": "2026-09-20T21:50:38"
-    },
-    {
-      "id": "6ab02e8f79d37abec14f1762",
-      "ntitle": "berlin hat eine entscheidung getroffen die uns noch teuer zu stehen kommt",
-      "title": "„Berlin hat eine Entscheidung getroffen, die uns noch teuer zu stehen kommt“",
-      "summary": "WELT-Chefredakteur Helge Fuhst spricht mit Axel Springer Global Reporter Paul Ronzheimer, Ex-Regierungssprecherin Christiane Hoffmann, WELT-Redakteur Maximilian Heimerzheim und „Business Insider“-Chefredakteur Moritz Seyffarth über die Wahlen in Berlin und Mecklenburg-Vorpommern.",
-      "source": "WELT",
-      "ts": "2026-09-20T21:50:38"
-    },
-    {
-      "id": "6aafd698b1857e86757a8482",
-      "ntitle": "afderfolg gefährde deutschlands ansehen sagt das auschwitz komitee",
-      "title": "AfD-Erfolg gefährde Deutschlands Ansehen, sagt das Auschwitz Komitee",
-      "summary": "Die Bürger in Berlin und Mecklenburg-Vorpommern haben gewählt. Linken-Fraktionschefin Reichinnek nennt die Äußerungen von Kanzler Merz am Wahlabend eine „Luftnummer“. Das Internationale Auschwitz Komitee warnt. Mehr im Liveticker.",
-      "source": "WELT",
-      "ts": "2026-09-20T21:50:38"
-    },
-    {
-      "id": "6aae8577c8e0b1ae1ffed9b9",
-      "ntitle": "schwache ergebnisse und trotzdem sind die grünen die königsmacher",
-      "title": "Schwache Ergebnisse, und trotzdem sind die Grünen die Königsmacher",
-      "summary": "Eine Erkenntnis dieses Wahlsonntags: Ohne die Grünen geht es derzeit nicht. Aber die Partei muss nun eine schwierige Aufgabe lösen: Kann sie mehr sein als nur Königsmacher für andere Parteien wie die Linke?",
-      "source": "WELT",
-      "ts": "2026-09-20T21:50:38"
-    },
-    {
-      "id": "6ab030b5b1857e86757a8b86",
-      "ntitle": "paderborn feiert ersten saisonsieg",
-      "title": "Paderborn feiert ersten Saisonsieg",
-      "summary": "Der SC Paderborn gewinnt gegen Hoffenheim und feiert den ersten Sieg in der Bundesliga seit 2020. Für Hoffenheim endet mit der Niederlage eine rabenschwarze Woche.",
-      "source": "WELT",
-      "ts": "2026-09-20T21:50:38"
-    },
-    {
-      "id": "6ab0320dde44819a4bcff9a1",
-      "ntitle": "selenskyj kündigt treffen mit uspräsident trump für kommende woche in new york an",
-      "title": "Selenskyj kündigt Treffen mit US-Präsident Trump für kommende Woche in New York an",
-      "summary": "Der ukrainische Präsident Selenskyj trifft kommende Woche US-Präsident Trump in New York. Beide beabsichtigen, einen neuen Anlauf für Verhandlungen mit Russland über ein Kriegsende zu nehmen.",
-      "source": "WELT",
-      "ts": "2026-09-20T21:50:38"
-    },
-    {
       "id": "21b9b309-dcde-480e-b5d8-54d12d50c2dd",
       "ntitle": "cduwahlschlappe neuer kurs alte probleme",
       "title": "CDU-Wahlschlappe: Neuer Kurs, alte Probleme",
@@ -3031,6 +2743,150 @@
       "summary": "SpaceX hat seine Riesenrakete Starship in die Erdumlaufbahn gebracht. Bei einem zehnstündigen Testflug soll die Rakete sechsmal die Erde umrunden.",
       "source": "WELT",
       "ts": "2026-09-28T16:29:50"
+    },
+    {
+      "id": "d4e2ed2b-0081-443e-a0f1-bb9e76b5a5f0",
+      "ntitle": "türkei gesellschaft soll angst vor queeren menschen bekommen",
+      "title": "Türkei: \"Gesellschaft soll Angst vor queeren Menschen bekommen\"",
+      "summary": "In der Türkei gehen die Behörden derzeit verstärkt gegen die LGBTQI-Community vor. Menschenrechtler sprechen von einer Kampagne der Kriminalisierung, Betroffene haben Angst vor noch mehr Stigmatisierung. Von Katharina Willinger.",
+      "source": "Tagesschau",
+      "ts": "2026-09-28T22:43:48"
+    },
+    {
+      "id": "77bd635d-ff13-4657-aa77-96e4d5001174",
+      "ntitle": "türkei comedian gökta zu 18 monaten haft verurteilt",
+      "title": "Türkei: Comedian Göktaş zu 18 Monaten Haft verurteilt",
+      "summary": "Der türkische Comedian Deniz Göktaş ist zu rund 18 Monaten Haft verurteilt worden - unter anderem wegen Präsidentenbeleidigung. Bis zum Abschluss des Berufungsverfahrens kommt er jedoch auf freien Fuß. Von Benjamin Weber.",
+      "source": "Tagesschau",
+      "ts": "2026-09-28T22:43:48"
+    },
+    {
+      "id": "8893dd1c-d076-4b75-949b-591f3bcba179",
+      "ntitle": "nrwlandeschef wüst trifft überraschend erdogan in türkei",
+      "title": "NRW-Landeschef Wüst trifft überraschend Erdogan in Türkei",
+      "summary": "Nordrhein-Westfalens Ministerpräsident Wüst ist für drei Tage zu Besuch in der Türkei. Anlass ist das 65-jährige Jubiläum des Gastarbeiter-Abkommens. Für viele überraschend traf Wüst dort Regierungschef Erdogan.",
+      "source": "Tagesschau",
+      "ts": "2026-09-28T22:43:48"
+    },
+    {
+      "id": "b80c8b85-4cc7-4af1-a874-5cf67c1bd922",
+      "ntitle": "erklärstück kostenfaktor in der pflege",
+      "title": "Erklärstück: Kostenfaktor in der Pflege",
+      "summary": "Erklärstück: Kostenfaktor in der Pflege",
+      "source": "Tagesschau",
+      "ts": "2026-09-28T22:43:48"
+    },
+    {
+      "id": "https://www.n-tv.de/wirtschaft/Wie-Betrueger-den-tuerkischen-Aktienmarkt-manipulierten-und-Anleger-um-Milliarden-brachten-id31357731.html",
+      "ntitle": "rückendeckung aus der politik wie betrüger den türkischen aktienmarkt manipulierten und anleger um milliarden brachten",
+      "title": "Rückendeckung aus der Politik?: Wie Betrüger den türkischen Aktienmarkt manipulierten und Anleger um Milliarden brachten",
+      "summary": "Ein milliardenschwerer Finanzskandal erschüttert die Türkei und hat inzwischen auch die Spitze der Regierungspartei erreicht. Wie konnte es dazu kommen, dass hunderte Fonds offenbar jahrelang Aktienkurse manipulieren und Anlegern Traumrenditen vorspiegeln konnten, ohne dass die Behörden einschritten?",
+      "source": "ntv",
+      "ts": "2026-09-28T22:43:48"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Das-Patt-in-der-Todeszone-ist-ueberwindbar-id31357064.html",
+      "ntitle": "reisners blick auf die front das patt in der todeszone ist überwindbar",
+      "title": "Reisners Blick auf die Front: \"Das Patt in der Todeszone ist überwindbar\"",
+      "summary": "Seit Monaten herrscht Stillstand an der Front, dann starten die Ukrainer Operation Vivaldi. Oberst Reisner erklärt ntv.de, warum Bodenroboter eine so wichtige Rolle spielten, als der Einbruch in die russischen Linien gelang.",
+      "source": "ntv",
+      "ts": "2026-09-28T22:43:48"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Spahn-kaempft-nicht-mehr-id31357397.html",
+      "ntitle": "sardinien statt ausschuss spahn kämpft nicht mehr",
+      "title": "Sardinien statt Ausschuss: Spahn kämpft nicht mehr",
+      "summary": "Ex-Fraktionschef Spahn tritt noch einmal zurück, diesmal von seinem Posten im Haushaltsausschuss. Er will sich auf seine Familie konzentrieren. Der Grund ist eine weitere Instinktlosigkeit.",
+      "source": "ntv",
+      "ts": "2026-09-28T22:43:48"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Bartsch-haelt-Brandmauer-Debatte-fuer-voellig-daneben-id31358039.html",
+      "ntitle": "linke ist keine bedrohung bartsch hält brandmauerdebatte für völlig daneben",
+      "title": "Linke ist \"keine Bedrohung\": Bartsch hält Brandmauer-Debatte für \"völlig daneben\"",
+      "summary": "Nach dem Wahlsieg der Linken in Berlin wächst die Debatte über eine Zusammenarbeit mit SPD und Grünen. Dietmar Bartsch weist Warnungen vor seiner Partei zurück – und wehrt sich gegen jede Gleichsetzung mit der AfD.",
+      "source": "ntv",
+      "ts": "2026-09-28T22:43:48"
+    },
+    {
+      "id": "https://www.n-tv.de/sport/fussball/fussball_nationalmannschaft/Radikaler-Klopp-hat-sich-noch-unangreifbar-gemacht-id31357960.html",
+      "ntitle": "dfbumbruch ohne rücksicht radikaler klopp hat sich noch unangreifbar gemacht",
+      "title": "DFB-Umbruch ohne Rücksicht: Radikaler Klopp hat sich (noch) unangreifbar gemacht",
+      "summary": "Die ersten zwei Partien unter Jürgen Klopp als neuen Bundestrainer sind gespielt. Über seine deutsche Fußball-Nationalmannschaft gibt es viele Erkenntnisse, nicht alle sind erfreulich.",
+      "source": "ntv",
+      "ts": "2026-09-28T22:43:48"
+    },
+    {
+      "id": "https://www.n-tv.de/wirtschaft/Moskau-stellt-Russland-Geschaeft-von-Metro-unter-seine-Verwaltung-id31357605.html",
+      "ntitle": "ohne angabe von gründen moskau stellt russlandgeschäft von metro unter seine verwaltung",
+      "title": "Ohne Angabe von Gründen: Moskau stellt Russland-Geschäft von Metro unter seine Verwaltung",
+      "summary": "Anfang des Monats bringt Moskau die Russland-Geschäfte der Unternehmen Nestle und Auchan unter seine Kontrolle. Begründet wird der Schritt mit feindseligen Handlungen \"unfreundlicher\" Staaten. Nun ist auch der deutsche Handelskonzern Metro betroffen.",
+      "source": "ntv",
+      "ts": "2026-09-28T22:43:48"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Suedkorea-sieht-Schuld-fuer-Minenexplosion-in-Pjoengjang-id31358065.html",
+      "ntitle": "drei verletzte an der grenze südkorea sieht schuld für minenexplosion in pjöngjang",
+      "title": "Drei Verletzte an der Grenze: Südkorea sieht Schuld für Minenexplosion in Pjöngjang",
+      "summary": "In der Grenzregion zwischen Nord- und Südkorea liegen hunderttausende Landminen. Kürzlich verlegt der Norden laut Seoul weitere Sprengkörper. Wenig später explodieren zwei Minen, drei Soldaten werden verletzt. Südkorea droht mit Konsequenzen.",
+      "source": "ntv",
+      "ts": "2026-09-28T22:43:48"
+    },
+    {
+      "id": "https://www.n-tv.de/sport/fussball/Ball-reinknallen-Rettet-Fuellkrug-Klopp-und-den-DFB-Sturm-id31356185.html",
+      "ntitle": "irgendwann die große hoffnung ball reinknallen rettet füllkrug klopp und den dfbsturm",
+      "title": "Irgendwann die große Hoffnung?: \"Ball reinknallen\": Rettet Füllkrug Klopp und den DFB-Sturm?",
+      "summary": "Die Länderspiel-Karriere von Niclas Füllkrug scheint eigentlich schon beendet - bis der Publikumsliebling zu Werder Bremen zurückkehrt. Seitdem wird das Thema von Woche zu Woche größer - gerade auch, weil die DFB-Offensive gegen Griechenland lahmt.",
+      "source": "ntv",
+      "ts": "2026-09-28T22:43:48"
+    },
+    {
+      "id": "6abacc54f7cbe7cf0da4cf4a",
+      "ntitle": "klingbeil will selbstständige und beamte in gesetzliche rente aufnehmen",
+      "title": "Klingbeil will Selbstständige und Beamte in gesetzliche Rente aufnehmen",
+      "summary": "SPD-Chef Lars Klingbeil dringt auf Beiträge von Selbstständigen, neuen Beamten und Politikern zur gesetzlichen Rente. So hatte es auch die Rentenkommission vorgeschlagen.",
+      "source": "WELT",
+      "ts": "2026-09-28T22:43:48"
+    },
+    {
+      "id": "6abaa8def7cbe7cf0da4ce15",
+      "ntitle": "unberichterstatterin löst mit aussagen über konzentrationslager empörung aus",
+      "title": "UN-Berichterstatterin löst mit Aussagen über Konzentrationslager Empörung aus",
+      "summary": "UN-Sonderberichterstatterin Francesca Albanese stellt in einem Interview die Entstehung des Begriffs Antisemitismus falsch dar. Nach Kritik der Gedenkstätte Yad Vashem gesteht sie einen Fehler ein.",
+      "source": "WELT",
+      "ts": "2026-09-28T22:43:48"
+    },
+    {
+      "id": "6aba7cf3e82a6edc94e19917",
+      "ntitle": "im studierendenparlament agieren wir demokratischer als hier ruft der student der vorsitzenden zu",
+      "title": "„Im Studierendenparlament agieren wir demokratischer als hier“, ruft der Student der Vorsitzenden zu",
+      "summary": "In der öffentlichen Anhörung des Wissenschaftsausschusses spitzt sich der Streit zwischen Hamburgs Hochschulen und dem Senat um die künftige Finanzierung zu. In der Sitzung berichten Studenten und Professoren von Sorgen – und fehlendem Toilettenpapier.",
+      "source": "WELT",
+      "ts": "2026-09-28T22:43:48"
+    },
+    {
+      "id": "6abab949f7cbe7cf0da4ceb4",
+      "ntitle": "russland startet laut selenskyj mobilmachung  empörung über angriff auf akademie der wissenschaften",
+      "title": "Russland startet laut Selenskyj Mobilmachung – Empörung über Angriff auf Akademie der Wissenschaften",
+      "summary": "Präsident Wolodymyr Selenskyj meldet eine zusätzliche russische Mobilmachung Russlands, auch Ausländer sollen eingezogen werden. Bei einem Angriff in Kiew auf die Akademie der Wissenschaften stirbt eine Frau.",
+      "source": "WELT",
+      "ts": "2026-09-28T22:43:48"
+    },
+    {
+      "id": "6abab5a7941a33c71f707074",
+      "ntitle": "außerordentlich komplexe verfahren  exverfassungsrichter sehen hohe hürden für afdverbot",
+      "title": "„Außerordentlich komplexe Verfahren“ – Ex-Verfassungsrichter sehen hohe Hürden für AfD-Verbot",
+      "summary": "Ein AfD-Verbotsverfahren verlangt nach Ansicht früherer Verfassungsrichter besonders belastbares Material. Udo di Fabio verweist zudem auf die Russlandkontakte der Partei.",
+      "source": "WELT",
+      "ts": "2026-09-28T22:43:48"
+    },
+    {
+      "id": "6aba664d7c1705c08fd1674d",
+      "ntitle": "niko springer kann das momentum gegen noppert nicht nutzen",
+      "title": "Niko Springer kann das Momentum gegen Noppert nicht nutzen",
+      "summary": "Niko Schindler ist beim World Grand Prix zum Auftakt ausgeschieden. Der Dartsprofi wäre bei einem Sieg zur neuen deutschen Nummer zwei geworden. Dabei schien er nach einem verpassten Matchdart von Danny Noppert das Spiel bereits gedreht zu haben.",
+      "source": "WELT",
+      "ts": "2026-09-28T22:43:48"
     }
   ],
   "breaking_seen": [
@@ -3050,8 +2906,8 @@
   "last_run": {
     "digest_morning": "2026-09-28",
     "digest_noon": "2026-09-28",
-    "digest_evening": "2026-09-27",
-    "daily": "2026-09-27",
+    "digest_evening": "2026-09-28",
+    "daily": "2026-09-28",
     "weekly": "2026-W39"
   }
 }
