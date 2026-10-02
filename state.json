@@ -1,150 +1,6 @@
 {
   "history": [
     {
-      "id": "f3e62a41-767a-4363-a863-264588965cbf",
-      "ntitle": "gericht hebt ausschluss von medien aus weißem haus vorerst auf",
-      "title": "Gericht hebt Ausschluss von Medien aus Weißem Haus vorerst auf",
-      "summary": "Ein US-Gericht hat den von Präsident Trump verhängten Ausschluss von Journalisten aus dem Weißen Haus vorerst aufgehoben. Sie sei wohl verfassungswidrig, erklärte der von Trump selbst berufene Richter.",
-      "source": "Tagesschau",
-      "ts": "2026-09-24T08:19:05"
-    },
-    {
-      "id": "ba6e45a7-94ef-4b4d-b93a-754681c92e10-SENDUNGSVIDEO",
-      "ntitle": "tagesschau 2000 uhr",
-      "title": "tagesschau 20:00 Uhr",
-      "summary": "Bundesregierung will härtere Strafen für Nutzung von K.o.-Tropfen durchsetzen, Regierung verschärft mit Zehn-Punkte-Aktionsplan Vorgehen gegen Sozialbetrug, Berlin zieht offenbar Olympia-Bewerbung zurück, OECD hebt Konjunkturprognose für deutsche und Weltwirtschaft an, IG Metall will fünf Prozent mehr Lohn für Beschäftigte in der Metall- und Elektroindustrie, Zweiter Tag der UN-Vollversammlung: In",
-      "source": "Tagesschau",
-      "ts": "2026-09-24T08:19:05"
-    },
-    {
-      "id": "9e019bcb-889f-401f-81d8-76dffb99645c",
-      "ntitle": "regierung geht gegen missbrauch von sozialleistungen vor",
-      "title": "Regierung geht gegen Missbrauch von Sozialleistungen vor",
-      "summary": "Regierung geht gegen Missbrauch von Sozialleistungen vor",
-      "source": "Tagesschau",
-      "ts": "2026-09-24T08:19:05"
-    },
-    {
-      "id": "f49fa5e1-02e3-40fc-954a-688c37c67241",
-      "ntitle": "kotropfen härtere strafen sollen täter abschrecken",
-      "title": "K.o.-Tropfen: Härtere Strafen sollen Täter abschrecken",
-      "summary": "K.o.-Tropfen: Härtere Strafen sollen Täter abschrecken",
-      "source": "Tagesschau",
-      "ts": "2026-09-24T08:19:05"
-    },
-    {
-      "id": "028ee28d-5f69-4e63-a9ce-57906856d332",
-      "ntitle": "parlamentswahl in marokko junge menschen sehen keine perspektive",
-      "title": "Parlamentswahl in Marokko: Junge Menschen sehen keine Perspektive",
-      "summary": "Parlamentswahl in Marokko: Junge Menschen sehen keine Perspektive",
-      "source": "Tagesschau",
-      "ts": "2026-09-24T08:19:05"
-    },
-    {
-      "id": "c42d3f81-7bf4-4e78-b8fc-7a4a048f8a78",
-      "ntitle": "chinas präsident xi bei uspräsident trump in washington",
-      "title": "Chinas Präsident Xi bei US-Präsident Trump in Washington",
-      "summary": "Chinas Präsident Xi bei US-Präsident Trump in Washington",
-      "source": "Tagesschau",
-      "ts": "2026-09-24T08:19:05"
-    },
-    {
-      "id": "254df1c3-45e7-4684-aeff-d08a213cdabb",
-      "ntitle": "torben börgers ard washington zum besuch von chinas präsident xi bei uspräsident trump",
-      "title": "Torben Börgers, ARD Washington, zum Besuch von Chinas Präsident Xi bei US-Präsident Trump",
-      "summary": "Torben Börgers, ARD Washington, zum Besuch von Chinas Präsident Xi bei US-Präsident Trump",
-      "source": "Tagesschau",
-      "ts": "2026-09-24T08:19:05"
-    },
-    {
-      "id": "5078384e-0c59-4fd6-a13a-cdbbfdee6cc1",
-      "ntitle": "bundestag befasst sich mit widerspruchslösung bei organspende",
-      "title": "Bundestag befasst sich mit Widerspruchslösung bei Organspende",
-      "summary": "Bundestag befasst sich mit Widerspruchslösung bei Organspende",
-      "source": "Tagesschau",
-      "ts": "2026-09-24T08:19:05"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Koalition-erwaegt-Anhebung-der-Beitragsjahre-bei-Rente-mit-63-id31341671.html",
-      "ntitle": "ausnahmen für bestimmte berufe koalition erwägt anhebung der beitragsjahre bei rente mit 63",
-      "title": "Ausnahmen für bestimmte Berufe?: Koalition erwägt Anhebung der Beitragsjahre bei Rente mit 63",
-      "summary": "Das Rentenpaket der Bundesregierung wird im Bundestag noch einmal aufgeschnürt: Bei der Rente mit 63 gibt es offenbar Bewegung. Dabei könnte die notwendige Zahl der Beitragsjahre steigen, aber auch eine Begrenzung auf bestimmte Berufsgruppen kommen.",
-      "source": "ntv",
-      "ts": "2026-09-24T08:19:05"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Linnemann-will-Anspruch-auf-Kinderkrankengeld-kuerzen-id31341822.html",
-      "ntitle": "zurück zu regelung vor corona linnemann will anspruch auf kinderkrankengeld kürzen",
-      "title": "Zurück zu Regelung vor Corona: Linnemann will Anspruch auf Kinderkrankengeld kürzen",
-      "summary": "Wer ein Kind unter zwölf Jahren hat, muss sich auf weitere Kürzungen einstellen: Kinderkrankengeld soll es pro Kind und Elternteil nur noch für 10 statt für 15 Tage geben, fordert Gesundheitsminister Linnemann. Die Regelung wäre nicht neu.",
-      "source": "ntv",
-      "ts": "2026-09-24T08:19:05"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Gericht-Verbannte-US-Medien-duerfen-wieder-ins-Weisse-Haus-id31341929.html",
-      "ntitle": "trump kassiert niederlage gericht verbannte usmedien dürfen wieder ins weiße haus",
-      "title": "Trump kassiert Niederlage: Gericht: Verbannte US-Medien dürfen wieder ins Weiße Haus",
-      "summary": "Trumps Bannstrahl gegen drei US-Medien hat nur eine kurze Wirkdauer. Ein US-Bundesgericht hebt den Ausschluss nach nur wenigen Tagen wieder auf. Der zuständige Richter erklärt diesen für wahrscheinlich verfassungswidrig.",
-      "source": "ntv",
-      "ts": "2026-09-24T08:19:05"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Xi-bei-Trump-Besucht-ein-Kommunist-einen-Kommunistenhasser-id31341305.html",
-      "ntitle": "usa und china vor größerem deal xi bei trump besucht ein kommunist einen kommunistenhasser",
-      "title": "USA und China vor größerem Deal?: Xi bei Trump: Besucht ein Kommunist einen Kommunistenhasser",
-      "summary": "Chinas Präsident Xi Jinping wird von US-Staatschef Trump empfangen - mit allem, was diplomatisch dazu gehört. Die beiden Wirtschaftsmächte sind Rivalen. Zusammenarbeiten müssen Peking und Washington trotzdem. Das gefällt nicht allen.",
-      "source": "ntv",
-      "ts": "2026-09-24T08:19:05"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Selenskyj-nennt-Putin-den-Patienten-Null-der-Kriegstreiberei-id31341672.html",
-      "ntitle": "muss gestoppt werden selenskyj nennt putin den patienten null der kriegstreiberei",
-      "title": "\"Muss gestoppt werden\": Selenskyj nennt Putin den \"Patienten Null\" der Kriegstreiberei",
-      "summary": "Gebt Russland die Ukraine und dann ist Schluss? Dies ist die Hoffnung vieler. Doch der ukrainische Präsident Selenskyj warnt eindringlich vor den Machtgelüsten des Kreml: Auch andere Staaten seien gefährdet, von Putin verbreite sich die Idee des Krieges immer weiter.",
-      "source": "ntv",
-      "ts": "2026-09-24T08:19:05"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Selenskyj-berichtet-Erschuetterndes-ueber-nordkoreanische-Soldaten-id31341131.html",
-      "ntitle": "gefangennahmen selten möglich selenskyj berichtet erschütterndes über nordkoreanische soldaten",
-      "title": "Gefangennahmen selten möglich: Selenskyj berichtet Erschütterndes über nordkoreanische Soldaten",
-      "summary": "Russland ist in seinem Krieg gegen die Ukraine auf Unterstützung aus Nordkorea angewiesen. Pjöngjang drillt seine Soldaten dabei auf besonders extreme Weise. Wer sich einer Gefangennahme entzieht, wird als Held gefeiert.",
-      "source": "ntv",
-      "ts": "2026-09-24T08:19:05"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Gruenen-Chef-nennt-Bedingungen-fuer-Koalition-mit-Linken-id31341300.html",
-      "ntitle": "bündnis nicht um jeden preis grünenchef nennt bedingungen für koalition mit linken",
-      "title": "\"Bündnis nicht um jeden Preis\": Grünen-Chef nennt Bedingungen für Koalition mit Linken",
-      "summary": "Clankontakte und antisemitische Strömungen in der Linkspartei stellen die Grünen vor ein Problem. Parteichef Banaszak will trotzdem eine Koalition für den Berliner Senat nicht ausschließen. Dafür verlangt er glaubwürdige Abgrenzung.",
-      "source": "ntv",
-      "ts": "2026-09-24T08:19:05"
-    },
-    {
-      "id": "https://www.n-tv.de/sport/fussball/Harry-Kane-hat-klare-Tendenz-und-in-Kuerze-Klarheit-id31341663.html",
-      "ntitle": "neuer bayernvertrag harry kane hat klare tendenz  und in kürze klarheit",
-      "title": "Neuer Bayern-Vertrag: Harry Kane hat klare Tendenz - und in Kürze Klarheit",
-      "summary": "Es ist die wichtigste Personalie, die der FC Bayern München in naher Zukunft zu kären hat: Bleibt Super-Torjäger Harry Kane noch länger in der Bundesliga - oder werden sich die Wege bald trennen? Der Stürmer kündigt eine baldige Verkündung an. Und verrät seinen Kollegen eine Tendenz.",
-      "source": "ntv",
-      "ts": "2026-09-24T08:19:05"
-    },
-    {
-      "id": "6ab4b91d4bc26502f545bb20",
-      "ntitle": "usrichter hebt trumps ausschluss von politico cnn und ms now vorerst auf",
-      "title": "US-Richter hebt Trumps Ausschluss von „Politico“, CNN und MS NOW vorerst auf",
-      "summary": "Ein US-Gericht setzt Trumps Ausschluss von CNN, MS NOW und „Politico“ aus dem Weißen Haus vorläufig aus. Der Richter hält die Sperre für wahrscheinlich verfassungswidrig.",
-      "source": "WELT",
-      "ts": "2026-09-24T08:19:05"
-    },
-    {
-      "id": "6ab4b9d2274d1bab27b6a33c",
-      "ntitle": "dann glaube ich sogar dass ki ein risiko für die gesamte menschheit darstellen könnte",
-      "title": "„Dann glaube ich sogar, dass KI ein Risiko für die gesamte Menschheit ⁠darstellen könnte“",
-      "summary": "Führende Vertreter der Technologiebranche haben den UN-Sicherheitsrat ⁠vor den wachsenden Gefahren durch Künstliche Intelligenz (KI) gewarnt.",
-      "source": "WELT",
-      "ts": "2026-09-24T08:19:05"
-    },
-    {
       "id": "ed7cf41b-81fe-4525-af16-e48731e64c07",
       "ntitle": "frontstadt in der ukraine jetzt beginnt dort echter hunger",
       "title": "Frontstadt in der Ukraine: \"Jetzt beginnt dort echter Hunger\"",
@@ -2879,6 +2735,150 @@
       "summary": "Millionen Menschen kennen seine Stimme, seinen Namen dagegen nur wenige: Michael Thilo sang das ursprüngliche Titellied von „Benjamin Blümchen“. Nun ist bekannt geworden, dass der Musiker bereits im März im Alter von 81 Jahren gestorben ist.",
       "source": "WELT",
       "ts": "2026-10-01T10:56:42"
+    },
+    {
+      "id": "bdbf20fe-2097-4840-abd4-4d9cf058e9ab",
+      "ntitle": "gescheiterte hinrichtung heizt debatte über todesstrafe neu an",
+      "title": "Gescheiterte Hinrichtung heizt Debatte über Todesstrafe neu an",
+      "summary": "Der Fall einer Mörderin, die ihre versuchte Hinrichtung überlebte, hat die Debatte über die Todesstrafe in den USA wieder angeheizt. Die Frau ist offenbar weiter in kritischem Zustand. Ihr Anwalt spricht von diversen Pannen. Von Giselle Ucar.",
+      "source": "Tagesschau",
+      "ts": "2026-10-02T08:19:55"
+    },
+    {
+      "id": "e6cb508e-afa4-4d17-a75d-85021472b03f-SENDUNGSVIDEO",
+      "ntitle": "tagesschau 2000 uhr",
+      "title": "tagesschau 20:00 Uhr",
+      "summary": "\"Tankrabatt\" tritt in Kraft, Beratungen über Ladeinfrastruktur für E-Mobilität bei Konferenz in Berlin, Regierung diskutiert über geplante Zuckersteuer, Neues \"Schwarzbuch\" listet besonders viele Fälle von Steuerverschwendung in Hamburg auf, NATO erhält Westfälischen Friedenspreis in Münster, Bundeswehr stellt erstes Drohnenregiment auf, EU-Innenminister stimmen für Abschiebezentren in Drittstaate",
+      "source": "Tagesschau",
+      "ts": "2026-10-02T08:19:55"
+    },
+    {
+      "id": "1d392818-81d1-499f-8adb-1e48854622ab",
+      "ntitle": "steuerverschwendung bund der steuerzahler stellt neues schwarzbuch vor",
+      "title": "Steuerverschwendung: Bund der Steuerzahler stellt neues „Schwarzbuch“ vor",
+      "summary": "Steuerverschwendung: Bund der Steuerzahler stellt neues „Schwarzbuch“ vor",
+      "source": "Tagesschau",
+      "ts": "2026-10-02T08:19:55"
+    },
+    {
+      "id": "dd6bb4f5-b408-4e1b-b44e-170e61d0d397",
+      "ntitle": "pläne für zuckersteuer wer ist betroffen und ab wann",
+      "title": "Pläne für Zuckersteuer: Wer ist betroffen und ab wann?",
+      "summary": "Pläne für Zuckersteuer: Wer ist betroffen und ab wann?",
+      "source": "Tagesschau",
+      "ts": "2026-10-02T08:19:55"
+    },
+    {
+      "id": "4b544e0d-0cb8-4892-bbe0-e1eb70f0d04d",
+      "ntitle": "tankrabatt so reagieren autofahrer auf die gesunkenen spritpreise",
+      "title": "„Tankrabatt“: So reagieren Autofahrer auf die gesunkenen Spritpreise",
+      "summary": "„Tankrabatt“: So reagieren Autofahrer auf die gesunkenen Spritpreise",
+      "source": "Tagesschau",
+      "ts": "2026-10-02T08:19:55"
+    },
+    {
+      "id": "e63229a1-7436-49f1-9151-c49eb7cb019a",
+      "ntitle": "asylrecht diskussion um aussetzung in ausnahmefällen an euaußengrenzen",
+      "title": "Asylrecht: Diskussion um Aussetzung in Ausnahmefällen an EU-Außengrenzen",
+      "summary": "Asylrecht: Diskussion um Aussetzung in Ausnahmefällen an EU-Außengrenzen",
+      "source": "Tagesschau",
+      "ts": "2026-10-02T08:19:55"
+    },
+    {
+      "id": "617c750e-247b-4443-81d0-6792a1342569",
+      "ntitle": "wie sich der krieg gegen die ukraine verändert  ardkorrespondentin berichtet",
+      "title": "Wie sich der Krieg gegen die Ukraine verändert - ARD-Korrespondentin berichtet",
+      "summary": "Wie sich der Krieg gegen die Ukraine verändert - ARD-Korrespondentin berichtet",
+      "source": "Tagesschau",
+      "ts": "2026-10-02T08:19:55"
+    },
+    {
+      "id": "254f778c-af9c-4343-9d2d-f03b5a5c991b",
+      "ntitle": "gemischtes preis und stimmungsbild nach wiedereinführung des tankrabatts",
+      "title": "Gemischtes Preis- und Stimmungsbild nach Wiedereinführung des \"Tankrabatts\"",
+      "summary": "Gemischtes Preis- und Stimmungsbild nach Wiedereinführung des \"Tankrabatts\"",
+      "source": "Tagesschau",
+      "ts": "2026-10-02T08:19:55"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Trump-macht-schlechte-PR-fuer-seine-Umfragewerte-verantwortlich-id31371898.html",
+      "ntitle": "midtermswahlkampf in texas trump macht schlechte pr für seine umfragewerte verantwortlich",
+      "title": "Midterms-Wahlkampf in Texas: Trump macht schlechte PR für seine Umfragewerte verantwortlich",
+      "summary": "Die Demokraten wittern bei den Zwischenwahlen die Mehrheit im Abgeordnetenhaus. Die Beliebtheitswerte des US-Präsidenten sinken, wie Donald Trump im Wahlkampf einräumt. Er sieht den Grund dafür aber nicht in seinem politischen Handeln.",
+      "source": "ntv",
+      "ts": "2026-10-02T08:19:55"
+    },
+    {
+      "id": "https://www.n-tv.de/panorama/SEK-nimmt-drei-Terrorverdaechtige-in-Nordrhein-Westfalen-fest-id31371868.html",
+      "ntitle": "nach geheimdiensthinweis sek nimmt drei terrorverdächtige in nordrheinwestfalen fest",
+      "title": "Nach Geheimdienst-Hinweis: SEK nimmt drei Terrorverdächtige in Nordrhein-Westfalen fest",
+      "summary": "Ein 33-jähriger Deutscher und zwei syrische Staatsangehörige geraten ins Visier der Ermittler. Sie sollen eine \"staatsgefährdende Straftat\" vorbereitet haben. Zu Details des mutmaßlichen Vorhabens schweigen die Behörden.",
+      "source": "ntv",
+      "ts": "2026-10-02T08:19:55"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Hubertus-Heil-wirft-sein-Buch-in-den-Ring-und-Gauck-gibt-seinen-Segen-id31371788.html",
+      "ntitle": "mal gucken was aus ihm wird hubertus heil wirft sein buch in den ring  und gauck gibt seinen segen",
+      "title": "\"Mal gucken, was aus ihm wird\": Hubertus Heil wirft sein Buch in den Ring - und Gauck gibt seinen Segen",
+      "summary": "Aus dem politischen Abseits der SPD meldet sich Hubertus Heil mit einem Buch zu Wort, das zu lesen lohnt. Weil die Partei mal wieder kriselt, ihre Spitze wackelt und auch noch Joachim Gauck höchstpersönlich zur Premiere erscheint, geht es aber um viel mehr.",
+      "source": "ntv",
+      "ts": "2026-10-02T08:19:55"
+    },
+    {
+      "id": "https://www.n-tv.de/wissen/Nasa-Astronauten-erreichen-ISS-in-Rekordzeit-id31371927.html",
+      "ntitle": "rund 400 kilometer über der erde nasaastronauten erreichen iss in rekordzeit",
+      "title": "Rund 400 Kilometer über der Erde: Nasa-Astronauten erreichen ISS in Rekordzeit",
+      "summary": "Noch nie zuvor reisen Astronauten so schnell zur ISS wie die Crew-13 der Nasa. Die Dragon-Kapsel benötigt vom Start bis zum Andocken keine acht Stunden. Die Vorgänger-Besatzung hat deutlich länger gebraucht.",
+      "source": "ntv",
+      "ts": "2026-10-02T08:19:55"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Trump-bereut-Nominierung-der-eigenen-Supreme-Court-Richter-id31371545.html",
+      "ntitle": "stelle ihres lebens verschafft trump bereut nominierung der eigenen supremecourtrichter",
+      "title": "\"Stelle ihres Lebens verschafft\": Trump bereut Nominierung der eigenen Supreme-Court-Richter",
+      "summary": "Das Oberste Gericht der USA ist mit so vielen konservativen Richtern besetzt wie lange nicht. Trotzdem ärgert sich Präsident Trump immer wieder über Entscheidungen des Supreme Court. Den selbst auserwählten Richtern wirft er nun indirekt Illoyalität vor.",
+      "source": "ntv",
+      "ts": "2026-10-02T08:19:55"
+    },
+    {
+      "id": "https://www.n-tv.de/panorama/Tauchfirma-fordert-fuer-gescheiterte-Buckelwal-Rettung-1-3-Millionen-Euro-id31372153.html",
+      "ntitle": "geldgeberin ist unzufrieden tauchfirma fordert für gescheiterte buckelwalrettung 13 millionen euro",
+      "title": "Geldgeberin ist unzufrieden: Tauchfirma fordert für gescheiterte Buckelwal-Rettung 1,3 Millionen Euro",
+      "summary": "Im Frühjahr versucht eine private Initiative rund um eine wohlhabende Unternehmerin, den gestrandeten Buckelwal vor Poel zu retten. Das Tier stirbt nach der Freilassung vor der Küste Dänemarks. Der technische Dienstleister kämpft vor Gericht um eine Millionensumme.",
+      "source": "ntv",
+      "ts": "2026-10-02T08:19:55"
+    },
+    {
+      "id": "https://www.n-tv.de/wirtschaft/Wichtigste-Ost-West-Verbindung-14-Monate-gesperrt-id31372026.html",
+      "ntitle": "berlinhannover 80 minuten wichtigste ostwestverbindung 14 monate gesperrt",
+      "title": "Berlin-Hannover: +80 Minuten: Wichtigste Ost-West-Verbindung 14 Monate gesperrt",
+      "summary": "Eine der meistbefahrenen Ost-West-Bahnverbindungen Deutschlands zwischen Hannover und Berlin wird rund 14 Monate grundsaniert. Die Fernzüge werden umgeleitet und brauchen rund 80 Minuten länger.",
+      "source": "ntv",
+      "ts": "2026-10-02T08:19:55"
+    },
+    {
+      "id": "https://www.n-tv.de/sport/fussball/fussball_nationalmannschaft/Selbst-ueberrascht-Exakt-dieses-Spiel-hat-der-Bundestrainer-gebraucht-id31371902.html",
+      "ntitle": "klopp würgt heikle debatte ab selbst überrascht exakt dieses spiel hat der bundestrainer gebraucht",
+      "title": "Klopp würgt heikle Debatte ab: Selbst überrascht: Exakt dieses Spiel hat der Bundestrainer gebraucht",
+      "summary": "Der erste Sieg im dritten Versuch: Bundestrainer Jürgen Klopp sieht gegen Serbien einen eigentlich perfekten Abend. Am Ende sieht er sich aber mit einer Debatte konfrontiert, die er selbst unglücklich befeuert hatte.",
+      "source": "ntv",
+      "ts": "2026-10-02T08:19:55"
+    },
+    {
+      "id": "6abf45c285d64113fb06c610",
+      "ntitle": "vergewaltigungsvorwürfe an usuni werden neu untersucht",
+      "title": "Vergewaltigungsvorwürfe an US-Uni werden neu untersucht",
+      "summary": "Vor etwa zwei Jahren wurde eine Gruppenvergewaltigung an der US-Elite-Uni Cornell angezeigt – ohne große Konsequenzen. Eine Ex-Studentin der Universität wirft sieben Verbindungsmitgliedern vor, sie 2024 unter Drogen gesetzt und vergewaltigt zu haben.",
+      "source": "WELT",
+      "ts": "2026-10-02T08:19:55"
+    },
+    {
+      "id": "6abe130909fefadd71a541a9",
+      "ntitle": "der untergang der cdu",
+      "title": "Der Untergang der CDU",
+      "summary": "Die Debatte um Philipp Amthors Strandkorb ist nur ein Symptom. Dahinter steckt die jahrzehntelange Demontage konservativer Positionen. Leider hat die CDU selbst daran mitgearbeitet.",
+      "source": "WELT",
+      "ts": "2026-10-02T08:19:55"
     }
   ],
   "breaking_seen": [
@@ -2896,7 +2896,7 @@
     "135dd922-af83-4006-be49-9da3b5a955c3"
   ],
   "last_run": {
-    "digest_morning": "2026-10-01",
+    "digest_morning": "2026-10-02",
     "digest_noon": "2026-10-01",
     "digest_evening": "2026-10-01",
     "daily": "2026-10-01",
