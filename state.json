@@ -1,150 +1,6 @@
 {
   "history": [
     {
-      "id": "50a2695b-4016-486d-8af8-b13f82740348",
-      "ntitle": "wadephul trifft überraschend lawrow in new york",
-      "title": "Wadephul trifft überraschend Lawrow in New York",
-      "summary": "Zum ersten Mal seit Beginn des russischen Überfalls auf die Ukraine hat ein deutscher Chefdiplomat den russischen Außenminister getroffen. Das kurze Treffen zwischen Wadephul und Lawrow fand am Rande der UN-Generaldebatte statt.",
-      "source": "Tagesschau",
-      "ts": "2026-09-26T21:24:02"
-    },
-    {
-      "id": "fa9f57f6-e83a-40ae-8905-efed567c2f74-SENDUNGSVIDEO",
-      "ntitle": "tagesschau 2000 uhr",
-      "title": "tagesschau 20:00 Uhr",
-      "summary": "Entscheidung des DOSB: München wird sich um die Olympischen Sommerspiele bewerben, Vorschläge der Rentenkommission, DGB-Proteste gegen Sozialreform in 15 Städten, SPD will Pläne von Gesundheitsminister Linnemann für die Pflegereform nachbessern, Außenminister Wadephul trifft russischen Amtskollegen Lawrow, Papst Leo XIV. feiert Messe in Paris, Neuer historisch niedriger Pegelstand im Rhein bei Kau",
-      "source": "Tagesschau",
-      "ts": "2026-09-26T21:24:02"
-    },
-    {
-      "id": "305b862f-9843-45fc-b6b7-c13b5c5aefea",
-      "ntitle": "olympiabewerbung entscheidung um deutschen kandidaten fällt auf münchen und kiel",
-      "title": "Olympia-Bewerbung: Entscheidung um deutschen Kandidaten fällt auf München und Kiel",
-      "summary": "Olympia-Bewerbung: Entscheidung um deutschen Kandidaten fällt auf München und Kiel",
-      "source": "Tagesschau",
-      "ts": "2026-09-26T21:24:02"
-    },
-    {
-      "id": "e1cf68be-ef01-44ca-9d7d-9d4f2ec294ab",
-      "ntitle": "vorschläge der rentenkommission",
-      "title": "Vorschläge der Rentenkommission",
-      "summary": "Vorschläge der Rentenkommission",
-      "source": "Tagesschau",
-      "ts": "2026-09-26T21:24:02"
-    },
-    {
-      "id": "a5b4b887-332f-4f86-82fe-d7c7fc190238",
-      "ntitle": "demonstrationen des dgb gegen den reformkurs der bundesregierung",
-      "title": "Demonstrationen des DGB gegen den Reformkurs der Bundesregierung",
-      "summary": "Demonstrationen des DGB gegen den Reformkurs der Bundesregierung",
-      "source": "Tagesschau",
-      "ts": "2026-09-26T21:24:02"
-    },
-    {
-      "id": "d1b3be3c-19eb-4126-81ae-06ddb90dc2de",
-      "ntitle": "spd will pläne von gesundheitsminister linnemann für die pflegereform nachbessern",
-      "title": "SPD will Pläne von Gesundheitsminister Linnemann für die Pflegereform nachbessern",
-      "summary": "SPD will Pläne von Gesundheitsminister Linnemann für die Pflegereform nachbessern",
-      "source": "Tagesschau",
-      "ts": "2026-09-26T21:24:02"
-    },
-    {
-      "id": "ef35826b-daeb-4929-8bc2-e15cec21feb1",
-      "ntitle": "arnd henze ard washington über das treffen von wadephul mit lawrow",
-      "title": "Arnd Henze, ARD Washington, über das Treffen von Wadephul mit Lawrow",
-      "summary": "Arnd Henze, ARD Washington, über das Treffen von Wadephul mit Lawrow",
-      "source": "Tagesschau",
-      "ts": "2026-09-26T21:24:02"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Wadephul-trifft-Lawrow-in-New-York-zu-kurzem-Gespraech-id31351395.html",
-      "ntitle": "erstes solches treffen seit 2022 wadephul trifft lawrow in new york zu kurzem gespräch",
-      "title": "Erstes solches Treffen seit 2022: Wadephul trifft Lawrow in New York zu kurzem Gespräch",
-      "summary": "Nach Beginn des russischen Angriffskriegs in der Ukraine kommt es mehr als vier Jahre lang nicht zu einem bilateralen Gespräch der Außenminister Deutschlands und Russlands. Nun trifft Chefdiplomat Wadephul am Rande der UN-Generaldebatte überraschend auf seinen Amtskollegen Lawrow.",
-      "source": "ntv",
-      "ts": "2026-09-26T21:24:02"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/CNN-darf-nicht-an-Praesidenten-Reise-nach-Tennessee-teilnehmen-id31351305.html",
-      "ntitle": "trump poltert über fake news cnn darf nicht an präsidentenreise nach tennessee teilnehmen",
-      "title": "Trump poltert über \"FAKE NEWS\": CNN darf nicht an Präsidenten-Reise nach Tennessee teilnehmen",
-      "summary": "Präsident Trump sperrt drei US-Medien von der Berichterstattung aus dem Weißen Haus aus. Nach einer Niederlage der Regierung vor Gericht bekommen CNN, MS NOW und Politico wieder Zugang. Doch die nächste Attacke auf die Pressefreiheit lässt nicht lange auf sich warten.",
-      "source": "ntv",
-      "ts": "2026-09-26T21:24:02"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Kuba-warnt-bei-Vereinten-Nationen-vor-drohendem-US-Militaereinsatz-id31351591.html",
-      "ntitle": "kritik an ölblockade kuba warnt bei vereinten nationen vor drohendem usmilitäreinsatz",
-      "title": "Kritik an Ölblockade: Kuba warnt bei Vereinten Nationen vor drohendem US-Militäreinsatz",
-      "summary": "Seit Monaten baut die US-Regierung eine Drohkulisse gegenüber Kuba auf. Bei der UN-Vollversammlung beklagt der kubanische Außenminister die \"Androhung militärischer Gewalt\" und reagiert auf Schmähungen von Präsident Trump.",
-      "source": "ntv",
-      "ts": "2026-09-26T21:24:02"
-    },
-    {
-      "id": "https://www.n-tv.de/sport/Offiziell-Muenchen-erhaelt-Zuschlag-fuer-deutsche-Olympia-Bewerbung-id31351071.html",
-      "ntitle": "kölnrheinruhr hat nachsehen offiziell münchen erhält zuschlag für deutsche olympiabewerbung",
-      "title": "Köln/Rhein-Ruhr hat Nachsehen: Offiziell: München erhält Zuschlag für deutsche Olympia-Bewerbung",
-      "summary": "Die Wahlleute des Deutschen Olympischen Sportbunds haben sich entschieden: München soll für Deutschland in das Rennen für zukünftige Olympische und Paralympische Spiele gehen. Während im Westen Deutschlands die Enttäuschung groß ist, kann auch im Norden gejubelt werden.",
-      "source": "ntv",
-      "ts": "2026-09-26T21:24:02"
-    },
-    {
-      "id": "https://www.n-tv.de/wirtschaft/VW-Fahrern-drohen-nach-Rueckruf-sogar-zwei-Werkstattbesuche-id31351011.html",
-      "ntitle": "ersatzteile sind mangelware vwfahrern drohen nach rückruf sogar zwei werkstattbesuche",
-      "title": "Ersatzteile sind Mangelware: VW-Fahrern drohen nach Rückruf sogar zwei Werkstattbesuche",
-      "summary": "Wegen einer fehlerhaften Schraube ruft VW Hunderttausende Fahrzeuge zurück. Da zunächst nicht genügend Ersatzteile vorrätig sind, muss sich der Autobauer mit einem Provisorium behelfen - was zu einem Mehraufwand führt. Auch bei Audi und Seat gibt es Rückrufe.",
-      "source": "ntv",
-      "ts": "2026-09-26T21:24:02"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Palaestinensisch-israelisches-Interview-mit-Aziz-Abu-Sarah-und-Maoz-Inon-Wut-ist-wie-Atomkraft-Wie-will-man-sie-nutzen-id31346616.html",
-      "ntitle": "israel und palästina wir nutzen den schmerz der nakba den schmerz des 7 oktober",
-      "title": "Israel und Palästina: \"Wir nutzen den Schmerz der Nakba, den Schmerz des 7. Oktober\"",
-      "summary": "Der Bruder des Palästinensers Aziz Abu Sarah starb nach Folter in einem israelischen Gefängnis, Hamas-Terroristen töteten die Eltern von Maoz Inon. Heute sind sie Freunde. Im Interview hat Inon eine Botschaft an die Bundesregierung.",
-      "source": "ntv",
-      "ts": "2026-09-26T21:24:02"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Bericht-Auch-Aegyptens-Geheimdienstchef-warnte-Israel-vor-Hamas-Angriff-id31351424.html",
-      "ntitle": "netanjahu streitet hinweise ab bericht auch ägyptens geheimdienstchef warnte israel vor hamasangriff",
-      "title": "Netanjahu streitet Hinweise ab: Bericht: Auch Ägyptens Geheimdienstchef warnte Israel vor Hamas-Angriff",
-      "summary": "Eine Zeitung aus Israel behauptet, Premier Netanjahu sei vor einem Angriff der Hamas gewarnt worden. Der streitet alles ab und geht gegen \"Haaretz\" vor. Nun legt ein weiteres Medium nach. Demnach soll Ägyptens Geheimdienstchef sogar nach Israel gereist sein, um Unheil abzuwenden.",
-      "source": "ntv",
-      "ts": "2026-09-26T21:24:02"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/7-Oktober-Weiterer-Bericht-legt-nahe-dass-Netanjahu-vorgewarnt-wurde-id31350959.html",
-      "ntitle": "scheich rief vor hamasterror an 7 oktober weiterer bericht legt nahe dass netanjahu vorgewarnt wurde",
-      "title": "Scheich rief vor Hamas-Terror an: 7. Oktober: Weiterer Bericht legt nahe, dass Netanjahu vorgewarnt wurde",
-      "summary": "Die Zeitung \"Haaretz\" wirft schon vor ein paar Tagen dem israelischen Regierungschef Netanjahu vor, bereits vor dem 7. Oktober 2023 über anstehende Angriffe der Hamas informiert worden zu sein. Netanjahu streitet das vehement ab. Doch auch ein neuer Bericht kommt zu diesem Ergebnis.",
-      "source": "ntv",
-      "ts": "2026-09-26T21:24:02"
-    },
-    {
-      "id": "6ab7fc6c18772248192d6132",
-      "ntitle": "frankreichstar mbapp fällt verletzt aus",
-      "title": "Frankreich-Star Mbappé fällt verletzt aus",
-      "summary": "Frankreichs Kapitän Kylian Mbappé schoss seine Mannschaft am Freitag zum Sieg gegen die Türkei – und verletzte sich dabei. Jetzt steht die Diagnose.",
-      "source": "WELT",
-      "ts": "2026-09-26T21:24:02"
-    },
-    {
-      "id": "6ab7ee164cda84697f575a1d",
-      "ntitle": "spieler stimmten ab ob sie gegen israel spielen wollen",
-      "title": "Spieler stimmten ab, ob sie gegen Israel spielen wollen",
-      "summary": "Vor dem Nations-League-Duell zwischen Irland und Israel kommt es zum Eklat. Schon zuvor hatte es zu Anklagen und Boykott-Aufrufen gegeben. Die Partie findet auf neutralem Boden statt.",
-      "source": "WELT",
-      "ts": "2026-09-26T21:24:02"
-    },
-    {
-      "id": "6ab7e1ce18772248192d5fc2",
-      "ntitle": "kann mir schwer vorstellen dass die linkspartei das innen oder justizressort führt",
-      "title": "„Kann mir schwer vorstellen, dass die Linkspartei das Innen- oder Justizressort führt“",
-      "summary": "Solange in der Linkspartei Menschen mit „Verbindungen zur organisierten Kriminalität“ oder zu „extremistischen Kräften“ seien, könne sie sich schwer vorstellen, dass ein Linker das Justizressort führe, sagt Grünen-Chefin Brantner.",
-      "source": "WELT",
-      "ts": "2026-09-26T21:24:02"
-    },
-    {
       "id": "35decee5-21e4-4ab0-86fb-efd9f7bb88b1",
       "ntitle": "linnemann lehnt von spd geforderten pflegedeckel ab",
       "title": "Linnemann lehnt von SPD geforderten \"Pflegedeckel\" ab",
@@ -2879,6 +2735,150 @@
       "summary": "Es ist Zeit, sich an einen Gedanken zu gewöhnen. Friedrich Merz muss Kanzler bleiben. Denn niemand in Europa verteidigt den Westen so wie er.",
       "source": "WELT",
       "ts": "2026-10-04T14:46:41"
+    },
+    {
+      "id": "332a3b1c-1d21-4bb3-a31e-b352478cfaba",
+      "ntitle": "merz ukrainehilfen notwendig für die stabilität europas",
+      "title": "Merz: Ukraine-Hilfen \"notwendig für die Stabilität Europas\"",
+      "summary": "Kanzler Merz hat bei seinem Besuch in Kiew erneut Russland zu einem Ende des Krieges aufgefordert. Im Bericht aus Berlin sagte er, für die Stabilität Europas seien weitere Hilfen für die Ukraine wichtig - genau wie eine zuverlässige Bundesregierung.",
+      "source": "Tagesschau",
+      "ts": "2026-10-04T22:10:13"
+    },
+    {
+      "id": "6a05143a-dcc5-4169-99e9-a478b3992119",
+      "ntitle": "merzbesuch in kiew eine milliarde militärhilfe für die ukraine",
+      "title": "Merz-Besuch in Kiew: Eine Milliarde Militärhilfe für die Ukraine",
+      "summary": "Bundeskanzler Merz hat der Ukraine eine Milliarde Euro an Militärhilfen und weitere 350 Millionen für den Energiesektor zugesagt. Das soll sich auch für Deutschland lohnen: Neue Rüstungsprojekte und ein Wissenstransfer stehen im Fokus.",
+      "source": "Tagesschau",
+      "ts": "2026-10-04T22:10:13"
+    },
+    {
+      "id": "0b706492-8160-4354-acbd-357e7b969987",
+      "ntitle": "russische angriffe während des besuchs von bundeskanzler merz in kiew",
+      "title": "Russische Angriffe während des Besuchs von Bundeskanzler Merz in Kiew",
+      "summary": "Russische Angriffe während des Besuchs von Bundeskanzler Merz in Kiew",
+      "source": "Tagesschau",
+      "ts": "2026-10-04T22:10:13"
+    },
+    {
+      "id": "e8e674ec-97d9-4bb0-9a75-cb33428f7000",
+      "ntitle": "susanne petersohn ard kiew zur weiteren unterstützung deutschlands an die ukraine",
+      "title": "Susanne Petersohn, ARD Kiew, zur weiteren Unterstützung Deutschlands an die Ukraine",
+      "summary": "Susanne Petersohn, ARD Kiew, zur weiteren Unterstützung Deutschlands an die Ukraine",
+      "source": "Tagesschau",
+      "ts": "2026-10-04T22:10:13"
+    },
+    {
+      "id": "342cb567-0f1c-4cfe-a192-7c97a1fc432b",
+      "ntitle": "sachsenanhalts ministerpräsident schulze schließt cdustimmen für afdkandidaten siegmund aus",
+      "title": "Sachsen-Anhalts Ministerpräsident Schulze schließt CDU-Stimmen für AfD-Kandidaten Siegmund aus",
+      "summary": "Sachsen-Anhalts Ministerpräsident Schulze schließt CDU-Stimmen für AfD-Kandidaten Siegmund aus",
+      "source": "Tagesschau",
+      "ts": "2026-10-04T22:10:13"
+    },
+    {
+      "id": "6091cc82-a656-4197-a5e6-6d0265329354",
+      "ntitle": "wie ist der alltag für die menschen im iran unter dem krieg mit den usa",
+      "title": "Wie ist der Alltag für die Menschen im Iran unter dem Krieg mit den USA?",
+      "summary": "Wie ist der Alltag für die Menschen im Iran unter dem Krieg mit den USA?",
+      "source": "Tagesschau",
+      "ts": "2026-10-04T22:10:13"
+    },
+    {
+      "id": "https://www.n-tv.de/sport/fussball/Juergen-Klopp-verlaesst-seinen-Weg-gegen-Griechenland-id31379528.html",
+      "ntitle": "neuer kapitän für dfbteam jürgen klopp verlässt seinen weg gegen griechenland",
+      "title": "Neuer Kapitän für DFB-Team: Jürgen Klopp verlässt seinen Weg gegen Griechenland",
+      "summary": "Jürgen Klopp nimmt nach seinem ersten Sieg als Bundestrainer im Rückspiel gegen Griechenland drei Veränderungen vor. Auch ein neuer Kapitän ist nominiert.",
+      "source": "ntv",
+      "ts": "2026-10-04T22:10:13"
+    },
+    {
+      "id": "https://www.n-tv.de/sport/fussball/Experten-mischen-sich-in-heikles-DFB-Thema-ein-id31379605.html",
+      "ntitle": "das macht es schwierig experten mischen sich in heikles dfbthema ein",
+      "title": "\"Das macht es schwierig\": Experten mischen sich in heikles DFB-Thema ein",
+      "summary": "Muss Kapitän Joshua Kimmich um seinen Stammplatz in der DFB-Auswahl bangen? Frühere Nationalmannschaftskapitäne äußern sich vorsichtig zur heiklen Frage.",
+      "source": "ntv",
+      "ts": "2026-10-04T22:10:13"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Kreml-droht-Ukraine-mit-noch-haerteren-Schlaegen-id31379118.html",
+      "ntitle": "inmitten schwerer angriffe kreml droht ukraine mit noch härteren schlägen",
+      "title": "Inmitten schwerer Angriffe: Kreml droht Ukraine mit noch härteren Schlägen",
+      "summary": "Russland hat seine Angriffe nach Gegenschlägen der Ukraine bereits massiv ausgeweitet. Während Kanzler Merz in Kiew noch mehr Militärhilfe ankündigt, kommen aus Moskau neue Drohungen. Für die Eskalation trage allein Selenskyj die Verantwortung.",
+      "source": "ntv",
+      "ts": "2026-10-04T22:10:13"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Merz-Scheitern-der-Regierung-haette-unermessliche-Folgen-id31378913.html",
+      "ntitle": "auswirkungen auf europa merz scheitern der regierung hätte unermessliche folgen",
+      "title": "Auswirkungen auf Europa: Merz: Scheitern der Regierung hätte \"unermessliche Folgen\"",
+      "summary": "Die Union steckt im Umfragetief, zugleich stehen schwierige Entscheidungen zu Rente, Pflege, Steuern und Haushalt bevor. Bei seinem Besuch in Kiew richtet der Kanzler deshalb eine eindringliche Botschaft an das In- und Ausland.",
+      "source": "ntv",
+      "ts": "2026-10-04T22:10:13"
+    },
+    {
+      "id": "https://www.n-tv.de/wirtschaft/Deutsche-Ruestungsfirmen-schliessen-Milliarden-Deals-mit-Kiew-id31379330.html",
+      "ntitle": "diehl hensoldt quantum deutsche rüstungsfirmen schließen milliardendeals mit kiew",
+      "title": "Diehl, Hensoldt, Quantum: Deutsche Rüstungsfirmen schließen Milliarden-Deals mit Kiew",
+      "summary": "Deutschland und die Ukraine stärken ihre Zusammenarbeit im Rüstungs- und Energiesektor. Bei einem Besuch von Kanzler Merz in Kiew besiegeln Firmen beider Länder Kooperationen in Milliardenhöhe. Die Verträge umfassen unter anderem Abfangdrohnen und Luftabwehrraketen.",
+      "source": "ntv",
+      "ts": "2026-10-04T22:10:13"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Merz-peilt-Sozialreformen-bis-Jahresende-an-id31379549.html",
+      "ntitle": "so gut wie ausgearbeitet merz peilt sozialreformen bis jahresende an",
+      "title": "\"So gut wie ausgearbeitet\": Merz peilt Sozialreformen bis Jahresende an",
+      "summary": "Rente, Pflege und Arbeitsmarkt: Vor der schwarz-roten Koalition liegen mehrere schwierige Vorhaben. Kurz vor dem nächsten Treffen der Regierungsspitzen geben sich Kanzler Merz und SPD-Fraktionschef Miersch dennoch zuversichtlich.",
+      "source": "ntv",
+      "ts": "2026-10-04T22:10:13"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Selenskyj-laesst-bei-Wunsch-nach-deutschen-Taurus-nicht-locker-id31379439.html",
+      "ntitle": "niemals aufgeben selenskyj lässt bei wunsch nach deutschen taurus nicht locker",
+      "title": "\"Niemals aufgeben\": Selenskyj lässt bei Wunsch nach deutschen Taurus nicht locker",
+      "summary": "Deutschland sagt der Ukraine eine weitere Milliarde Euro für Abfangdrohnen und weitreichende Waffen zu. Aber es gibt einen Marschflugkörper, den die Ukraine weiter gerne hätte - aber Deutschland seit 2023 nicht rausrückt.",
+      "source": "ntv",
+      "ts": "2026-10-04T22:10:13"
+    },
+    {
+      "id": "https://www.n-tv.de/sport/fussball/FC-Bayern-und-DFB-Team-sorgen-sich-um-Giulia-Gwinn-id31379508.html",
+      "ntitle": "nächster schwerer schock droht fc bayern und dfbteam sorgen sich wieder um gwinn",
+      "title": "Nächster schwerer Schock droht: FC Bayern und DFB-Team sorgen sich wieder um Gwinn",
+      "summary": "Die Fußballerinnen des FC Bayern und die Verantwortlichen des DFB-Teams fürchten eine neue Verletzung von Giulia Gwinn. Die Außenverteidigerin muss beim Spiel gegen Eintracht Frankfurt ausgewechselt werden.",
+      "source": "ntv",
+      "ts": "2026-10-04T22:10:13"
+    },
+    {
+      "id": "6ac2934285d64113fb06eeb1",
+      "ntitle": "eklat mit ansage  erneut verweigert irlands kapitän den handschlag",
+      "title": "Eklat mit Ansage – erneut verweigert Irlands Kapitän den Handschlag",
+      "summary": "Politik statt Fairplay: Wie schon im Hinspiel sorgt die irische Nationalmannschaft gegen Israel in der Nations League für einen Eklat. Der Kapitän verweigert den obligatorischen Handschlag, auch bei der Hymne kommt es zu Respektlosigkeiten.",
+      "source": "WELT",
+      "ts": "2026-10-04T22:10:13"
+    },
+    {
+      "id": "6ac29fd2656315bd2f814e55",
+      "ntitle": "unterstützer der terrororganisation alqaida feiern den copiloten und mutmaßlichen attentäter",
+      "title": "Unterstützer der Terrororganisation Al-Qaida feiern den Co-Piloten und mutmaßlichen Attentäter",
+      "summary": "Auf einem Flug von Dubai nach Tel Aviv entgingen 182 Passagiere nur hauchdünn einer Katastrophe. Während die Retter in Israel wie Helden gefeiert werden, bleibt es in Teilen der Welt und den Medien aus Sicht vieler bemerkenswert still.",
+      "source": "WELT",
+      "ts": "2026-10-04T22:10:13"
+    },
+    {
+      "id": "6ac28e9eeddd42476a39f203",
+      "ntitle": "familie flöz sorgt für wunder auf der reeperbahn",
+      "title": "Familie Flöz sorgt für „Wunder“ auf der Reeperbahn",
+      "summary": "Das wortlose Maskentheater der Familie Flöz macht sprachlos: Im St. Pauli Theater bringt die Company am 8. Oktober ihr neues Stück „Wunder“ auf die Bühne – inspiriert vom Film „Das Wunder von Mailand“ aus den 50er-Jahren.",
+      "source": "WELT",
+      "ts": "2026-10-04T22:10:13"
+    },
+    {
+      "id": "6ac29065656315bd2f814dbd",
+      "ntitle": "da braucht die afd nicht drauf hoffen  schulze schließt cdustimmen für siegmund kategorisch aus",
+      "title": "„Da braucht die AfD nicht drauf hoffen“ – Schulze schließt CDU-Stimmen für Siegmund kategorisch aus",
+      "summary": "Dies hätten alle CDU-Abgeordneten mehrfach mündlich und schriftlich bestätigt. Fraktionschef Sven Schulze sieht seine Partei in der Opposition. Absprachen mit AfD und BSW „bei Gesetzen oder bei anderen Dingen“ schließt er aus.",
+      "source": "WELT",
+      "ts": "2026-10-04T22:10:13"
     }
   ],
   "breaking_seen": [
@@ -2898,8 +2898,8 @@
   "last_run": {
     "digest_morning": "2026-10-04",
     "digest_noon": "2026-10-04",
-    "digest_evening": "2026-10-03",
-    "daily": "2026-10-03",
-    "weekly": "2026-W39"
+    "digest_evening": "2026-10-04",
+    "daily": "2026-10-04",
+    "weekly": "2026-W40"
   }
 }
