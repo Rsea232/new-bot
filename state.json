@@ -1,150 +1,6 @@
 {
   "history": [
     {
-      "id": "d6402b18-eb4a-4550-b891-46c0dcb93c96",
-      "ntitle": "verträge gekündigt volkswagen steht vor neuer tarifschlacht",
-      "title": "Verträge gekündigt: Volkswagen steht vor neuer Tarifschlacht",
-      "summary": "Die VW-Geschäftsführung hat eine Reihe von Tarifverträgen gekündigt. Nun drohen dem Konzern harte Wochen. Die Arbeitnehmerseite hat bereits massiven Widerstand angekündigt. Von Torben Hildebrandt.",
-      "source": "Tagesschau",
-      "ts": "2026-09-30T21:19:48"
-    },
-    {
-      "id": "6fb13d86-e021-4e99-b050-cc9baf21abee",
-      "ntitle": "flug nach israel passagierflugzeug entgeht wohl nur knapp katastrophe",
-      "title": "Flug nach Israel: Passagierflugzeug entgeht wohl nur knapp Katastrophe",
-      "summary": "Flug nach Israel: Passagierflugzeug entgeht wohl nur knapp Katastrophe",
-      "source": "Tagesschau",
-      "ts": "2026-09-30T21:19:48"
-    },
-    {
-      "id": "ef86b945-2943-4d9e-9cbd-378e17ffad29",
-      "ntitle": "preis für deutschlandticket steigt ab januar 2027 auf 6680 euro",
-      "title": "Preis für Deutschlandticket steigt ab Januar 2027 auf 66,80 Euro",
-      "summary": "Preis für Deutschlandticket steigt ab Januar 2027 auf 66,80 Euro",
-      "source": "Tagesschau",
-      "ts": "2026-09-30T21:19:48"
-    },
-    {
-      "id": "6954ac22-f825-4dae-91d5-2745aa3130a8-SENDUNGSVIDEO",
-      "ntitle": "tagesschau 2000 uhr",
-      "title": "tagesschau 20:00 Uhr",
-      "summary": "Bundeskabinett bringt Pflegereform auf den Weg, Härtere Strafen für Übergriffe auf Rettungskräfte und andere Berufsgruppen, Preis für Deutschlandticket wird erneut erhöht, Inflationsrate steigt im September auf 3,3 Prozent, Konflikt zwischen VW und IG-Metall: Volkswagen kündigt fast alle Tarifverträge zum Jahresende, Ostbeauftragte der Bundesregierung Kaiser sieht Nachholbedarf bei Vermögensvertei",
-      "source": "Tagesschau",
-      "ts": "2026-09-30T21:19:48"
-    },
-    {
-      "id": "8f6c4f1d-97e8-4ec7-84c0-c07c458c39d8",
-      "ntitle": "union und spd bringen reform der pflegeversicherung auf den weg",
-      "title": "Union und SPD bringen Reform der Pflegeversicherung auf den Weg",
-      "summary": "Union und SPD bringen Reform der Pflegeversicherung auf den Weg",
-      "source": "Tagesschau",
-      "ts": "2026-09-30T21:19:48"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Was-wir-zum-Kampf-im-Cockpit-des-Flydubai-Flugs-und-der-Notlandung-wissen-und-was-nicht-id31366930.html",
-      "ntitle": "schreie und panik was wir zum kampf im cockpit des flydubaiflugs und der notlandung wissen  und was nicht",
-      "title": "\"Schreie und Panik\": Was wir zum Kampf im Cockpit des Flydubai-Flugs und der Notlandung wissen - und was nicht",
-      "summary": "Nach dem gewaltsamen Vorfall im Cockpit eines Flydubai-Flugs auf dem Weg nach Tel Aviv geht die israelische Regierung von einem versuchten Terroranschlag aus. Aber was geschah genau an Bord?",
-      "source": "ntv",
-      "ts": "2026-09-30T21:19:48"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Linnemann-bezeichnet-Kostendeckel-bei-Pflege-als-hochgradig-gefaehrlich-id31367107.html",
-      "ntitle": "anbieter würden preise erhöhen linnemann bezeichnet kostendeckel bei pflege als hochgradig gefährlich",
-      "title": "Anbieter würden Preise erhöhen: Linnemann bezeichnet Kostendeckel bei Pflege als \"hochgradig gefährlich\"",
-      "summary": "Die SPD dringt auf eine Obergrenze bei der Selbstbeteiligung an Pflegekosten, die CDU lehnt das ab. Gesundheitsminister Linnemann macht dies zu einer Grundsatzentscheidung und will damit auch nicht die Expertenkommission befassen. Kompromissbereit ist er bei einem anderen Thema.",
-      "source": "ntv",
-      "ts": "2026-09-30T21:19:48"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/US-Armee-wirft-sich-mit-voller-Wucht-in-den-Drogenkrieg-id31366590.html",
-      "ntitle": "kampf gegen narcoterroristen usarmee wirft sich mit voller wucht in den drogenkrieg",
-      "title": "Kampf gegen \"Narcoterroristen\": US-Armee wirft sich mit voller Wucht in den Drogenkrieg",
-      "summary": "Donald Trump weitet seinen Drogenkrieg gegen die Kartelle in Südamerika aus. Nicht nur aus der Luft werden angebliche Schmugglerboote angegriffen. Das US-Militär ist nun auch am Boden aktiv bei Razzien.",
-      "source": "ntv",
-      "ts": "2026-09-30T21:19:48"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Hinter-Magyars-Streit-mit-Kiew-steht-ein-Konflikt-aus-der-Orban-Aera-id31366495.html",
-      "ntitle": "eskalation wegen minderheit hinter magyars streit mit kiew steht ein konflikt aus der orbanära",
-      "title": "Eskalation wegen Minderheit: Hinter Magyars Streit mit Kiew steht ein Konflikt aus der Orban-Ära",
-      "summary": "Auf X liefert sich Ungarns Premier Magyar eine Schlammschlacht mit Kiews Außenminister. Vordergründig streiten sie über Bündnisfragen und Treibstoffreserven. Eigentlich liegt das Problem aber in der westukrainischen Region Transkarpatien, wo etwa 150.000 Ungarn leben.",
-      "source": "ntv",
-      "ts": "2026-09-30T21:19:48"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/US-Regierung-blamiert-sich-mit-Rechtschreibfehler-id31366622.html",
-      "ntitle": "in superintelligenzabkommen usregierung blamiert sich mit rechtschreibfehler",
-      "title": "In \"Superintelligenz\"-Abkommen: US-Regierung blamiert sich mit Rechtschreibfehler",
-      "summary": "US-Präsident Trump schließt mit den Chefs großer US-Techkonzerne ein Abkommen über die Selbstregulierung in Sachen KI. Stolz verkündet er, dass die nun \"Superintelligenz\" heiße. Im entsprechenden Dokument leistet sich die Regierung einen fatalen Fehler.",
-      "source": "ntv",
-      "ts": "2026-09-30T21:19:48"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Staatsrechtler-halten-Sachsen-Anhalt-Wahl-fuer-anfechtbar-id31366686.html",
-      "ntitle": "fragezeichen hinter finanzierung staatsrechtler halten sachsenanhaltwahl für anfechtbar",
-      "title": "Fragezeichen hinter Finanzierung: Staatsrechtler halten Sachsen-Anhalt-Wahl für anfechtbar",
-      "summary": "Es klingt sehr technisch, könnte aber weitreichende Auswirkungen haben. Mehrere Staatsrechtler sehen Rechtsbrüche der AfD bei der Finanzierung ihres Wahlkampfs in Sachsen-Anhalt. Im schlimmsten Fall könnte dem Land eine Neuwahl drohen.",
-      "source": "ntv",
-      "ts": "2026-09-30T21:19:48"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/BSW-kriegt-einen-neuen-Parteinamen-Abkuerzung-bleibt-id31366199.html",
-      "ntitle": "sonst ändert sich nix bsw tritt ab sofort mit neuem parteinamen an  abkürzung bleibt",
-      "title": "\"Sonst ändert sich nix\": BSW tritt ab sofort mit neuem Parteinamen an - Abkürzung bleibt",
-      "summary": "Von Anfang an habe festgestanden, dass der Name \"Bündnis Sahra Wagenknecht\" nur für eine Übergangszeit gedacht ist, erklärt die Partei. Nach nun zwei Jahren ändert das BSW seinen Parteinamen. Das Kürzel bleibt - die Langfassung ist vor allen Dingen eins: lang.",
-      "source": "ntv",
-      "ts": "2026-09-30T21:19:48"
-    },
-    {
-      "id": "6abd5ccd3874ab06420dfba9",
-      "ntitle": "für dummheit wenig zeit  klopp reagiert mit plädoyer auf rassismus gegen seine spieler",
-      "title": "„Für Dummheit wenig Zeit“ – Klopp reagiert mit Plädoyer auf Rassismus gegen seine Spieler",
-      "summary": "Im dritten Spiel unter Jürgen Klopp trifft Deutschland auf Serbien. Vor der Partie werden Nationalspieler online beleidigt. Der Bundestrainer wählt deutliche Worte.",
-      "source": "WELT",
-      "ts": "2026-09-30T21:19:48"
-    },
-    {
-      "id": "6abd05a7ca5c42fe8f930c51",
-      "ntitle": "wenn man ein steinchen rausbricht fällt das system zusammen",
-      "title": "„Wenn man ein Steinchen rausbricht, fällt das System zusammen“",
-      "summary": "Die Bundesregierung möchte das Reformpaket aufschnüren. Ökonom Bert Rürup ist gegen Änderungen. Die Empfehlungen seien „ein konsistentes Paket“ und müssten als solches umgesetzt werden.",
-      "source": "WELT",
-      "ts": "2026-09-30T21:19:48"
-    },
-    {
-      "id": "6abd44514d95225671e4ab36",
-      "ntitle": "wenn man mal nicht weiter weiß gründet man einen arbeitskreis",
-      "title": "„Wenn man mal nicht weiter weiß, gründet man einen Arbeitskreis“",
-      "summary": "Die Pflegereform steht, doch viele Konflikte wurden nur vertagt. Die stellvertretende WELT TV-Politikchefin Dorothea Schupelius ordnet die „knallharten“ Verhandlungen ein.",
-      "source": "WELT",
-      "ts": "2026-09-30T21:19:48"
-    },
-    {
-      "id": "6abd576996732a6393809b94",
-      "ntitle": "wegen möglichen afdministers  innenministerkonferenz kippt einstimmigkeitsprinzip",
-      "title": "Wegen möglichen AfD-Ministers – Innenministerkonferenz kippt Einstimmigkeits-Prinzip",
-      "summary": "Die Innenminister der Länder ändern ihre Abstimmungsregeln: Künftig können gemeinsame Beschlüsse auch gegen den Widerstand einzelner Länder gefasst werden. Hintergrund ist die Sorge vor einem AfD-Minister.",
-      "source": "WELT",
-      "ts": "2026-09-30T21:19:48"
-    },
-    {
-      "id": "6abd46bd3874ab06420dfa91",
-      "ntitle": "der verein könnte verboten werden",
-      "title": "„Der Verein könnte verboten werden“",
-      "summary": "Nach Berichten über Verbindungen von Politikern der Linken zur Roten Hilfe ordnet „Legal Tribune Online“-Chefredakteur Felix W. Zimmermann mögliche Verbotsverfahren ein. Unterlassungsklagen der Berliner Spitzenkandidatin Elif Eralp gegen Antisemitismus-Vorwürfe hält er für riskant.",
-      "source": "WELT",
-      "ts": "2026-09-30T21:19:48"
-    },
-    {
-      "id": "6abd4dddca5c42fe8f931121",
-      "ntitle": "sein ziel war die passagiere zu töten",
-      "title": "„Sein Ziel war, die Passagiere zu töten“",
-      "summary": "Ein Co-Pilot soll versucht haben, ein Flugzeug nach Tel Aviv zum Absturz zu bringen. Für Geheimdienstexperte Shlomo Shpiro ist klar: „Sein Ziel war, die 180 Passagiere und die Besatzung zu töten.“ Nur das Eingreifen des Kapitäns und mehrerer Fluggäste habe eine Katastrophe verhindert.",
-      "source": "WELT",
-      "ts": "2026-09-30T21:19:48"
-    },
-    {
       "id": "85c75ebd-865d-4777-810c-2fa8b849ae31",
       "ntitle": "neue ausreiseverbote für chinas nationale sicherheit",
       "title": "Neue Ausreiseverbote für Chinas \"nationale Sicherheit\"",
@@ -2743,6 +2599,150 @@
       "summary": "Bayern München hat mit Jungstar Lennart Karl noch keine Gespräche über eine Vertragsverlängerung geführt. Das hat Gründe. Für den 18‑jährigen Offensivspieler gibt es drei Zukunftsszenarien.",
       "source": "WELT",
       "ts": "2026-10-08T16:43:50"
+    },
+    {
+      "id": "d465c18d-1cf6-487a-b099-f082fa2e9acd",
+      "ntitle": "nach gescheiterter hinrichtung wie geht es weiter im fall pike",
+      "title": "Nach gescheiterter Hinrichtung: Wie geht es weiter im Fall Pike?",
+      "summary": "Nachdem die Mörderin Christa Pike den Versuch ihrer Hinrichtung überlebte, kann sie mittlerweile wieder laufen, ist aber in gesundheitlich schlechtem Zustand. Doch wie geht es nun weiter? Wird es einen neuen Exekutionsversuch geben? Ein Überblick.",
+      "source": "Tagesschau",
+      "ts": "2026-10-08T22:13:28"
+    },
+    {
+      "id": "0554d73d-4450-4038-9026-7510cbd5b069-SENDUNGSVIDEO",
+      "ntitle": "tagesschau 2000 uhr",
+      "title": "tagesschau 20:00 Uhr",
+      "summary": "Erste Beratungen im Bundestag zum Entwurf der Einkommensteuerreform, Hintergrundinformationen zur geplanten Einkommensteuerreform, Bundesregierung erwartet für 2026 ein Wirtschaftswachstum von 1,3 Prozent, Spitzen von CDU, CSU und SPD beenden Koalitionsausschuss ohne anschließende Pressekonferenz, Nach Wahl in Berlin kündigen Linke, Grüne und SPD Sondierungsgespräche an, Russland fliegt erneut mas",
+      "source": "Tagesschau",
+      "ts": "2026-10-08T22:13:28"
+    },
+    {
+      "id": "8a80a2e4-1d9f-426a-b0f6-45f25b1c8911",
+      "ntitle": "literaturnobelpreis kanadierin anne carson wird von ehrung überrascht",
+      "title": "Literaturnobelpreis: Kanadierin Anne Carson wird von Ehrung überrascht",
+      "summary": "Literaturnobelpreis: Kanadierin Anne Carson wird von Ehrung überrascht",
+      "source": "Tagesschau",
+      "ts": "2026-10-08T22:13:28"
+    },
+    {
+      "id": "8f4bf5b4-18ce-4b5a-9965-1e9bffbd318b",
+      "ntitle": "finanzminister klingbeil will mit der einkommensteuerreform für entlastung sorgen",
+      "title": "Finanzminister Klingbeil will mit der Einkommensteuerreform für Entlastung sorgen",
+      "summary": "Finanzminister Klingbeil will mit der Einkommensteuerreform für Entlastung sorgen",
+      "source": "Tagesschau",
+      "ts": "2026-10-08T22:13:28"
+    },
+    {
+      "id": "dece6968-3f5d-4632-a817-629afb6b5909",
+      "ntitle": "markus preiß ard berlin mit informationen vom koalitionsausschuss",
+      "title": "Markus Preiß, ARD Berlin, mit Informationen vom Koalitionsausschuss",
+      "summary": "Markus Preiß, ARD Berlin, mit Informationen vom Koalitionsausschuss",
+      "source": "Tagesschau",
+      "ts": "2026-10-08T22:13:28"
+    },
+    {
+      "id": "ea270515-f8df-4582-9324-245fbd1ab4f4",
+      "ntitle": "mindestens 30 tote bei russischen angriffen auf die ukraine",
+      "title": "Mindestens 30 Tote bei russischen Angriffen auf die Ukraine",
+      "summary": "Mindestens 30 Tote bei russischen Angriffen auf die Ukraine",
+      "source": "Tagesschau",
+      "ts": "2026-10-08T22:13:28"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Schroeder-feiert-Putins-Geburtstag-in-Moskau-id31398443.html",
+      "ntitle": "altkanzler besucht kremlchef schröder feiert putins geburtstag in moskau",
+      "title": "Altkanzler besucht Kremlchef: Schröder feiert Putins Geburtstag in Moskau",
+      "summary": "Altkanzler Schröder zeigt sich erneut an der Seite Putins. Diesmal besucht der Sozialdemokrat die Geburtstagsfeier des russischen Präsidenten. Anlass der Reise ist allerdings ein ganz anderer.",
+      "source": "ntv",
+      "ts": "2026-10-08T22:13:28"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Aeusserung-von-Rubio-sorgt-bei-Selenskyj-fuer-Empoerung-id31398386.html",
+      "ntitle": "pattsituation unwillen äußerung von rubio sorgt bei selenskyj für empörung",
+      "title": "\"Pattsituation? Unwillen!\": Äußerung von Rubio sorgt bei Selenskyj für Empörung",
+      "summary": "US-Außenminister Rubio spricht von einer diplomatischen Sackgasse im Ukraine-Krieg. Präsident Selenskyj sieht dagegen bei den Bemühungen um Verhandlungen mit Moskau noch nicht alle Möglichkeiten ausgeschöpft. Er macht den USA schwere Vorwürfe - und schickt eine Delegation nach Washington.",
+      "source": "ntv",
+      "ts": "2026-10-08T22:13:28"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Kiew-Russland-verliert-immer-mehr-Soldaten-id31392321.html",
+      "ntitle": "tödlicher ansturm in der ukraine kiew russland verliert immer mehr soldaten",
+      "title": "Tödlicher Ansturm in der Ukraine: Kiew: Russland verliert immer mehr Soldaten",
+      "summary": "Russland weitet nicht nur den Luftkrieg gegen die Ukraine aus - auch die Gefechte am Boden flammen vor dem Winter immer stärker auf. Beinahe täglich meldet Kiew steigende russische Verluste. Schon jetzt liegt die Zahl der getöteten oder verwundeten Russen im Herbst weit über dem Niveau der Vorjahre.",
+      "source": "ntv",
+      "ts": "2026-10-08T22:13:28"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Trump-Werden-Iran-nicht-vor-den-US-Zwischenwahlen-angreifen-id31398076.html",
+      "ntitle": "konstruktive gespräche trump werden iran nicht vor den uszwischenwahlen angreifen",
+      "title": "\"Konstruktive Gespräche\": Trump: Werden Iran nicht vor den US-Zwischenwahlen angreifen",
+      "summary": "Laut Medienberichten bereitet sich das US-Militär auf neue Angriffe gegen den Iran vor. Nun meldet sich Präsident Trump in der Sache zu Wort. Vor den Midterms Anfang November werde es keine Attacken gegen Teheran geben, schreibt der Republikaner auf seiner Plattform Truth Social.",
+      "source": "ntv",
+      "ts": "2026-10-08T22:13:28"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Putin-verspricht-Teheran-Hilfe-fuer-Ende-des-Iran-Kriegs-id31398441.html",
+      "ntitle": "alles in unserer macht tun putin verspricht teheran hilfe für ende des irankriegs",
+      "title": "\"Alles in unserer Macht tun\": Putin verspricht Teheran Hilfe für Ende des Iran-Kriegs",
+      "summary": "Russland und der Iran sind strategische Partner. Nun präsentiert sich der Kremlchef bei einem Gipfeltreffen in Turkmenistan als Unterstützer einer Friedenslösung.",
+      "source": "ntv",
+      "ts": "2026-10-08T22:13:28"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Den-groessten-Brocken-haben-Linke-Gruene-und-SPD-weggeraeumt-id31397496.html",
+      "ntitle": "garantie mit sanktionen den größten brocken haben linke grüne und spd weggeräumt",
+      "title": "Garantie mit Sanktionen: Den größten Brocken haben Linke, Grüne und SPD weggeräumt",
+      "summary": "Vor ihrem Einstieg in Sondierungen klären Linke, Grüne und SPD, wie sie jüdisches Leben in Berlin schützen und Antisemitismus in den eigenen Reihen bekämpfen wollen - gemeint ist: Antisemitismus in den Reihen der Linken.",
+      "source": "ntv",
+      "ts": "2026-10-08T22:13:28"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Soeder-nennt-Laenderfinanzausgleich-Mist-und-droht-mit-Kuendigung-id31398220.html",
+      "ntitle": "skandal was in berlin passiert söder nennt länderfinanzausgleich mist und droht mit kündigung",
+      "title": "\"Skandal\" was in Berlin passiert: Söder nennt Länderfinanzausgleich \"Mist\" und droht mit Kündigung",
+      "summary": "Markus Söder findet den Länderfinanzausgleich \"unfair\" und droht erneut damit, Berlin den Geldhahn zuzudrehen. Grund sind diesmal die Sondierungsgespräche zwischen SPD, Grüne und Linken. Bayern wolle keine \"sozialistischen Experimente\" finanzieren.",
+      "source": "ntv",
+      "ts": "2026-10-08T22:13:28"
+    },
+    {
+      "id": "https://www.n-tv.de/panorama/Behoerdliche-Waffenkontrolle-in-Bayern-eskaliert-ein-Toter-id31398162.html",
+      "ntitle": "verdächtiger in haus verschanzt behördliche waffenkontrolle in bayern eskaliert  ein toter",
+      "title": "Verdächtiger in Haus verschanzt: Behördliche Waffenkontrolle in Bayern eskaliert - ein Toter",
+      "summary": "Ein Routine-Einsatz endet tödlich: Während einer behördlichen Waffenkontrolle fallen im bayerischen Berngau Schüsse. Ein Mann stirbt, ein weiterer Mensch wird schwer verletzt - Spezialkräfte umstellen das Wohnhaus.",
+      "source": "ntv",
+      "ts": "2026-10-08T22:13:28"
+    },
+    {
+      "id": "6ac7dc1979dbba342d2945d6",
+      "ntitle": "fest von meiner unschuld überzeugt  spdfraktionschef tritt nach ermittlungen zurück",
+      "title": "„Fest von meiner Unschuld überzeugt“ – SPD-Fraktionschef tritt nach Ermittlungen zurück",
+      "summary": "Nach der Aufhebung seiner Immunität gibt Niedersachsens SPD-Fraktionschef Stefan Politze sein Amt auf. Die Ermittlungen stehen offenbar im Zusammenhang mit dem Verkauf eines Krankenhausgeländes. Dabei spielt auch der Berliner SPD-Politiker Steffen Krach eine Rolle.",
+      "source": "WELT",
+      "ts": "2026-10-08T22:13:28"
+    },
+    {
+      "id": "6ac7d6b379dbba342d29456b",
+      "ntitle": "bundestag fordert mehr kontrolle bei bluttests auf downsyndrom",
+      "title": "Bundestag fordert mehr Kontrolle bei Bluttests auf Down-Syndrom",
+      "summary": "Die seit 2022 von den Krankenkassen finanzierten Bluttests auf Trisomie 21 sollen stärker überprüft werden. Der Bundestag fordert ein neues Monitoring, das die Nutzung der Tests untersucht und rechtliche, ethische sowie gesundheitspolitische Fragen beleuchtet.",
+      "source": "WELT",
+      "ts": "2026-10-08T22:13:28"
+    },
+    {
+      "id": "6ac7e16a6e0a564ee52e9ac1",
+      "ntitle": "nur noch schwer zu erklären  connemann kritisiert geplante erhöhung der tabaksteuer",
+      "title": "„Nur noch schwer zu erklären“ – Connemann kritisiert geplante Erhöhung der Tabaksteuer",
+      "summary": "Gitta Connemann, Bundesvorsitzende der Mittelstands- und Wirtschaftsunion, spricht sich gegen die geplante Erhöhung der Tabaksteuer aus: „Bei dem weiteren Steuerkonzert ist das nur noch schwer zu erklären.“",
+      "source": "WELT",
+      "ts": "2026-10-08T22:13:28"
+    },
+    {
+      "id": "6ac7de766e0a564ee52e9a99",
+      "ntitle": "neue gespräche über ende des ukrainekriegs  selenskyj schickt delegation in die usa",
+      "title": "Neue Gespräche über Ende des Ukraine-Kriegs – Selenskyj schickt Delegation in die USA",
+      "summary": "Neue Verhandlungen im Ukraine-Krieg: Selenskyj kündigt Gespräche mit Trumps Unterhändlern Steve Witkoff und Jared Kushner in den USA an. Auch Europa soll vertreten sein. Ein weiteres Treffen mit Russland könnte noch im Oktober folgen.",
+      "source": "WELT",
+      "ts": "2026-10-08T22:13:28"
     }
   ],
   "breaking_seen": [
@@ -2763,8 +2763,8 @@
   "last_run": {
     "digest_morning": "2026-10-08",
     "digest_noon": "2026-10-08",
-    "digest_evening": "2026-10-07",
-    "daily": "2026-10-07",
+    "digest_evening": "2026-10-08",
+    "daily": "2026-10-08",
     "weekly": "2026-W40"
   }
 }
