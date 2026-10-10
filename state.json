@@ -1,150 +1,6 @@
 {
   "history": [
     {
-      "id": "cf17e563-47cd-4f7d-a7f8-14d30e93ab29",
-      "ntitle": "warum es in der schwarzroten koalition knirscht",
-      "title": "Warum es in der schwarz-roten Koalition knirscht",
-      "summary": "Pflege, Rente, Zuckersteuer und überall Spardruck: Es ruckelt heftig in der schwarz-roten Koalition. Gleichzeitig steigt die Unzufriedenheit, viele Menschen fordern spürbare Entlastungen. Wie kommt die Koalition da raus?",
-      "source": "Tagesschau",
-      "ts": "2026-10-02T20:19:05"
-    },
-    {
-      "id": "e85dfd2d-319f-423e-97d9-21dcbb41c897",
-      "ntitle": "beginn der bauarbeiten an der bahnstrecke zwischen berlin und hannover",
-      "title": "Beginn der Bauarbeiten an der Bahnstrecke zwischen Berlin und Hannover",
-      "summary": "Beginn der Bauarbeiten an der Bahnstrecke zwischen Berlin und Hannover",
-      "source": "Tagesschau",
-      "ts": "2026-10-02T20:19:05"
-    },
-    {
-      "id": "7ebf8d3b-793f-479e-af6d-f3edf7099442",
-      "ntitle": "rupert wiederwald ard köln mit informationen zur insolvenzsituation von galeria",
-      "title": "Rupert Wiederwald, ARD Köln, mit Informationen zur Insolvenz-Situation von Galeria",
-      "summary": "Rupert Wiederwald, ARD Köln, mit Informationen zur Insolvenz-Situation von Galeria",
-      "source": "Tagesschau",
-      "ts": "2026-10-02T20:19:05"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Trump-spielt-vor-den-Midterms-mit-einem-gefaehrlichen-Brandbeschleuniger-id31374897.html",
-      "ntitle": "ich könnte ihn einsetzen trump spielt vor den midterms mit einem gefährlichen brandbeschleuniger",
-      "title": "\"Ich könnte ihn einsetzen\": Trump spielt vor den Midterms mit einem gefährlichen Brandbeschleuniger",
-      "summary": "Donald Trump bangt vor den Zwischenwahlen um die Mehrheit seiner Partei im Kongress. Jetzt meldet sich der US-Präsident mit einem Gedankenspiel zum Einsatz eines 200 Jahre alten Gesetzes zu Wort. Das würde ihm den Einsatz des Militärs innerhalb der Vereinigten Staaten erlauben.",
-      "source": "ntv",
-      "ts": "2026-10-02T20:19:05"
-    },
-    {
-      "id": "https://www.n-tv.de/wirtschaft/G7-Staaten-geben-bis-zu-100-Millionen-Barrel-Diesel-und-Rohoel-frei-id31375418.html",
-      "ntitle": "hohe preise drücken g7staaten geben bis zu 100 millionen barrel diesel und rohöl frei",
-      "title": "Hohe Preise drücken: G7-Staaten geben \"bis zu 100 Millionen Barrel\" Diesel und Rohöl frei",
-      "summary": "Die Energie- und Ölpreise sind infolge des Nahost-Kriegs hoch und haben zuletzt nochmals angezogen. Auf massiven Druck der USA geben die G7-Staaten nun erhebliche Mengen an Diesel und Rohöl aus den jeweiligen nationalen Reserven frei.",
-      "source": "ntv",
-      "ts": "2026-10-02T20:19:05"
-    },
-    {
-      "id": "https://www.n-tv.de/wirtschaft/Skoda-ruft-ueber-eine-Million-Fahrzeuge-zurueck-Probleme-mit-einer-Schraube-id31375208.html",
-      "ntitle": "probleme mit der lenkung vwtochter skoda ruft 17 millionen fahrzeuge zurück",
-      "title": "Probleme mit der Lenkung: VW-Tochter Skoda ruft 1,7 Millionen Fahrzeuge zurück",
-      "summary": "Eine fehlerhafte Schraube bei mehreren Modellen aus dem VW-Konzern kann zum Ausfall der Lenkung. Der Konzern ruft weltweit Fahrzeuge in die Werkstatt. Nun ist klar: Auch Skoda ist betroffen. Allein in Deutschland muss bei rund 370.000 Fahrzeugen nachgebessert werden.",
-      "source": "ntv",
-      "ts": "2026-10-02T20:19:05"
-    },
-    {
-      "id": "https://www.n-tv.de/wirtschaft/Arbeitnehmervertreter-beschimpfen-VW-Chef-Blume-id31374761.html",
-      "ntitle": "verbaler krieg in wolfsburg  arbeitnehmervertreter beschimpfen vwchef blume",
-      "title": "Verbaler Krieg in Wolfsburg : Arbeitnehmervertreter beschimpfen VW-Chef Blume",
-      "summary": "Betriebsrat und IG Metall werfen dem Volkswagen-Chef schon länger eine katastrophale Kommunikation zu dessen Sparplänen vor. Nun halten die Arbeitnehmer Oliver Blume vor, mit Falschbehauptungen eine Neiddebatte zu schüren - er bringe \"wirres Zeug\" in Umlauf.",
-      "source": "ntv",
-      "ts": "2026-10-02T20:19:05"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Kanzleramt-legte-kein-Veto-bei-Zuckersteuer-ein-id31374642.html",
-      "ntitle": "abgabe soll kommen kanzleramt legte kein veto bei zuckersteuer ein",
-      "title": "Abgabe soll kommen: Kanzleramt legte kein Veto bei Zuckersteuer ein",
-      "summary": "Vor allem Finanzminister Klingbeil sucht noch immer nach weiteren Einnahmequellen, um die großen Haushaltslöcher stopfen zu können. Im Gesundheitsbereich soll eine Zuckersteuer helfen. Doch dann heißt es, das Kanzleramt habe das Vorhaben gestoppt. Das entspricht aber nicht den Tatsachen.",
-      "source": "ntv",
-      "ts": "2026-10-02T20:19:05"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Rechnungshof-Rente-frisst-bald-fast-46-Prozent-der-Steuereinnahmen-auf-id31375824.html",
-      "ntitle": "reform steigert kosten rechnungshof rente frisst bald fast 46 prozent der steuereinnahmen auf",
-      "title": "Reform steigert Kosten: Rechnungshof: Rente frisst bald fast 46 Prozent der Steuereinnahmen auf",
-      "summary": "Die Rentenzahlungen machen bereits einen erheblichen Teil der Steuereinnahmen des Bundes aus. Laut Bundesrechnungshof wird er von derzeit 29 auf 36,7 Prozent im Jahr 2040 steigen. Setze die Bundesregierung bei der Rentenreform einen falschen Fokus, werde es nochmals deutlich mehr.",
-      "source": "ntv",
-      "ts": "2026-10-02T20:19:05"
-    },
-    {
-      "id": "https://www.n-tv.de/wirtschaft/Warum-Galeria-schon-wieder-am-Abgrund-steht-id31375065.html",
-      "ntitle": "zeit gekauft sanierung verpasst warum galeria schon wieder am abgrund steht",
-      "title": "Zeit gekauft, Sanierung verpasst: Warum Galeria schon wieder am Abgrund steht",
-      "summary": "Millionen Euro an Krediten sind verpufft. Statt die Warenhauskette Galeria neu zu erfinden, setzen Management und Eigner jahrelang auf Schadensbegrenzung. Handelsexperten warnen: Ein erneuter Schuldenschnitt bringt keine Kunden zurück.",
-      "source": "ntv",
-      "ts": "2026-10-02T20:19:05"
-    },
-    {
-      "id": "https://www.n-tv.de/panorama/Fall-Christa-Pike-Was-ist-wenn-die-Hinrichtung-scheitert-id31373783.html",
-      "ntitle": "beispiele aus der vergangenheit fall christa pike  was ist wenn die hinrichtung scheitert",
-      "title": "Beispiele aus der Vergangenheit: Fall Christa Pike - Was ist, wenn die Hinrichtung scheitert?",
-      "summary": "Christa Pike überlebt ihre eigene Hinrichtung. Was vor Jahrhunderten als göttliches Zeichen gedeutet worden wäre, könnte in den USA der Auftakt für eine neue Debatte über die Todesstrafe werden. Doch wie geht es für die zum Tode verurteilte Mörderin weiter?",
-      "source": "ntv",
-      "ts": "2026-10-02T20:19:05"
-    },
-    {
-      "id": "6abfe603863d7086e2273d82",
-      "ntitle": "mutmaßliche gruppenvergewaltigung an eliteuni  new york setzt sonderermittlerin ein",
-      "title": "Mutmaßliche Gruppenvergewaltigung an Elite-Uni – New York setzt Sonderermittlerin ein",
-      "summary": "Eine ehemalige Cornell-Studentin wirft mehreren Männern vor, sie unter Drogen gesetzt und sexuell missbraucht zu haben. Lange gab es keine Anklage. Nun greift New Yorks Gouverneurin ein – auch wegen Fragen zum Vorgehen der Ermittler.",
-      "source": "WELT",
-      "ts": "2026-10-02T20:19:05"
-    },
-    {
-      "id": "6abfd8bad4d0c24ec26d1cdb",
-      "ntitle": "dieselexportverbot  trump hat den europäern faktisch gedroht",
-      "title": "Diesel-Export-Verbot – „Trump hat den Europäern faktisch gedroht“",
-      "summary": "Die G7 geben bis zu 100 Millionen Barrel Diesel und Rohöl aus strategischen Reserven frei. Energiesicherheitsexperte Frank Umbach sieht dahinter vor allem politischen Druck aus Washington: „Von europäischer Seite war das nicht vorgesehen.“",
-      "source": "WELT",
-      "ts": "2026-10-02T20:19:05"
-    },
-    {
-      "id": "6abfe27a863d7086e2273d49",
-      "ntitle": "der feind reißt kiew auseinander  klitschko beschreibt lage als sehr dramatisch",
-      "title": "„Der Feind reißt Kiew auseinander“ – Klitschko beschreibt Lage als „sehr dramatisch“",
-      "summary": "Eine wichtige Brücke gesperrt, kilometerlange Staus: Russische Drohnenangriffe bringen den Verkehr in Kiew nahezu zum Erliegen. Bürgermeister Klitschko beschreibt die Lage als „sehr dramatisch“ – und sieht eine neue Phase des Krieges.",
-      "source": "WELT",
-      "ts": "2026-10-02T20:19:05"
-    },
-    {
-      "id": "6abfe2ef85d64113fb06d3d7",
-      "ntitle": "sie hat alles mobilisiert was sie konnte linke clans den islamismus den politischen islam",
-      "title": "„Sie hat alles mobilisiert, was sie konnte: Linke, Clans, den Islamismus, den politischen Islam“",
-      "summary": "Der Beitritt des Linkenfraktionschefs Sören Pellmann zur „Roten Hilfe“ sei kein Versehen, sondern Ausdruck linken Selbstbewusstseins, sagt Ulf Poschardt, „freiester Mitarbeiter“ von Axel Springer.",
-      "source": "WELT",
-      "ts": "2026-10-02T20:19:05"
-    },
-    {
-      "id": "6abfdb0285d64113fb06d396",
-      "ntitle": "berlin dieses dysfunktionale moloch einer hauptstadt",
-      "title": "„Berlin, dieses dysfunktionale Moloch einer Hauptstadt”",
-      "summary": "Bei „Meine Welt – Meine Meinung“ kommentiert WELT-Kulturredakteur Dennis Sand das Berliner Wahlchaos. Nach einem Übermittlungsfehler wurde das Direktmandat in Spandau nun doch der AfD zugesprochen.",
-      "source": "WELT",
-      "ts": "2026-10-02T20:19:05"
-    },
-    {
-      "id": "6abfe0a6d0775b9e9d8fdedd",
-      "ntitle": "abgereist  deutschland ohne gnabry gegen griechenland",
-      "title": "Abgereist – Deutschland ohne Gnabry gegen Griechenland",
-      "summary": "Die Fußball-Nationalmannschaft tritt ohne Serge Gnabry, der zuletzt als Kapitän auflief, gegen Griechenland an. Der Bayern-Profi reiste nach München zurück, Florian Wirtz steht als neuer Kapitän bereit.",
-      "source": "WELT",
-      "ts": "2026-10-02T20:19:05"
-    },
-    {
-      "id": "6abfdc7185d64113fb06d3a2",
-      "ntitle": "unsere bürger brauchen und verdienen erschwingliche energie  von der leyen begrüßt g7beschluss",
-      "title": "„Unsere Bürger brauchen und verdienen erschwingliche Energie“ – Von der Leyen begrüßt G-7‑Beschluss",
-      "summary": "Die G 7 wollen mit Öl- und Dieselreserven die Versorgung und Preise stabilisieren. Die USA verzichten nach ihrer Drohung auf ein Exportverbot für Diesel nach Europa.",
-      "source": "WELT",
-      "ts": "2026-10-02T20:19:05"
-    },
-    {
       "id": "f66def90-a33c-4334-8a99-17016a11494a",
       "ntitle": "ostdeutsche in führungspositionen es gibt kaum positive entwicklungen",
       "title": "Ostdeutsche in Führungspositionen: \"Es gibt kaum positive Entwicklungen\"",
@@ -3031,6 +2887,150 @@
       "summary": "Der frühere französische Präsident François Hollande könnte 2027 für die Sozialdemokraten antreten. Im Interview erklärt er, warum die Franzosen so wütend sind, wie es zum weltweiten Vormarsch der Populisten kommen konnte.",
       "source": "WELT",
       "ts": "2026-10-10T16:55:28"
+    },
+    {
+      "id": "f29def3a-adb9-44cf-b1fa-7287c3cc3617",
+      "ntitle": "trump fordert nach dieseldeal mit putin selenskyjs ablösung",
+      "title": "Trump fordert nach Dieseldeal mit Putin Selenskyjs Ablösung",
+      "summary": "Gestern hatte US-Präsident Trump einen Dieseldeal mit Russland angekündigt. Die Ukraine reagierte empört, nun fordert Trump eine Ablösung des ukrainischen Staatschefs Selenskyj. Er habe die Schuld an den hohen Energiepreisen.",
+      "source": "Tagesschau",
+      "ts": "2026-10-10T21:11:59"
+    },
+    {
+      "id": "ef565e76-0136-43aa-88ee-e98296307e11",
+      "ntitle": "deutschland bleibt beim nein zu russischem öl",
+      "title": "Deutschland bleibt beim Nein zu russischem Öl",
+      "summary": "Auch nach Trumps Dieseldeal mit Putin will die Bundesregierung auf russisches Öl verzichten. Die Grünen werfen der US-Regierung Skrupellosigkeit vor. Die Spritpreise in Deutschland reagierten nicht.",
+      "source": "Tagesschau",
+      "ts": "2026-10-10T21:11:59"
+    },
+    {
+      "id": "a13619e9-db33-47c4-93b6-f4aa6b713fe3",
+      "ntitle": "mehrere tote durch russische angriffe auf saporischschja",
+      "title": "Mehrere Tote durch russische Angriffe auf Saporischschja",
+      "summary": "Während in Miami über Hilfe für die Ukraine und Wege hin zu einem Ende des russischen Angriffskrieges beraten wird, setzt Moskau seine Attacken fort. In der Region Saporischschja gab es mehrere Todesopfer. Auch Kiew wurde erneut attackiert.",
+      "source": "Tagesschau",
+      "ts": "2026-10-10T21:11:59"
+    },
+    {
+      "id": "9d2bc3b2-063f-4fd9-8145-7b5904e5c4a4-SENDUNGSVIDEO",
+      "ntitle": "tagesschau 2000 uhr",
+      "title": "tagesschau 20:00 Uhr",
+      "summary": "Diesel-Deal von Trump und Putin, Viele Tote bei russischen Angriffen in der Ukraine, Trotz Waffenruhe gehen Angriffe in Gaza weiter, Kunstausstellung \"Nie wieder! Gegen das Vergessen der NS-Verbrechen\", Gabriele Stötzer mit Goslarer Kaiserring geehrt, \"Ragebait\" ist Jugendwort des Jahres 2026, 5. Spieltag Fußball-Bundesliga, Das Wetter Hinweis: Die Beiträge zur \"Fußball-Bundesliga\" dürfen aus rech",
+      "source": "Tagesschau",
+      "ts": "2026-10-10T21:11:59"
+    },
+    {
+      "id": "b9b537ef-0c81-4beb-8f07-c3a5d36ffa6c",
+      "ntitle": "vereinbarung mit putin uspräsident trump kündigt russische diesellieferungen an",
+      "title": "Vereinbarung mit Putin: US-Präsident Trump kündigt russische Diesellieferungen an",
+      "summary": "Vereinbarung mit Putin: US-Präsident Trump kündigt russische Diesellieferungen an",
+      "source": "Tagesschau",
+      "ts": "2026-10-10T21:11:59"
+    },
+    {
+      "id": "54a46cda-42d2-4818-b696-820463c0c851",
+      "ntitle": "ukrainischer präsident selenskyj kritisiert usdeal zu den russischen diesellieferungen",
+      "title": "Ukrainischer Präsident Selenskyj kritisiert US-Deal zu den russischen Diesellieferungen",
+      "summary": "Ukrainischer Präsident Selenskyj kritisiert US-Deal zu den russischen Diesellieferungen",
+      "source": "Tagesschau",
+      "ts": "2026-10-10T21:11:59"
+    },
+    {
+      "id": "c4ec32e2-dafd-43f4-830d-9e562acbeca9",
+      "ntitle": "drei jahre krieg im gazastreifen und erster jahrestag der waffenruhe wie geht es den menschen vor ort",
+      "title": "Drei Jahre Krieg im Gazastreifen und erster Jahrestag der Waffenruhe: Wie geht es den Menschen vor Ort?",
+      "summary": "Drei Jahre Krieg im Gazastreifen und erster Jahrestag der Waffenruhe: Wie geht es den Menschen vor Ort?",
+      "source": "Tagesschau",
+      "ts": "2026-10-10T21:11:59"
+    },
+    {
+      "id": "2f92c91d-7eab-4a00-97ef-27d92438b12e",
+      "ntitle": "erste ostdeutsche künstlerin gabriele stötzer erhält weltweit anerkannte auszeichnung für moderne kunst",
+      "title": "Erste ostdeutsche Künstlerin Gabriele Stötzer erhält weltweit anerkannte Auszeichnung für Moderne Kunst",
+      "summary": "Erste ostdeutsche Künstlerin Gabriele Stötzer erhält weltweit anerkannte Auszeichnung für Moderne Kunst",
+      "source": "Tagesschau",
+      "ts": "2026-10-10T21:11:59"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Trump-Ukraine-sollte-sich-neuen-Praesidenten-suchen-id31404034.html",
+      "ntitle": "eskalation im dieselstreit trump ukraine sollte sich neuen präsidenten suchen",
+      "title": "Eskalation im Diesel-Streit: Trump: Ukraine sollte sich neuen Präsidenten suchen",
+      "summary": "US-Präsident Trump fordert eine Ablösung des ukrainischen Staatschefs Selenskyj. Es sei \"an der Zeit, dass die Ukraine einen neuen Präsidenten bekommt\", der bereit sei, einen Deal zu machen, sagt Trump. Zuvor greift Selenskyj Trump wegen dessen Diesel-Deals mit Moskau scharf an.",
+      "source": "ntv",
+      "ts": "2026-10-10T21:11:59"
+    },
+    {
+      "id": "https://www.n-tv.de/panorama/Frauenaerzte-warnen-Millionen-Termine-koennten-wegfallen-id31390436.html",
+      "ntitle": "folgen der gesundheitsreform frauenärzte warnen millionen termine könnten wegfallen",
+      "title": "Folgen der Gesundheitsreform: Frauenärzte warnen: Millionen Termine könnten wegfallen",
+      "summary": "Mit der Gesundheitsreform wird in Frauenarztpraxen gespart. Schwangere könnten schwieriger Termine beim Gynäkologen bekommen, Termine für die Krebsvorsorge rar werden. Frauenarzt Markus Haist warnt vor Engpässen. Der GKV-Spitzenverband widerspricht.",
+      "source": "ntv",
+      "ts": "2026-10-10T21:11:59"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Merz-schmettert-irischen-EU-Haushaltsplan-ab-id31403763.html",
+      "ntitle": "zu wenig kürzungen merz schmettert irischen euhaushaltsplan ab",
+      "title": "Zu wenig Kürzungen: Merz schmettert irischen EU-Haushaltsplan ab",
+      "summary": "Die EU-Kommission legt einen Haushaltsplan über knapp zwei Billionen Euro bis 2034 vor. Vor allem Geberländer wie Deutschland fordern deutliche Kürzungen. Irland präsentiert nun einen Vorschlag, den der Bundeskanzler deutlich abkanzelt.",
+      "source": "ntv",
+      "ts": "2026-10-10T21:11:59"
+    },
+    {
+      "id": "https://www.n-tv.de/sport/fussball/FC-Bayern-schafft-mit-Neuer-ein-Dreifach-Problem-id31404026.html",
+      "ntitle": "bei müller tats weh fc bayern schafft mit neuer ein dreifachproblem",
+      "title": "Bei Müller tat's weh: FC Bayern schafft mit Neuer ein Dreifach-Problem",
+      "summary": "Manuel Neuer patzt gegen den FC Augsburg schwer. Die Torwart-Ikone, die sich so endlos viele Meriten erworben und dem FC Bayern und dem DFB-Team so viele Titel gewonnen hat, muss seine Karriere sauber ins Ziel bringen. Es ist eine stressige Situation - mit drei Problemen.",
+      "source": "ntv",
+      "ts": "2026-10-10T21:11:59"
+    },
+    {
+      "id": "https://www.n-tv.de/sport/fussball/Manuel-Neuer-findet-nach-Mega-Patzer-klare-Worte-id31404014.html",
+      "ntitle": "blöder fehler manuel neuer findet nach megapatzer klare worte",
+      "title": "\"Blöder Fehler\": Manuel Neuer findet nach Mega-Patzer klare Worte",
+      "summary": "Manuel Neuer hilft kräftig mit, Bundesliga-Geschichte zu schreiben - allerdings ganz anders als er sich das selbst vorstellt. Nach einem schweren Patzer sucht er nicht nach Ausreden.",
+      "source": "ntv",
+      "ts": "2026-10-10T21:11:59"
+    },
+    {
+      "id": "6aca8c7061b3d4c01d3e290f",
+      "ntitle": "21jährige stürzt bei kletterausflug 15 meter in die tiefe und stirbt",
+      "title": "21-Jährige stürzt bei Kletterausflug 15 Meter in die Tiefe und stirbt",
+      "summary": "Eine 21-Jährige ist beim Klettern in einem ehemaligen Steinbruch bei Warstein gestorben. Sie stürzte aus 15 Metern Höhe, die Polizei ermittelt zur Ursache.",
+      "source": "WELT",
+      "ts": "2026-10-10T21:11:59"
+    },
+    {
+      "id": "6aca8abd5528343575dff86e",
+      "ntitle": "mann wird von tiger im zoogehege attackiert und stirbt",
+      "title": "Mann wird von Tiger im Zoogehege attackiert und stirbt",
+      "summary": "Im Yorkshire Wildlife Park hat ein Tiger einen Mann nach dem Betreten seines Geheges tödlich verletzt. Der Zoo sprach von einem schwerwiegenden Vorfall, das Tier blieb unversehrt.",
+      "source": "WELT",
+      "ts": "2026-10-10T21:11:59"
+    },
+    {
+      "id": "6aca7fb95528343575dff7ce",
+      "ntitle": "eintracht vorgeführt  frankfurter debakel in leipzig",
+      "title": "Eintracht vorgeführt – Frankfurter Debakel in Leipzig",
+      "summary": "RB Leipzig beendet den Fehlstart mit einem Kantersieg gegen Eintracht Frankfurt und verschafft Trainer Demichelis Ruhe. Nkunku erzielt drei Tore, Frankfurt rutscht in die Krise.",
+      "source": "WELT",
+      "ts": "2026-10-10T21:11:59"
+    },
+    {
+      "id": "6ac8b47559dfcd93a3d5f226",
+      "ntitle": "lange mit perfekter ausgangslage schomburg rast davon",
+      "title": "Lange mit perfekter Ausgangslage, Schomburg rast davon",
+      "summary": "Die Ironman-WM auf Hawaii hat begonnen – und damit der Kampf um den prestigeträchtigen Sieg bei Männern und Frauen. Die Weltspitze ist eng zusammengerückt. So sieht es nach dem Schwimmen und einem Teil der Radstrecke aus.",
+      "source": "WELT",
+      "ts": "2026-10-10T21:11:59"
+    },
+    {
+      "id": "6ac905a30b20fe0c4d8b874f",
+      "ntitle": "antiisraelaktivisten fordern einstaatenlösung  auch linkenpolitiker unter den teilnehmern",
+      "title": "Anti-Israel-Aktivisten fordern „Ein-Staaten-Lösung“ – auch Linken-Politiker unter den Teilnehmern",
+      "summary": "Tausende Teilnehmer ziehen bei einer Anti-Israel-Demo durch Berlin. Deren Sprechchöre lassen von Mäßigung nichts erkennen. Auch einige Linken-Politiker sind bei der Veranstaltung dabei.",
+      "source": "WELT",
+      "ts": "2026-10-10T21:11:59"
     }
   ],
   "breaking_seen": [
@@ -3051,8 +3051,8 @@
   "last_run": {
     "digest_morning": "2026-10-10",
     "digest_noon": "2026-10-10",
-    "digest_evening": "2026-10-09",
-    "daily": "2026-10-09",
+    "digest_evening": "2026-10-10",
+    "daily": "2026-10-10",
     "weekly": "2026-W40"
   }
 }
