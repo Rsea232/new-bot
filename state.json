@@ -1,150 +1,6 @@
 {
   "history": [
     {
-      "id": "bdbf20fe-2097-4840-abd4-4d9cf058e9ab",
-      "ntitle": "gescheiterte hinrichtung heizt debatte über todesstrafe neu an",
-      "title": "Gescheiterte Hinrichtung heizt Debatte über Todesstrafe neu an",
-      "summary": "Der Fall einer Mörderin, die ihre versuchte Hinrichtung überlebte, hat die Debatte über die Todesstrafe in den USA wieder angeheizt. Die Frau ist offenbar weiter in kritischem Zustand. Ihr Anwalt spricht von diversen Pannen. Von Giselle Ucar.",
-      "source": "Tagesschau",
-      "ts": "2026-10-02T08:19:55"
-    },
-    {
-      "id": "e6cb508e-afa4-4d17-a75d-85021472b03f-SENDUNGSVIDEO",
-      "ntitle": "tagesschau 2000 uhr",
-      "title": "tagesschau 20:00 Uhr",
-      "summary": "\"Tankrabatt\" tritt in Kraft, Beratungen über Ladeinfrastruktur für E-Mobilität bei Konferenz in Berlin, Regierung diskutiert über geplante Zuckersteuer, Neues \"Schwarzbuch\" listet besonders viele Fälle von Steuerverschwendung in Hamburg auf, NATO erhält Westfälischen Friedenspreis in Münster, Bundeswehr stellt erstes Drohnenregiment auf, EU-Innenminister stimmen für Abschiebezentren in Drittstaate",
-      "source": "Tagesschau",
-      "ts": "2026-10-02T08:19:55"
-    },
-    {
-      "id": "1d392818-81d1-499f-8adb-1e48854622ab",
-      "ntitle": "steuerverschwendung bund der steuerzahler stellt neues schwarzbuch vor",
-      "title": "Steuerverschwendung: Bund der Steuerzahler stellt neues „Schwarzbuch“ vor",
-      "summary": "Steuerverschwendung: Bund der Steuerzahler stellt neues „Schwarzbuch“ vor",
-      "source": "Tagesschau",
-      "ts": "2026-10-02T08:19:55"
-    },
-    {
-      "id": "dd6bb4f5-b408-4e1b-b44e-170e61d0d397",
-      "ntitle": "pläne für zuckersteuer wer ist betroffen und ab wann",
-      "title": "Pläne für Zuckersteuer: Wer ist betroffen und ab wann?",
-      "summary": "Pläne für Zuckersteuer: Wer ist betroffen und ab wann?",
-      "source": "Tagesschau",
-      "ts": "2026-10-02T08:19:55"
-    },
-    {
-      "id": "4b544e0d-0cb8-4892-bbe0-e1eb70f0d04d",
-      "ntitle": "tankrabatt so reagieren autofahrer auf die gesunkenen spritpreise",
-      "title": "„Tankrabatt“: So reagieren Autofahrer auf die gesunkenen Spritpreise",
-      "summary": "„Tankrabatt“: So reagieren Autofahrer auf die gesunkenen Spritpreise",
-      "source": "Tagesschau",
-      "ts": "2026-10-02T08:19:55"
-    },
-    {
-      "id": "e63229a1-7436-49f1-9151-c49eb7cb019a",
-      "ntitle": "asylrecht diskussion um aussetzung in ausnahmefällen an euaußengrenzen",
-      "title": "Asylrecht: Diskussion um Aussetzung in Ausnahmefällen an EU-Außengrenzen",
-      "summary": "Asylrecht: Diskussion um Aussetzung in Ausnahmefällen an EU-Außengrenzen",
-      "source": "Tagesschau",
-      "ts": "2026-10-02T08:19:55"
-    },
-    {
-      "id": "617c750e-247b-4443-81d0-6792a1342569",
-      "ntitle": "wie sich der krieg gegen die ukraine verändert  ardkorrespondentin berichtet",
-      "title": "Wie sich der Krieg gegen die Ukraine verändert - ARD-Korrespondentin berichtet",
-      "summary": "Wie sich der Krieg gegen die Ukraine verändert - ARD-Korrespondentin berichtet",
-      "source": "Tagesschau",
-      "ts": "2026-10-02T08:19:55"
-    },
-    {
-      "id": "254f778c-af9c-4343-9d2d-f03b5a5c991b",
-      "ntitle": "gemischtes preis und stimmungsbild nach wiedereinführung des tankrabatts",
-      "title": "Gemischtes Preis- und Stimmungsbild nach Wiedereinführung des \"Tankrabatts\"",
-      "summary": "Gemischtes Preis- und Stimmungsbild nach Wiedereinführung des \"Tankrabatts\"",
-      "source": "Tagesschau",
-      "ts": "2026-10-02T08:19:55"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Trump-macht-schlechte-PR-fuer-seine-Umfragewerte-verantwortlich-id31371898.html",
-      "ntitle": "midtermswahlkampf in texas trump macht schlechte pr für seine umfragewerte verantwortlich",
-      "title": "Midterms-Wahlkampf in Texas: Trump macht schlechte PR für seine Umfragewerte verantwortlich",
-      "summary": "Die Demokraten wittern bei den Zwischenwahlen die Mehrheit im Abgeordnetenhaus. Die Beliebtheitswerte des US-Präsidenten sinken, wie Donald Trump im Wahlkampf einräumt. Er sieht den Grund dafür aber nicht in seinem politischen Handeln.",
-      "source": "ntv",
-      "ts": "2026-10-02T08:19:55"
-    },
-    {
-      "id": "https://www.n-tv.de/panorama/SEK-nimmt-drei-Terrorverdaechtige-in-Nordrhein-Westfalen-fest-id31371868.html",
-      "ntitle": "nach geheimdiensthinweis sek nimmt drei terrorverdächtige in nordrheinwestfalen fest",
-      "title": "Nach Geheimdienst-Hinweis: SEK nimmt drei Terrorverdächtige in Nordrhein-Westfalen fest",
-      "summary": "Ein 33-jähriger Deutscher und zwei syrische Staatsangehörige geraten ins Visier der Ermittler. Sie sollen eine \"staatsgefährdende Straftat\" vorbereitet haben. Zu Details des mutmaßlichen Vorhabens schweigen die Behörden.",
-      "source": "ntv",
-      "ts": "2026-10-02T08:19:55"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Hubertus-Heil-wirft-sein-Buch-in-den-Ring-und-Gauck-gibt-seinen-Segen-id31371788.html",
-      "ntitle": "mal gucken was aus ihm wird hubertus heil wirft sein buch in den ring  und gauck gibt seinen segen",
-      "title": "\"Mal gucken, was aus ihm wird\": Hubertus Heil wirft sein Buch in den Ring - und Gauck gibt seinen Segen",
-      "summary": "Aus dem politischen Abseits der SPD meldet sich Hubertus Heil mit einem Buch zu Wort, das zu lesen lohnt. Weil die Partei mal wieder kriselt, ihre Spitze wackelt und auch noch Joachim Gauck höchstpersönlich zur Premiere erscheint, geht es aber um viel mehr.",
-      "source": "ntv",
-      "ts": "2026-10-02T08:19:55"
-    },
-    {
-      "id": "https://www.n-tv.de/wissen/Nasa-Astronauten-erreichen-ISS-in-Rekordzeit-id31371927.html",
-      "ntitle": "rund 400 kilometer über der erde nasaastronauten erreichen iss in rekordzeit",
-      "title": "Rund 400 Kilometer über der Erde: Nasa-Astronauten erreichen ISS in Rekordzeit",
-      "summary": "Noch nie zuvor reisen Astronauten so schnell zur ISS wie die Crew-13 der Nasa. Die Dragon-Kapsel benötigt vom Start bis zum Andocken keine acht Stunden. Die Vorgänger-Besatzung hat deutlich länger gebraucht.",
-      "source": "ntv",
-      "ts": "2026-10-02T08:19:55"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Trump-bereut-Nominierung-der-eigenen-Supreme-Court-Richter-id31371545.html",
-      "ntitle": "stelle ihres lebens verschafft trump bereut nominierung der eigenen supremecourtrichter",
-      "title": "\"Stelle ihres Lebens verschafft\": Trump bereut Nominierung der eigenen Supreme-Court-Richter",
-      "summary": "Das Oberste Gericht der USA ist mit so vielen konservativen Richtern besetzt wie lange nicht. Trotzdem ärgert sich Präsident Trump immer wieder über Entscheidungen des Supreme Court. Den selbst auserwählten Richtern wirft er nun indirekt Illoyalität vor.",
-      "source": "ntv",
-      "ts": "2026-10-02T08:19:55"
-    },
-    {
-      "id": "https://www.n-tv.de/panorama/Tauchfirma-fordert-fuer-gescheiterte-Buckelwal-Rettung-1-3-Millionen-Euro-id31372153.html",
-      "ntitle": "geldgeberin ist unzufrieden tauchfirma fordert für gescheiterte buckelwalrettung 13 millionen euro",
-      "title": "Geldgeberin ist unzufrieden: Tauchfirma fordert für gescheiterte Buckelwal-Rettung 1,3 Millionen Euro",
-      "summary": "Im Frühjahr versucht eine private Initiative rund um eine wohlhabende Unternehmerin, den gestrandeten Buckelwal vor Poel zu retten. Das Tier stirbt nach der Freilassung vor der Küste Dänemarks. Der technische Dienstleister kämpft vor Gericht um eine Millionensumme.",
-      "source": "ntv",
-      "ts": "2026-10-02T08:19:55"
-    },
-    {
-      "id": "https://www.n-tv.de/wirtschaft/Wichtigste-Ost-West-Verbindung-14-Monate-gesperrt-id31372026.html",
-      "ntitle": "berlinhannover 80 minuten wichtigste ostwestverbindung 14 monate gesperrt",
-      "title": "Berlin-Hannover: +80 Minuten: Wichtigste Ost-West-Verbindung 14 Monate gesperrt",
-      "summary": "Eine der meistbefahrenen Ost-West-Bahnverbindungen Deutschlands zwischen Hannover und Berlin wird rund 14 Monate grundsaniert. Die Fernzüge werden umgeleitet und brauchen rund 80 Minuten länger.",
-      "source": "ntv",
-      "ts": "2026-10-02T08:19:55"
-    },
-    {
-      "id": "https://www.n-tv.de/sport/fussball/fussball_nationalmannschaft/Selbst-ueberrascht-Exakt-dieses-Spiel-hat-der-Bundestrainer-gebraucht-id31371902.html",
-      "ntitle": "klopp würgt heikle debatte ab selbst überrascht exakt dieses spiel hat der bundestrainer gebraucht",
-      "title": "Klopp würgt heikle Debatte ab: Selbst überrascht: Exakt dieses Spiel hat der Bundestrainer gebraucht",
-      "summary": "Der erste Sieg im dritten Versuch: Bundestrainer Jürgen Klopp sieht gegen Serbien einen eigentlich perfekten Abend. Am Ende sieht er sich aber mit einer Debatte konfrontiert, die er selbst unglücklich befeuert hatte.",
-      "source": "ntv",
-      "ts": "2026-10-02T08:19:55"
-    },
-    {
-      "id": "6abf45c285d64113fb06c610",
-      "ntitle": "vergewaltigungsvorwürfe an usuni werden neu untersucht",
-      "title": "Vergewaltigungsvorwürfe an US-Uni werden neu untersucht",
-      "summary": "Vor etwa zwei Jahren wurde eine Gruppenvergewaltigung an der US-Elite-Uni Cornell angezeigt – ohne große Konsequenzen. Eine Ex-Studentin der Universität wirft sieben Verbindungsmitgliedern vor, sie 2024 unter Drogen gesetzt und vergewaltigt zu haben.",
-      "source": "WELT",
-      "ts": "2026-10-02T08:19:55"
-    },
-    {
-      "id": "6abe130909fefadd71a541a9",
-      "ntitle": "der untergang der cdu",
-      "title": "Der Untergang der CDU",
-      "summary": "Die Debatte um Philipp Amthors Strandkorb ist nur ein Symptom. Dahinter steckt die jahrzehntelange Demontage konservativer Positionen. Leider hat die CDU selbst daran mitgearbeitet.",
-      "source": "WELT",
-      "ts": "2026-10-02T08:19:55"
-    },
-    {
       "id": "6e782824-0ae8-4a08-8f28-a14a7f8d8349",
       "ntitle": "verletzter flydubaipilot schildert erstmals angriff im cockpit",
       "title": "Verletzter Flydubai-Pilot schildert erstmals Angriff im Cockpit",
@@ -3031,6 +2887,150 @@
       "summary": "In Brandenburg kommt die AfD laut einer neuen Insa-Umfrage auf 40 Prozent. Die SPD von Ministerpräsident Dietmar Woidke erreicht nur noch 20 Prozent, während die CDU auf einen einstelligen Wert fällt. Auch bei den übrigen Parteien zeigen sich deutliche Verschiebungen.",
       "source": "WELT",
       "ts": "2026-10-09T21:03:56"
+    },
+    {
+      "id": "237c93a2-7d5a-4666-85c2-10bd88f62056",
+      "ntitle": "trump kündigt russische diesellieferungen an",
+      "title": "Trump kündigt russische Diesellieferungen an",
+      "summary": "Wegen der hohen Spritpreise steht Trump innenpolitisch unter wachsendem Druck. Nun verkündet der US-Präsident einen Deal mit Russland, der die Lieferung von zunächst 300.000 Tonnen Diesel für die USA und den Weltmarkt umfasst. Kiew ist empört.",
+      "source": "Tagesschau",
+      "ts": "2026-10-10T10:50:05"
+    },
+    {
+      "id": "002f56c6-312b-46e7-9387-1bce03e7e859",
+      "ntitle": "livestream die nachrichten auf tagesschau24",
+      "title": "Livestream: Die Nachrichten auf tagesschau24",
+      "summary": "Aktuelle Meldungen, vertiefende Analysen und Interviews: Verfolgen Sie das Programm des ARD-Nachrichtenkanals tagesschau24 hier.",
+      "source": "Tagesschau",
+      "ts": "2026-10-10T10:50:05"
+    },
+    {
+      "id": "e73b27ff-a27f-4b31-b9f3-e1c417549892",
+      "ntitle": "uspräsident trump vereinbart mit putin einfuhr von russischem diesel",
+      "title": "US-Präsident Trump vereinbart mit Putin Einfuhr von russischem Diesel",
+      "summary": "US-Präsident Trump vereinbart mit Putin Einfuhr von russischem Diesel",
+      "source": "Tagesschau",
+      "ts": "2026-10-10T10:50:05"
+    },
+    {
+      "id": "fdc42bce-befe-4a79-87be-2826a86cbb72",
+      "ntitle": "kritik an hinrichtungen in den usa kommt auch von amnesty international",
+      "title": "Kritik an Hinrichtungen in den USA kommt auch von Amnesty International",
+      "summary": "Kritik an Hinrichtungen in den USA kommt auch von Amnesty International",
+      "source": "Tagesschau",
+      "ts": "2026-10-10T10:50:05"
+    },
+    {
+      "id": "0ec812d1-9ad8-47d0-9f57-7799c1413067",
+      "ntitle": "ein jahr nach friedensplan für den nahen osten durch trump ebben gewalt und zerstörung in gaza nicht ab",
+      "title": "Ein Jahr nach Friedensplan für den Nahen Osten durch Trump ebben Gewalt und Zerstörung in Gaza nicht ab",
+      "summary": "Ein Jahr nach Friedensplan für den Nahen Osten durch Trump ebben Gewalt und Zerstörung in Gaza nicht ab",
+      "source": "Tagesschau",
+      "ts": "2026-10-10T10:50:05"
+    },
+    {
+      "id": "1944890b-bafb-4717-86fe-09e6b37a8731",
+      "ntitle": "usa verschärfen sanktionen gegen internationalen strafgerichtshof",
+      "title": "USA verschärfen Sanktionen gegen Internationalen Strafgerichtshof",
+      "summary": "USA verschärfen Sanktionen gegen Internationalen Strafgerichtshof",
+      "source": "Tagesschau",
+      "ts": "2026-10-10T10:50:05"
+    },
+    {
+      "id": "c3a96cd6-30c6-451b-8bb0-3d21f5805f83",
+      "ntitle": "startchancengesetz bildungsministerin prien will frühkindliche bildung stärken",
+      "title": "\"Startchancengesetz\": Bildungsministerin Prien will frühkindliche Bildung stärken",
+      "summary": "\"Startchancengesetz\": Bildungsministerin Prien will frühkindliche Bildung stärken",
+      "source": "Tagesschau",
+      "ts": "2026-10-10T10:50:05"
+    },
+    {
+      "id": "8128e34b-7bc0-44d4-83f3-fc8f92080d10",
+      "ntitle": "euhandelskommissar sefcovic gelingt durchbruch bei verhandlungen mit china",
+      "title": "EU-Handelskommissar Sefcovic gelingt Durchbruch bei Verhandlungen mit China",
+      "summary": "EU-Handelskommissar Sefcovic gelingt Durchbruch bei Verhandlungen mit China",
+      "source": "Tagesschau",
+      "ts": "2026-10-10T10:50:05"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Die-EU-sollte-abgeschafft-werden-Die-AfD-ist-Donald-Trumps-Rammbock-in-Europa-id31400100.html",
+      "ntitle": "magagrüße nach magdeburg die afd ist donald trumps rammbock in europa",
+      "title": "MAGA-Grüße nach Magdeburg: Die AfD ist Donald Trumps Rammbock in Europa",
+      "summary": "Der erste AfD-Landtagspräsident ist nicht nur eine Zäsur für die deutsche Demokratie. Die Liebesgrüße aus Washington für die rechte Partei sind es auch. Mit ihr wollen Donald Trump und Elon Musk den Widerstand gegen ihre autoritären Interessen auf dem Kontinent brechen.",
+      "source": "ntv",
+      "ts": "2026-10-10T10:50:05"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Trump-nennt-Friedensnobelpreisvergabe-schaendlich-id31402780.html",
+      "ntitle": "ich hätte ihn bekommen müssen trump nennt friedensnobelpreisvergabe schändlich",
+      "title": "\"Ich hätte ihn bekommen müssen\": Trump nennt Friedensnobelpreisvergabe \"schändlich\"",
+      "summary": "Dem Nobelkomitee in Oslo stellt Trump die denkbar schlechteste Note aus: Die Wahl der früheren Den Haager Richterin Pillay werde einen \"Fleck\" hinterlassen. Der US-Präsident erklärt zugleich, wer den Friedensnobelpreis eigentlich verdient hätte.",
+      "source": "ntv",
+      "ts": "2026-10-10T10:50:05"
+    },
+    {
+      "id": "https://www.n-tv.de/panorama/Waren-die-Morde-von-Stade-ein-Angriff-auf-den-Staat-id31399037.html",
+      "ntitle": "sechs tote bei hilfeplangespräch waren die morde von stade ein angriff auf den staat",
+      "title": "Sechs Tote bei Hilfeplangespräch: Waren die Morde von Stade ein Angriff auf den Staat?",
+      "summary": "Sechs Menschen sterben, als ein Kinderschutzfall in Stade zur Katastrophe wird. War es ein Sorgerechtsstreit - oder ein gezielter Angriff auf den Staat? Ein Sicherheitsexperte warnt vor einer unterschätzten Gefahr.",
+      "source": "ntv",
+      "ts": "2026-10-10T10:50:05"
+    },
+    {
+      "id": "https://www.n-tv.de/wirtschaft/Trump-Putin-liefert-Millionen-Tonnen-Diesel-fuer-USA-und-Weltmarkt-id31402371.html",
+      "ntitle": "äußerst erfolgreiches gespräch trump putin liefert millionen tonnen diesel für usa und weltmarkt",
+      "title": "\"Äußerst erfolgreiches Gespräch\": Trump: Putin liefert Millionen Tonnen Diesel für USA und Weltmarkt",
+      "summary": "Nach einem Telefonat mit dem Kremlchef verkündet Trump einen Deal. Dem US-Präsidenten zufolge wird Russland Millionen Tonnen Diesel liefern. Dadurch sollen die Preise in Rekordzeit sinken.",
+      "source": "ntv",
+      "ts": "2026-10-10T10:50:05"
+    },
+    {
+      "id": "https://www.n-tv.de/wirtschaft/Warum-wieder-Oel-durch-Hormus-fliesst-aber-kaum-Diesel-id31401482.html",
+      "ntitle": "nigeria liefert europa kerosin warum wieder öl durch hormus fließt aber kaum diesel",
+      "title": "Nigeria liefert Europa Kerosin: Warum wieder Öl durch Hormus fließt, aber kaum Diesel",
+      "summary": "Der Öltransport durch die Straße von Hormus ist teuer und gefährlich, aber wieder zunehmend möglich in den vergangenen Wochen. Bei Kraftstoffen wie Diesel und Kerosin, die Europa importieren muss, sieht die Lage anders aus.",
+      "source": "ntv",
+      "ts": "2026-10-10T10:50:05"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Selenskyj-zuernt-ueber-Trumps-Diesel-Deal-mit-Putin-id31402545.html",
+      "ntitle": "nicht fair und nicht ehrlich selenskyj zürnt über trumps dieseldeal mit putin",
+      "title": "\"Nicht fair und nicht ehrlich\": Selenskyj zürnt über Trumps Diesel-Deal mit Putin",
+      "summary": "Vor den Zwischenwahlen treibt der Iran-Krieg die Spritpreise in den USA auf Rekordhöhen. Putin nutzt Trumps Zwangslage aus und verspricht Washington russische Diesel-Lieferungen in großem Umfang. Für den ukrainischen Präsidenten Selenskyj ein herber Rückschlag.",
+      "source": "ntv",
+      "ts": "2026-10-10T10:50:05"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Ich-habe-einen-Notfallrucksack-gepackt-id31391030.html",
+      "ntitle": "droht angriff auf polen ich habe einen notfallrucksack gepackt",
+      "title": "Droht Angriff auf Polen?: \"Ich habe einen Notfallrucksack gepackt\"",
+      "summary": "Wie real ist ein russischer Angriff auf Polen? Der polnische Politologe Wojciech Michnik hat sich auch privat auf den Ernstfall vorbereitet - und warnt vor einem deutschen Irrtum.",
+      "source": "ntv",
+      "ts": "2026-10-10T10:50:05"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Der-Deutsche-Bundestag-erlebt-seine-duesterste-Stunde-id31401476.html",
+      "ntitle": "afd feixt vor glück der deutsche bundestag erlebt seine düsterste stunde",
+      "title": "AfD feixt vor Glück: Der Deutsche Bundestag erlebt seine düsterste Stunde",
+      "summary": "Haben CDU'ler für einen AfD-Landtagspräsidenten gestimmt? Die Frage beschäftigt auch den Bundestag - und zerlegt die Fraktionen derart, dass die AfD wohl kaum weiß, wohin vor Glück. Aus Sicht aller anderen Parteien ist die Debatte ein Trauerspiel.",
+      "source": "ntv",
+      "ts": "2026-10-10T10:50:05"
+    },
+    {
+      "id": "6ac768ca56bb097d5a89ecb9",
+      "ntitle": "der exklusive blick in die depots der deutschen  das sind ihre 12 aktienfavoriten",
+      "title": "Der exklusive Blick in die Depots der Deutschen – das sind ihre 12 Aktien-Favoriten",
+      "summary": "Die Deutschen positionieren sich für die Jahresendrallye. Eine exklusive WELT-Auswertung unter führenden Brokern zeigt, auf welche zwölf Aktien sie jetzt setzen. Neben KI-Gewinnern rücken neue Favoriten nach vorn.",
+      "source": "WELT",
+      "ts": "2026-10-10T10:50:05"
+    },
+    {
+      "id": "6ac9ef6161b3d4c01d3e1e6d",
+      "ntitle": "portugiesischer verband suspendiert ronaldo  und gratuliert ihm wenig später",
+      "title": "Portugiesischer Verband suspendiert Ronaldo – und gratuliert ihm wenig später",
+      "summary": "Cristiano Ronaldo sorgte mit seiner Flucht vom portugiesischen Nationalteam für reichlich Schlagzeilen. Ihm droht weiteres Ungemach, er heimst aber auch überraschend Zuneigung ein.",
+      "source": "WELT",
+      "ts": "2026-10-10T10:50:05"
     }
   ],
   "breaking_seen": [
@@ -3049,7 +3049,7 @@
     "39e743d3-98f8-4575-86aa-55ef943b00e8"
   ],
   "last_run": {
-    "digest_morning": "2026-10-09",
+    "digest_morning": "2026-10-10",
     "digest_noon": "2026-10-09",
     "digest_evening": "2026-10-09",
     "daily": "2026-10-09",
