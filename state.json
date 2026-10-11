@@ -1,150 +1,6 @@
 {
   "history": [
     {
-      "id": "ff818ab9-8133-4c51-b744-3f96c10b5b33",
-      "ntitle": "tag der deutschen einheit kirchen fordern zusammenhalt  warnung vor polarisierung",
-      "title": "Tag der Deutschen Einheit: Kirchen fordern Zusammenhalt - Warnung vor Polarisierung",
-      "summary": "In Bremen hat die offizielle Feier zum Tag der Deutschen Einheit begonnen. Kirchenvertreter warnten dabei vor einer Polarisierung der Gesellschaft. Die Ostbeauftragte Kaiser plädierte unterdessen für eine ostdeutsche Bundespräsidentin.",
-      "source": "Tagesschau",
-      "ts": "2026-10-03T14:04:32"
-    },
-    {
-      "id": "002f56c6-312b-46e7-9387-1bce03e7e859",
-      "ntitle": "livestream die nachrichten auf tagesschau24",
-      "title": "Livestream: Die Nachrichten auf tagesschau24",
-      "summary": "Aktuelle Meldungen, vertiefende Analysen und Interviews: Verfolgen Sie das Programm des ARD-Nachrichtenkanals tagesschau24 hier.",
-      "source": "Tagesschau",
-      "ts": "2026-10-03T14:04:32"
-    },
-    {
-      "id": "134863bc-aa63-417d-87cc-6488682b359c",
-      "ntitle": "bundespräsident steinmeier hält rede bei feiern zum tag der deutschen einheit in bremen",
-      "title": "Bundespräsident Steinmeier hält Rede bei Feiern zum Tag der Deutschen Einheit in Bremen",
-      "summary": "Bundespräsident Steinmeier hält Rede bei Feiern zum Tag der Deutschen Einheit in Bremen",
-      "source": "Tagesschau",
-      "ts": "2026-10-03T14:04:32"
-    },
-    {
-      "id": "db829bae-d3d9-4846-a679-eb6664ad1358",
-      "ntitle": "hatte im oman flugverbot jonas salto ardaktuell zum angriff von copilot in flydubaiflugzeug",
-      "title": "\"Hatte im Oman Flugverbot\", Jonas Salto, ARD-aktuell, zum Angriff von Co-Pilot in Flydubai-Flugzeug",
-      "summary": "\"Hatte im Oman Flugverbot\", Jonas Salto, ARD-aktuell, zum Angriff von Co-Pilot in Flydubai-Flugzeug",
-      "source": "Tagesschau",
-      "ts": "2026-10-03T14:04:32"
-    },
-    {
-      "id": "0284bb3a-39dd-4b83-8bdd-fa03ed4fa4f0",
-      "ntitle": "parlamentswahl in lettland hat begonnen",
-      "title": "Parlamentswahl in Lettland hat begonnen",
-      "summary": "Parlamentswahl in Lettland hat begonnen",
-      "source": "Tagesschau",
-      "ts": "2026-10-03T14:04:32"
-    },
-    {
-      "id": "62b6c674-1f12-42a2-b4fe-2f5fd5101fdb",
-      "ntitle": "brasilien wählt neuen präsidenten  umfragen sehen knappes ergebnis",
-      "title": "Brasilien wählt neuen Präsidenten - Umfragen sehen knappes Ergebnis",
-      "summary": "Brasilien wählt neuen Präsidenten - Umfragen sehen knappes Ergebnis",
-      "source": "Tagesschau",
-      "ts": "2026-10-03T14:04:32"
-    },
-    {
-      "id": "1d40d87a-9448-46e8-8706-db3e43201505",
-      "ntitle": "wegen wohnungsnot fordert deutscher städte und gemeindebund attraktivere gestaltung von ländlichem raum",
-      "title": "Wegen Wohnungsnot fordert Deutscher Städte- und Gemeindebund attraktivere Gestaltung von ländlichem Raum",
-      "summary": "Wegen Wohnungsnot fordert Deutscher Städte- und Gemeindebund attraktivere Gestaltung von ländlichem Raum",
-      "source": "Tagesschau",
-      "ts": "2026-10-03T14:04:32"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Warum-immer-mehr-Deutschpolen-die-AfD-waehlen-id31369807.html",
-      "ntitle": "mussten uns alles erarbeiten warum immer mehr deutschpolen die afd wählen",
-      "title": "\"Mussten uns alles erarbeiten\": Warum immer mehr Deutschpolen die AfD wählen",
-      "summary": "Die AfD gewinnt unter Menschen polnischer Herkunft an Zuspruch. Gründe dafür erfährt eine polnische Gemeinderätin in Löcknitz in Mecklenburg-Vorpommern im Gespräch mit Anwohnern. Die Entwicklung macht sie dennoch fassungslos.",
-      "source": "ntv",
-      "ts": "2026-10-03T14:04:32"
-    },
-    {
-      "id": "https://www.n-tv.de/wirtschaft/KI-Horrorwarnungen-sind-die-ideale-Werbung-fuer-Techriesen-id31370676.html",
-      "ntitle": "wer gewinnt das rennen kihorrorwarnungen sind die ideale werbung für techriesen",
-      "title": "Wer gewinnt das Rennen?: KI-Horrorwarnungen sind die ideale Werbung für Techriesen",
-      "summary": "Die Entwickler Künstlicher Intelligenz warnen vor dem eigenen Produkt. Was paradox klingt, dürfte sich auszahlen. Welches Risiko real ist, spielt dabei gar keine Rolle.",
-      "source": "ntv",
-      "ts": "2026-10-03T14:04:32"
-    },
-    {
-      "id": "https://www.n-tv.de/panorama/Radikale-Ideologie-Flydubai-Copilot-hatte-Flugverbot-im-Oman-id31376408.html",
-      "ntitle": "ermittler bestätigen terrorakt flydubaicopilot griff mit notaxt an  und hatte flugverbot im oman",
-      "title": "Ermittler bestätigen Terrorakt: Flydubai-Copilot griff mit Notaxt an - und hatte Flugverbot im Oman",
-      "summary": "Auf dem Weg von Dubai nach Tel Aviv greift ein Copilot aus dem Oman den Piloten mit einer Notaxt an. Der Plan: Er möchte das Flugzeug vorsätzlich zum Absturz bringen. Gerade so können Flugkapitän und Passagiere das Unglück verhindern. In seiner Heimat waren die radikalen Ansichten des Copiloten längst bekannt.",
-      "source": "ntv",
-      "ts": "2026-10-03T14:04:32"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Trump-verspricht-Millionen-Amerikanern-Einmalzahlungen-id31376412.html",
-      "ntitle": "geldgeschenke für senioren trump verspricht millionen amerikanern einmalzahlungen",
-      "title": "Geldgeschenke für Senioren: Trump verspricht Millionen Amerikanern Einmalzahlungen",
-      "summary": "Die Kongresswahlen rücken näher und US-Präsident Trump lässt nichts unversucht, um aus dem Umfragetief herauszukommen. Nun lockt er ältere Wähler mit einer Handvoll Dollar.",
-      "source": "ntv",
-      "ts": "2026-10-03T14:04:32"
-    },
-    {
-      "id": "https://www.n-tv.de/wirtschaft/Irans-Waehrung-im-freien-Fall-id31376994.html",
-      "ntitle": "kaufkraft sinkt dramatisch irans währung im freien fall",
-      "title": "Kaufkraft sinkt dramatisch: Irans Währung im freien Fall",
-      "summary": "Krieg, Sanktionen und Blockaden: Die iranische Wirtschaft liegt am Boden. Mit drastischen Auswirkungen für die Bevölkerung.",
-      "source": "ntv",
-      "ts": "2026-10-03T14:04:32"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Steinmeier-konstatiert-eine-Lust-an-der-Zerstoerung-id31377074.html",
-      "ntitle": "präsident warnt am einheitstag steinmeier konstatiert eine lust an der zerstörung",
-      "title": "Präsident warnt am Einheitstag: Steinmeier konstatiert eine \"Lust an der Zerstörung\"",
-      "summary": "Fast vier Jahrzehnte nach dem Mauerfall sieht Bundespräsident Steinmeier eine profunde Vertrauenskrise. Große Teile der Bürger erklärten ihr Misstrauen gegen die politische Ordnung der Bundesrepublik, sagt das Staatsoberhaupt am Tag der Deutschen Einheit.",
-      "source": "ntv",
-      "ts": "2026-10-03T14:04:32"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Saechsisches-Innenministerium-loescht-Kritik-an-Berliner-Linken-id31376569.html",
-      "ntitle": "auch reiche erhielt anwaltspost sächsisches innenministerium löscht kritik an berliner linken",
-      "title": "Auch Reiche erhielt Anwaltspost: Sächsisches Innenministerium löscht Kritik an Berliner Linken",
-      "summary": "Als die Linke die Berliner Abgeordnetenhauswahl gewinnt, kann Sachsens Innenminister nicht mehr an sich halten: Auf den offiziellen Kanälen des Ministeriums kritisiert er die Partei. Doch dann geht Anwaltspost ein. Das Ministerium reagiert.",
-      "source": "ntv",
-      "ts": "2026-10-03T14:04:32"
-    },
-    {
-      "id": "https://www.n-tv.de/wirtschaft/Normalbenzin-kostet-in-Polen-jetzt-1-54-Euro-id31376757.html",
-      "ntitle": "spritpreisbremse tritt in kraft normalbenzin kostet in polen jetzt 154 euro",
-      "title": "Spritpreisbremse tritt in Kraft: Normalbenzin kostet in Polen jetzt 1,54 Euro",
-      "summary": "Seit Jahren ist Polen das Paradies deutscher Autofahrer - zumindest was die Preise an der Tankstelle angeht. Ab diesem Wochenende dürfte ein Abstecher ins Nachbarland für viele noch einmal attraktiver werden.",
-      "source": "ntv",
-      "ts": "2026-10-03T14:04:32"
-    },
-    {
-      "id": "6ac062a90b713e82b7a9437b",
-      "ntitle": "copilot nahm notfallaxt aus cockpit als waffe  29jähriger hatte wegen radikalisierung flugverbot",
-      "title": "Copilot nahm Notfallaxt aus Cockpit als Waffe – 29-Jähriger hatte wegen Radikalisierung Flugverbot",
-      "summary": "Der Copilot, der auf dem Flydubai-Flug nach Israel den Piloten verletzte, soll einem Flugverbot unterlegen haben. Zuvor war bei ihm extremistisches Material gefunden worden. Nun haben sich die Ermittler geäußert.",
-      "source": "WELT",
-      "ts": "2026-10-03T14:04:32"
-    },
-    {
-      "id": "6abfae17863d7086e2273a23",
-      "ntitle": "biden hat ruiniert trump saniert jetzt offenbart sich amerikas wahre arbeitsmarktbilanz",
-      "title": "Biden hat ruiniert, Trump saniert? Jetzt offenbart sich Amerikas wahre Arbeitsmarkt-Bilanz",
-      "summary": "Donald Trump erklärte Bidens Wirtschaftsbilanz zum Desaster und seine eigene zum Comeback. Der letzte Bericht vor den Midterms zeichnet dieses Bild: Die Jobmaschine stottert, die Arbeitslosigkeit bleibt niedrig. .",
-      "source": "WELT",
-      "ts": "2026-10-03T14:04:32"
-    },
-    {
-      "id": "6abf88f2d4d0c24ec26d15f7",
-      "ntitle": "ich liebe meinen mann aber ich kann ihn oft nur sehr schwer aushalten",
-      "title": "„Ich liebe meinen Mann, aber ich kann ihn oft nur sehr schwer aushalten“",
-      "summary": "K. liebt ihren Mann und würde ihn nie verlassen. Doch mit den Jahren gehen ihr seine schlechte Laune und seine Marotten immer stärker auf die Nerven. Unsere Autorin erklärt, auf welche Fähigkeit es nun ankommt.",
-      "source": "WELT",
-      "ts": "2026-10-03T14:04:32"
-    },
-    {
       "id": "56fc88a7-b772-45ba-be1b-796fbefbda53",
       "ntitle": "fachkräfte fehlen  doch es gibt auch chancen in ostdeutschland",
       "title": "Fachkräfte fehlen - doch es gibt auch Chancen in Ostdeutschland",
@@ -3031,6 +2887,150 @@
       "summary": "Die Bundeswehr versucht beim Digitalfunk zu retten, was zu retten ist. In Munster läuft gerade eine Einsatzprüfung. Doch wieder gab es Rückschläge: schlechte Sprachqualität, zu lange Antennen und langsame Umrüstfirmen.",
       "source": "WELT",
       "ts": "2026-10-11T09:19:27"
+    },
+    {
+      "id": "8989edf1-9b6f-4f5c-8ddc-2594650d57d4",
+      "ntitle": "huthiangriff auf flughafen riad alptraum am abfluggate",
+      "title": "Huthi-Angriff auf Flughafen Riad: Alptraum am Abflug-Gate",
+      "summary": "Ein Einschlag mitten im Terminal: Der jüngste Raketenangriff am Flughafen Riad ist der schwerste auf Saudi-Arabien seit Beginn des Iran-Kriegs. Augenzeugen berichten von Panik und vielen Opfern. Greifen jetzt die USA ein? Von Anna Osius.",
+      "source": "Tagesschau",
+      "ts": "2026-10-11T16:15:09"
+    },
+    {
+      "id": "2fcff9a9-48ba-4892-9e64-243d6157a3a6",
+      "ntitle": "saudiarabien viele tote bei angriff auf flughafen in riad",
+      "title": "Saudi-Arabien: Viele Tote bei Angriff auf Flughafen in Riad",
+      "summary": "Der Konflikt zwischen Saudi-Arabien und der Huthi-Miliz verschärft sich: Nun gab es bei einem Angriff in Riad mindestens zwölf Tote und Hunderte Verletzte. Der Flughafenbetrieb blieb zunächst ausgesetzt.",
+      "source": "Tagesschau",
+      "ts": "2026-10-11T16:15:09"
+    },
+    {
+      "id": "e5667d38-d3c7-4282-ad43-f885cf4fa6d6",
+      "ntitle": "angriffe auf riad und straße von hormus verschärfen spannungen im nahen osten",
+      "title": "Angriffe auf Riad und Straße von Hormus verschärfen Spannungen im Nahen Osten",
+      "summary": "Angriffe auf Riad und Straße von Hormus verschärfen Spannungen im Nahen Osten",
+      "source": "Tagesschau",
+      "ts": "2026-10-11T16:15:09"
+    },
+    {
+      "id": "4b3fcc51-70d8-441c-9f1e-c91941dbfe4c",
+      "ntitle": "tim kukral ard kairo über die attacke auf den flughafen riad",
+      "title": "Tim Kukral, ARD Kairo, über die Attacke auf den Flughafen Riad",
+      "summary": "Tim Kukral, ARD Kairo, über die Attacke auf den Flughafen Riad",
+      "source": "Tagesschau",
+      "ts": "2026-10-11T16:15:09"
+    },
+    {
+      "id": "dbf423de-3b0a-4f9e-b131-1452dc8cb8f4",
+      "ntitle": "kritik an trumps äußerung zur ukraine",
+      "title": "Kritik an Trumps Äußerung zur Ukraine",
+      "summary": "Kritik an Trumps Äußerung zur Ukraine",
+      "source": "Tagesschau",
+      "ts": "2026-10-11T16:15:09"
+    },
+    {
+      "id": "cd5d9733-df6c-4e99-881b-1b57b4f256c9",
+      "ntitle": "usjustizministerium prüft vorgehen von sendern gegen uspräsident trump",
+      "title": "US-Justizministerium prüft Vorgehen von Sendern gegen US-Präsident Trump",
+      "summary": "US-Justizministerium prüft Vorgehen von Sendern gegen US-Präsident Trump",
+      "source": "Tagesschau",
+      "ts": "2026-10-11T16:15:09"
+    },
+    {
+      "id": "1f693c46-e8c3-4fc6-8423-972f249fd79a",
+      "ntitle": "cduparteiführung berät nach wahlniederlagen",
+      "title": "CDU-Parteiführung berät nach Wahlniederlagen",
+      "summary": "CDU-Parteiführung berät nach Wahlniederlagen",
+      "source": "Tagesschau",
+      "ts": "2026-10-11T16:15:09"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Politikerinnen-attestieren-Trump-moralischen-Bankrott-id31404940.html",
+      "ntitle": "auf seite des mörders politikerinnen attestieren trump moralischen bankrott",
+      "title": "\"Auf Seite des Mörders\": Politikerinnen attestieren Trump \"moralischen Bankrott\"",
+      "summary": "Nach seinem Diesel-Deal mit Russland setzt US-Präsident Trump noch einen drauf und fordert einen neuen Präsidenten für die Ukraine. In Deutschland löst das parteiübergreifend Empörung aus. Auf die USA sei kein Verlass - im Gegenteil.",
+      "source": "ntv",
+      "ts": "2026-10-11T16:15:09"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/politik_kommentare/Was-Trump-macht-ist-Geopolitik-fuer-unfaehige-Stuemper-id31404526.html",
+      "ntitle": "russland iran huthi was trump macht ist geopolitik für unfähige stümper",
+      "title": "Russland, Iran, Huthi: Was Trump macht, ist Geopolitik für unfähige Stümper",
+      "summary": "Es ist ein geopolitischer Offenbarungseid: US-Präsident Trump hilft dem Verbündeten seiner Feinde, um die Dieselpreise in den USA zu senken - die vor allem deshalb so hoch sind, weil er einen unsinnigen Krieg angefangen hat.",
+      "source": "ntv",
+      "ts": "2026-10-11T16:15:09"
+    },
+    {
+      "id": "https://www.n-tv.de/panorama/Knoten-in-der-Lunge-Papst-Leo-muss-operiert-werden-id31405195.html",
+      "ntitle": "verkündung bei sonntagsgebet knoten in der lunge papst leo muss operiert werden",
+      "title": "Verkündung bei Sonntagsgebet: \"Knoten in der Lunge\": Papst Leo muss operiert werden",
+      "summary": "Sorge um den Heiligen Vater: Papst Leo gibt beim Sonntagsgebet überraschend bekannt, dass er sich einer Operation unterziehen muss. Bei ihm sei ein \"Knoten in der Lunge\" entdeckt worden. Was das genau bedeutet, ist noch unklar.",
+      "source": "ntv",
+      "ts": "2026-10-11T16:15:09"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Babis-verdient-sich-mit-EU-Agrarsubventionen-eine-goldene-Nase-id31397443.html",
+      "ntitle": "jede reform will er abschmettern babi verdient sich mit euagrarsubventionen eine goldene nase",
+      "title": "Jede Reform will er abschmettern: Babiš verdient sich mit EU-Agrarsubventionen eine goldene Nase",
+      "summary": "EU-Regierungschefs ist es verboten, von europäischen Subventionen zu profitieren. Tschechiens Premier Babiš lässt sich davon nicht beirren. Sein Agrarkonzern Agrofert erhält jedes Jahr Millionen Euro Fördergelder aus Brüssel. Sein Landwirtschaftsminister sorgt dafür, dass es so bleibt.",
+      "source": "ntv",
+      "ts": "2026-10-11T16:15:09"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Der-Renten-Streit-ist-wieder-voll-im-Gange-id31405167.html",
+      "ntitle": "miersch bringt gipfel ins spiel der rentenstreit ist wieder voll im gange",
+      "title": "Miersch bringt Gipfel ins Spiel: Der Renten-Streit ist wieder voll im Gange",
+      "summary": "SPD-Vertreter stellen die Rentenreformpläne immer wieder infrage. Nun schlägt Fraktionschef Miersch vor, weitere Akteure einzubeziehen. Die Koalition sieht er aber nicht auf der Kippe. Die Union fordert mehr Entscheidungsfreude.",
+      "source": "ntv",
+      "ts": "2026-10-11T16:15:09"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Friedenspreistraeger-nennt-deutsches-Schweigen-zu-Israel-unanstaendig-id31405239.html",
+      "ntitle": "rede von philippe sands friedenspreisträger nennt deutsches schweigen zu israel unanständig",
+      "title": "Rede von Philippe Sands: Friedenspreisträger nennt deutsches Schweigen zu Israel \"unanständig\"",
+      "summary": "Der Friedenspreis des Deutschen Buchhandels geht in diesem Jahr an den französisch-britischen Völkerrechtsanwalt Philippe Sands. In seiner Rede in der Paulskirche fordert der ein Ende der \"Debattenbeschränkungen\" in Deutschland.",
+      "source": "ntv",
+      "ts": "2026-10-11T16:15:09"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/US-Praesident-scherzt-ueber-Umbenennung-von-Ozeanen-id31405362.html",
+      "ntitle": "trump ocean uspräsident scherzt über umbenennung von ozeanen",
+      "title": "\"Trump Ocean\": US-Präsident scherzt über Umbenennung von Ozeanen",
+      "summary": "Erst ein Golf, dann ein See, nun gar ein Ozean? US-Präsident Trump scheint seine Reihe von Umbenennungen fortsetzen zu wollen - und macht dabei auch vor dem Atlantik oder Pazifik nicht Halt. Ob er die Idee ernst meint, macht er indes nicht deutlich.",
+      "source": "ntv",
+      "ts": "2026-10-11T16:15:09"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Attentats-Hinweise-alarmieren-polnische-Regierung-id31405452.html",
+      "ntitle": "anschläge auf spitzenpolitiker attentatshinweise alarmieren polnische regierung",
+      "title": "Anschläge auf Spitzenpolitiker?: Attentats-Hinweise alarmieren polnische Regierung",
+      "summary": "Die Hintergründe sind noch unklar, die Vorwürfe haben es aber in sich: Nach Erkenntnissen der polnischen Behörden soll es geplante Attentate auf Regierungschef Tusk und Verteidigungsminister Kosiniak-Kamysz geben. Das Land ist wegen zahlreicher Gewalttaten zuletzt ohnehin in Alarmstimmung.",
+      "source": "ntv",
+      "ts": "2026-10-11T16:15:09"
+    },
+    {
+      "id": "6acb904544e61ce244fcd8c3",
+      "ntitle": "aufstand gegen zuckersteuer  neun unionsminister schreiben protestbrief an kanzler merz",
+      "title": "Aufstand gegen Zuckersteuer – Neun Unions-Minister schreiben Protestbrief an Kanzler Merz",
+      "summary": "Neues Kapitel im Zuckersteuer-Streit: Neun Landwirtschafts- und Verbraucherschutzminister der Union stellen sich gegen die Abgabe. Kurz zuvor einigte sich Schwarz-Rot noch auf ein gemeinsames Vorgehen.",
+      "source": "WELT",
+      "ts": "2026-10-11T16:15:09"
+    },
+    {
+      "id": "6acb84a261b3d4c01d3e32fc",
+      "ntitle": "sieben spiele sieben siege  hertha bsc bleibt das maß aller dinge",
+      "title": "Sieben Spiele, sieben Siege – Hertha BSC bleibt das Maß aller Dinge",
+      "summary": "Knapp 60.000 Zuschauer feiern Hertha BSC: Die Berliner gewinnen daheim auch gegen Fürth – und bauen die Tabellenführung in der Zweiten Liga aus. Bochum stolpert gegen Bielefeld, St. Pauli verschärft die Krise des Karlsruher SC.",
+      "source": "WELT",
+      "ts": "2026-10-11T16:15:09"
+    },
+    {
+      "id": "6acb81935528343575e003da",
+      "ntitle": "60 prozent mehr in neun jahren  fettleber breitet sich unter jungen erwachsenen aus",
+      "title": "60 Prozent mehr in neun Jahren – Fettleber breitet sich unter jungen Erwachsenen aus",
+      "summary": "Eine Fettleber wird in Deutschland zunehmend zum Problem der Jüngeren. Um fast 60 Prozent stieg der Anteil der Betroffenen unter 40 zwischen 2016 und 2025, heißt es in einem Medienbericht.",
+      "source": "WELT",
+      "ts": "2026-10-11T16:15:09"
     }
   ],
   "breaking_seen": [
@@ -3050,7 +3050,7 @@
   ],
   "last_run": {
     "digest_morning": "2026-10-11",
-    "digest_noon": "2026-10-10",
+    "digest_noon": "2026-10-11",
     "digest_evening": "2026-10-10",
     "daily": "2026-10-10",
     "weekly": "2026-W40"
