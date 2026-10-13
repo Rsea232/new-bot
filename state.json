@@ -1,150 +1,6 @@
 {
   "history": [
     {
-      "id": "2ce52cc9-d5b9-4170-8cfa-fa60e11b7a64",
-      "ntitle": "wie die chefs der nachrichtendienste die sicherheitslage einschätzen",
-      "title": "Wie die Chefs der Nachrichtendienste die Sicherheitslage einschätzen",
-      "summary": "Einschüchterung, Cyberangriffe, Anschlagspläne - Russland führe einen \"Schattenkrieg\" gegen Deutschland, sagt BND-Chef Jäger. Ein offener Krieg sei das nicht, doch die Grenze verschwimme. Was bedeutet das? Von O. Neuroth.",
-      "source": "Tagesschau",
-      "ts": "2026-10-05T20:14:44"
-    },
-    {
-      "id": "a5114520-8af6-4ff0-be66-f2c578c703ac",
-      "ntitle": "kommunikation von nervenzellen im gehirn forschertrio erhält medizinnobelpreis",
-      "title": "Kommunikation von Nervenzellen im Gehirn: Forscher-Trio erhält Medizin-Nobelpreis",
-      "summary": "Kommunikation von Nervenzellen im Gehirn: Forscher-Trio erhält Medizin-Nobelpreis",
-      "source": "Tagesschau",
-      "ts": "2026-10-05T20:14:44"
-    },
-    {
-      "id": "8884b4b3-7ca3-4d0f-b59b-dac2c18ddeb7",
-      "ntitle": "zweiter marinehafen in emden darum ist er militärisch so wichtig",
-      "title": "Zweiter Marinehafen in Emden: Darum ist er militärisch so wichtig",
-      "summary": "Zweiter Marinehafen in Emden: Darum ist er militärisch so wichtig",
-      "source": "Tagesschau",
-      "ts": "2026-10-05T20:14:44"
-    },
-    {
-      "id": "2eece579-61af-4e52-ad28-88601ebdb7b6",
-      "ntitle": "krieg ohne kriegserklärung was der bnd über russlands pläne sagt",
-      "title": "„Krieg ohne Kriegserklärung“: Was der BND über Russlands Pläne sagt",
-      "summary": "„Krieg ohne Kriegserklärung“: Was der BND über Russlands Pläne sagt",
-      "source": "Tagesschau",
-      "ts": "2026-10-05T20:14:44"
-    },
-    {
-      "id": "7486bacd-6460-4141-a78e-bb62eacfec63",
-      "ntitle": "nobelpreis für medizin 2026 geht an zwei deutsche  jana sinram ard stockholm",
-      "title": "Nobelpreis für Medizin 2026 geht an zwei Deutsche - Jana Sinram, ARD Stockholm",
-      "summary": "Nobelpreis für Medizin 2026 geht an zwei Deutsche - Jana Sinram, ARD Stockholm",
-      "source": "Tagesschau",
-      "ts": "2026-10-05T20:14:44"
-    },
-    {
-      "id": "fc8b993b-5a9c-44a8-92bb-a8e56bfb13b6",
-      "ntitle": "bnd mad und verfassungsschutz warnen bei anhörung vor aktivitäten russlands",
-      "title": "BND, MAD und Verfassungsschutz warnen bei Anhörung vor Aktivitäten Russlands",
-      "summary": "BND, MAD und Verfassungsschutz warnen bei Anhörung vor Aktivitäten Russlands",
-      "source": "Tagesschau",
-      "ts": "2026-10-05T20:14:44"
-    },
-    {
-      "id": "8c55a14f-f632-4ad6-bd41-59bd75199d6c",
-      "ntitle": "spaniens ministerpräsident snchez kündigt vorgezogene neuwahlen an",
-      "title": "Spaniens Ministerpräsident Sánchez kündigt vorgezogene Neuwahlen an",
-      "summary": "Spaniens Ministerpräsident Sánchez kündigt vorgezogene Neuwahlen an",
-      "source": "Tagesschau",
-      "ts": "2026-10-05T20:14:44"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/BND-Chef-Russland-stellt-uns-auf-die-Probe-id31383900.html",
-      "ntitle": "lizenz zur attacke für spione bndchef russland stellt uns auf die probe",
-      "title": "Lizenz zur Attacke für Spione?: BND-Chef: \"Russland stellt uns auf die Probe\"",
-      "summary": "Der BND erwartet weitere Eingriffe Russlands \"auch bei uns\", sagt Dienst-Chef Jäger. Zur Abwehr brauchen Spione mehr Befugnisse. Doch Kritikern geht das geplante neue Gesetz zu weit.",
-      "source": "ntv",
-      "ts": "2026-10-05T20:14:44"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Moskau-hat-Vergeltung-angekuendigt-die-sehen-wir-jetzt-id31383280.html",
-      "ntitle": "reisners blick auf die front moskau hat vergeltung angekündigt  die sehen wir jetzt",
-      "title": "Reisners Blick auf die Front: \"Moskau hat Vergeltung angekündigt - die sehen wir jetzt\"",
-      "summary": "Manche Knotenpunkte für Infrastruktur ließ der Kreml bislang außen vor. Jetzt attackiert er auch wichtige Brücken in Kiew. Dahinter stecke ein verändertes Kalkül, sagt Oberst Reisner. Von der ukrainischen Armee erwartet er im Herbst Angriffe mit Überraschungseffekt.",
-      "source": "ntv",
-      "ts": "2026-10-05T20:14:44"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Neue-Jahrhundert-Frage-koennte-Spanien-Wahl-entscheiden-id31384042.html",
-      "ntitle": "new york berlin madrid neue jahrhundertfrage könnte spanienwahl entscheiden",
-      "title": "New York, Berlin, Madrid: Neue Jahrhundert-Frage könnte Spanien-Wahl entscheiden",
-      "summary": "Spaniens Ministerpräsident Sánchez strebt Neuwahlen an - und wird auch Wahlkampf mit hohen Mieten und dem Recht auf Unterkunft machen. Das Thema hebt die neue soziale Frage auf ein neues Level und weist weit über Spanien hinaus.",
-      "source": "ntv",
-      "ts": "2026-10-05T20:14:44"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Tobias-Rausch-will-kein-Hardliner-sein-id31384039.html",
-      "ntitle": "erster afdlandtagspräsident tobias rausch will kein hardliner sein",
-      "title": "Erster AfD-Landtagspräsident?: Tobias Rausch will \"kein Hardliner\" sein",
-      "summary": "AfD-Politiker Rausch arbeitet meist im Hintergrund und gilt als pragmatischer Verhandler. Nun soll er das höchste Amt im Landtag übernehmen, doch nicht alle Fraktionen wollen ihn unterstützen.",
-      "source": "ntv",
-      "ts": "2026-10-05T20:14:44"
-    },
-    {
-      "id": "https://www.n-tv.de/wirtschaft/Nach-dem-Praemien-Rausch-droht-bei-E-Autos-der-naechste-Einbruch-id31383267.html",
-      "ntitle": "minister lobt experte warnt nach dem prämienrausch droht bei eautos der nächste einbruch",
-      "title": "Minister lobt, Experte warnt: Nach dem Prämien-Rausch droht bei E-Autos der nächste Einbruch",
-      "summary": "100.000 Autofahrer haben die E-Auto-Prämie bereits genutzt. Die Regierung jubelt. Doch Autoexperte Frank Schwope schlägt Alarm: Sobald das Budget aufgebraucht ist, folgt der nächste Dämpfer für den Markt.",
-      "source": "ntv",
-      "ts": "2026-10-05T20:14:44"
-    },
-    {
-      "id": "https://www.n-tv.de/wirtschaft/Iran-verpasst-Hormus-Hoffnungen-einen-brutalen-Daempfer-id31381212.html",
-      "ntitle": "angriffswelle auf tanker iran verpasst hormushoffnungen einen brutalen dämpfer",
-      "title": "Angriffswelle auf Tanker: Iran verpasst Hormus-Hoffnungen einen brutalen Dämpfer",
-      "summary": "Im September fließt wieder Rohöl durch die Straße von Hormus wie in den Zeiten vor dem Iran-Krieg. Doch Teheran reagiert schnell und startet eine neue Angriffswelle auf Öltransporter. Erste Anzeichen deuten darauf hin, dass das Regime mit der Einschüchterungstaktik Erfolg haben könnte.",
-      "source": "ntv",
-      "ts": "2026-10-05T20:14:44"
-    },
-    {
-      "id": "https://www.n-tv.de/wirtschaft/Privatisierung-von-ehemaliger-Gazprom-Tochter-koennte-Milliarden-bringen-id31383615.html",
-      "ntitle": "bund steigt bei sefe aus privatisierung von ehemaliger gazpromtochter könnte milliarden bringen",
-      "title": "Bund steigt bei Sefe aus: Privatisierung von ehemaliger Gazprom-Tochter könnte Milliarden bringen",
-      "summary": "Vor knapp vier Jahren hat die Bundesregierung die ehemalige Deutschlandtochter von Gazprom verstaatlicht. Nun will der Bund das inzwischen in Sefe umbenannte Unternehmen privatisieren. Wie viel ist dieser zentrale Akteur der deutschen Gasversorgung wert? Und wem steht der Verkaufserlös zu?",
-      "source": "ntv",
-      "ts": "2026-10-05T20:14:44"
-    },
-    {
-      "id": "https://www.n-tv.de/wirtschaft/Sprit-fast-ueberall-teurer-als-zu-Beginn-des-Tankrabatts-id31382713.html",
-      "ntitle": "entlastung schmilzt zusammen sprit fast überall teurer als zu beginn des tankrabatts",
-      "title": "\"Entlastung schmilzt zusammen\": Sprit fast überall teurer als zu Beginn des Tankrabatts",
-      "summary": "Der Tankrabatt kostet den Staat Milliarden und soll die Autofahrer entlasten. Gestiegene Preise an den Zapfsäulen führen aber dazu, dass letztlich weniger gespart wird als erhofft. Bei einem Kraftstoff ist der Preisanstieg außerdem nur schwer nachvollziehbar.",
-      "source": "ntv",
-      "ts": "2026-10-05T20:14:44"
-    },
-    {
-      "id": "6ac38179fde19fde7c1c52fa",
-      "ntitle": "ihr rücktritt wäre unausweichlich  graichen attackiert reiches gasstrategie",
-      "title": "„Ihr Rücktritt wäre unausweichlich“ – Graichen attackiert Reiches Gas-Strategie",
-      "summary": "Als Staatssekretär musste Patrick Graichen die Energiekrise 2022 managen. Jetzt kritisiert er die niedrigen Füllstände der Gasspeicher und den Umgang von Wirtschaftsministerin Reiche damit. Dabei verschweigt Graichen seinen Anteil an der Misslage.",
-      "source": "WELT",
-      "ts": "2026-10-05T20:14:44"
-    },
-    {
-      "id": "6ac3e0bd5a0c502f2029865b",
-      "ntitle": "diese enteignungsdebatte ist wirklich gift für diese stadt",
-      "title": "„Diese Enteignungsdebatte ist wirklich Gift für diese Stadt“",
-      "summary": "Ulrike Hinrichs, Vorstandssprecherin des Bundesverbands Beteiligungskapital, warnt vor den Vergesellschaftungsplänen der Berliner Linken: „Kapital hat keinen Wohnraum, sondern es kann auch sehr schnell wegziehen. Man sieht es dann woanders.“",
-      "source": "WELT",
-      "ts": "2026-10-05T20:14:44"
-    },
-    {
-      "id": "6ac3dc497ca0bfd8ca1555fc",
-      "ntitle": "saudiarabien plant militäroffensive gegen huthimiliz im jemen",
-      "title": "Saudi-Arabien plant Militäroffensive gegen Huthi-Miliz im Jemen",
-      "summary": "Saudi-Arabien bereitet offenbar eine neue Militäroffensive gegen die Huthi-Miliz im Jemen vor. „Die Vereinigten Staaten unterstützen die Saudis mit Luftaufklärung, mit Satellitenmaterial“, so Daniel-Dylan Böhmer, WELT-Reporter im Ressort Außenpolitik.",
-      "source": "WELT",
-      "ts": "2026-10-05T20:14:44"
-    },
-    {
       "id": "726a22bf-548e-4f03-b93b-a106dc72cdcb",
       "ntitle": "konstituierende sitzung in sachsenanhalt die afd und die ganz große bühne",
       "title": "Konstituierende Sitzung in Sachsen-Anhalt: Die AfD und die ganz große Bühne",
@@ -2903,6 +2759,150 @@
       "summary": "Nach dem Förderstopp für ihr Demokratieprojekt ziehen die „Radikalen Töchter“ vor Gericht. Interne E-Mails der Bundeszentrale nähren Zweifel an der Rechtmäßigkeit der Entscheidung. Die NGO fordert rund 290.000 Euro vom Bund.",
       "source": "WELT",
       "ts": "2026-10-13T09:09:17"
+    },
+    {
+      "id": "59b45da6-50c3-4ad3-bde5-77b51f0d2ebc",
+      "ntitle": "wirtschaft im jemen waffen statt honig und fisch",
+      "title": "Wirtschaft im Jemen: Waffen statt Honig und Fisch",
+      "summary": "Der Krieg im Jemen bedroht nicht nur eine der wichtigsten Handelsrouten der Welt, sondern auch die lokale Wirtschaft. Viele Existenzen sind bedroht, die mögliche Teilung des Landes in Nord und Süd wird diskutiert. Von Ramin Sina.",
+      "source": "Tagesschau",
+      "ts": "2026-10-13T22:38:37"
+    },
+    {
+      "id": "9e0c8731-321e-4f59-a329-8f1ef8d02c7d-SENDUNGSVIDEO",
+      "ntitle": "tagesschau 2000 uhr",
+      "title": "tagesschau 20:00 Uhr",
+      "summary": "Alexander Schweitzer zum neuen Arbeits- und Sozialminister ernannt, Merz fordert auf Arbeitgebertag Tempo bei Reformen, Bundesverfassungsgericht prüft steuerliche Vorteile für Firmenerben, Missbrauchsbeauftragte berichtet von großer Gefahr für Kinder und Jugendliche im digitalen Bereich, Festnahmen in Deutschland nach Brand in polnischer Starlink-Anlage, Drohnenangriff auf zwei Handelsschiffe vor ",
+      "source": "Tagesschau",
+      "ts": "2026-10-13T22:38:37"
+    },
+    {
+      "id": "7864ba88-e6e4-4c26-88bb-93ff8f044ae3",
+      "ntitle": "bundespräsident steinmeier ernennt schweitzer zum neuen arbeits und sozialminister",
+      "title": "Bundespräsident Steinmeier ernennt Schweitzer zum neuen Arbeits- und Sozialminister",
+      "summary": "Bundespräsident Steinmeier ernennt Schweitzer zum neuen Arbeits- und Sozialminister",
+      "source": "Tagesschau",
+      "ts": "2026-10-13T22:38:37"
+    },
+    {
+      "id": "b2ad8891-8340-4962-8fe8-6fa86c180be3",
+      "ntitle": "janpeter bartels ard berlin zur ernennung schweitzers zum neuen arbeitsminister",
+      "title": "Jan-Peter Bartels, ARD Berlin, zur Ernennung Schweitzers zum neuen Arbeitsminister",
+      "summary": "Jan-Peter Bartels, ARD Berlin, zur Ernennung Schweitzers zum neuen Arbeitsminister",
+      "source": "Tagesschau",
+      "ts": "2026-10-13T22:38:37"
+    },
+    {
+      "id": "62a82e16-7cc8-42bc-a957-8283bc2b3dc0",
+      "ntitle": "kanzler merz wirbt auf arbeitgebertag in berlin für reformen",
+      "title": "Kanzler Merz wirbt auf Arbeitgebertag in Berlin für Reformen",
+      "summary": "Kanzler Merz wirbt auf Arbeitgebertag in Berlin für Reformen",
+      "source": "Tagesschau",
+      "ts": "2026-10-13T22:38:37"
+    },
+    {
+      "id": "3286cef9-4163-4a31-9086-c71f8ca4b64a",
+      "ntitle": "verfassungsgericht prüft regelungen zur erbschaftsteuer",
+      "title": "Verfassungsgericht prüft Regelungen zur Erbschaftsteuer",
+      "summary": "Verfassungsgericht prüft Regelungen zur Erbschaftsteuer",
+      "source": "Tagesschau",
+      "ts": "2026-10-13T22:38:37"
+    },
+    {
+      "id": "04aab9b2-1451-4ce9-9957-9fcef948566b",
+      "ntitle": "bericht missbrauchsbeauftragte claus fordert besseren schutz für minderjährige vor sexualisierter gewalt",
+      "title": "Bericht: Missbrauchsbeauftragte Claus fordert besseren Schutz für Minderjährige vor sexualisierter Gewalt",
+      "summary": "Bericht: Missbrauchsbeauftragte Claus fordert besseren Schutz für Minderjährige vor sexualisierter Gewalt",
+      "source": "Tagesschau",
+      "ts": "2026-10-13T22:38:37"
+    },
+    {
+      "id": "18d63524-2508-4568-9115-926ce8cb2a42",
+      "ntitle": "nils crauser ard berlin zum missbrauchsbericht 2026",
+      "title": "Nils Crauser, ARD Berlin, zum Missbrauchs-Bericht 2026",
+      "summary": "Nils Crauser, ARD Berlin, zum Missbrauchs-Bericht 2026",
+      "source": "Tagesschau",
+      "ts": "2026-10-13T22:38:37"
+    },
+    {
+      "id": "https://www.n-tv.de/panorama/Papst-Leo-XIV-hat-Lungenkrebs-id31414868.html",
+      "ntitle": "gewissheit nach operation papst leo xiv hat lungenkrebs",
+      "title": "Gewissheit nach Operation: Papst Leo XIV. hat Lungenkrebs",
+      "summary": "Bei einer Kontrolluntersuchung entdecken Ärzte einen Knoten in der Lunge von Papst Leo XIV. Daraufhin entscheidet sich das Oberhaupt der katholischen Kirche für eine Operation. Nun stellt sich heraus: Der Pontifex ist an Krebs erkrankt.",
+      "source": "ntv",
+      "ts": "2026-10-13T22:38:37"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/SPD-und-Gruene-in-Berlin-unterbrechen-Sondierungen-mit-Linken-id31414467.html",
+      "ntitle": "linksfraktion nimmt emde auf spd und grüne in berlin unterbrechen sondierungen mit linken",
+      "title": "Linksfraktion nimmt Emde auf: SPD und Grüne in Berlin unterbrechen Sondierungen mit Linken",
+      "summary": "In Berlin soll eine rot-grün-rote Koalition entstehen, doch nun stocken die Gespräche. Grüne und SPD setzen die Verhandlungen mit der Linken aus. Grund ist wohl die Aufnahme einer umstrittenen Politikerin in die Fraktion.",
+      "source": "ntv",
+      "ts": "2026-10-13T22:38:37"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Berliner-Linke-nimmt-umstrittene-Vanessa-Emde-in-Fraktion-auf-id31414385.html",
+      "ntitle": "sondierungsgespräche in gefahr berliner linke nimmt umstrittene vanessa emde in fraktion auf",
+      "title": "Sondierungsgespräche in Gefahr?: Berliner Linke nimmt umstrittene Vanessa Emde in Fraktion auf",
+      "summary": "Die Linke in Berlin verständigt sich auf die Aufnahme von Vanessa Emde in die Fraktion. Die Neuköllner Direktkandidatin sorgt wegen ihrer Haltung zu Israel für Diskussionen. Zugleich unterzeichnen die Fraktionsmitglieder eine Erklärung zum Kampf gegen Antisemitismus.",
+      "source": "ntv",
+      "ts": "2026-10-13T22:38:37"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Die-CIA-hatte-zunaechst-nichts-dagegen-id31414072.html",
+      "ntitle": "nordstreamanschlag die cia hatte zunächst nichts dagegen",
+      "title": "Nord-Stream-Anschlag: \"Die CIA hatte zunächst nichts dagegen\"",
+      "summary": "Wer hat die Nord-Stream-Pipelines gesprengt? Der Investigativjournalist Oliver Schröm hat mit mutmaßlichen Drahtziehern gesprochen. Zum Auftakt des Prozesses gegen den Ukrainer Serhii K. in Hamburg erklärt Schröm, warum er Präsident Selenskyj nicht für verantwortlich hält.",
+      "source": "ntv",
+      "ts": "2026-10-13T22:38:37"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Koalition-beschliesst-offenbar-Zuckersteuer-auf-Softdrinks-id31414697.html",
+      "ntitle": "auch annäherung im pflegestreit koalition beschließt offenbar zuckersteuer auf softdrinks",
+      "title": "Auch Annäherung im Pflegestreit: Koalition beschließt offenbar Zuckersteuer auf Softdrinks",
+      "summary": "Ab Juli kommenden Jahres sollen gezuckerte Getränke in Deutschland teurer werden. Union und SPD einigen sich laut einem Bericht auf eine zweistufige Abgabe. Auch beim Koalitionsstreit um die Pflegekosten gibt es offenbar Bewegung.",
+      "source": "ntv",
+      "ts": "2026-10-13T22:38:37"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Neue-Trump-Sprecherin-verpatzt-ersten-Auftritt-id31414381.html",
+      "ntitle": "aus ehemann wird präsident neue trumpsprecherin verpatzt ersten auftritt",
+      "title": "Aus \"Ehemann\" wird \"Präsident\": Neue Trump-Sprecherin verpatzt ersten Auftritt",
+      "summary": "Katie Zacharia wird schon nach ihrem ersten Auftritt als Sprecherin des Weißen Hauses angezählt - und zwar aus den eigenen Reihen. Sie spricht kaum frei, verhaspelt sich und leistet sich einen ulkigen Versprecher. Damit weckt sie Erinnerungen an einen Trump-Sprecher, der nach wenigen Tagen gefeuert wurde.",
+      "source": "ntv",
+      "ts": "2026-10-13T22:38:37"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Neuer-Arbeitsminister-Schweitzer-knuepft-Rentengesetz-an-Bedingung-id31413486.html",
+      "ntitle": "brauchen entscheidungen neuer arbeitsminister schweitzer knüpft rentengesetz an bedingung",
+      "title": "\"Brauchen Entscheidungen\": Neuer Arbeitsminister Schweitzer knüpft Rentengesetz an Bedingung",
+      "summary": "Nach dem Rücktritt von Bärbel Bas übernimmt Alexander Schweitzer das Ministerium für Arbeit und Soziales. Der SPD-Politiker fordert von den Koalitionsparteien \"über alle Fragen der Alterssicherung\" eine Einigung.",
+      "source": "ntv",
+      "ts": "2026-10-13T22:38:37"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Netanjahu-ueber-Westjordanland-Unser-Land-unsere-Kontrolle-id31414653.html",
+      "ntitle": "anspruch auf palästinensergebiet netanjahu über westjordanland unser land unsere kontrolle",
+      "title": "Anspruch auf Palästinensergebiet: Netanjahu über Westjordanland: \"Unser Land, unsere Kontrolle\"",
+      "summary": "Israels Regierungschef Netanjahu reist an einen Ort, an dem die Armee viele Palästinenser vertrieben hat. Er bezeichnet die Vertriebenen allesamt als Terroristen, stellt sich gegen eine Anweisung des Obersten Gerichtshofs - und erhebt Anspruch auf das ganze Land zwischen Jordan und Mittelmeer.",
+      "source": "ntv",
+      "ts": "2026-10-13T22:38:37"
+    },
+    {
+      "id": "6ace710f8776d79fbd9cbe39",
+      "ntitle": "papst leo xiv hat lungenkrebs  teil des rechten lungenflügels entfernt",
+      "title": "Papst Leo XIV. hat Lungenkrebs – Teil des rechten Lungenflügels entfernt",
+      "summary": "Leo XIV. wurde am Dienstag operiert. Dabei stellten die Ärzte fest, dass der Papst an Lungenkrebs leidet. Der Eingriff sei erfolgreich verlaufen, teilte der Vatikan mit.",
+      "source": "WELT",
+      "ts": "2026-10-13T22:38:37"
+    },
+    {
+      "id": "6ace84fb8776d79fbd9cbeec",
+      "ntitle": "deutscher spieler knackt eurojackpot mit 120 millionen euro",
+      "title": "Deutscher Spieler knackt Eurojackpot mit 120 Millionen Euro",
+      "summary": "Ein Spieler oder eine Tippgemeinschaft aus Nordrhein-Westfalen hat den Eurojackpot mit 120 Millionen Euro gewonnen. Damit ist der deutsche Rekordgewinnt erneut erreicht.",
+      "source": "WELT",
+      "ts": "2026-10-13T22:38:37"
     }
   ],
   "breaking_seen": [
@@ -2925,8 +2925,8 @@
   "last_run": {
     "digest_morning": "2026-10-13",
     "digest_noon": "2026-10-13",
-    "digest_evening": "2026-10-12",
-    "daily": "2026-10-11",
+    "digest_evening": "2026-10-13",
+    "daily": "2026-10-13",
     "weekly": "2026-W41"
   }
 }
