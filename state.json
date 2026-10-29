@@ -1,150 +1,6 @@
 {
   "history": [
     {
-      "id": "6ef69199-760d-47a9-8477-206d552712b0",
-      "ntitle": "osteuropaexperte über ukrainegespräche keine großen hoffnungen",
-      "title": "Osteuropa-Experte über Ukraine-Gespräche: \"Keine großen Hoffnungen\"",
-      "summary": "Russland hat sich bereit gezeigt, die Gespräche mit den USA und der Ukraine wieder aufzunehmen. Aber sind Fortschritte wahrscheinlich? Osteuropa-Experte Umland zeigt sich im tagesschau24-Interview skeptisch.",
-      "source": "Tagesschau",
-      "ts": "2026-10-21T21:34:42"
-    },
-    {
-      "id": "2a0c8829-4070-482d-80b9-9ac432d413d4",
-      "ntitle": "krieg gegen die ukraine putin stimmt wiederaufnahme von gesprächen zu",
-      "title": "Krieg gegen die Ukraine: Putin stimmt Wiederaufnahme von Gesprächen zu",
-      "summary": "Nach einem Treffen mit dem US-Sondergesandten erklärt sich Russlands Präsident Putin offenbar zu neuen Gesprächen mit den USA und der Ukraine bereit. Um ein Ende des Kriegs soll es dabei demnach aber nicht gehen.",
-      "source": "Tagesschau",
-      "ts": "2026-10-21T21:34:42"
-    },
-    {
-      "id": "4bd7bc40-286a-43af-a73b-e0f3d22bb0a8-SENDUNGSVIDEO",
-      "ntitle": "tagesschau 2000 uhr",
-      "title": "tagesschau 20:00 Uhr",
-      "summary": "Treffen von US-Sondergesandtem Witkoff und Russlands Präsident Putin in Sankt Petersburg, Frankreich unter Schock nach landesweiten Ausschreitungen, Gravierende Sicherheitslücke in Programmiersprache PHP: Bundesamt für Sicherheit warnt vor Angriffen auf Webseiten und Onlinedienste, Vereinte Nationen warnen erneut vor Auswirkungen des Klimaphänomens \"El Niño\", Anzahl der Autounfälle durch digitale ",
-      "source": "Tagesschau",
-      "ts": "2026-10-21T21:34:42"
-    },
-    {
-      "id": "56cb4725-01a2-41a0-accb-17762095dc49",
-      "ntitle": "displays im auto warum die bedienung oft gefährlicher als alkohol ist",
-      "title": "Displays im Auto: Warum die Bedienung oft gefährlicher als Alkohol ist",
-      "summary": "Displays im Auto: Warum die Bedienung oft gefährlicher als Alkohol ist",
-      "source": "Tagesschau",
-      "ts": "2026-10-21T21:34:42"
-    },
-    {
-      "id": "637405cd-9d7e-4902-824e-e1b5cfb1e582",
-      "ntitle": "treffen in sankt petersburg putin berät mit usgesandtem witkoff über ukraine",
-      "title": "Treffen in Sankt Petersburg: Putin berät mit US-Gesandtem Witkoff über Ukraine",
-      "summary": "Treffen in Sankt Petersburg: Putin berät mit US-Gesandtem Witkoff über Ukraine",
-      "source": "Tagesschau",
-      "ts": "2026-10-21T21:34:42"
-    },
-    {
-      "id": "f8c6d986-8c36-475d-b433-000d099dc517",
-      "ntitle": "hohe trassenpreise regionalverkehr drohen bundesweite kürzungen",
-      "title": "Hohe Trassenpreise: Regionalverkehr drohen bundesweite Kürzungen",
-      "summary": "Hohe Trassenpreise: Regionalverkehr drohen bundesweite Kürzungen",
-      "source": "Tagesschau",
-      "ts": "2026-10-21T21:34:42"
-    },
-    {
-      "id": "bfbb59b8-f60d-4775-8ef9-6030680e0432",
-      "ntitle": "der verbraucher muss einen nachteil haben  ardrechtsredaktion erklärt urteil zum schufascore",
-      "title": "„Der Verbraucher muss einen Nachteil haben“ – ARD-Rechtsredaktion erklärt Urteil zum Schufa-Score",
-      "summary": "„Der Verbraucher muss einen Nachteil haben“ – ARD-Rechtsredaktion erklärt Urteil zum Schufa-Score",
-      "source": "Tagesschau",
-      "ts": "2026-10-21T21:34:42"
-    },
-    {
-      "id": "5033e8d7-df21-4d02-b387-0daab82cc0b2",
-      "ntitle": "nur zahlen was man fährt kommt das flexible deutschlandticket per app",
-      "title": "Nur zahlen, was man fährt: Kommt das flexible Deutschlandticket per App?",
-      "summary": "Nur zahlen, was man fährt: Kommt das flexible Deutschlandticket per App?",
-      "source": "Tagesschau",
-      "ts": "2026-10-21T21:34:42"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Russland-skeptisch-Ukraine-waere-mit-Einfrieren-von-Frontlinie-einverstanden-id31444424.html",
-      "ntitle": "russland lehnt es ab selenskyj wäre mit status quo an frontlinie einverstanden",
-      "title": "Russland lehnt es ab: Selenskyj wäre mit Status quo an Frontlinie einverstanden",
-      "summary": "Die Ukraine will eine Waffenruhe und würde es akzeptieren, den aktuellen Frontverlauf einzufrieren. Wolodymyr Selenskyj sieht darin einen \"echten Weg, diesen Krieg zu beenden\". Doch Kreml-Chef Wladimir Putin hat andere Vorstellungen.",
-      "source": "ntv",
-      "ts": "2026-10-21T21:34:42"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Prigoschins-Sohn-fuehrt-das-Wagner-Geschaeft-in-Afrika-fort-id31441691.html",
-      "ntitle": "erbe ist neuer chef der söldner prigoschins sohn führt das wagnergeschäft in afrika fort",
-      "title": "Erbe ist neuer Chef der Söldner: Prigoschins Sohn führt das Wagner-Geschäft in Afrika fort",
-      "summary": "Nach dem Tod von Wagner-Gründer Jewgeni Prigoschin übernimmt der Kreml die Kontrolle über die Söldnergruppe. Doch in einem afrikanischen Staat behält die Familie offenbar das Sagen: Prigoschins Sohn soll dort das blutige Geschäft mit Gold, Waffen und Drogen noch ausgebaut haben.",
-      "source": "ntv",
-      "ts": "2026-10-21T21:34:42"
-    },
-    {
-      "id": "https://www.n-tv.de/wirtschaft/Facebook-Mutter-Meta-zu-25-Milliarden-Dollar-Strafe-verurteilt-id31444308.html",
-      "ntitle": "cambridgeanalyticaskandal facebookmutter meta zu 25 milliarden dollar strafe verurteilt",
-      "title": "Cambridge-Analytica-Skandal: Facebook-Mutter Meta zu 25 Milliarden Dollar Strafe verurteilt",
-      "summary": "Die Firma Cambridge Analytica erlangt 2018 weltweite Bekanntheit durch den Missbrauch der Daten von Millionen Facebook-Nutzern. Nun fällt ein Urteil, das den Mutterkonzern des sozialen Netzwerks hart treffen könnte.",
-      "source": "ntv",
-      "ts": "2026-10-21T21:34:42"
-    },
-    {
-      "id": "https://www.n-tv.de/technik/Zahlreiche-Websites-wegen-PHP-Sicherheitsluecke-abgeschaltet-id31442869.html",
-      "ntitle": "hacker starten angriffe zahlreiche websites wegen phpsicherheitslücke abgeschaltet",
-      "title": "Hacker starten Angriffe: Zahlreiche Websites wegen PHP-Sicherheitslücke abgeschaltet",
-      "summary": "Die Programmiersprache PHP kennen wahrscheinlich nur wenige Menschen, ihre weltweite Bedeutung ist allerdings enorm. Hacker versuchen derzeit, aufgetretene Schwachstellen auszunutzen. Die Entwickler kündigen Updates an.",
-      "source": "ntv",
-      "ts": "2026-10-21T21:34:42"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Hackerangriff-legt-sensibles-Innenleben-der-AfD-offen-id31444011.html",
-      "ntitle": "spenden höcke bankdaten hackerangriff legt sensibles innenleben der afd offen",
-      "title": "Spenden, Höcke, Bankdaten: Hackerangriff legt sensibles Innenleben der AfD offen",
-      "summary": "Hacker erbeuten Hunderte Gigabyte an Datenmaterial bei einem Angriff auf die AfD. Erste Recherchen in den E-Mails und Dokumenten bringen dabei sensible Daten zum Vorschein und geben einen Einblick in die Debatte über ein Parteiausschlussverfahren gegen Björn Höcke.",
-      "source": "ntv",
-      "ts": "2026-10-21T21:34:42"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/An-der-Front-hat-Russland-in-diesem-Jahr-gar-nichts-erreicht-id31443269.html",
-      "ntitle": "nico lange im interview an der front hat russland in diesem jahr gar nichts erreicht",
-      "title": "Nico Lange im Interview: \"An der Front hat Russland in diesem Jahr gar nichts erreicht\"",
-      "summary": "Die Vorstellung, nur die Ukraine stehe unter Druck, sei völlig falsch, sagt der Ukraine-Experte Nico Lange. \"Der Druck auf Russland ist erheblich.\" Das Problem sei, dass Trump den Druck auf Putin gerade lockere.",
-      "source": "ntv",
-      "ts": "2026-10-21T21:34:42"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Russland-fegt-Vorschlaege-der-USA-fuer-ein-Kriegsende-vom-Tisch-id31443407.html",
-      "ntitle": "im prinzip verhandlungsbereit russland fegt vorschläge der usa für ein kriegsende vom tisch",
-      "title": "\"Im Prinzip\" verhandlungsbereit: Russland fegt Vorschläge der USA für ein Kriegsende vom Tisch",
-      "summary": "Alle Gespräche mit Russland über einen Waffenstillstand oder gar Frieden sind in den vergangenen Jahren an Moskaus Beharren auf Maximalforderungen gescheitert. Nun könnte es bald eine weitere Runde geben. Dass der Kreml zu Kompromissen bereit ist, ist aber nach wie vor nicht erkennbar.",
-      "source": "ntv",
-      "ts": "2026-10-21T21:34:42"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Donald-Trump-kassiert-den-naechsten-Umfrage-Schock-id31443428.html",
-      "ntitle": "unabhängige wähler unzufrieden donald trump kassiert den nächsten umfrageschock",
-      "title": "Unabhängige Wähler unzufrieden: Donald Trump kassiert den nächsten Umfrage-Schock",
-      "summary": "Was die Midterms angeht, steht es schlecht für Donald Trump und seine Republikaner. Eine neue Umfrage der \"New York Times\" bringt eine weitere Hiobsbotschaft. Bei den unabhängigen Wählern fällt der Präsident ebenfalls unten durch.",
-      "source": "ntv",
-      "ts": "2026-10-21T21:34:42"
-    },
-    {
-      "id": "6ad90eb3199dc15f1abdc573",
-      "ntitle": "spende an die afd mitten im wahlkampf  cdu will kommunalpolitiker aus partei werfen",
-      "title": "Spende an die AfD mitten im Wahlkampf – CDU will Kommunalpolitiker aus Partei werfen",
-      "summary": "Kommunalpolitiker Bernd Prange spendete 10.000 Euro an die AfD und sorgte mit einem Brandbrief für Aufregung in der CDU. Nun soll er aus der Partei geworfen werden.",
-      "source": "WELT",
-      "ts": "2026-10-21T21:34:42"
-    },
-    {
-      "id": "6ad90bfb644b4a3b9e68b281",
-      "ntitle": "verlag sieht kivorwürfe gegen starautor bestätigt und beendet die zusammenarbeit",
-      "title": "Verlag sieht KI-Vorwürfe gegen Star-Autor bestätigt und beendet die Zusammenarbeit",
-      "summary": "Nach den KI-Vorwürfen gegen Thélyson Orélien zieht sein Verlag Konsequenzen und trennt sich vom Autor. Eine endgültige Antwort auf die Frage nach dem Ausmaß des KI-Einsatzes bleibt allerdings aus.",
-      "source": "WELT",
-      "ts": "2026-10-21T21:34:42"
-    },
-    {
       "id": "f3f082b4-107b-41e9-8142-3b67f385cf56",
       "ntitle": "korruption  trumps empfindlichster punkt vor den midterms",
       "title": "Korruption - Trumps empfindlichster Punkt vor den Midterms?",
@@ -2311,6 +2167,150 @@
       "summary": "Der FC Bayern veröffentlicht einen Termin für die kurze Bundesliga-Pause im Winter. Nur wenige Tage vor dem Re-Start reist die Mannschaft nach Kenia und hilft bei der Einstimmung auf den Afrika-Cup.",
       "source": "WELT",
       "ts": "2026-10-29T09:58:55"
+    },
+    {
+      "id": "29a5922b-745d-4e08-846d-af3973eb6500",
+      "ntitle": "wer auf ezbchefin christine lagarde folgen könnte",
+      "title": "Wer auf EZB-Chefin Christine Lagarde folgen könnte",
+      "summary": "Früher als geplant tritt die Suche nach einer Nachfolge für EZB-Chefin Lagarde in die heiße Phase - die Französin scheidet vorzeitig aus dem Amt. Was sind die Hintergründe, wer könnte nachrücken an der Spitze der Notenbank? Von Constantin Röse.",
+      "source": "Tagesschau",
+      "ts": "2026-10-29T22:02:02"
+    },
+    {
+      "id": "e528ce9b-0101-4e65-bf0f-03feb8a94d93",
+      "ntitle": "europäische zentralbank hält leitzins unverändert",
+      "title": "Europäische Zentralbank hält Leitzins unverändert",
+      "summary": "Die Europäische Zentralbank (EZB) hat wie erwartet die Leitzinsen unverändert bei 2,5 Prozent belassen. Zuvor hatte auch die US-Notenbank Fed von einer Änderung ihrer Leitzinsen abgesehen.",
+      "source": "Tagesschau",
+      "ts": "2026-10-29T22:02:02"
+    },
+    {
+      "id": "fa46eb4b-6929-44fc-8ee0-39aaf6cae4d7-SENDUNGSVIDEO",
+      "ntitle": "tagesschau 2000 uhr",
+      "title": "tagesschau 20:00 Uhr",
+      "summary": "Diskussion über Spiegel-Interview der Berliner Linken-Politikerin Eralp, Bundeskanzler Merz hebt in Südkorea die Zusammenarbeit hervor, Bundespräsident Steinmeier hält in Peking eine Grundsatzrede zu den europäisch-chinesischen Beziehungen, Seit dreieinhalb Jahren tobt in Sudan ein Krieg, Einen Tag nach dem schweren Zugunglück in Spanien suchen Rettungskräfte weiterhin nach Opfern, Zwischenbilanz ",
+      "source": "Tagesschau",
+      "ts": "2026-10-29T22:02:02"
+    },
+    {
+      "id": "ffd2e805-90dd-4c58-b631-00ca8ffa2e23",
+      "ntitle": "angst nach zugunglück in spanien reisende zweifeln an der sicherheit",
+      "title": "Angst nach Zugunglück in Spanien: Reisende zweifeln an der Sicherheit",
+      "summary": "Angst nach Zugunglück in Spanien: Reisende zweifeln an der Sicherheit",
+      "source": "Tagesschau",
+      "ts": "2026-10-29T22:02:02"
+    },
+    {
+      "id": "c8ad99c2-0ff2-4220-994d-80be9064ce29",
+      "ntitle": "sehr unwahrscheinlich ardbahnexperte zu möglichen zugunglücken in deutschland",
+      "title": "„Sehr unwahrscheinlich\": ARD-Bahnexperte zu möglichen Zugunglücken in Deutschland",
+      "summary": "„Sehr unwahrscheinlich\": ARD-Bahnexperte zu möglichen Zugunglücken in Deutschland",
+      "source": "Tagesschau",
+      "ts": "2026-10-29T22:02:02"
+    },
+    {
+      "id": "84a8cc7e-cb32-4883-bd66-378aa9871cc3",
+      "ntitle": "hohe preise was hat der tankrabatt gebracht",
+      "title": "Hohe Preise: Was hat der \"Tankrabatt\" gebracht?",
+      "summary": "Hohe Preise: Was hat der \"Tankrabatt\" gebracht?",
+      "source": "Tagesschau",
+      "ts": "2026-10-29T22:02:02"
+    },
+    {
+      "id": "d53f58d7-bab0-49a0-a1ef-03a20049b783",
+      "ntitle": "neues zentrum für bevölkerungsschutz eröffnet",
+      "title": "Neues Zentrum für Bevölkerungsschutz eröffnet",
+      "summary": "Neues Zentrum für Bevölkerungsschutz eröffnet",
+      "source": "Tagesschau",
+      "ts": "2026-10-29T22:02:02"
+    },
+    {
+      "id": "52bc9d97-2af8-4ba4-8fe6-d82bade1d7dc",
+      "ntitle": "sicherheitsdebatte nach spiegelinterview der berliner linkenpolitikerin eralp",
+      "title": "Sicherheits-Debatte nach Spiegel-Interview der Berliner Linken-Politikerin Eralp",
+      "summary": "Sicherheits-Debatte nach Spiegel-Interview der Berliner Linken-Politikerin Eralp",
+      "source": "Tagesschau",
+      "ts": "2026-10-29T22:02:02"
+    },
+    {
+      "id": "https://www.n-tv.de/leute/Schauspiel-Star-Patrick-Stewart-ist-tot-id31474338.html",
+      "ntitle": "captain picard mit 86 gestorben schauspielstar patrick stewart ist tot",
+      "title": "Captain Picard mit 86 gestorben: Schauspiel-Star Patrick Stewart ist tot",
+      "summary": "Der vor allem für seine Rollen in \"Star Trek\" und \"X-Men\" einem breiten Publikum bekannte Schauspieler Patrick Stewart ist tot. Mit rührenden Worten nimmt seine Familie von ihm Abschied. Der Brite litt zuletzt an Alzheimer und einer Form von Demenz.",
+      "source": "ntv",
+      "ts": "2026-10-29T22:02:02"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Trump-schreibt-grosses-Wahlbetrugs-Maerchen-und-die-Demokraten-helfen-fleissig-id31473357.html",
+      "ntitle": "präsident lobt belohnung aus trump schreibt großes wahlbetrugsmärchen  und die demokraten helfen fleißig",
+      "title": "Präsident lobt Belohnung aus: Trump schreibt großes Wahlbetrugs-Märchen - und die Demokraten helfen fleißig",
+      "summary": "Im Weißen Haus sitzt mit Donald Trump ein Präsident, der ununterbrochen Wahlbetrug wittert. Der Republikaner klagt kurz vor den Midterms bereits in mehreren Bundesstaaten. Für Hinweisgeber verspricht er eine saftige Entlohnung.",
+      "source": "ntv",
+      "ts": "2026-10-29T22:02:02"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Enthuellungsbericht-der-Times-zur-Alaska-Wahl-Der-Fall-Dan-Sullivan-ist-groesser-als-geahnt-id31472339.html",
+      "ntitle": "bericht belastet demokratin der fall dan sullivan in alaska ist größer als geahnt",
+      "title": "Bericht belastet Demokratin: Der Fall Dan Sullivan in Alaska ist größer als geahnt",
+      "summary": "Im US-Bundesstaat Alaska tauchen im August auf dem Stimmzettel für die Vorwahlen zu den Midterms plötzlich zwei \"Dan Sullivans\" auf. Während Donald Trump von Verschwörungen der Demokraten spricht und dafür belächelt wird, offenbart sich nun: Dahinter steckt viel mehr Wahrheit, als zuvor angenommen.",
+      "source": "ntv",
+      "ts": "2026-10-29T22:02:02"
+    },
+    {
+      "id": "https://www.n-tv.de/wirtschaft/Milliardenverlust-bei-Volkswagen-das-sind-die-Gruende-id31472978.html",
+      "ntitle": "autobauer in der krise milliardenverlust bei volkswagen  das sind die gründe",
+      "title": "Autobauer in der Krise: Milliardenverlust bei Volkswagen - das sind die Gründe",
+      "summary": "Europas größter Autobauer steckt tief in der Krise: Milliardenabschreibungen bei Porsche, ein einbrechender China-Markt und teure Umbaukosten reißen ein tiefes Loch in die Bilanz. Selbst der E-Auto-Erfolg ist ein Problem.",
+      "source": "ntv",
+      "ts": "2026-10-29T22:02:02"
+    },
+    {
+      "id": "https://www.n-tv.de/sport/35-Jahre-nach-Boris-Becker-Alexander-Zverev-ist-die-Nummer-1-der-Tennis-Welt-id31469212.html",
+      "ntitle": "unvollendeter bricht fluch 35 jahre nach boris becker alexander zverev ist die nummer 1 der tenniswelt",
+      "title": "Unvollendeter bricht Fluch: 35 Jahre nach Boris Becker: Alexander Zverev ist die Nummer 1 der Tennis-Welt",
+      "summary": "Angekommen auf dem Tennis-Thron: Als erst zweiter Deutscher ist Alexander Zverev Weltranglistenerster. Dafür hat der Hamburger jahrelang gegen Rückschläge und Dämonen gekämpft - und härter als alle anderen gearbeitet.",
+      "source": "ntv",
+      "ts": "2026-10-29T22:02:02"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Auf-der-Suche-nach-neuen-Partnern-Merz-besucht-Japan-Suedkorea-und-Singapur-id31473635.html",
+      "ntitle": "erst orchidee dann baumkuchen kanzler merz umgarnt die trumpleidensgenossen",
+      "title": "Erst Orchidee, dann Baumkuchen: Kanzler Merz umgarnt die Trump-Leidensgenossen",
+      "summary": "In Singapur, Japan und Südkorea wirbt Bundeskanzler Merz für mehr Zusammenarbeit. Er stößt auf offene Ohren, nicht nur weil die Länder genauso wie Deutschland unter der Politik der US-Regierung leiden.",
+      "source": "ntv",
+      "ts": "2026-10-29T22:02:02"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/AfD-Kandidat-bekommt-in-Berlin-zusaetzliche-Stimmen-id31474141.html",
+      "ntitle": "grüne beschuldigt cdu afdkandidat bekommt in berlin zusätzliche stimmen",
+      "title": "Grüne beschuldigt CDU: AfD-Kandidat bekommt in Berlin zusätzliche Stimmen",
+      "summary": "Die AfD-Fraktion hat im Berliner Landesparlament 29 Abgeordnete. Sie schlägt Martin Trefzer als Vize-Parlamentspräsidenten vor - und der AfD-Mann bekommt 40 Ja-Stimmen. Eine Abgeordnete der Grünen hat die Verantwortlichen dafür schnell ausgemacht.",
+      "source": "ntv",
+      "ts": "2026-10-29T22:02:02"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Auch-wir-Gruene-haben-zum-Aufstieg-der-Rechtsextremen-beigetragen-id31473381.html",
+      "ntitle": "banaszak und lang auf neuem kurs auch wir grüne haben zum aufstieg der rechtsextremen beigetragen",
+      "title": "Banaszak und Lang auf neuem Kurs: \"Auch wir Grüne haben zum Aufstieg der Rechtsextremen beigetragen\"",
+      "summary": "Im \"ntv Salon\" sinnieren Grünen-Chef Felix Banaszak und seine Amtsvorgängerin Ricarda Lang über Fehler der Vergangenheit. Im Umgang mit AfD-Sympathisanten wollen beide eine neue Offenheit zeigen - statt auszugrenzen.",
+      "source": "ntv",
+      "ts": "2026-10-29T22:02:02"
+    },
+    {
+      "id": "6ae39c4c8909be5eb7ff5e28",
+      "ntitle": "usa sollen audi für werk in georgia zollnachlass zugesagt haben  insider nennen zehn prozent",
+      "title": "USA sollen Audi für Werk in Georgia Zollnachlass zugesagt haben – Insider nennen zehn Prozent",
+      "summary": "Audi soll für importierte Autos weniger Zoll an die USA zahlen, wenn der Autobauer dort ein eigenes Werk baut. Das berichten Insider. Auch andere Hersteller könnten profitieren.",
+      "source": "WELT",
+      "ts": "2026-10-29T22:02:02"
+    },
+    {
+      "id": "6ae39cba8909be5eb7ff5e36",
+      "ntitle": "kanadischer sänger bryan adams verspottet trump in neuem song über lake ontario",
+      "title": "Kanadischer Sänger Bryan Adams verspottet Trump in neuem Song über Lake Ontario",
+      "summary": "Bryan Adams nimmt sich in einem neuen Lied US-Präsident Donald Trump vor. Darin geht es um dessen Anordnung, den Grenzsee zwischen Kanada und den USA in „Lake America“ umzubenennen. Es ist nicht sein erster Protestsong.",
+      "source": "WELT",
+      "ts": "2026-10-29T22:02:02"
     }
   ],
   "breaking_seen": [
@@ -2335,8 +2335,8 @@
   "last_run": {
     "digest_morning": "2026-10-29",
     "digest_noon": "2026-10-29",
-    "digest_evening": "2026-10-28",
-    "daily": "2026-10-27",
+    "digest_evening": "2026-10-29",
+    "daily": "2026-10-29",
     "weekly": "2026-W43"
   }
 }
