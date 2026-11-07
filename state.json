@@ -1463,32 +1463,185 @@
       "summary": "",
       "source": "Financial Times",
       "ts": "2026-11-05T19:14:16"
+    },
+    {
+      "id": "https://www.n-tv.de/sport/fussball/Der-BVB-verliert-jedes-Heimspiel-3-5-Millionen-Euro-auf-den-FC-Bayern-id31498670.html",
+      "ntitle": "schreyer erläutert nachteil der bvb verliert jedes heimspiel 35 millionen euro auf den fc bayern",
+      "title": "Schreyer erläutert Nachteil: \"Der BVB verliert jedes Heimspiel 3,5 Millionen Euro auf den FC Bayern\"",
+      "summary": "Braucht die Bundesliga neue Stadien und mehr VIP-Plätze, damit Stehplätze günstig bleiben und die großen Turniere nach Deutschland kommen? Sportökonom Dominik Schreyer denkt das Stadion neu und berichtet von Achterbahnen und Zuschauern in Kabinen.",
+      "source": "ntv",
+      "ts": "2026-11-07T10:59:41"
+    },
+    {
+      "id": "63146fe4-6e5c-4fef-a098-1fa73017ce16",
+      "ntitle": "welche fakes rund um die midterms kursieren",
+      "title": "Welche Fakes rund um die Midterms kursieren",
+      "summary": "Gefälschte Nachrichtenbeiträge, manipulierte Wahlmaschinen und erfundene Vorwürfe gegen Kandidaten: Rund um die US-Midterms verbreiten sich zahlreiche Falschbehauptungen. Dahinter stehen zum Teil russische Einflusskampagnen. Von C. Reveland und K. König.",
+      "source": "Tagesschau",
+      "ts": "2026-11-07T10:59:47"
+    },
+    {
+      "id": "6049a574-fa2c-4e3a-a2b2-80a73a8a0355",
+      "ntitle": "trumps neuer stabschef miller ein warnschuss in richtung des künftigen kongresses",
+      "title": "Trumps neuer Stabschef Miller: \"Ein Warnschuss in Richtung des künftigen Kongresses\"",
+      "summary": "Auf Stabschefin Wiles folgt Hardliner Miller: Mit dieser Entscheidung reagiert Trump auf das Wahldebakel seiner Partei - und geht auf Konfrontationskurs zu den Demokraten. Doch auch Republikanern stößt die Personalie auf. Von C. Kühntopp.",
+      "source": "Tagesschau",
+      "ts": "2026-11-07T10:59:47"
+    },
+    {
+      "id": "002f56c6-312b-46e7-9387-1bce03e7e859",
+      "ntitle": "livestream die nachrichten auf tagesschau24",
+      "title": "Livestream: Die Nachrichten auf tagesschau24",
+      "summary": "Aktuelle Meldungen, vertiefende Analysen und Interviews: Verfolgen Sie das Programm des ARD-Nachrichtenkanals tagesschau24 hier.",
+      "source": "Tagesschau",
+      "ts": "2026-11-07T10:59:47"
+    },
+    {
+      "id": "d6a71f9b-0ee4-4350-8355-529dd465890b",
+      "ntitle": "vorheriger vize stephen miller ist neuer stabschef von uspräsident trump",
+      "title": "Vorheriger Vize Stephen Miller ist neuer Stabschef von US-Präsident Trump",
+      "summary": "Vorheriger Vize Stephen Miller ist neuer Stabschef von US-Präsident Trump",
+      "source": "Tagesschau",
+      "ts": "2026-11-07T10:59:47"
+    },
+    {
+      "id": "061dcb65-9667-4cb4-b463-f7a821c83583",
+      "ntitle": "union legt sich bei bundespräsidentenkandidatur auf aigner fest",
+      "title": "Union legt sich bei Bundespräsidenten-Kandidatur auf Aigner fest",
+      "summary": "Union legt sich bei Bundespräsidenten-Kandidatur auf Aigner fest",
+      "source": "Tagesschau",
+      "ts": "2026-11-07T10:59:47"
+    },
+    {
+      "id": "fd5f06fd-dda7-4e8c-8c3c-304f20251706",
+      "ntitle": "porträt der möglichen neuen bundespräsidentin ilse aigner",
+      "title": "Porträt der möglichen neuen Bundespräsidentin Ilse Aigner",
+      "summary": "Porträt der möglichen neuen Bundespräsidentin Ilse Aigner",
+      "source": "Tagesschau",
+      "ts": "2026-11-07T10:59:47"
+    },
+    {
+      "id": "c3c8cb93-ef8f-47e8-836d-af21f6aef264",
+      "ntitle": "justizministerin hubig spricht sich erneut für beantragung eines afdverbotsverfahrens aus",
+      "title": "Justizministerin Hubig spricht sich erneut für Beantragung eines AfD-Verbotsverfahrens aus",
+      "summary": "Justizministerin Hubig spricht sich erneut für Beantragung eines AfD-Verbotsverfahrens aus",
+      "source": "Tagesschau",
+      "ts": "2026-11-07T10:59:47"
+    },
+    {
+      "id": "c8be7c48-87cd-42c0-84f1-e21bdf9cef86",
+      "ntitle": "ein riesenerfolg antje körner universität leipzig zu 15 jahren kinderkohortenstudie",
+      "title": "\"Ein Riesenerfolg\", Antje Körner, Universität Leipzig, zu 15 Jahren Kinderkohortenstudie",
+      "summary": "\"Ein Riesenerfolg\", Antje Körner, Universität Leipzig, zu 15 Jahren Kinderkohortenstudie",
+      "source": "Tagesschau",
+      "ts": "2026-11-07T10:59:47"
+    },
+    {
+      "id": "https://www.n-tv.de/wirtschaft/Amerikas-Tech-Oligarchen-regieren-trotz-Wahldebakel-weiter-mit-id31504232.html",
+      "ntitle": "musk spendete rekordsumme amerikas techoligarchen regieren trotz wahldebakel weiter mit",
+      "title": "Musk spendete Rekordsumme: Amerikas Tech-Oligarchen regieren trotz Wahldebakel weiter mit",
+      "summary": "Fast 500 Millionen Dollar hat der reichste Mann der Welt in den republikanischen Wahlkampf gepumpt - und verloren. Doch auch nach dem klaren Sieg der Demokraten bleiben er und andere Tech-Oligarchen langfristig wohl die Gewinner. Die Gründe reichen über Trump hinaus.",
+      "source": "ntv",
+      "ts": "2026-11-07T10:59:47"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Trump-setzt-mit-Hardliner-Stephen-Miller-auf-Konfrontation-id31506288.html",
+      "ntitle": "neuer stabschef trump setzt mit hardliner stephen miller auf konfrontation",
+      "title": "Neuer Stabschef: Trump setzt mit Hardliner Stephen Miller auf Konfrontation",
+      "summary": "Nach den desaströsen Zwischenwahlen gibt es eine erste Personalentscheidung im Weißen Haus: US-Präsident Trump wechselt seinen Stabschef aus. Doch wer ist Stephen Miller? Wofür steht er? Und welches Signal sendet Trump damit aus?",
+      "source": "ntv",
+      "ts": "2026-11-07T10:59:47"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Trump-Regierung-verliert-weitere-hochrangige-Beamte-id31505595.html",
+      "ntitle": "führungspersonal geht trumpregierung verliert weitere hochrangige beamte",
+      "title": "Führungspersonal geht: Trump-Regierung verliert weitere hochrangige Beamte",
+      "summary": "Das US-Justizministerium hat einige Lücken zu füllen: Zwei hochrangige Beamte treten ohne Nennung von Gründen zurück. Einer von ihnen war mit einem Fall betraut, der sich um US-Präsident Donald Trump dreht.",
+      "source": "ntv",
+      "ts": "2026-11-07T10:59:47"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/USA-bieten-Millionenpraemie-fuer-Wissen-zu-Irans-Atomprogramm-id31506308.html",
+      "ntitle": "washington wirbt um informanten usa bieten millionen für wissen zu irans atomprogramm",
+      "title": "Washington wirbt um Informanten: USA bieten Millionen für Wissen zu Irans Atomprogramm",
+      "summary": "Erst sagt US-Präsident Trump, dass die USA alle Atomwaffen-Anlagen im Iran ausgelöscht haben. Dann rudert er - zumindest zeitweise - zurück. Man müsse sich da noch um ein, zwei Anlagen kümmern. Seine Regierung will Informanten hoch bezahlen.",
+      "source": "ntv",
+      "ts": "2026-11-07T10:59:47"
+    },
+    {
+      "id": "https://www.n-tv.de/wirtschaft/Jedes-dritte-Stadtwerk-will-Gasnetz-ganz-oder-teilweise-stilllegen-id31506136.html",
+      "ntitle": "viele betreiber unentschlossen jedes dritte stadtwerk will gasnetz ganz oder teilweise stilllegen",
+      "title": "Viele Betreiber unentschlossen: Jedes dritte Stadtwerk will Gasnetz ganz oder teilweise stilllegen",
+      "summary": "Mit Wärmepumpen und Fernwärme wollen viele Stadtwerke klimaneutral werden. Der Heizungsmix soll das Erdgas ersetzen. Doch was wird aus den Gasnetzen? Das ist in vielen Kommunen noch unklar.",
+      "source": "ntv",
+      "ts": "2026-11-07T10:59:47"
+    },
+    {
+      "id": "https://www.n-tv.de/wissen/Ist-schon-mit-20-Jahren-die-gefuehlte-Lebensmitte-erreicht-id31468840.html",
+      "ntitle": "wenn zeit im alter rast ist schon mit 20 jahren die gefühlte lebensmitte erreicht",
+      "title": "Wenn Zeit im Alter rast: Ist schon mit 20 Jahren die gefühlte Lebensmitte erreicht?",
+      "summary": "Als Kind wirkt ein Jahr endlos lang, später rast die Zeit vorbei. Studien bestätigen diese Art der Zeitwahrnehmung ab dem Teenageralter. Ist die Mitte des wahrgenommenen Lebens deshalb schon mit 20 Jahren erreicht? Ein Psychologe erklärt, ob da etwas dran sein könnte.",
+      "source": "ntv",
+      "ts": "2026-11-07T10:59:47"
+    },
+    {
+      "id": "https://www.n-tv.de/wirtschaft/Novartis-Zwei-Tumorfaelle-deuten-auf-Bezug-zu-Gentherapie-hin-id31505401.html",
+      "ntitle": "neun meldungen seit 2019 novartis zwei tumorfälle deuten auf bezug zu gentherapie hin",
+      "title": "Neun Meldungen seit 2019: Novartis: Zwei Tumorfälle deuten auf Bezug zu Gentherapie hin",
+      "summary": "Das Medikament Zolgensma wird zur Behandlung von kleinen Kindern mit einer seltenen Muskelschwunderkrankung eingesetzt. Die Gentherapie funktioniert mit einem veränderten Virus. Laut Hersteller Novartis gibt es nun zwei Tumorfälle, die damit im Zusammenhang stehen könnten.",
+      "source": "ntv",
+      "ts": "2026-11-07T10:59:47"
+    },
+    {
+      "id": "6aeeef17a389bc337cfc8dcd",
+      "ntitle": "man bombt weiter aber man spricht eben auch",
+      "title": "„Man bombt weiter, aber man spricht eben auch“",
+      "summary": "Donald Trump hat nach einem Treffen mit Putins Gesandtem Dmitrijew ein „großes Abkommen“ zwischen den USA und Russland in Aussicht gestellt. Der Kreml dämpft die Erwartungen. Militärexperte Ralph Thiele ordnet die aktuelle Lage ein.",
+      "source": "WELT",
+      "ts": "2026-11-07T10:59:47"
+    },
+    {
+      "id": "6aedbb5147b5fce02f87a162",
+      "ntitle": "versuchung für iran ist trumps schwäche misszuverstehen und das eigene blatt zu überreizen",
+      "title": "„Versuchung für Iran ist, Trumps Schwäche misszuverstehen und das eigene Blatt zu überreizen“",
+      "summary": "Noch ist unklar, was die Niederlage der Republikaner bei den Midterms für den Iran-Krieg bedeutet. Klar ist jedoch: Einer der größten außenpolitischen Verlierer ist Israel mit seinem Dauerpremier Benjamin Netanjahu.",
+      "source": "WELT",
+      "ts": "2026-11-07T10:59:47"
+    },
+    {
+      "id": "6aec6c1dc7da7601aa4f87e1",
+      "ntitle": "die besten tipps für schlaf und gesundheit von dr müllerwohlfahrt",
+      "title": "Die besten Tipps für Schlaf und Gesundheit von Dr. Müller-Wohlfahrt",
+      "summary": "Mit 84 arbeitet Dr. Hans-Wilhelm Müller-Wohlfahrt noch immer fünf Tage die Woche. Der berühmte Sportmediziner erklärt, was für gesundes Altern entscheidend ist. Er empfiehlt ein vergessenes Gericht. Und warnt vor einem Fehler.",
+      "source": "WELT",
+      "ts": "2026-11-07T10:59:47"
     }
   ],
   "breaking_seen": [
     "6acd49dab52dabc39e80e6e9",
-    "6acd6bce8776d79fbd9cacbc",
     "https://www.n-tv.de/wirtschaft/Lufthansa-sticht-Konkurrenten-aus-und-steigt-bei-Portugals-Tap-ein-id31417238.html",
-    "39e743d3-98f8-4575-86aa-55ef943b00e8",
-    "4b2b9c0e-adfb-4362-800f-950f5b905984",
-    "https://www.n-tv.de/politik/Klingbeil-Alle-in-SPD-sind-froh-ueber-Schwesig-id31208685.html",
-    "https://www.n-tv.de/politik/Supreme-Court-stoppt-Trump-Plan-fuer-eingeschraenkte-Staatsbuergerschaft-id31032428.html",
-    "https://www.n-tv.de/panorama/Christa-Pike-spricht-nach-gescheiterter-Hinrichtung-offenbar-wieder-id31389409.html",
-    "https://www.n-tv.de/politik/Nato-einigt-sich-auf-80-Milliarden-Euro-Hilfe-fuer-die-Ukraine-id31045527.html",
-    "https://www.n-tv.de/politik/Klingbeil-Krankschreibung-ab-erstem-Tag-pragmatisch-loesen-id31050775.html",
-    "31a27312-8032-4957-be69-ba32561e8db3",
-    "ce1e852d-c699-4cf6-b8a0-78fd283556f3",
-    "https://www.n-tv.de/politik/Pluenderungen-in-Frankfurt-ueberschatten-Gen-Z-Protest-id31480880.html",
-    "https://www.n-tv.de/politik/Jahrhunderturteil-Supreme-Court-weitet-Trumps-Macht-enorm-aus-id31050734.html",
     "135dd922-af83-4006-be49-9da3b5a955c3",
-    "https://www.n-tv.de/wissen/Jetzt-live-Sonnenfinsternis-ueber-Europa-id31187076.html",
-    "https://www.n-tv.de/sport/fussball/Jetzt-live-DFB-stellt-Bundestrainer-Juergen-Klopp-vor-id31120826.html",
+    "4b2b9c0e-adfb-4362-800f-950f5b905984",
     "332042db-fd1b-40d9-b0b8-4f5aeec2678a",
+    "https://www.n-tv.de/politik/Klingbeil-Alle-in-SPD-sind-froh-ueber-Schwesig-id31208685.html",
+    "31a27312-8032-4957-be69-ba32561e8db3",
+    "https://www.n-tv.de/sport/fussball/Der-BVB-verliert-jedes-Heimspiel-3-5-Millionen-Euro-auf-den-FC-Bayern-id31498670.html",
+    "https://www.n-tv.de/wissen/Jetzt-live-Sonnenfinsternis-ueber-Europa-id31187076.html",
     "https://www.n-tv.de/politik/Klingbeil-Muessen-Sanktionen-gegen-Israels-Polizeiminister-pruefen-id31207901.html",
+    "https://www.n-tv.de/politik/Nato-einigt-sich-auf-80-Milliarden-Euro-Hilfe-fuer-die-Ukraine-id31045527.html",
+    "ce1e852d-c699-4cf6-b8a0-78fd283556f3",
+    "https://www.n-tv.de/politik/Klingbeil-Krankschreibung-ab-erstem-Tag-pragmatisch-loesen-id31050775.html",
+    "39e743d3-98f8-4575-86aa-55ef943b00e8",
+    "https://www.n-tv.de/politik/Jahrhunderturteil-Supreme-Court-weitet-Trumps-Macht-enorm-aus-id31050734.html",
+    "https://www.n-tv.de/sport/fussball/Jetzt-live-DFB-stellt-Bundestrainer-Juergen-Klopp-vor-id31120826.html",
+    "https://www.n-tv.de/politik/Supreme-Court-stoppt-Trump-Plan-fuer-eingeschraenkte-Staatsbuergerschaft-id31032428.html",
+    "6acd6bce8776d79fbd9cacbc",
+    "https://www.n-tv.de/panorama/Christa-Pike-spricht-nach-gescheiterter-Hinrichtung-offenbar-wieder-id31389409.html",
+    "https://www.n-tv.de/politik/Pluenderungen-in-Frankfurt-ueberschatten-Gen-Z-Protest-id31480880.html",
     "https://www.n-tv.de/politik/Urteil-Le-Pen-muss-fuer-ein-Jahr-eine-Fussfessel-tragen-id31057794.html"
   ],
   "last_run": {
-    "digest_morning": "2026-11-06",
+    "digest_morning": "2026-11-07",
     "digest_noon": "2026-11-06",
     "digest_evening": "2026-11-04",
     "daily": "2026-11-04",
