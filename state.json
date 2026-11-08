@@ -1,150 +1,6 @@
 {
   "history": [
     {
-      "id": "08cfeb97-4d89-4e41-b3c6-9f85301bc59c",
-      "ntitle": "die linke in berlin aus dem trubel in die koalition",
-      "title": "Die Linke in Berlin: Aus dem Trubel in die Koalition?",
-      "summary": "Die Berliner Linke entscheidet heute über den Start von Koalitionsverhandlungen mit SPD und Grünen. Überschattet wird der Parteitag von Antisemitismusvorwürfen und einem Spiegel-Bericht. Von Frank Aischmann.",
-      "source": "Tagesschau",
-      "ts": "2026-10-31T09:05:44"
-    },
-    {
-      "id": "002f56c6-312b-46e7-9387-1bce03e7e859",
-      "ntitle": "livestream die nachrichten auf tagesschau24",
-      "title": "Livestream: Die Nachrichten auf tagesschau24",
-      "summary": "Aktuelle Meldungen, vertiefende Analysen und Interviews: Verfolgen Sie das Programm des ARD-Nachrichtenkanals tagesschau24 hier.",
-      "source": "Tagesschau",
-      "ts": "2026-10-31T09:05:44"
-    },
-    {
-      "id": "8d048e70-26b5-4c2e-9acc-cd3084a0f985",
-      "ntitle": "vorbereitungen auf bundesweit geplante jugendproteste",
-      "title": "Vorbereitungen auf bundesweit geplante Jugendproteste",
-      "summary": "Vorbereitungen auf bundesweit geplante Jugendproteste",
-      "source": "Tagesschau",
-      "ts": "2026-10-31T09:05:44"
-    },
-    {
-      "id": "5e331310-8e3a-40eb-aa78-c2cced504dd6",
-      "ntitle": "erik sczygiol stellv generalsekretär bundesschülerinnenkonferenz zu den geplanten jugendprotesten",
-      "title": "Erik Sczygiol, stellv. Generalsekretär Bundesschüler*innenkonferenz, zu den geplanten Jugendprotesten",
-      "summary": "Erik Sczygiol, stellv. Generalsekretär Bundesschüler*innenkonferenz, zu den geplanten Jugendprotesten",
-      "source": "Tagesschau",
-      "ts": "2026-10-31T09:05:44"
-    },
-    {
-      "id": "839d2a34-b183-4205-8d0b-b2ebe00088e9",
-      "ntitle": "waffenruhe in oleschky evakuierung aus der ukrainischen frontstadt",
-      "title": "Waffenruhe in Oleschky: Evakuierung aus der ukrainischen Frontstadt",
-      "summary": "Waffenruhe in Oleschky: Evakuierung aus der ukrainischen Frontstadt",
-      "source": "Tagesschau",
-      "ts": "2026-10-31T09:05:44"
-    },
-    {
-      "id": "6315691e-84bf-449b-9477-33feacac5e49",
-      "ntitle": "carsten kühntopp ard washington zzt atlanta zu den themen beim g20außenministertreffen",
-      "title": "Carsten Kühntopp, ARD Washington, zzt. Atlanta, zu den Themen beim G20-Außenministertreffen",
-      "summary": "Carsten Kühntopp, ARD Washington, zzt. Atlanta, zu den Themen beim G20-Außenministertreffen",
-      "source": "Tagesschau",
-      "ts": "2026-10-31T09:05:44"
-    },
-    {
-      "id": "bd82b3f7-606c-4765-8558-1cc2e8bc0272",
-      "ntitle": "enthüllungen vor den midterms zur kreativen stimmzettelgestaltung in alaska",
-      "title": "Enthüllungen vor den Midterms zur kreativen Stimmzettelgestaltung in Alaska",
-      "summary": "Enthüllungen vor den Midterms zur kreativen Stimmzettelgestaltung in Alaska",
-      "source": "Tagesschau",
-      "ts": "2026-10-31T09:05:44"
-    },
-    {
-      "id": "2ebc1aeb-9f2d-4521-9311-03bdb50171e9",
-      "ntitle": "cyberkriminelle erbeuten milliarden von kryptobörse binance",
-      "title": "Cyberkriminelle erbeuten Milliarden von Kryptobörse Binance",
-      "summary": "Cyberkriminelle erbeuten Milliarden von Kryptobörse Binance",
-      "source": "Tagesschau",
-      "ts": "2026-10-31T09:05:44"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Soziologe-sieht-in-Gen-Z-Demos-Potenzial-fuer-groessere-Protestbewegung-id31478987.html",
-      "ntitle": "160000 menschen erwartet soziologe sieht in gen zdemos potenzial für größere protestbewegung",
-      "title": "160.000 Menschen erwartet: Soziologe sieht in \"Gen Z\"-Demos Potenzial für größere Protestbewegung",
-      "summary": "Frust, Zukunftsangst und das Gefühl, nicht gehört zu werden: \"Gen Z regelt\" will Tausende auf die Straße bringen. Doch wird aus der Wut eine Bewegung? Ein Protestforscher sieht eine entscheidende Leerstelle.",
-      "source": "ntv",
-      "ts": "2026-10-31T09:05:44"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Von-der-Leyen-brueskiert-Merz-mit-zwei-Worten-id31478714.html",
-      "ntitle": "kanada assoziiertes mitglied von der leyen brüskiert merz mit zwei worten",
-      "title": "Kanada \"assoziiertes Mitglied\": Von der Leyen brüskiert Merz mit zwei Worten",
-      "summary": "Spannungen zwischen dem deutschen Bundeskanzler und der EU-Kommissionschefin sorgen in Brüssel für Irritationen. Obwohl Merz dagegen votiert, Kanada als \"assoziiertes Mitglied\" der EU zu bezeichnen, verwendet von der Leyen den Titel in Montreal gleich wieder. Insider rätseln, warum sie das tut.",
-      "source": "ntv",
-      "ts": "2026-10-31T09:05:44"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Polens-Praesident-Nawrocki-stuermt-ins-Verfassungsgericht-id31478895.html",
-      "ntitle": "richterblockade beschädigt tusk polens präsident nawrocki stürmt ins verfassungsgericht",
-      "title": "Richterblockade beschädigt Tusk: Polens Präsident Nawrocki stürmt ins Verfassungsgericht",
-      "summary": "Polens rechtskonservativer Präsident eskaliert den Streit mit der Regierung Tusk um die Besetzung des Verfassungsgerichts. Während Demonstranten das Gerichtsgebäude belagern, verschafft sich Nawrocki unter Einsatz seiner Ellenbogen Einlass.",
-      "source": "ntv",
-      "ts": "2026-10-31T09:05:44"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Russischer-Aussenminister-sieht-keine-Entspannung-zwischen-Moskau-und-den-USA-id31478679.html",
-      "ntitle": "lawrow giftet gegen wadephul russischer außenminister sieht keine entspannung zwischen moskau und den usa",
-      "title": "Lawrow giftet gegen Wadephul: Russischer Außenminister sieht keine Entspannung zwischen Moskau und den USA",
-      "summary": "Die Europäer bewerten den Diesel-Deal zwischen Trump und Putin als Seitenwechsel Washingtons. Russlands Außenminister widerspricht. In der Praxis seien die Sanktionen nicht gelockert worden. Am deutschen Außenminister Wadephul arbeitet sich Lawrow besonders ab.",
-      "source": "ntv",
-      "ts": "2026-10-31T09:05:44"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Ploetzlich-war-das-Internet-weg-und-die-Ukraine-muss-weiter-zittern-id31477153.html",
-      "ntitle": "war es musk war es trump plötzlich war das internet weg  und die ukraine muss weiter zittern",
-      "title": "War es Musk? War es Trump?: Plötzlich war das Internet weg - und die Ukraine muss weiter zittern",
-      "summary": "Russland kann seit Monaten kaum noch Geländegewinne verbuchen. Doch die ukrainische Verteidigungsstrategie ist ganz wesentlich auf den Zugang zu Elon Musks Satelliteninternet angewiesen. Das Ausmaß dieser Abhängigkeit wird immer deutlicher, nachdem die Verbindungen im Oktober plötzlich weg waren.",
-      "source": "ntv",
-      "ts": "2026-10-31T09:05:44"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Ukrainer-verlassen-Oleschky-Einwohner-hat-Angst-vor-Tricks-id31478972.html",
-      "ntitle": "reise über russland und belarus ukrainer verlassen oleschky  einwohner hat angst vor tricks",
-      "title": "Reise über Russland und Belarus: Ukrainer verlassen Oleschky - Einwohner hat Angst vor \"Tricks\"",
-      "summary": "In einem so bislang noch nicht da gewesenen Schritt lässt Russland eine ukrainische Delegation in die von Moskaus Truppen besetzten Gebiete reisen und Bewohner aus einer zerstörten Stadt abholen. Die Reiseroute von dort treibt manch einem Sorgenfalten in die Stirn. Andere wollen nicht weggehen.",
-      "source": "ntv",
-      "ts": "2026-10-31T09:05:44"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Pentagon-genehmigt-500-Patriot-Raketen-fuer-die-Ukraine-id31478763.html",
-      "ntitle": "kiew unzufrieden mit lieferdatum pentagon genehmigt 500 patriotraketen für die ukraine",
-      "title": "Kiew unzufrieden mit Lieferdatum: Pentagon genehmigt 500 Patriot-Raketen für die Ukraine",
-      "summary": "Die Aussicht auf 500 neue Luftabwehrraketen vom Typ Patriot könnte der Ukraine Erleichterung verschaffen. Allerdings hat die Genehmigung der US-Regierung einen Haken: Die Verteidigungswaffen sollen erst in den 30er Jahren geliefert werden.",
-      "source": "ntv",
-      "ts": "2026-10-31T09:05:44"
-    },
-    {
-      "id": "https://www.n-tv.de/politik/Europaeer-verweigern-Gruppenfoto-mit-Lawrow-in-Atlanta-id31478246.html",
-      "ntitle": "treffen der g20außenminister europäer verweigern gruppenfoto mit lawrow in atlanta",
-      "title": "Treffen der G20-Außenminister: Europäer verweigern Gruppenfoto mit Lawrow in Atlanta",
-      "summary": "Beim G20-Außenministertreffen in Atlanta sitzt überraschend auch Sergej Lawrow am Tisch. Doch ein gemeinsames Gruppenfoto mit allen Teilnehmern kommt nicht zustande. Außenminister Wadephul will keine \"falschen optischen Signale aussenden\".",
-      "source": "ntv",
-      "ts": "2026-10-31T09:05:44"
-    },
-    {
-      "id": "6ae502ca8c9c3a027edf97a9",
-      "ntitle": "republikaner verleugnen dass die wähler leiden  und jetzt werden sie am wahltag selbst leiden",
-      "title": "„Republikaner verleugnen, dass die Wähler leiden – und jetzt werden sie am Wahltag selbst leiden“",
-      "summary": "Der renommierte Demoskop Frank Luntz identifiziert eine große Unzufriedenheit in der amerikanischen Bevölkerung. Die Republikaner sieht er bei den Midterms in Schwierigkeiten, doch er warnt davor, Trump zu unterschätzen.",
-      "source": "WELT",
-      "ts": "2026-10-31T09:05:44"
-    },
-    {
-      "id": "6ac8c645630788ba906c7255",
-      "ntitle": "wie das bokaapviertel in kapstadt so bonbonbunt wurde",
-      "title": "Wie das Bo-Kaap-Viertel in Kapstadt so bonbonbunt wurde",
-      "summary": "Bo-Kaap ist das meistfotografierte Viertel in der Metropole am Kap. Die farbenfrohen Hausfassaden sind Touristenmagneten par excellence. Mit ihnen verbindet sich eine Wendung der Geschichte zum Guten.",
-      "source": "WELT",
-      "ts": "2026-10-31T09:05:44"
-    },
-    {
       "id": "469e7fa5-abc8-484f-96f2-b8550e4cd714",
       "ntitle": "der kampf um das polnische verfassungsgericht eskaliert",
       "title": "Der Kampf um das polnische Verfassungsgericht eskaliert",
@@ -1615,6 +1471,150 @@
       "summary": "Bei Protesten vor einem provisorischen Militärgefängnis nahe Kiew versuchte Kyrylo Budanow, die Lage zu beruhigen. Dabei sprach der ukrainische Präsidialamtschef auch Russisch. Das hat nun finanzielle Konsequenzen.",
       "source": "WELT",
       "ts": "2026-11-07T21:21:27"
+    },
+    {
+      "id": "1b9691c3-4dc6-4b50-950e-21fc39d0af86",
+      "ntitle": "nach schüssen in krakau eine stadt steht unter schock",
+      "title": "Nach Schüssen in Krakau: Eine Stadt steht unter Schock",
+      "summary": "Ein Mann schießt in Krakau aus seinem Auto, er tötet sechs Menschen und verletzt viele weitere. Nach der Tat steht Polens zweitgrößte Stadt unter Schock. Ermittler suchen Antworten auf die bohrende Frage: Warum? Von Palina Milling.",
+      "source": "Tagesschau",
+      "ts": "2026-11-08T10:35:38"
+    },
+    {
+      "id": "d0061433-edda-4afd-9279-005e5c747ca2",
+      "ntitle": "faq was ist über die schüsse in krakau bekannt",
+      "title": "FAQ: Was ist über die Schüsse in Krakau bekannt?",
+      "summary": "Im polnischen Krakau hat ein Mann aus einem Auto geschossen und mindestens sechs Menschen getötet. Weitere Personen wurden verletzt, darunter auch eine deutsche. Was bislang über die Tat bekannt ist.",
+      "source": "Tagesschau",
+      "ts": "2026-11-08T10:35:38"
+    },
+    {
+      "id": "002f56c6-312b-46e7-9387-1bce03e7e859",
+      "ntitle": "livestream die nachrichten auf tagesschau24",
+      "title": "Livestream: Die Nachrichten auf tagesschau24",
+      "summary": "Aktuelle Meldungen, vertiefende Analysen und Interviews: Verfolgen Sie das Programm des ARD-Nachrichtenkanals tagesschau24 hier.",
+      "source": "Tagesschau",
+      "ts": "2026-11-08T10:35:38"
+    },
+    {
+      "id": "19c2c8dc-507c-4c13-8c7d-fc32adc6404b",
+      "ntitle": "schusswaffenangriff im polnischen krakau laut regierung terrorakt",
+      "title": "Schusswaffenangriff im polnischen Krakau laut Regierung Terrorakt",
+      "summary": "Schusswaffenangriff im polnischen Krakau laut Regierung Terrorakt",
+      "source": "Tagesschau",
+      "ts": "2026-11-08T10:35:38"
+    },
+    {
+      "id": "0e55f059-622d-4660-a64e-567ec3ae67bc",
+      "ntitle": "tote nach schüssen in krakau  rupert wiederwald ard warschau",
+      "title": "Tote nach Schüssen in Krakau - Rupert Wiederwald, ARD Warschau",
+      "summary": "Tote nach Schüssen in Krakau - Rupert Wiederwald, ARD Warschau",
+      "source": "Tagesschau",
+      "ts": "2026-11-08T10:35:38"
+    },
+    {
+      "id": "15e047e3-0cd2-4aa5-bba8-2eebd378d950",
+      "ntitle": "israels präsident herzog will oppositionspolitiker eisenkot auftrag zur regierungsbildung erteilen",
+      "title": "Israels Präsident Herzog will Oppositionspolitiker Eisenkot Auftrag zur Regierungsbildung erteilen",
+      "summary": "Israels Präsident Herzog will Oppositionspolitiker Eisenkot Auftrag zur Regierungsbildung erteilen",
+      "source": "Tagesschau",
+      "ts": "2026-11-08T10:35:38"
+    },
+    {
+      "id": "d51710e8-7609-40b0-b6f6-8f3ce3af6966",
+      "ntitle": "usmilitär greift handelsschiff im golf von oman an",
+      "title": "US-Militär greift Handelsschiff im Golf von Oman an",
+      "summary": "US-Militär greift Handelsschiff im Golf von Oman an",
+      "source": "Tagesschau",
+      "ts": "2026-11-08T10:35:38"
+    },
+    {
+      "id": "0dc83a54-96ea-4271-aa9e-a084b3dc5e3f",
+      "ntitle": "uspräsident trump baut sein team um stephen miller wird neuer stabschef im weißen haus",
+      "title": "US-Präsident Trump baut sein Team um: Stephen Miller wird neuer Stabschef im Weißen Haus",
+      "summary": "US-Präsident Trump baut sein Team um: Stephen Miller wird neuer Stabschef im Weißen Haus",
+      "source": "Tagesschau",
+      "ts": "2026-11-08T10:35:38"
+    },
+    {
+      "id": "https://www.n-tv.de/wirtschaft/Deutsche-Autobauer-koennen-chinesische-Konkurrenten-ueberholen-id31504850.html",
+      "ntitle": "aufholjagd bei eautos läuft deutsche autobauer können chinesische konkurrenten überholen",
+      "title": "Aufholjagd bei E-Autos läuft: Deutsche Autobauer können chinesische Konkurrenten überholen",
+      "summary": "Bei Elektroautos ist die deutsche Autoindustrie von China abgehängt. Das muss nicht so bleiben. In Bezug auf Innovationen stoßen chinesische Hersteller an ihre Grenzen. Die deutschen Autobauer holen dabei auf.",
+      "source": "ntv",
+      "ts": "2026-11-08T10:35:38"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Im-Kaukasus-droht-Russland-einem-weiteren-Ex-Verbuendeten-id31502913.html",
+      "ntitle": "einsames armenien schielt auf eu im kaukasus droht russland einem weiteren exverbündeten",
+      "title": "Einsames Armenien schielt auf EU: Im Kaukasus droht Russland einem weiteren Ex-Verbündeten",
+      "summary": "Armenien steckt geopolitisch in der Zwickmühle. Das Land liegt eingeklemmt zwischen zwei feindlich gesinnten Staaten, eine EU-Mitgliedschaft ist in weiter Ferne. Und nun droht auch noch die ehemalige Schutzmacht Russland mit einem Ukraine-Szenario. Was ist da los im Südkaukasus?",
+      "source": "ntv",
+      "ts": "2026-11-08T10:35:38"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Das-letzte-Licht-in-der-Potapowski-Gasse-erlischt-id31504059.html",
+      "ntitle": "nowaja gaseta stirbt an putin das letzte licht in der potapowskigasse erlischt",
+      "title": "\"Nowaja Gaseta\" stirbt an Putin: Das letzte Licht in der Potapowski-Gasse erlischt",
+      "summary": "Nach 33 Jahren stellt Russlands bekannteste unabhängige Zeitung ihre Arbeit ein. Sechs ihrer Journalisten wurden ermordet, ihr Chefredakteur bekam den Friedensnobelpreis. Am Montag verlässt die Redaktion ihr Haus.",
+      "source": "ntv",
+      "ts": "2026-11-08T10:35:38"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Trump-verlangt-Ermittlungen-des-Justizministeriums-gegen-Demokraten-id31507835.html",
+      "ntitle": "wegen angeblicher bedrohung trump verlangt ermittlungen des justizministeriums gegen demokraten",
+      "title": "Wegen angeblicher Bedrohung: Trump verlangt Ermittlungen des Justizministeriums gegen Demokraten",
+      "summary": "Auf das Debakel seiner Republikaner bei den Midterms reagiert der US-Präsident zunächst erstaunlich gefasst. Lange währt die Phase der Konzilianz aber nicht: Auf Truth Social teilt Trump wieder aus, er wittert Erpressung und fordert Haftstrafen.",
+      "source": "ntv",
+      "ts": "2026-11-08T10:35:38"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Demokratischer-Senator-will-Trump-neue-Ukraine-Strategie-vorschreiben-id31508137.html",
+      "ntitle": "plan für putin musk und witkoff demokratischer senator will trump neue ukrainestrategie vorschreiben",
+      "title": "Plan für Putin, Musk und Witkoff: Demokratischer Senator will Trump neue Ukraine-Strategie vorschreiben",
+      "summary": "Im Ukraine-Krieg erweckt US-Präsident Trump mehrfach den Eindruck, er stehe an der Seite Russlands. Damit soll nach den US-Zwischenwahlen Schluss ein: Der einflussreiche Senator Blumenthal betrachtet den Erdrutschsieg der Demokraten als proukrainische Botschaft. Er hat Pläne für Putin, Musk und Witkoff.",
+      "source": "ntv",
+      "ts": "2026-11-08T10:35:38"
+    },
+    {
+      "id": "https://www.n-tv.de/panorama/Todesschuetze-von-Krakau-plante-wohl-noch-groesseres-Massaker-id31507945.html",
+      "ntitle": "motiv noch nicht geklärt todesschütze von krakau plante wohl noch größeres massaker",
+      "title": "Motiv noch nicht geklärt: Todesschütze von Krakau plante wohl noch größeres Massaker",
+      "summary": "Mitten in Krakau feuert ein junger Mann aus einem Auto heraus auf Passanten. Sechs Menschen sterben, viele werden verletzt, darunter auch ein Deutscher. Hinweise auf ein Motiv gibt es bislang nicht, allerdings vertrat der Täter wohl rechtsextreme Ansichten.",
+      "source": "ntv",
+      "ts": "2026-11-08T10:35:38"
+    },
+    {
+      "id": "https://www.n-tv.de/panorama/Polnische-Polizei-Auch-Familie-des-Krakau-Schuetzen-ist-tot-id31508224.html",
+      "ntitle": "polnische polizei bestätigt auch eltern und schwester des krakauschützen sind tot",
+      "title": "Polnische Polizei bestätigt: Auch Eltern und Schwester des Krakau-Schützen sind tot",
+      "summary": "Mitten auf dem belebten Krakauer Marktplatz schießt ein 24-Jähriger wahllos auf Passanten. Sechs Menschen sterben, 16 werden verletzt. Nun gibt es neue Erkenntnisse auch zu den Toten in seinem Elternhaus.",
+      "source": "ntv",
+      "ts": "2026-11-08T10:35:38"
+    },
+    {
+      "id": "https://www.n-tv.de/wirtschaft/Handys-Laptops-und-andere-Elektronik-werden-deutlich-teurer-id31508087.html",
+      "ntitle": "kostspielige bescherung handys laptops und andere elektronik werden deutlich teurer",
+      "title": "Kostspielige Bescherung: Handys, Laptops und andere Elektronik werden deutlich teurer",
+      "summary": "In wenigen Wochen ist Weihnachten. Doch wer plant, Technik zu verschenken, erlebt derzeit einen kleinen Schock: Die Preise für elektronische Geräte sind massiv gestiegen. Experten erklären die Gründe - und geben Tipps, wie Schnäppchenjäger dennoch auf ihre Kosten kommen.",
+      "source": "ntv",
+      "ts": "2026-11-08T10:35:38"
+    },
+    {
+      "id": "6af03dc0a389bc337cfc9c6a",
+      "ntitle": "millionen haushalten drohen neue forderungen für den rundfunkbeitrag",
+      "title": "Millionen Haushalten drohen neue Forderungen für den Rundfunkbeitrag",
+      "summary": "Millionen Bürgern steht ein umfangreicher Datenabgleich bevor: Wie die „Bild“-Zeitung berichtet, beginnt am 8. November der bundesweite Meldedatenabgleich zum Rundfunkbeitrag.",
+      "source": "WELT",
+      "ts": "2026-11-08T10:35:38"
+    },
+    {
+      "id": "6af031bb1125adfe9365c27a",
+      "ntitle": "merz schweigen zur kandidatin  vielleicht um zu zeigen ohne mich läuft am ende nichts",
+      "title": "Merz’ Schweigen zur Kandidatin – „Vielleicht um zu zeigen, ohne mich läuft am Ende nichts“",
+      "summary": "Ilse Aigner gilt als mögliche Kandidatin für das Bundespräsidentenamt. Leila Al-Serori, Ressortleiterin Politik „Handelsblatt“, spricht dabei über das Verhältnis von Friedrich Merz und Markus Söder sowie über die Bedeutung einer Frau an der Staatsspitze.",
+      "source": "WELT",
+      "ts": "2026-11-08T10:35:38"
     }
   ],
   "breaking_seen": [
@@ -1641,7 +1641,7 @@
     "https://www.n-tv.de/politik/Urteil-Le-Pen-muss-fuer-ein-Jahr-eine-Fussfessel-tragen-id31057794.html"
   ],
   "last_run": {
-    "digest_morning": "2026-11-07",
+    "digest_morning": "2026-11-08",
     "digest_noon": "2026-11-07",
     "digest_evening": "2026-11-07",
     "daily": "2026-11-07",
