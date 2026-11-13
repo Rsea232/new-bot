@@ -1,14 +1,6 @@
 {
   "history": [
     {
-      "id": "332042db-fd1b-40d9-b0b8-4f5aeec2678a",
-      "ntitle": "follow live us chip stocks plummet",
-      "title": "Follow live: US chip stocks plummet",
-      "summary": "",
-      "source": "Financial Times",
-      "ts": "2026-11-05T19:14:16"
-    },
-    {
       "id": "https://www.n-tv.de/sport/fussball/Der-BVB-verliert-jedes-Heimspiel-3-5-Millionen-Euro-auf-den-FC-Bayern-id31498670.html",
       "ntitle": "schreyer erläutert nachteil der bvb verliert jedes heimspiel 35 millionen euro auf den fc bayern",
       "title": "Schreyer erläutert Nachteil: \"Der BVB verliert jedes Heimspiel 3,5 Millionen Euro auf den FC Bayern\"",
@@ -1599,6 +1591,150 @@
       "summary": "Eine Synagoge in Gießen wird wegen eines antisemitischen Drohbriefs evakuiert. Zum Zeitpunkt des Vorfalls hielten sich mehr als 20 Menschen in der Synagoge auf. Obwohl die Gemeinde dauerhaft geschützt wird, ist die Verunsicherung groß.",
       "source": "WELT",
       "ts": "2026-11-13T16:33:03"
+    },
+    {
+      "id": "dd48b6b2-39bb-49ed-96ce-77d3a60983ed",
+      "ntitle": "usflusskreuzfahrtschiff kentert nach zusammenprall in new orleans",
+      "title": "US-Flusskreuzfahrtschiff kentert nach Zusammenprall in New Orleans",
+      "summary": "Das Flusskreuzfahrtschiff \"American Heritage\" ist im Hafen der US-Stadt New Orleans gekentert. Zuvor war es von einem Tanker gerammt worden. An Bord des Schiffes befanden sich mehr als 130 Menschen.",
+      "source": "Tagesschau",
+      "ts": "2026-11-13T22:35:37"
+    },
+    {
+      "id": "518ebdc2-45f1-4ef4-9e29-5ee90a96f5a7",
+      "ntitle": "weltweite itprobleme nach störung bei microsoftdiensten",
+      "title": "Weltweite IT-Probleme nach Störung bei Microsoft-Diensten",
+      "summary": "Weltweite IT-Probleme nach Störung bei Microsoft-Diensten",
+      "source": "Tagesschau",
+      "ts": "2026-11-13T22:35:37"
+    },
+    {
+      "id": "664a6d98-ce66-4c6c-9120-821eb18f309e",
+      "ntitle": "haushaltsausschuss beschließt etat des bundes für 2027",
+      "title": "Haushaltsausschuss beschließt Etat des Bundes für 2027",
+      "summary": "Haushaltsausschuss beschließt Etat des Bundes für 2027",
+      "source": "Tagesschau",
+      "ts": "2026-11-13T22:35:37"
+    },
+    {
+      "id": "87588bf5-3435-4043-9952-7c3514208c1e",
+      "ntitle": "reform der nachrichtendienste bundestag stimmt für ausweitung von befugnissen",
+      "title": "Reform der Nachrichtendienste: Bundestag stimmt für Ausweitung von Befugnissen",
+      "summary": "Reform der Nachrichtendienste: Bundestag stimmt für Ausweitung von Befugnissen",
+      "source": "Tagesschau",
+      "ts": "2026-11-13T22:35:37"
+    },
+    {
+      "id": "f5c80560-fcc4-4049-8f51-5734ba37e1e6",
+      "ntitle": "afd will ehemaligen fußballweltmeister berthold als kandidat für bundespräsidentschaft aufstellen",
+      "title": "AfD will ehemaligen Fußball-Weltmeister Berthold als Kandidat für Bundespräsidentschaft aufstellen",
+      "summary": "AfD will ehemaligen Fußball-Weltmeister Berthold als Kandidat für Bundespräsidentschaft aufstellen",
+      "source": "Tagesschau",
+      "ts": "2026-11-13T22:35:37"
+    },
+    {
+      "id": "ae2fcf61-8b0a-4e2a-a915-8cca74695d15",
+      "ntitle": "bundeskanzler merz rechnet mit stärkerer europäischer beteiligung an ukrainefriedensgesprächen",
+      "title": "Bundeskanzler Merz rechnet mit stärkerer europäischer Beteiligung an Ukraine-Friedensgesprächen",
+      "summary": "Bundeskanzler Merz rechnet mit stärkerer europäischer Beteiligung an Ukraine-Friedensgesprächen",
+      "source": "Tagesschau",
+      "ts": "2026-11-13T22:35:37"
+    },
+    {
+      "id": "32d6d98f-d0f8-46ce-b5c8-023cab701d32",
+      "ntitle": "kathrin schmid ard brüssel zzt dublin zu weiteren euukrainehilfen",
+      "title": "Kathrin Schmid, ARD Brüssel, zzt. Dublin, zu weiteren EU-Ukrainehilfen",
+      "summary": "Kathrin Schmid, ARD Brüssel, zzt. Dublin, zu weiteren EU-Ukrainehilfen",
+      "source": "Tagesschau",
+      "ts": "2026-11-13T22:35:37"
+    },
+    {
+      "id": "https://www.n-tv.de/panorama/US-Flusskreuzer-kentert-nach-Kollision-mit-Frachter-id31532858.html",
+      "ntitle": "unglück nahe new orleans usflusskreuzer kentert nach kollision mit frachter",
+      "title": "Unglück nahe New Orleans: US-Flusskreuzer kentert nach Kollision mit Frachter",
+      "summary": "Im Mississippi rammt ein Frachter einen Ausflugsdampfer. Durch die Kollision kentert der Flusskreuzer. Videoaufnahmen zeigen Menschen im Wasser.",
+      "source": "ntv",
+      "ts": "2026-11-13T22:35:37"
+    },
+    {
+      "id": "https://www.n-tv.de/wirtschaft/Chinas-KI-Chip-Schmuggel-laeuft-auf-Hochtouren-id31531580.html",
+      "ntitle": "nach rücktritt von jensen huang chinas kichipschmuggel läuft auf hochtouren",
+      "title": "Nach Rücktritt von Jensen Huang: Chinas KI-Chip-Schmuggel läuft auf Hochtouren",
+      "summary": "Die Affäre von Nvidia-Chef Jensen Huang mit einer angeblichen chinesischen Spionin ist nur der sichtbarste Teil des Problems: Peking nutzt jedes Mittel, um Zugang zu den KI-Chips der Firma zu bekommen. Dem Militär nahestehende Forscher haben es längst geschafft.",
+      "source": "ntv",
+      "ts": "2026-11-13T22:35:37"
+    },
+    {
+      "id": "https://www.n-tv.de/wirtschaft/Mit-Jensen-Huang-verliert-der-KI-Hype-seinen-Zentralbanker-id31531887.html",
+      "ntitle": "architekt des billionenbooms mit jensen huang verliert der kihype seinen zentralbanker",
+      "title": "Architekt des Billionen-Booms: Mit Jensen Huang verliert der KI-Hype seinen \"Zentralbanker\"",
+      "summary": "Jensen Huang war bislang die zentrale Figur des Billionen Dollar schweren KI-Booms. Nicht nur weil Nvidia die notwendige Technologie lieferte. Huang machte das Unternehmen auch zur \"Zentralbank\" des gewaltigen Investitionskreislaufes.",
+      "source": "ntv",
+      "ts": "2026-11-13T22:35:37"
+    },
+    {
+      "id": "https://www.n-tv.de/wirtschaft/Nvidias-Boersenwert-faellt-um-650-Milliarden-Dollar-in-einer-Woche-id31532436.html",
+      "ntitle": "unter vierbillionenmarke nvidias börsenwert fällt um 650 milliarden dollar  in einer woche",
+      "title": "Unter Vier-Billionen-Marke: Nvidias Börsenwert fällt um 650 Milliarden Dollar - in einer Woche",
+      "summary": "KI-Titel stehen spätestens seit Wochen unter Druck. Die Midterms verschärften dies zumindest kurzzeitig. Und die Fehltritte vom Chef des Branchenprimus Nvidia sorgen für neuen Abgabedruck. Huangs Affären kosten Anleger Milliarden.",
+      "source": "ntv",
+      "ts": "2026-11-13T22:35:37"
+    },
+    {
+      "id": "https://www.n-tv.de/panorama/Microsoft-Grundproblem-behoben-Dienste-stabilisieren-sich-id31532613.html",
+      "ntitle": "fehlerhaftes upgrade microsoft grundproblem behoben  dienste stabilisieren sich",
+      "title": "Fehlerhaftes Upgrade: Microsoft: Grundproblem behoben - Dienste stabilisieren sich",
+      "summary": "Freitag der 13. - für den Tech-Giganten ein rabenschwarzer Tag. Ein missglücktes Upgrade legt weltweit seine Dienste lahm. Verbraucher und Unternehmen in aller Welt können auf Mail- und Cloud-Dienste des Konzerns über Stunden nicht zugreifen. Die Wiederherstellung ist ein Kraftakt.",
+      "source": "ntv",
+      "ts": "2026-11-13T22:35:37"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/EU-Verhandlungsteam-fuer-Gespraeche-mit-Russland-steht-id31532517.html",
+      "ntitle": "deutschland soll dabei sein euverhandlungsteam für gespräche mit russland steht",
+      "title": "Deutschland soll dabei sein: EU-Verhandlungsteam für Gespräche mit Russland steht",
+      "summary": "Die EU pocht auf einen Platz am Verhandlungstisch bei den Ukraine-Gesprächen. Nun gibt es eine Einigung darüber, wer die Europäer vertreten soll, wenn Kiew, Moskau und Washington zusammentreffen. Deutschland ist nur eines von fünf Ländern.",
+      "source": "ntv",
+      "ts": "2026-11-13T22:35:37"
+    },
+    {
+      "id": "https://www.n-tv.de/sport/fussball/Spanischer-Verband-verkuendet-Strafe-fuer-Jesus-Owono-id31532949.html",
+      "ntitle": "nach foul mit todesfolge spanischer verband verkündet strafe für jesus owono",
+      "title": "Nach Foul mit Todesfolge: Spanischer Verband verkündet Strafe für Jesus Owono",
+      "summary": "Es ist die Entscheidung von Jesús Owono, ob und wann er wieder im Tor stehen wird. Das betont der Trainer des Profis. Vorerst kann Owono ohnehin nicht spielen, die Strafe für seine Rote Karte steht fest.",
+      "source": "ntv",
+      "ts": "2026-11-13T22:35:37"
+    },
+    {
+      "id": "6af77f18cfc5b9ee3173c185",
+      "ntitle": "nach tragischem tod  zwölf spiele sperre für torwart owono",
+      "title": "Nach tragischem Tod – zwölf Spiele Sperre für Torwart Owono",
+      "summary": "Der Tod von Jesús de Miguel erschüttert den Fußball. Der spanische Zweitligaspieler starb nach einem Foul des Torwarts Jesús Owono. Der Verband sperrte den Keeper für zwolf Spiele. Dieser kann eh nicht an Fußball denken.",
+      "source": "WELT",
+      "ts": "2026-11-13T22:35:37"
+    },
+    {
+      "id": "6af7770c7f8bbad09ea62d88",
+      "ntitle": "kreuzfahrtschiff mit 130 passagieren wird von tanker gerammt und sinkt",
+      "title": "Kreuzfahrtschiff mit 130 Passagieren wird von Tanker gerammt und sinkt",
+      "summary": "Das Schiff von American Cruise Lines ankert mit 130 Passagieren an Bord im Mississippi River nahe dem Hafen von New Orleans. Dann kommt es plötzlich zur Kollision. Aufnahmen zeigen Menschen mit Rettungswesten im Wasser.",
+      "source": "WELT",
+      "ts": "2026-11-13T22:35:37"
+    },
+    {
+      "id": "6af70ef127adfb0b7bb2d293",
+      "ntitle": "lachen über sozis lob für die cdu  so starten die nrwgrünen den landtagswahlkampf",
+      "title": "Lachen über Sozis, Lob für die CDU – So starten die NRW-Grünen den Landtagswahlkampf",
+      "summary": "Die Grünen wählen ihre NRW-Landesliste für 2027. Dabei wird die SPD zur Lachnummer, Friedrich Merz zum „GAU“ – und „Pragmatismus“ bejubelt. Es gab noch andere Überraschungen.",
+      "source": "WELT",
+      "ts": "2026-11-13T22:35:37"
+    },
+    {
+      "id": "6af74ef027adfb0b7bb2d81e",
+      "ntitle": "wir haben arbeitsfähigkeit in die hand eines einzelnen anbieters gelegt",
+      "title": "„Wir haben Arbeitsfähigkeit in die Hand eines einzelnen Anbieters gelegt“",
+      "summary": "Der Microsoft-Ausfall legt nach Ansicht von IT-Experte Dennis-Kenji Kipker ein massives „Klumpenrisiko“ offen. Unternehmen und Behörden müssten ihre wichtigsten Systeme künftig doppelt absichern.",
+      "source": "WELT",
+      "ts": "2026-11-13T22:35:37"
     }
   ],
   "breaking_seen": [
@@ -1627,8 +1763,8 @@
   "last_run": {
     "digest_morning": "2026-11-13",
     "digest_noon": "2026-11-13",
-    "digest_evening": "2026-11-12",
-    "daily": "2026-11-11",
+    "digest_evening": "2026-11-13",
+    "daily": "2026-11-13",
     "weekly": "2026-W45"
   }
 }
