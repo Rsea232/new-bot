@@ -1455,6 +1455,150 @@
       "summary": "„Dezivilisierung“, „Verwilderung“, „Systemversagen“: Die Köpfe hinter den Jugendkrawallen hängen einer bisher kaum bekannten Ideologie namens „Kollapsologie“ an. Was sie wollen. Womit sie rechnen. Was das heißt.",
       "source": "WELT",
       "ts": "2026-11-13T08:20:39"
+    },
+    {
+      "id": "f4a92f42-b8fd-4380-bf42-98097d5bbe8d",
+      "ntitle": "microsoftausfälle für viele unternehmen digitaler hirntod",
+      "title": "Microsoft-Ausfälle: \"Für viele Unternehmen digitaler Hirntod\"",
+      "summary": "Spätestens nach dem Ausfall bei Microsoft sollten wir uns fragen, wie wir uns unabhängiger machen können, sagt IT-Sicherheitsexperte Dennis-Kenji Kipker. In unsicheren Zeiten brauche es mehr digitale Souveränität - und das sei möglich.",
+      "source": "Tagesschau",
+      "ts": "2026-11-13T16:33:03"
+    },
+    {
+      "id": "403617a5-8aeb-4b1c-91a5-e22d7c82e419",
+      "ntitle": "was über den ausfall von microsoftdiensten bekannt ist",
+      "title": "Was über den Ausfall von Microsoft-Diensten bekannt ist",
+      "summary": "Eine stundenlange Großstörung hat weltweit Dienste des US-Softwarekonzerns Microsoft lahmgelegt, unter anderem das E-Mail-Programm Outlook. Wen es getroffen hat und welche Hintergründe vermutet werden - ein Überblick.",
+      "source": "Tagesschau",
+      "ts": "2026-11-13T16:33:03"
+    },
+    {
+      "id": "002f56c6-312b-46e7-9387-1bce03e7e859",
+      "ntitle": "livestream die nachrichten auf tagesschau24",
+      "title": "Livestream: Die Nachrichten auf tagesschau24",
+      "summary": "Aktuelle Meldungen, vertiefende Analysen und Interviews: Verfolgen Sie das Programm des ARD-Nachrichtenkanals tagesschau24 hier.",
+      "source": "Tagesschau",
+      "ts": "2026-11-13T16:33:03"
+    },
+    {
+      "id": "467173ad-f2ef-4581-9b41-a9a0d45ae0c0",
+      "ntitle": "bundeshaushalt für 2027 steht",
+      "title": "Bundeshaushalt für 2027 steht",
+      "summary": "Bundeshaushalt für 2027 steht",
+      "source": "Tagesschau",
+      "ts": "2026-11-13T16:33:03"
+    },
+    {
+      "id": "e4edbf90-b1de-49e9-bbc8-f55b408fd947",
+      "ntitle": "ägypten schließt wichtige unabhängige nachrichtenseite",
+      "title": "Ägypten schließt wichtige unabhängige Nachrichtenseite",
+      "summary": "Ägypten schließt wichtige unabhängige Nachrichtenseite",
+      "source": "Tagesschau",
+      "ts": "2026-11-13T16:33:03"
+    },
+    {
+      "id": "34e0edc9-c2ad-4166-91bf-9fce7f1ad49c",
+      "ntitle": "schuld an dem ganzen ist wohl ein update  störung bei microsoft",
+      "title": "„Schuld an dem Ganzen ist wohl ein Update“ – Störung bei Microsoft",
+      "summary": "„Schuld an dem Ganzen ist wohl ein Update“ – Störung bei Microsoft",
+      "source": "Tagesschau",
+      "ts": "2026-11-13T16:33:03"
+    },
+    {
+      "id": "6fa69acd-8413-4bf8-abbd-0b80dedb34a3",
+      "ntitle": "nach putintreffen usvermittler wollen europa in ukraineverhandlungen einbeziehen",
+      "title": "Nach Putin-Treffen: US-Vermittler wollen Europa in Ukraine-Verhandlungen einbeziehen",
+      "summary": "Nach Putin-Treffen: US-Vermittler wollen Europa in Ukraine-Verhandlungen einbeziehen",
+      "source": "Tagesschau",
+      "ts": "2026-11-13T16:33:03"
+    },
+    {
+      "id": "861a4b75-cd17-4919-804d-54d326178d25",
+      "ntitle": "tina hassel ard brüssel zzt dublin zur rolle der eu bei den ukraineverhandlungen",
+      "title": "Tina Hassel, ARD Brüssel, zzt. Dublin, zur Rolle der EU bei den Ukraine-Verhandlungen",
+      "summary": "Tina Hassel, ARD Brüssel, zzt. Dublin, zur Rolle der EU bei den Ukraine-Verhandlungen",
+      "source": "Tagesschau",
+      "ts": "2026-11-13T16:33:03"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Russland-soll-Europa-haarstraeubenden-Friedens-Vorschlag-gemacht-haben-id31530111.html",
+      "ntitle": "putin träumt von 1997 russland soll europa neuen haarsträubenden friedensvorschlag gemacht haben",
+      "title": "Putin träumt von 1997: Russland soll Europa neuen haarsträubenden \"Friedens\"-Vorschlag gemacht haben",
+      "summary": "Russland will den Krieg gegen die Ukraine nicht beenden - es sei denn, es bekommt Gebiete überreicht und Europa unterwirft sich dem, was Moskau unter einer \"neuen Sicherheitsordnung\" versteht. Aus diesen Vorstellungen ist nun ein Punkt bekannt geworden, der eine Träumerei bleiben dürfte.",
+      "source": "ntv",
+      "ts": "2026-11-13T16:33:03"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Merz-Europa-wird-bei-Ukraine-Verhandlungen-mit-am-Tisch-sitzen-id31531104.html",
+      "ntitle": "teilnahmegarantie für berlin merz europa wird bei ukraineverhandlungen mit am tisch sitzen",
+      "title": "Teilnahmegarantie für Berlin?: Merz: Europa wird bei Ukraine-Verhandlungen mit am Tisch sitzen",
+      "summary": "Bei den Gesprächen zwischen der Ukraine, Russland und den USA in Abu Dhabi sind deutsche Sicherheitsberater zwar vor Ort, sitzen aber nicht am Verhandlungstisch. Kanzler Merz ist zuversichtlich, dass das in Zukunft anders sein wird. Doch volles Vertrauen scheint er mit Blick auf die USA nicht zu haben.",
+      "source": "ntv",
+      "ts": "2026-11-13T16:33:03"
+    },
+    {
+      "id": "https://www.n-tv.de/wirtschaft/Oel-Angebot-uebersteigt-erstmals-seit-Iran-Krieg-die-Nachfrage-id31531393.html",
+      "ntitle": "markt stabilisiert sich  ölangebot übersteigt erstmals seit irankrieg wieder die nachfrage",
+      "title": "Markt stabilisiert sich : Öl-Angebot übersteigt erstmals seit Iran-Krieg wieder die Nachfrage",
+      "summary": "Die weltweite Nachfrage nach Öl ist wegen hoher Preise aktuell verhalten. Gleichzeitig steigt das Angebot, da Länder der Golfregion wieder mehr exportieren und die USA oder auch Brasilien ihre Produktion hochgefahren haben.",
+      "source": "ntv",
+      "ts": "2026-11-13T16:33:03"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Trump-will-einen-Volkspark-zum-Mega-Golfplatz-umbauen-id31530541.html",
+      "ntitle": "proteste in washington dc trump will einen volkspark zum megagolfplatz umbauen",
+      "title": "Proteste in Washington D.C.: Trump will einen Volkspark zum Mega-Golfplatz umbauen",
+      "summary": "Donald Trump spielt gern Golf. Sehr gern sogar, nicht selten verbringt er seine Wochenenden in einem seiner Golfclubs. Was ihm fehlt: ein großer Golfplatz in Washington D.C. Dafür will er eine historische Anlage umgestalten. Wie bei vielen seiner Pläne entscheidet nun ein Gericht.",
+      "source": "ntv",
+      "ts": "2026-11-13T16:33:03"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Merz-beharrt-auf-Senkung-der-Stromsteuer-ab-2027-id31531849.html",
+      "ntitle": "koalitionsausschuss berät erneut merz beharrt auf senkung der stromsteuer ab 2027",
+      "title": "Koalitionsausschuss berät erneut: Merz beharrt auf Senkung der Stromsteuer ab 2027",
+      "summary": "Wenn die Stromsteuer auf das europäische Mindestmaß sinkt, könnte ein Drei-Personen-Haushalt im Schnitt rund acht Euro pro Monat sparen. Trotz des angespannten Haushalts kämpft der Kanzler für die Entlastung. Doch die Finanzierung ist unklar.",
+      "source": "ntv",
+      "ts": "2026-11-13T16:33:03"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Reform-der-Geheimdienste-nach-hitziger-Debatte-beschlossen-id31530535.html",
+      "ntitle": "sicherheit freiheit stasi 20 reform der geheimdienste nach hitziger debatte beschlossen",
+      "title": "Sicherheit! Freiheit! Stasi 2.0!: Reform der Geheimdienste nach hitziger Debatte beschlossen",
+      "summary": "Bundesnachrichtendienst und Verfassungsschutz erhalten mehr Befugnisse. Um Sicherheit zu gewähren und Freiheit zu schützen, sagen Union und SPD. Um die Freiheit einzuschränken, sagen Linke und AfD. Dazwischen stehen die Grünen.",
+      "source": "ntv",
+      "ts": "2026-11-13T16:33:03"
+    },
+    {
+      "id": "https://www.n-tv.de/wirtschaft/Microsoft-Ausfall-zeigt-Risiken-digitaler-Abhaengigkeit-id31531602.html",
+      "ntitle": "clouddienste offline die macht von microsoft ist deutschland zu abhängig",
+      "title": "Cloud-Dienste offline: Die Macht von Microsoft: Ist Deutschland zu abhängig?",
+      "summary": "Der Ausfall der Microsoft-Dienste zeigt, wie abhängig viele Unternehmen und Behörden von dem US-Anbieter sind. Spätestens seit Donald Trump wiedergewählt wurde, diskutiert Deutschland verstärkt über digitale Souveränität. Was bedeutet die Abhängigkeit?",
+      "source": "ntv",
+      "ts": "2026-11-13T16:33:03"
+    },
+    {
+      "id": "https://www.n-tv.de/wirtschaft/Microsoft-geht-nicht-von-boeswilliger-Aktivitaet-aus-Dienste-laufen-schrittweise-wieder-an-id31530497.html",
+      "ntitle": "weltweite störung microsoft geht nicht von böswilliger aktivität aus  dienste laufen schrittweise wieder an",
+      "title": "Weltweite Störung: Microsoft geht nicht von \"böswilliger Aktivität\" aus - Dienste laufen schrittweise wieder an",
+      "summary": "Seit Donnerstag haben Zehntausende Nutzer von Microsoft Probleme, auf ihre E-Mails zuzugreifen. Auch die Nutzung von Teams ist eingeschränkt. Der Konzern geht nicht davon aus, dass jemand mit bösen Absichten hinter dem Ausfall steckt.",
+      "source": "ntv",
+      "ts": "2026-11-13T16:33:03"
+    },
+    {
+      "id": "6af6f5447f8bbad09ea62140",
+      "ntitle": "das ärgernis mit den haushaltspolitikern vor denen kein minister mehr zittert",
+      "title": "Das Ärgernis mit den Haushaltspolitikern, vor denen kein Minister mehr zittert",
+      "summary": "Nie gab es mehr im Bundeshaushalt zu kontrollieren: Der Etat und der Schuldenberg sind riesig. Doch anders als früher trauen sich die Haushälter nicht mehr, der Regierung lästig zu werden.",
+      "source": "WELT",
+      "ts": "2026-11-13T16:33:03"
+    },
+    {
+      "id": "6af7218c7f8bbad09ea62655",
+      "ntitle": "unbekannter schickt drohbrief mit hakenkreuz und weißem pulver an jüdische gemeinde",
+      "title": "Unbekannter schickt Drohbrief mit Hakenkreuz und weißem Pulver an jüdische Gemeinde",
+      "summary": "Eine Synagoge in Gießen wird wegen eines antisemitischen Drohbriefs evakuiert. Zum Zeitpunkt des Vorfalls hielten sich mehr als 20 Menschen in der Synagoge auf. Obwohl die Gemeinde dauerhaft geschützt wird, ist die Verunsicherung groß.",
+      "source": "WELT",
+      "ts": "2026-11-13T16:33:03"
     }
   ],
   "breaking_seen": [
@@ -1482,7 +1626,7 @@
   ],
   "last_run": {
     "digest_morning": "2026-11-13",
-    "digest_noon": "2026-11-12",
+    "digest_noon": "2026-11-13",
     "digest_evening": "2026-11-12",
     "daily": "2026-11-11",
     "weekly": "2026-W45"
