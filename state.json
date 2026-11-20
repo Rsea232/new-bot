@@ -1599,36 +1599,189 @@
       "summary": "The world’s three largest nuclear powers agree to talks on preventing proliferation",
       "source": "Financial Times",
       "ts": "2026-11-19T18:41:50"
+    },
+    {
+      "id": "b1b2e948-ff5e-48c4-bc3e-f8e75c9e4af1",
+      "ntitle": "the ai fever in markets is breaking",
+      "title": "The AI fever in markets is breaking",
+      "summary": "For investors, the magic of the technology might be wearing off, with US stocks on track for one of the worst years in two decades",
+      "source": "Financial Times",
+      "ts": "2026-11-20T16:34:18"
+    },
+    {
+      "id": "6933ee28-cbb8-436f-9f4e-912decee5111",
+      "ntitle": "polen wirft russland gezielte provokation vor",
+      "title": "Polen wirft Russland gezielte Provokation vor",
+      "summary": "Mehrere Flugkörper sind in den polnischen Luftraum eingedrungen - nach Einschätzung der Regierung eine gezielte Provokation Russlands. Sie könnte in Zusammenhang mit einer Übung der Ukraine-Unterstützer stehen, die derzeit in Polen stattfindet.",
+      "source": "Tagesschau",
+      "ts": "2026-11-20T16:34:24"
+    },
+    {
+      "id": "c6c527b2-9736-4ef1-bd10-a85af6daa2ad",
+      "ntitle": "gespräche mit russland ja  aber wo",
+      "title": "Gespräche mit Russland ja - aber wo?",
+      "summary": "Gesprächsbereit, aber nicht um jeden Preis: Verteidigungsminister Pistorius hat das Angebot Russlands für ein Treffen mit den Europäern begrüßt. Moskau käme dafür aber nicht infrage. Zudem bezweifelt er eine ehrliche Verhandlungsbereitschaft.",
+      "source": "Tagesschau",
+      "ts": "2026-11-20T16:34:24"
+    },
+    {
+      "id": "7aa83949-06b4-45d5-a966-42bc12a32af3",
+      "ntitle": "tote bei russischen angriffen auf mehrere brücken in kiew",
+      "title": "Tote bei russischen Angriffen auf mehrere Brücken in Kiew",
+      "summary": "Es ist eine Attacke ins Herz der ukrainischen Hauptstadt: Russland hat in Kiew erneut Brücken beschossen und beschädigt. Mehrere Menschen wurden getötet. Im Nachbarland Polen stürzten drei russische Flugobjekte ab.",
+      "source": "Tagesschau",
+      "ts": "2026-11-20T16:34:24"
+    },
+    {
+      "id": "002f56c6-312b-46e7-9387-1bce03e7e859",
+      "ntitle": "livestream die nachrichten auf tagesschau24",
+      "title": "Livestream: Die Nachrichten auf tagesschau24",
+      "summary": "Aktuelle Meldungen, vertiefende Analysen und Interviews: Verfolgen Sie das Programm des ARD-Nachrichtenkanals tagesschau24 hier.",
+      "source": "Tagesschau",
+      "ts": "2026-11-20T16:34:24"
+    },
+    {
+      "id": "d3bda44c-579a-4168-be45-cc84290bfa2d",
+      "ntitle": "bundesweit protestieren junge menschen für mehr bildung und klimaschutz",
+      "title": "Bundesweit protestieren junge Menschen für mehr Bildung und Klimaschutz",
+      "summary": "Bundesweit protestieren junge Menschen für mehr Bildung und Klimaschutz",
+      "source": "Tagesschau",
+      "ts": "2026-11-20T16:34:24"
+    },
+    {
+      "id": "73d2c2fe-5c8f-43f8-93e7-4c8f0d3e93b3",
+      "ntitle": "tina hassel ard brüssel zum gipfeltreffen zwischen der eu und großbritannien",
+      "title": "Tina Hassel, ARD Brüssel, zum Gipfeltreffen zwischen der EU und Großbritannien",
+      "summary": "Tina Hassel, ARD Brüssel, zum Gipfeltreffen zwischen der EU und Großbritannien",
+      "source": "Tagesschau",
+      "ts": "2026-11-20T16:34:24"
+    },
+    {
+      "id": "f0293c6c-a53c-42f7-9583-f2fa1ae502ca",
+      "ntitle": "mehrere russische flugobjekte in polnischen luftraum eingedrungen",
+      "title": "Mehrere russische Flugobjekte in polnischen Luftraum eingedrungen",
+      "summary": "Mehrere russische Flugobjekte in polnischen Luftraum eingedrungen",
+      "source": "Tagesschau",
+      "ts": "2026-11-20T16:34:24"
+    },
+    {
+      "id": "79600c1b-3880-4ff0-b720-fef429f19441",
+      "ntitle": "claudia buckenmaier ard berlin zum besuch von verteidigungsminister pistorius in polen",
+      "title": "Claudia Buckenmaier, ARD Berlin, zum Besuch von Verteidigungsminister Pistorius in Polen",
+      "summary": "Claudia Buckenmaier, ARD Berlin, zum Besuch von Verteidigungsminister Pistorius in Polen",
+      "source": "Tagesschau",
+      "ts": "2026-11-20T16:34:24"
+    },
+    {
+      "id": "https://www.n-tv.de/wirtschaft/Anthropic-kann-KI-Abwaertsstrudel-nicht-aufhalten-id31558600.html",
+      "ntitle": "trotz rekordipo anthropic kann kiabwärtsstrudel nicht aufhalten",
+      "title": "Trotz Rekord-IPO: Anthropic kann KI-Abwärtsstrudel nicht aufhalten",
+      "summary": "Der größte Börsengang aller Zeiten sollte zum Stresstest für den gesamten KI-Sektor werden. Das Ergebnis ist ernüchternd: Nicht einmal Anthropic kann die Nervosität der Anleger vertreiben.",
+      "source": "ntv",
+      "ts": "2026-11-20T16:34:24"
+    },
+    {
+      "id": "https://www.n-tv.de/wirtschaft/Investoren-fuerchten-Musk-koennte-ihre-teuren-Chips-ins-All-schiessen-id31559211.html",
+      "ntitle": "spacex hat chips nur geliehen investoren fürchten musk könnte ihre teuren chips ins all schießen",
+      "title": "SpaceX hat Chips nur geliehen: Investoren fürchten, Musk könnte ihre teuren Chips ins All schießen",
+      "summary": "Einige Geldgeber hinter SpaceX' großer Chip-Einkaufstour scheinen kalte Füße zu bekommen. Sie befürchten, die von ihnen finanzierten Halbleiter könnten ihrem Zugriff entschwinden. Ein Post von Musk aus dem Sommer dieses Jahres zeigt: Die Furcht ist berechtigt.",
+      "source": "ntv",
+      "ts": "2026-11-20T16:34:24"
+    },
+    {
+      "id": "https://www.n-tv.de/panorama/Russland-weitet-Treibstoff-Rationierung-aus-id31558870.html",
+      "ntitle": "verkaufslimit an tankstellen russland weitet treibstoffrationierung aus",
+      "title": "Verkaufslimit an Tankstellen: Russland weitet Treibstoff-Rationierung aus",
+      "summary": "Nur noch 50 Liter Benzin pro Wagen sind an einigen russischen Tankstellen zugelassen. Man wolle lange Schlangen und Hamstereinkäufe vermeiden, heißt es von offiziellen Stellen. Die Verkaufslimits sind Folge der strategischen Angriffe der Ukraine auf russische Ölraffinerien.",
+      "source": "ntv",
+      "ts": "2026-11-20T16:34:24"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Merz-sieht-Ukraine-Hilfen-als-Gewinn-fuer-Deutschland-id31559245.html",
+      "ntitle": "kanzler spricht von dividenden merz sieht ukrainehilfen als gewinn für deutschland",
+      "title": "Kanzler spricht von \"Dividenden\": Merz sieht Ukraine-Hilfen als Gewinn für Deutschland",
+      "summary": "Investitionen in die Ukraine würden sich auch für Deutschland auszahlen, betont Friedrich Merz. Beim Wirtschaftsforum in Berlin wirbt er für das Engagement deutscher Firmen. Gleichzeitig knüpft er weitere Unterstützung an Bedingungen.",
+      "source": "ntv",
+      "ts": "2026-11-20T16:34:24"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Pistorius-rudert-zurueck-Moskau-falscher-Ort-fuer-Gespraeche-id31558806.html",
+      "ntitle": "bundesregierung in erklärungsnot pistorius rudert zurück moskau falscher ort für gespräche",
+      "title": "Bundesregierung in Erklärungsnot: Pistorius rudert zurück: Moskau falscher Ort für Gespräche",
+      "summary": "Putin lädt die Europäer nach Moskau ein. Merz stellt klar, Russlands Hauptstadt sei nicht der richtige Ort für Ukraine-Verhandlungen. Der Bundesverteidigungsminister klingt da ganz anders. Allerdings nur kurz.",
+      "source": "ntv",
+      "ts": "2026-11-20T16:34:24"
+    },
+    {
+      "id": "https://www.n-tv.de/politik/Russland-hat-in-diesem-Jahr-so-viele-ukrainische-Kinder-getoetet-wie-nie-zuvor-id31558630.html",
+      "ntitle": "alarmierende eskalation russland hat in diesem jahr so viele ukrainische kinder getötet wie nie zuvor",
+      "title": "\"Alarmierende Eskalation\": Russland hat in diesem Jahr so viele ukrainische Kinder getötet wie nie zuvor",
+      "summary": "Bis Ende Oktober dieses Jahres hat Russland bereits 20 Prozent mehr Kinder getötet als im gesamten Jahr 2025. Das ist die traurige Bilanz des Kinderhilfswerks Unicef. Hinzu kommen mehr als 1000 Kinder, die seit Januar bei russischen Angriffen verletzt wurden.",
+      "source": "ntv",
+      "ts": "2026-11-20T16:34:24"
+    },
+    {
+      "id": "https://www.n-tv.de/panorama/Laender-wollen-Hoechstgeschwindigkeit-von-Mopeds-auf-60-km-h-erhoehen-id31559425.html",
+      "ntitle": "tempo 60 für kleinkrafträder mopeds sollen künftig schneller fahren dürfen",
+      "title": "Tempo 60 für Kleinkrafträder: Mopeds sollen künftig schneller fahren dürfen",
+      "summary": "Momentan dürfen Mopeds mit maximal 45 Kilometern pro Stunde durch die Landschaft fahren - das soll sich ändern. Sachsen und Thüringen beantragen eine neue Bewertung der Maximalgeschwindigkeit. Die Länder begründen ihren Antrag mit der neuen verfügbaren Technik.",
+      "source": "ntv",
+      "ts": "2026-11-20T16:34:24"
+    },
+    {
+      "id": "https://www.n-tv.de/wirtschaft/Galeria-verkuendet-Aus-fuer-drei-Kaufhaus-Filialen-id31557933.html",
+      "ntitle": "berlin münchen und köln galeria verkündet aus für drei kaufhausfilialen",
+      "title": "Berlin, München und Köln: Galeria verkündet Aus für drei Kaufhaus-Filialen",
+      "summary": "Bei Galeria läuft das mittlerweile vierte Insolvenzverfahren, das Unternehmen schrumpft sich für einen möglichen Verkauf zurecht. Etwa die Hälfte der Filialen steht vor dem Aus. Für drei Häuser steht die Schließung nun schon fest.",
+      "source": "ntv",
+      "ts": "2026-11-20T16:34:24"
+    },
+    {
+      "id": "6b0057ec39a3e8110f0e4360",
+      "ntitle": "deutschlands große wette auf die ukrainedividende",
+      "title": "Deutschlands große Wette auf die „Ukraine-Dividende“",
+      "summary": "Handel, Rüstung, Energie und Wiederaufbau: Deutsche Unternehmen bauen ihre Präsenz in der Ukraine aus. Merz spricht von einer Investition, die Deutschland „mehrfach“ zurückerhalten werde.",
+      "source": "WELT",
+      "ts": "2026-11-20T16:34:24"
+    },
+    {
+      "id": "6b002e8239a3e8110f0e3d33",
+      "ntitle": "in dieser kanzlerschaft zeichnet sich ein heikles muster ab",
+      "title": "In dieser Kanzlerschaft zeichnet sich ein heikles Muster ab",
+      "summary": "Der Koalitionsausschuss im Kanzleramt ist nur das jüngste Beispiel für ein bestimmtes Verhalten des Kanzlers, das aufmerken lässt. Und das könnte sich noch zu einem Problem auswachsen.",
+      "source": "WELT",
+      "ts": "2026-11-20T16:34:24"
     }
   ],
   "breaking_seen": [
-    "https://www.n-tv.de/politik/Klingbeil-Alle-in-SPD-sind-froh-ueber-Schwesig-id31208685.html",
-    "ce1e852d-c699-4cf6-b8a0-78fd283556f3",
-    "6acd6bce8776d79fbd9cacbc",
-    "135dd922-af83-4006-be49-9da3b5a955c3",
     "https://www.n-tv.de/politik/Klingbeil-Krankschreibung-ab-erstem-Tag-pragmatisch-loesen-id31050775.html",
-    "https://www.n-tv.de/wirtschaft/Lufthansa-sticht-Konkurrenten-aus-und-steigt-bei-Portugals-Tap-ein-id31417238.html",
-    "332042db-fd1b-40d9-b0b8-4f5aeec2678a",
-    "4b2b9c0e-adfb-4362-800f-950f5b905984",
+    "https://www.n-tv.de/politik/Jahrhunderturteil-Supreme-Court-weitet-Trumps-Macht-enorm-aus-id31050734.html",
     "https://www.n-tv.de/politik/Nato-einigt-sich-auf-80-Milliarden-Euro-Hilfe-fuer-die-Ukraine-id31045527.html",
-    "https://www.n-tv.de/politik/Supreme-Court-stoppt-Trump-Plan-fuer-eingeschraenkte-Staatsbuergerschaft-id31032428.html",
-    "https://www.n-tv.de/politik/Urteil-Le-Pen-muss-fuer-ein-Jahr-eine-Fussfessel-tragen-id31057794.html",
-    "https://www.n-tv.de/panorama/Christa-Pike-spricht-nach-gescheiterter-Hinrichtung-offenbar-wieder-id31389409.html",
-    "31a27312-8032-4957-be69-ba32561e8db3",
-    "https://www.n-tv.de/politik/Pluenderungen-in-Frankfurt-ueberschatten-Gen-Z-Protest-id31480880.html",
-    "https://www.n-tv.de/politik/Klingbeil-Muessen-Sanktionen-gegen-Israels-Polizeiminister-pruefen-id31207901.html",
-    "6acd49dab52dabc39e80e6e9",
     "https://www.n-tv.de/sport/fussball/Der-BVB-verliert-jedes-Heimspiel-3-5-Millionen-Euro-auf-den-FC-Bayern-id31498670.html",
+    "https://www.n-tv.de/politik/Urteil-Le-Pen-muss-fuer-ein-Jahr-eine-Fussfessel-tragen-id31057794.html",
+    "https://www.n-tv.de/politik/Klingbeil-Alle-in-SPD-sind-froh-ueber-Schwesig-id31208685.html",
+    "6acd6bce8776d79fbd9cacbc",
     "3fde6008-d9c4-46a3-89f8-0f7611cd9b3a",
     "https://www.n-tv.de/politik/Zwei-Spitzengenossen-wollen-Klingbeil-als-SPD-Chef-halten-id31534929.html",
-    "39e743d3-98f8-4575-86aa-55ef943b00e8",
+    "b1b2e948-ff5e-48c4-bc3e-f8e75c9e4af1",
     "https://www.n-tv.de/wissen/Jetzt-live-Sonnenfinsternis-ueber-Europa-id31187076.html",
-    "https://www.n-tv.de/sport/fussball/Jetzt-live-DFB-stellt-Bundestrainer-Juergen-Klopp-vor-id31120826.html",
-    "https://www.n-tv.de/politik/Jahrhunderturteil-Supreme-Court-weitet-Trumps-Macht-enorm-aus-id31050734.html"
+    "https://www.n-tv.de/panorama/Christa-Pike-spricht-nach-gescheiterter-Hinrichtung-offenbar-wieder-id31389409.html",
+    "ce1e852d-c699-4cf6-b8a0-78fd283556f3",
+    "https://www.n-tv.de/politik/Supreme-Court-stoppt-Trump-Plan-fuer-eingeschraenkte-Staatsbuergerschaft-id31032428.html",
+    "6acd49dab52dabc39e80e6e9",
+    "https://www.n-tv.de/politik/Klingbeil-Muessen-Sanktionen-gegen-Israels-Polizeiminister-pruefen-id31207901.html",
+    "332042db-fd1b-40d9-b0b8-4f5aeec2678a",
+    "https://www.n-tv.de/wirtschaft/Lufthansa-sticht-Konkurrenten-aus-und-steigt-bei-Portugals-Tap-ein-id31417238.html",
+    "39e743d3-98f8-4575-86aa-55ef943b00e8",
+    "135dd922-af83-4006-be49-9da3b5a955c3",
+    "4b2b9c0e-adfb-4362-800f-950f5b905984",
+    "31a27312-8032-4957-be69-ba32561e8db3",
+    "https://www.n-tv.de/politik/Pluenderungen-in-Frankfurt-ueberschatten-Gen-Z-Protest-id31480880.html",
+    "https://www.n-tv.de/sport/fussball/Jetzt-live-DFB-stellt-Bundestrainer-Juergen-Klopp-vor-id31120826.html"
   ],
   "last_run": {
-    "digest_morning": "2026-11-19",
-    "digest_noon": "2026-11-19",
+    "digest_morning": "2026-11-20",
+    "digest_noon": "2026-11-20",
     "digest_evening": "2026-11-17",
     "daily": "2026-11-15",
     "weekly": "2026-W46"
